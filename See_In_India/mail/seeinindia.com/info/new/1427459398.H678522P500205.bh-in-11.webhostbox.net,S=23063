@@ -1,0 +1,826 @@
+Return-path: <jatin@innovins.com>
+Envelope-to: info@seeinindia.com
+Delivery-date: Fri, 27 Mar 2015 12:29:58 +0000
+Received: from mail-ob0-f169.google.com ([209.85.214.169]:35811)
+	by bh-in-11.webhostbox.net with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <jatin@innovins.com>)
+	id 1YbTOg-00262e-00
+	for info@seeinindia.com; Fri, 27 Mar 2015 12:29:58 +0000
+Received: by obcjt1 with SMTP id jt1so69816055obc.2
+        for <info@seeinindia.com>; Fri, 27 Mar 2015 05:29:53 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=yyD9GgacMtsCpjkGF7n+crs/aI33WoqubFXhNUXlImw=;
+        b=FIOi5X3B00sw1wdi5gbVHenIWvBk3bcS+Val70wGzQQpEJVq3hae6q/4nRQUJfRx95
+         okeSJ8Lch7EbyUqJ6CcOZPxvQuG+rdWpCSUv04VEaJkkQc1j6voLDSKPkzXcWbzl6uMz
+         pRmI65nrCmSbFauEMi7FVcelhRB4WSqBacMCGqQ45+yWQOLSmS91KBYPPPcffHbmnQII
+         Y/PRerc6bdAK8XvTLXG/WH3tquE3FoMCb5FozjOdK1C5MMAkfUSYOKbnkq1qHmwn+5Nl
+         LgdGLI0cs7b1YaeBjw5W8LLQx0yXgkAljSCLAJ6aANfwkdB5+EW65Mc/HG8kXpJWYTOI
+         rY+A==
+X-Gm-Message-State: ALoCoQkp4FxD8x6pcnUOztG3dxe03cjan8eajQdCxuR2KVvXe0h2lR31qcvJgvyLSycqdhW/6LtM
+MIME-Version: 1.0
+X-Received: by 10.182.191.99 with SMTP id gx3mr16201523obc.16.1427459393645;
+ Fri, 27 Mar 2015 05:29:53 -0700 (PDT)
+Received: by 10.182.95.129 with HTTP; Fri, 27 Mar 2015 05:29:53 -0700 (PDT)
+X-Originating-IP: [103.43.162.168]
+In-Reply-To: <008b01d06395$4e70b2f0$eb5218d0$@com>
+References: <000901d023ed$4bdb7800$e3926800$@com>
+	<CAFZXTaibZfQD-b4MY8ro7u_Eh6OcySFn-=qzRjV6Een3cvCZjg@mail.gmail.com>
+	<CAFZXTagP4GtF4qGXQ=E8Yw3VmJJQEr4MLQPDi5x-cRng+Y_wrg@mail.gmail.com>
+	<00a901d036dc$88a69d30$99f3d790$@com>
+	<CAFZXTajR7cfdtKhWh+=Wqdmh2_je7F62=B=XqJX2=NCKe99wgQ@mail.gmail.com>
+	<000001d05707$8b7606e0$a26214a0$@com>
+	<CAFZXTaie0u2q56a+ZXJ9y7WR8FfYhgY6wumzxpFOXgWfJWYiww@mail.gmail.com>
+	<003301d06195$9f09b7e0$dd1d27a0$@com>
+	<CAFZXTai1XNyZrY2z-Aed2sSsKVWvz+46SJv-bJpORKQmrD9bGw@mail.gmail.com>
+	<008b01d06395$4e70b2f0$eb5218d0$@com>
+Date: Fri, 27 Mar 2015 17:59:53 +0530
+Message-ID: <CAFZXTajQTD2z+KkgHp_hDhBhyBfQv+j8itBtfD2pBVb5avzxBA@mail.gmail.com>
+Subject: Re: FW: TEXT CHANGES
+From: Jatin Bhilwadikar <jatin@innovins.com>
+To: SeeinIndia <info@seeinindia.com>
+Cc: Bhavik Champanerkar <bhavik@innovins.com>, mukund pilankar <info@innovins.com>
+Content-Type: multipart/alternative; boundary=089e015386dc17101f0512444ab6
+X-Authenticated_sender: 
+
+--089e015386dc17101f0512444ab6
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sir,
+
+
+We have made changes to the site, please check.
+
+
+*A ) Please add navigation links (flow) as below on respective pages (both
+=E2=80=93 One day tours and Need More than a day):*
+
+*=E2=80=8B=E2=80=8BHome =E2=80=93 City or State =E2=80=93 Tour Details =E2=
+=80=93 Booking Details =E2=80=93 Payment Details
+- Voucher*
+
+*B ) Mod_rewrite & ISAPI_rewrite to rename website pages =E2=80=93 please l=
+et me
+know how we shall be able to do this, or if I can rename the pages manually
+let me know as this will be great help.*
+
+
+On Sat, Mar 21, 2015 at 10:39 AM, <info@seeinindia.com> wrote:
+
+>  Dear  Jatin,
+>
+>
+>
+> Please let me know when it will be completed its going on from past 3
+> months, please advise. Also please try and reply.
+>
+>
+>
+> Regards,
+>
+> Sameer
+>
+>
+>
+> *From:* Jatin Bhilwadikar [mailto:jatin@innovins.com]
+> *Sent:* Friday, March 20, 2015 5:01 PM
+>
+> *To:* SeeinIndia
+> *Cc:* Bhavik Champanerkar; mukund pilankar
+> *Subject:* Re: FW: TEXT CHANGES
+>
+>
+>
+> Hello Sir,
+>
+> The changes are still in progress.
+>
+>
+>
+> On Wed, Mar 18, 2015 at 9:37 PM, <info@seeinindia.com> wrote:
+>
+> Please reply=E2=80=A6
+>
+>
+>
+> *From:* info@seeinindia.com [mailto:info@seeinindia.com]
+> *Sent:* Monday, March 16, 2015 9:17 PM
+> *To:* 'Jatin Bhilwadikar'
+> *Cc:* 'Bhavik Champanerkar'; 'mukund pilankar'
+> *Subject:* RE: FW: TEXT CHANGES
+>
+>
+>
+> Hello=E2=80=A6
+>
+>
+>
+> *From:* info@seeinindia.com [mailto:info@seeinindia.com]
+> *Sent:* Saturday, March 14, 2015 10:43 AM
+> *To:* 'Jatin Bhilwadikar'
+> *Cc:* 'Bhavik Champanerkar'; 'mukund pilankar'
+> *Subject:* RE: FW: TEXT CHANGES
+>
+>
+>
+> Please Update ???
+>
+>
+>
+> *From:* Jatin Bhilwadikar [mailto:jatin@innovins.com]
+> *Sent:* Thursday, March 05, 2015 11:38 AM
+> *To:* SeeinIndia
+> *Cc:* Bhavik Champanerkar; mukund pilankar
+>
+>
+> *Subject:* Re: FW: TEXT CHANGES
+>
+>
+>
+> We are working on the same, we will inform you after the change has been
+> done.
+>
+>
+>
+> On Thu, Mar 5, 2015 at 11:15 AM, <info@seeinindia.com> wrote:
+>
+> Awaiting reply=E2=80=A6
+>
+>
+>
+> *From:* info@seeinindia.com [mailto:info@seeinindia.com]
+> *Sent:* Friday, February 27, 2015 4:19 PM
+> *To:* 'Jatin Bhilwadikar'
+> *Cc:* 'Bhavik Champanerkar'
+> *Subject:* RE: FW: TEXT CHANGES
+>
+>
+>
+> Awaiting reply=E2=80=A6
+>
+>
+>
+> *From:* info@seeinindia.com [mailto:info@seeinindia.com]
+> *Sent:* Thursday, February 26, 2015 4:09 PM
+> *To:* 'Jatin Bhilwadikar'
+> *Cc:* 'Bhavik Champanerkar'
+> *Subject:* RE: FW: TEXT CHANGES
+>
+>
+>
+> Hi=E2=80=A6 Any Update on the Point A and B. it=E2=80=99s been sometime.
+>
+>
+>
+> *From:* Jatin Bhilwadikar [mailto:jatin@innovins.com]
+> *Sent:* Tuesday, January 27, 2015 10:26 AM
+> *To:* SeeinIndia
+> *Cc:* Bhavik Champanerkar
+> *Subject:* Re: FW: TEXT CHANGES
+>
+>
+>
+> Hello Sir,
+>
+> We are still working on making the changes, once we have finished making
+> the changes we will let you know.
+>
+> =E2=80=8B*=E2=80=8B*
+>
+> *A ) Please add navigation links (flow) as below on respective pages (bot=
+h
+> =E2=80=93 One day tours and Need More than a day):*
+>
+> *=E2=80=8B=E2=80=8B*
+>
+> *Home =E2=80=93 City or State =E2=80=93 Tour Details =E2=80=93 Booking De=
+tails =E2=80=93 Payment Details -
+> Voucher*
+>
+> =E2=80=8BThis change will require editing individual pages to add the nav=
+igation
+> links.
+>
+>
+>
+> *=E2=80=8B=E2=80=8B*
+>
+> *=E2=80=8B=E2=80=8B*
+>
+> *B ) Mod_rewrite & ISAPI_rewrite to rename website pages =E2=80=93 please=
+ let me
+> know how we shall be able to do this, or if I can rename the pages manual=
+ly
+> let me know as this will be great help.*
+>
+> =E2=80=8BThis change will require making changes to website configuration=
+ files
+> to try to make it possible, and it is not possible to manually rename
+> individual files as that will require to make changes in code everywhere
+> where that file is being linked.
+>
+>
+>
+> On Fri, Jan 23, 2015 at 12:46 PM, <info@seeinindia.com> wrote:
+>
+> Hi, please let me know about the points A and B as below=E2=80=A6
+>
+>
+>
+>
+> --
+>
+> Thanks and Regards,
+> *Jatin*
+>
+>
+>
+>
+> --
+>
+> Thanks and Regards,
+> *Jatin*
+>
+>
+>
+>
+> --
+>
+> Thanks and Regards,
+> *Jatin*
+>
+
+
+
+--=20
+Thanks and Regards,
+*Jatin*
+
+--089e015386dc17101f0512444ab6
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:trebuche=
+t ms,sans-serif"><p class=3D"MsoNormal">Hello Sir,</p><p class=3D"MsoNormal=
+"><br></p><p class=3D"MsoNormal">We have made changes to the site, please c=
+heck.<i><br></i></p><p class=3D"MsoNormal"><i><br></i></p><p class=3D"MsoNo=
+rmal"><i>A
+) Please add navigation links (flow) as below on respective pages (both =E2=
+=80=93 One
+day tours and Need More than a day):</i></p>
+
+<div>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:12pt"><i><span style=3D"font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;">=E2=80=8B=E2=80=8B</span>H=
+ome
+=E2=80=93 City or State =E2=80=93 Tour Details =E2=80=93 Booking Details =
+=E2=80=93 Payment Details - Voucher</i></p></div><p class=3D"MsoNormal" sty=
+le=3D"margin-bottom:12pt"><i>B )
+Mod_rewrite &amp; ISAPI_rewrite to rename website pages =E2=80=93 please le=
+t me know
+how we shall be able to do this, or if I can rename the pages manually let =
+me
+know as this will be great help.</i></p>
+
+
+
+<span style=3D"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"></span=
+><br></div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">=
+On Sat, Mar 21, 2015 at 10:39 AM,  <span dir=3D"ltr">&lt;<a href=3D"mailto:=
+info@seeinindia.com" target=3D"_blank">info@seeinindia.com</a>&gt;</span> w=
+rote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;borde=
+r-left:1px #ccc solid;padding-left:1ex">
+
+
+
+
+
+
+
+
+<div link=3D"blue" vlink=3D"purple" lang=3D"EN-US">
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Dear =C2=A0Jatin,<u></u><=
+u></u></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Please let me know when i=
+t will be completed its going on from
+past 3 months, please advise. Also please try and reply.<u></u><u></u></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Regards,<u></u><u></u></s=
+pan></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Sameer<u></u><u></u></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></spa=
+n></p>
+
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Jatin Bh=
+ilwadikar
+[mailto:<a href=3D"mailto:jatin@innovins.com" target=3D"_blank">jatin@innov=
+ins.com</a>] <br>
+<b>Sent:</b> Friday, March 20, 2015 5:01 PM</span></p><div><div class=3D"h5=
+"><br>
+<b>To:</b> SeeinIndia<br>
+<b>Cc:</b> Bhavik Champanerkar; mukund pilankar<br>
+<b>Subject:</b> Re: FW: TEXT CHANGES<u></u><u></u></div></div><p></p>
+
+</div><div><div class=3D"h5">
+
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-f=
+amily:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;">Hello
+Sir,<u></u><u></u></span></p>
+
+</div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+&quot;sans-serif&quot;">The
+changes are still in progress.<u></u><u></u></span></p>
+
+</div>
+
+</div>
+
+<div>
+
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+
+<div>
+
+<p class=3D"MsoNormal">On Wed, Mar 18, 2015 at 9:37 PM, &lt;<a href=3D"mail=
+to:info@seeinindia.com" target=3D"_blank">info@seeinindia.com</a>&gt;
+wrote:<u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Please
+reply=E2=80=A6</span><u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></=
+u></p>
+
+<div>
+
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> <a href=
+=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seeinindia.com</a>
+[mailto:<a href=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seein=
+india.com</a>]
+<br>
+<b>Sent:</b> Monday, March 16, 2015 9:17 PM<br>
+<b>To:</b> &#39;Jatin Bhilwadikar&#39;<br>
+<b>Cc:</b> &#39;Bhavik Champanerkar&#39;; &#39;mukund pilankar&#39;<br>
+<b>Subject:</b> RE: FW: TEXT CHANGES</span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hello=E2=80=A6</span><u><=
+/u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></=
+u></p>
+
+<div>
+
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> <a href=
+=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seeinindia.com</a>
+[mailto:<a href=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seein=
+india.com</a>]
+<br>
+<b>Sent:</b> Saturday, March 14, 2015 10:43 AM<br>
+<b>To:</b> &#39;Jatin Bhilwadikar&#39;<br>
+<b>Cc:</b> &#39;Bhavik Champanerkar&#39;; &#39;mukund pilankar&#39;<br>
+<b>Subject:</b> RE: FW: TEXT CHANGES</span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Please
+Update ???</span><u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></=
+u></p>
+
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Jatin Bh=
+ilwadikar
+[mailto:<a href=3D"mailto:jatin@innovins.com" target=3D"_blank">jatin@innov=
+ins.com</a>]
+<br>
+<b>Sent:</b> Thursday, March 05, 2015 11:38 AM<br>
+<b>To:</b> SeeinIndia<br>
+<b>Cc:</b> Bhavik Champanerkar; mukund pilankar</span><u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><br>
+<b>Subject:</b> Re: FW: TEXT CHANGES<u></u><u></u></p>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+&quot;sans-serif&quot;">We are working on the same, we
+will inform you after the change has been done.</span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+<div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<div>
+
+<p class=3D"MsoNormal">On
+Thu, Mar 5, 2015 at 11:15 AM, &lt;<a href=3D"mailto:info@seeinindia.com" ta=
+rget=3D"_blank">info@seeinindia.com</a>&gt; wrote:<u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Awaiting
+reply=E2=80=A6</span><u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></=
+u></p>
+
+<div>
+
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> <a href=
+=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seeinindia.com</a>
+[mailto:<a href=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seein=
+india.com</a>]
+<br>
+<b>Sent:</b> Friday, February 27, 2015 4:19 PM<br>
+<b>To:</b> &#39;Jatin Bhilwadikar&#39;<br>
+<b>Cc:</b> &#39;Bhavik Champanerkar&#39;<br>
+<b>Subject:</b> RE: FW: TEXT CHANGES</span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Awaiting
+reply=E2=80=A6</span><u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></=
+u></p>
+
+<div>
+
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> <a href=
+=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seeinindia.com</a>
+[mailto:<a href=3D"mailto:info@seeinindia.com" target=3D"_blank">info@seein=
+india.com</a>]
+<br>
+<b>Sent:</b> Thursday, February 26, 2015 4:09 PM<br>
+<b>To:</b> &#39;Jatin Bhilwadikar&#39;<br>
+<b>Cc:</b> &#39;Bhavik Champanerkar&#39;<br>
+<b>Subject:</b> RE: FW: TEXT CHANGES</span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hi=E2=80=A6
+Any Update on the Point A and B. it=E2=80=99s been sometime.</span><u></u><=
+u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></=
+u></p>
+
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0in =
+0in 0in">
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Jatin Bh=
+ilwadikar
+[mailto:<a href=3D"mailto:jatin@innovins.com" target=3D"_blank">jatin@innov=
+ins.com</a>]
+<br>
+<b>Sent:</b> Tuesday, January 27, 2015 10:26 AM<br>
+<b>To:</b> SeeinIndia<br>
+<b>Cc:</b> Bhavik Champanerkar<br>
+<b>Subject:</b> Re: FW: TEXT CHANGES</span><u></u><u></u></p>
+
+</div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+&quot;sans-serif&quot;">Hello Sir,</span><u></u><u></u></p>
+
+</div>
+
+<div>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">We are
+still working on making the changes, once we have finished making the chang=
+es
+we will let you know.<u></u><u></u></p>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;s=
+ans-serif&quot;">=E2=80=8B<i>=E2=80=8B</i></span><u></u><u></u></p>
+
+</div>
+
+<p class=3D"MsoNormal"><i>A
+) Please add navigation links (flow) as below on respective pages (both =E2=
+=80=93 One
+day tours and Need More than a day):</i><u></u><u></u></p>
+
+<div>
+
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial&quot;,&quo=
+t;sans-serif&quot;">=E2=80=8B=E2=80=8B</span></i><u></u><u></u></p>
+
+</div>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><i>Home
+=E2=80=93 City or State =E2=80=93 Tour Details =E2=80=93 Booking Details =
+=E2=80=93 Payment Details - Voucher</i><u></u><u></u></p>
+
+<div>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><span style=3D"font-f=
+amily:&quot;Arial&quot;,&quot;sans-serif&quot;">=E2=80=8B</span><span style=
+=3D"font-family:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;">This
+change will require editing individual pages to add the navigation links.</=
+span><u></u><u></u></p>
+
+</div>
+
+<p class=3D"MsoNormal">=C2=A0<u></u><u></u></p>
+
+<div>
+
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial&quot;,&quo=
+t;sans-serif&quot;">=E2=80=8B=E2=80=8B</span></i><u></u><u></u></p>
+
+</div>
+
+<div>
+
+<p class=3D"MsoNormal"><i><span style=3D"font-family:&quot;Arial&quot;,&quo=
+t;sans-serif&quot;">=E2=80=8B=E2=80=8B</span></i><u></u><u></u></p>
+
+</div>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><i>B )
+Mod_rewrite &amp; ISAPI_rewrite to rename website pages =E2=80=93 please le=
+t me know
+how we shall be able to do this, or if I can rename the pages manually let =
+me
+know as this will be great help.</i><u></u><u></u></p>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;s=
+ans-serif&quot;">=E2=80=8B</span><span style=3D"font-family:&quot;Trebuchet=
+ MS&quot;,&quot;sans-serif&quot;">This
+change will require making changes to website configuration files to try to
+make it possible, and it is not possible to manually rename individual file=
+s as
+that will require to make changes in code everywhere where that file is bei=
+ng
+linked.</span><u></u><u></u></p>
+
+</div>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt">=C2=A0<u></u><u></u><=
+/p>
+
+<div>
+
+<p class=3D"MsoNormal">On
+Fri, Jan 23, 2015 at 12:46 PM, &lt;<a href=3D"mailto:info@seeinindia.com" t=
+arget=3D"_blank">info@seeinindia.com</a>&gt; wrote:<u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hi,
+please let me know about the points A and B as below=E2=80=A6</span><u></u>=
+<u></u></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></=
+u></p>
+
+</div>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal"><br>
+-- <u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+&quot;sans-serif&quot;;color:#666666">Thanks and
+Regards,</span><span style=3D"font-family:&quot;Trebuchet MS&quot;,&quot;sa=
+ns-serif&quot;;color:#444444"><br>
+<b><i>Jatin</i></b></span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal"><br>
+<br clear=3D"all">
+<br>
+-- <u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+&quot;sans-serif&quot;;color:#666666">Thanks and
+Regards,</span><span style=3D"font-family:&quot;Trebuchet MS&quot;,&quot;sa=
+ns-serif&quot;;color:#444444"><br>
+<b><i>Jatin</i></b></span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p class=3D"MsoNormal"><br>
+<br clear=3D"all">
+<br>
+-- <u></u><u></u></p>
+
+<div>
+
+<div>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Trebuchet MS&quot;,=
+&quot;sans-serif&quot;;color:#666666">Thanks and Regards,</span><span style=
+=3D"font-family:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;;color:#4444=
+44"><br>
+<b><i>Jatin</i></b></span><u></u><u></u></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div></div></div>
+
+</div>
+
+
+</blockquote></div><br><br clear=3D"all"><br>-- <br><div class=3D"gmail_sig=
+nature"><div dir=3D"ltr"><span><font color=3D"#888888"><span style=3D"font-=
+family:trebuchet ms,sans-serif;color:rgb(102,102,102)">Thanks and Regards,<=
+/span><br style=3D"font-family:trebuchet ms,sans-serif;color:rgb(68,68,68)"=
+><i><b style=3D"color:rgb(68,68,68);font-family:trebuchet ms,sans-serif">Ja=
+tin</b></i></font></span></div></div>
+</div>
+
+--089e015386dc17101f0512444ab6--

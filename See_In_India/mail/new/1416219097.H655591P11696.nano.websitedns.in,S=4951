@@ -1,0 +1,139 @@
+Return-path: <>
+Envelope-to: seeinind@nano.websitedns.in
+Delivery-date: Mon, 17 Nov 2014 15:41:37 +0530
+Received: from mailnull by nano.websitedns.in with local (Exim 4.82)
+	id 1XqJHV-00032L-G0
+	for seeinind@nano.websitedns.in; Mon, 17 Nov 2014 15:41:37 +0530
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@nano.websitedns.in>
+To: seeinind@nano.websitedns.in
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1XqJHV-00032L-G0@nano.websitedns.in>
+Date: Mon, 17 Nov 2014 15:41:37 +0530
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: See In India - Voucher for booking ID 1416219097
+X-PHP-Script: www.seeinindia.com/mycoupon.php for 103.19.133.98
+MIME-Version: 1.0
+Content-type: text/html;charset=iso-8859-1
+From: info@seeinindia.com
+Message-Id: <E1XqJHV-00032G-Ff@nano.websitedns.in>
+Date: Mon, 17 Nov 2014 15:41:37 +0530
+
+<body><div class="main" style="float:left; background-color:#e6e6e7;"><table width="70%" border="0" cellspacing="5" cellpadding="5" align="center"><div style="width:80%; height:30%; padding:10px; background:#050104; margin:0 auto; border-radius:8px; border:2px dashed #FFF;
+	font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#FFF;">
+                	<table width="100%" border="0" cellspacing="5" cellpadding="0">
+                      <tr>
+                        <td><img src="http://seeinindia.com/images/logo123.png" width="250" height="112" /></td>
+                        <td><table width="50%" border="0" cellspacing="5" cellpadding="0" style="float:right;">
+                              <tr>
+                                <td style="float:right; color:#FFF; font-size:12px;"><img src="http://seeinindia.com/images/barcode.png" width="123" height="55" /></td>
+                              </tr>
+                              <tr>
+                                <td style="color:#FFF; font-size:14px; float:right; padding-right:15px;">1412891523</td>
+                              </tr>
+                            </table>
+                        </td>
+                      </tr>
+                    </table>
+                    </div><tr>
+			  <td>
+			  <div class="first" style="width:80%; height:30%; padding:10px; background:#ffff01; margin:0 auto; border-radius:8px; border:2px dashed #000;
+	font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#000000;" >
+			  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+		     <tr>
+			 <td width="46%">Name of the Traveller</td>
+			 <td width="3%">:</td>
+			 <td width="51%"> </td>
+		     </tr><tr>
+		   <td>Name of the tour</td>
+		   <td>:</td>
+		   <td></td>
+	       </tr><tr>
+		  <td>No of </td>
+		  <td>:</td>
+		  <td>0</td>
+	     </tr><tr>
+		 <td>Date Selected</td>
+		 <td>:</td>
+	     <td></td>
+         </tr><tr>
+		<td>Reference No</td>
+		<td>:</td>
+		<td>1416219097</td>
+	    </tr><tr>
+		<td>Event Location</td>
+		<td>:</td>
+		<td></td>
+	    </tr><tr>
+		<td>Supplier Name</td>
+		<td>:</td>
+		<td></td>
+	   </tr>
+	   <tr>
+		<td>Supplier contact no.</td>
+		<td>:</td>
+		<td></td>
+	   </tr><tr>
+		<td>Tour Type</td>
+		<td>:</td>
+		<td>.</td>
+		</tr>
+		</table>
+
+		</td>
+		<!--<td><table width="30%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+		<td><img src="http://seeinindia.com/images/logo123.png" width="123" height="55" /></td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td>
+		</tr>
+		<tr>
+		<td><img src="http://seeinindia.com/images/barcode.png" width="123" height="55" /></td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td>
+		</tr><tr>
+		<td align="center" valign="middle">1416219097</td>
+		</tr>
+		</table>
+		</td> -->
+		</tr>
+		</table>
+		</div>
+		</td>
+		</tr>
+		<tr>
+		<td><div class="second" style="width:80%;height:auto;padding:8px;background:#FFF;margin:0 auto;border-radius:8px;border:2px dashed #000;
+      font-family:Verdana, Geneva, sans-serif;font-size:10px;color:#000;">
+                    	<h4>Passenger Details</h4>
+                        <ul></ul>
+					<h4>Description</h4>
+					<p><img src="http://seeinindia.com/admin/images/cityplace/" width="204" height="134" /><br><strong>Voucher Information : </strong>You can present either a paper or an electronic voucher for this activity. <br /><br />
+					<strong>Additional Info:</strong> <br />
+					<br />
+					<strong>Signature:<br />
+					X</strong> <div class="middle">This voucher is not valid until signed by the Lead Traveler listed above, and presented at the start of the tour, attraction or activity along with valid photo identification bearing the name of the Lead Traveler.</div>
+
+					<p><strong>Inclusions:</strong><br />
+					
+					</p>
+					</div>
+					</td>
+					</tr>
+					<tr>
+					<td>&nbsp;</td>
+					</tr>
+					<tr>
+					<td>&nbsp;</td>
+					</tr>
+					</table>
+					</div></body> <br>

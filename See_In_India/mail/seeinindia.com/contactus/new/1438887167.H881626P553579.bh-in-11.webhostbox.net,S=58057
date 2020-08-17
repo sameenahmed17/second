@@ -1,0 +1,902 @@
+Return-path: <bounces+817483-1e9c-contactus=seeinindia.com@email.pinterest.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Thu, 06 Aug 2015 18:52:47 +0000
+Received: from o2.email.pinterest.com ([50.31.33.232]:59219)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <bounces+817483-1e9c-contactus=seeinindia.com@email.pinterest.com>)
+	id 1ZNQHX-002Jz5-09
+	for contactus@seeinindia.com; Thu, 06 Aug 2015 18:52:47 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pinterest.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	s=s20150427; bh=X3pc0n13naxOrO6skMxhuJiVtME=; b=Li6GzwtprdCOpjVn
+	bi8e0s4reSeoq0LbWSWhrJDCym4h3ogqi9tTZEKVsiPpKsa1+0/kNIsFB9AL5KtD
+	BSHSgNez3ImVdqXqmkRsKSzb5a+1WtfHRHoXTcu6aKmauguxjHBnKeRe4ZzZIZWg
+	ZSsPOV4zUnAC353LpbJNYVm5Cko=
+Received: by filter-324.sjc1.sendgrid.net with SMTP id filter-324.26868.55C3AC40D
+        2015-08-06 18:50:02.130333178 +0000 UTC
+Received: from ismtpd-047.sjc1.sendgrid.net ([UNAVAILABLE]. [10.43.247.187])
+	by 10.42.83.240:2500 (trex/5.4.2);
+	Thu, 06 Aug 2015 18:49:24 GMT
+Received: from ODE3NDgz (unknown [10.42.83.122])
+	by ismtpd-047 (SG) with HTTP id 14f0458e031.16b2.6be39b
+	for <pinbot@pinterest.com>; Thu, 06 Aug 2015 18:49:37 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============3435518267909996884=="
+MIME-Version: 1.0
+From: Pinterest Partner Team <pinbot@pinterest.com>
+To: contactus@seeinindia.com
+Reply-to: partners@email.pinterest.com
+Subject: Case study: How Dot & Bo quadrupled website visits
+Message-ID: <14f0458e031.16b2.6be39b@ismtpd-047>
+Date: Thu, 06 Aug 2015 18:51:07 +0000 (UTC)
+List-Unsubscribe: <http://email.pinterest.com/wf/unsubscribe?upn=hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tqz-2FiSQul5E8-2F0xjY-2BgqtMoSy1WpnELTDcuzHo1sMap-2Fh508i5rQoJrFNjYSb5EOzUGUfpCa0uqo65sVgnDusS-2BpjWVk1N1za9JELmNNfvlbKwFQUGTjOVwS3dLxfyArhmzlzB8-2FyNy1EYzK0-2F9sLB8wWU-2FPl4mWB3Pfgdy7uqxWkcittsVMBRe5ci5XCLgRJ8ErLlrM9t0HRS52V7-2F5YbyYf8m9K3wvtgynfXMPrl3DtNjsogx-2FdFBuC-2FPD5L2OL2Fcu-2FaeU5KFD3jvj1kD3x9VaGk-2BHt3dEadctnh7GD-2FYxcfpfKJN-2BcbGPjUUfxTOUblzSAWYz0jl7x4YfqGWXogwYgVjiFxxPL-2FeN9JSlXAMt-2BkICgob36o2IWSIeJX3uKg-3D-3D>, <mailto:unsubscribe@email.pinterest.com?subject=http://email.pinterest.com/wf/unsubscribe*q*upn=hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tqz-2FiSQul5E8-2F0xjY-2BgqtMoSy1WpnELTDcuzHo1sMap-2Fh508i5rQoJrFNjYSb5EOzUGUfpCa0uqo65sVgnDusS-2BpjWVk1N1za9JELmNNfvlbKwFQUGTjOVwS3dLxfyArhmzlzB8-2FyNy1EYzK0-2F9sLB8wWU-2FPl4mWB3Pfgdy7uqxWkcittsVMBRe5ci5XCLgRJ8ErLlrM9t0HRS52V7-2F5YbyYf8m9K3wvtgynfXMPrl3DtNjsogx-2FdFBuC-2FPD5L2OL2Fcu-2FaeU5KFD3jvj1kD3x9VaGk-2BHt3dEadctnh7GD-2FYxcfpfKJN-2BcbGPjUUfxTOUblzSAWYz0jl7x4YfqGWXogwYgVjiFxxPL-2FeN9JSlXAMt-2BkICgob36o2IWSIeJX3uKg-3D-3D>
+X-SG-EID: RNI/K1V49f6gVNJKzMMLbNYFV669ql6Whi/l5Z4jyz2cJG9culDbLIgHqQd5bHXKAI1EzFQumB2HR4
+ 8O1ltByIuxJIbdzZzuZApABUOHfE7wJCrBeXLf8gFfQLx5ymiL5bAN2ZxyZVIv2LBYubYJRcAelVXe
+ GTASK3g60mDvjM0=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LAnTn/iPBMB90eqjiJBnS3w187MQ+kZuCYdgJ
+ tq38nkY8lGCtP2DGxDejgvWAcBvyJe8xRJbzlizsCNCUlp/tP8l/Bp7jgUUJPjZqyKDnx9eS6dMg5m
+ HC6e0eG8kED2+cjzJfvPXdQe0+BhLyL8PKYdoWNlQ/knH7/FjSowYCnisnjn5zcUyE/qh6uDyW7lPx
+ qOvzKZcdVHt4Y2a1l8uFK+
+X-Authenticated_sender: 
+
+--===============3435518267909996884==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+( http://pinterest.com?utm_campaign=3Dpartner_20150806_newsletter&utm_mediu=
+m=3D2023&utm_source=3D31&e_t_s=3Dheader )                                  =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                   =C2=A0
+
+                                                                           =
+                                                                      ( htt=
+ps://business.pinterest.com/en/success-stories/dot-bo?utm_campaign=3Dpartne=
+r_20150806_newsletter )                                                    =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+     Dot & Bo: A well-designed Pinterest strategy=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+As a shopping service that offers floor to ceiling design inspiration, Dot =
+& Bo ( http://www.dotandbo.com/ ) was already connecting with a natural aud=
+ience on Pinterest, where people often seek and plan ideas for their homes.=
+ By using Promoted Pins, Dot & Bo was able to grow that audience=E2=80=94si=
+nce they began advertising on Pinterest, repins have jumped by more than 60=
+00%, and they=E2=80=99ve quadrupled the number of visitors on their site.
+
+Learn all about it in our latest case study, and find out how Dot & Bo mast=
+ered everything from curating collections to website widgets.
+
+ ( https://business.pinterest.com/en/success-stories/dot-bo?utm_campaign=3D=
+partner_20150806_newsletter ) ( https://business.pinterest.com/en/success-s=
+tories/dot-bo?utm_campaign=3Dpartner_20150806_newsletter )     ( https://bu=
+siness.pinterest.com/en/success-stories/dot-bo?utm_campaign=3Dpartner_20150=
+806_newsletter ) ( https://business.pinterest.com/en/success-stories/dot-bo=
+?utm_campaign=3Dpartner_20150806_newsletter )Read more ( https://business.p=
+interest.com/en/success-stories/dot-bo?utm_campaign=3Dpartner_20150806_news=
+letter )
+
+
+
+=20=20=20=20=20=20
+*Please note: Promoted Pins are only available to U.S.-based businesses at =
+this time.
+
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                              =C2=A0
+
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                   ( http://www.pinterest.c=
+om/business/?utm_campaign=3Dpartner_20140716_newsletter&utm_medium=3D2023&u=
+tm_source=3D31&e_t_s=3Dfooter )                                            =
+                                                                           =
+                                                                           =
+                                                          Pinterest        =
+                                                         ( http://www.pinte=
+rest.com/business/?utm_campaign=3Dpartner_20140716_newsletter&utm_medium=3D=
+2023&utm_source=3D31&e_t_s=3Dfooter )                                      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                      ( https://www.faceboo=
+k.com/pinterestforbusiness )                                               =
+                                                                           =
+                                                                           =
+                                                       Facebook            =
+                                                     ( https://www.facebook=
+.com/pinterestforbusiness )                                                =
+                                                                           =
+                                                                           =
+                                                                           =
+                                            ( https://www.twitter.com/pinte=
+restforbiz )                                                               =
+                                                                           =
+                                                                           =
+                                       Twitter                             =
+                                    ( https://www.twitter.com/pinterestforb=
+iz )                                                                       =
+                                                                           =
+                                                                           =
+                                                                           =
+                     ( https://plus.google.com/113839006205144536713/videos=
+ )                                                                         =
+                                                                           =
+                                                                           =
+                             Google                                        =
+                         ( https://plus.google.com/113839006205144536713/vi=
+deos )                                                                     =
+                                                                           =
+                                                                           =
+                                                                           =
+                       ( http://business.pinterest.com/en/blog )           =
+                                                                           =
+                                                                           =
+                                                                           =
+                Blog                                                       =
+          ( http://business.pinterest.com/en/blog )                        =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                =C2=A0
+
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                This email =
+was sent to contactus@seeinindia.com ( contactus@seeinindia.com ).=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                                                Don't want =
+to receive this type of email? Change your email preferences ( http://www.p=
+interest.com/settings/email/?utm_campaign=3Dpartner_20140716_newsletter&utm=
+_medium=3D2023&utm_source=3D31&e_t_s=3Dfooter ).=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20
+                                                                Didn't sign=
+ up for Pinterest? Please let us know! ( https://help.pinterest.com/article=
+s/if-someone-else-signed-your-email?utm_campaign=3Dpartner_20140716_newslet=
+ter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dfooter )=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                                                Have a ques=
+tion? Visit our Help Center ( http://www.pinterest.com/help/?utm_campaign=
+=3Dpartner_20140716_newsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dfo=
+oter ).=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                =C2=A9 Pint=
+erest, Inc.=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                808 Brannan=
+ Street, San Francisco, CA 94103=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                Privacy Pol=
+icy ( http://www.pinterest.com/_/_/about/privacy/ )                        =
+                                        Terms and Conditions ( https://busi=
+ness.pinterest.com/en/business-terms-service )
+
+To unsubscribe from all Pinterest email, click here ( http://email.pinteres=
+t.com/wf/unsubscribe?upn=3DhfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5=
+UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq3peT8MSnXA-2FkJX2VeECD-2BI9VOMLg=
+sCL-2BEFvEEVGdkXzL5Wyeki9LLKFdRkSXOBiDKCcWJaYWl9cgSieliu0Vh1afXhkIrReQDI-2F=
+v6-2FAdJL5ZrNXIZGB9kNth01MDvyUTLwTCBMcqYri-2BbEFUwWCITX2bRmfZ48t6cM3d2crK5y=
+Q8fWNo4XkEMwGPqYsRrQIzTCKAaDpaiJH1ubnX3-2BghUnSAyqEXJcYoFboukP1U4zNYNSmqKli=
+GyclpWvGLkdAspjFq5n4js68qjurRsN3aBg9WTSov5JWn5i7acvxVfbi2-2FOIkbIX4iiAZE0fz=
+Pge5P-2FgZK-2B0zQu2OlepTvHTf923dYjYfBRzqDeec-2FiU7zhRObhETo3-2FJEhLaq8gTZR9=
+Ww-3D-3D ).=20
+ Note we may still send certain account related emails=20
+ such as legal notices and password resets.=
+
+--===============3435518267909996884==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/>
+    <style type=3D"text/css">
+    .ExternalClass {width:100%;}.ExternalClass, .ExternalClass p, .External=
+Class span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;
+        }body {-webkit-text-size-adjust:none; -ms-text-size-adjust:none;}bo=
+dy {margin:0; padding:0;}table td {border-collapse:collapse;}@media (max-wi=
+dth: 480px) {
+            div, p, a, li, td { -webkit-text-size-adjust:none; }
+            table[class=3Dbody] {width:300px !important;}
+            table[class~=3Dmodule] {width:336px !important;}
+            table[class~=3Dinner-module] {width:336px !important;padding-le=
+ft:10px;padding-right:10px;} *[class~=3Dmobile-full-width] {width:336px !im=
+portant;}
+            *[class~=3Dmobile-hide] {display:none !important;}
+            *[class~=3Dmobile-show] {display:block !important;max-height: n=
+one !important;}
+            *[class~=3Dmobile-rel-pos] {position:relative !important;}
+            *[class~=3Dmobile-abs-pos] {position:absolute !important;}
+            *[class~=3Dmobile-h0] {height:0 !important;}
+            *[class~=3Dmobile-h10] {height:10px !important;}
+            *[class~=3Dmobile-h15] {height:15px !important;} table[class=3D=
+social-footer] {width:200px !important;}
+            table[class=3Dsocial-footer] td[class=3Dsocial-type] {padding:0=
+ 10px 0px 10px !important;}
+            table[class=3Dsocial-footer] td[class=3Dsocial-label] {display:=
+none !important;} table[class=3Dlegal-footer] td {padding:0 10px 0 10px !im=
+portant;} td[class~=3D"salutation"] {padding:20px 0 20px 0 !important;} td[=
+class=3D"valediction"] {font-size:24px !important;}
+            td[class=3D"partner-valediction"] {font-size:22px !important;} =
+table[class~=3D"module-header"] td[class=3Dheader] {font-size:24px !importa=
+nt;line-height:22px !important;}
+            table[class~=3D"module-header"] td[class=3Dsubheader] {font-siz=
+e:16px !important;line-height:22px !important;}
+            table[class~=3D"module-header"] td[class=3Dspacer] {height:18px=
+ !important;}
+            table[class~=3D"email-background-header"] {height:150px !import=
+ant;background-size:336px !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dhead=
+er-text-container] {display:block !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dhead=
+er-text] {font-size:16px !important;line-height:24px !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dsmal=
+l-img] {padding:10px 20px 10px 10px !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dlarg=
+e-img] {padding:0 20px 20px 20px !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dlarg=
+e-img] td[class=3Dheader-image] {float:left !important;padding:0 40px 0 40p=
+x !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dlarg=
+e-img] td[class~=3Dheader-text] {display:block !important;text-align:center=
+ !important;float:left !important;padding-top:10px !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dalig=
+n-top] td[class=3Dheader-image] {display:block !important;float:left !impor=
+tant;padding:0 18px !important;}
+            table[class~=3Dmodule-header-image-background] td[class~=3Dalig=
+n-top] td[class~=3Dheader-text] {display:block !important;text-align:center=
+ !important;float:left !important;padding-top:10px !important;} td[class=3D=
+editorial] {padding:0 5px 0 5px !important;}
+            td[class=3Deditorial] div[class=3Dtitle] {font-size: 18px !impo=
+rtant;}
+            td[class=3Deditorial] div[class=3Dbody] {font-size: 16px !impor=
+tant;line-height: 24px !important;} table[class~=3Dboard] td[class=3Dboard-=
+head] {padding:10px 15px 10px 15px !important;}
+            table[class~=3Dboard] td[class=3Dboard-head] td[class=3Dboard-t=
+itle] {
+                max-width:170px;white-space:nowrap;overflow:hidden;text-ove=
+rflow: ellipsis;}
+                table[class~=3Dboard] td[class=3Dboard-pins] {padding-left:=
+14px !important; padding-right:14px !important;}
+                table[class~=3Dboard] td[class=3Dboard-pins] td[class~=3D"p=
+in"]:nth-child(3) {padding-right:0 !important;}
+                table[class~=3Dboard] td[class=3Dboard-pins] td[class~=3D"p=
+in"]:nth-child(4) {display:none !important;}
+                table[class~=3Dboard] td[class=3Dboard-pins] img {width:84p=
+x !important; height:84px !important;} table[class~=3Dboard-grid] td[class=
+=3Dboard-container] {display:block !important;padding-right:0px !important;}
+                table[class~=3Dboard-tip] {width:236px !important;}
+                table[class~=3Dboard-tip] td[class=3Darrow] {padding-top:0p=
+x !important;}
+                table[class~=3Dboard-tip] td[class=3Dtip] {padding-left:8px=
+ !important;padding-right:8px !important;}
+                table[class~=3Dboard-tip] td[class=3Dspacer] {height:8px !i=
+mportant;}
+                table[class~=3Dsmall-board] td[class=3Dspacer] {height:8px =
+!important;} table[class~=3Dboard-container] {width:300px !important;}
+                table[class~=3Dboard-container] td[class=3Dpadded-container=
+] {padding:20px 27px !important;} table[class~=3Dprice-drop-grid] td[class=
+=3Dprice-drop-container] {display:block !important;padding-right:0px !impor=
+tant;} table[class~=3Dpin-grid] td[class=3Dfirst-col] {padding-right:0px !i=
+mportant;}
+                table[class~=3Dpin-grid] table[class~=3Dpin] {width:143px !=
+important;height:auto !important;}
+                table[class~=3Dpin-grid] td[class=3Dpin-img] img {width:143=
+px !important;height:auto !important;}
+                table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dpin=
+-owner] img {width:24px !important;height:24px !important;}
+                table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dpin=
+-owner-info] {padding-left:6px !important;font-size:10px !important;}
+                table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Ddet=
+ails] {max-width:123px;overflow:hidden;}
+                table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dspa=
+cer] {height:8px !important;}
+                table[class~=3Dpin-tip] {width:143px !important;height:auto=
+ !important;}
+                table[class~=3Dpin-tip] td[class=3Darrow] {padding-top:8px =
+!important;}
+                table[class~=3Dpin-tip] td[class=3Dtip] {padding-left:8px !=
+important;padding-right:8px !important;}
+                table[class~=3Dpin-tip] td[class=3Dspacer] {height:8px !imp=
+ortant;} table[class~=3Dfriend-grid] td[class=3Dfriend-container] {display:=
+block !important;padding-right:0px !important;} td[class~=3Deducation-text]=
+ {padding-left:20px !important;padding-right:20px !important;}
+                table[class~=3Deducation] td[class=3Dspacer] {height:30px !=
+important;}
+                img[class=3Deducation] {width:260px;} table[class~=3Dbullet=
+ed-list] td[class=3Dbullet] {padding-left:20px !important;}
+                table[class~=3Dbulleted-list] td[class=3Dtext] {padding-rig=
+ht:20px !important;} table[class~=3Dmobile-upsell] td[class~=3Ddownload-but=
+tons] {padding-bottom:30px !important;} td[class=3Dcategory-pins] {padding:=
+0 20px 0 20px !important;}
+                td[class=3Dcategory-head] {padding-top:15px !important;}
+                td[class=3Dcategory-links] {padding-bottom:8px !important;}
+                td[class=3Dcategory-links] td {display:block !important;tex=
+t-align:center !important;padding-bottom:6px !important;}
+                td[class=3D"category-pin"]:nth-child(4),
+                td[class=3D"category-pin"]:nth-child(5),
+                td[class=3D"category-pin"]:nth-child(6) {display:none !impo=
+rtant;} td[class~=3D"notification"] {padding:20px !important;} td[class~=3D=
+conversation] {padding:20px !important;}
+                td[class~=3Dconversation-text] {padding-left:10px !importan=
+t;}
+                td[class~=3Dconversation-button] {padding:10px 0 10px 0 !im=
+portant;} td[class=3Dlight-bulb] {padding:0 0 0 20px !important;} table[cla=
+ss~=3Dfull-width-button] {width:260px !important;}
+                td[class~=3Dfull-width-cta-box] {padding:0 20px 0 20px !imp=
+ortant;}
+            }
+            </style>
+        </head>
+        <body>
+            <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color:#ffffff;border-bottom:2px solid #e4e3df;">
+                <tr>
+                    <td>
+                        <table class=3D"body" height=3D"40" width=3D"620" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                            <tr>
+                                <td>
+                                    <table class=3D"module" width=3D"600" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"b=
+order-collapse:collapse;">
+                                        <tr>
+                                            <td align=3D"left" valign=3D"bo=
+ttom" width=3D"97" height=3D"30" style=3D"padding:0 8px 8px 0">
+                                                <a href=3D"http://email.pin=
+terest.com/wf/click?upn=3DJOQbqo80djy7w5GQcgNgGwFXK1k2E-2BVRONu3Nn1wHVT55oO=
+BvU8a2k-2FYXC90FganqzwSIbeEXNqMAeR4Vw79DBtj1LYFUInpqjm9Nvyqh25cTZCZ5r2-2Bhd=
+YNBtxND-2B-2FJbnwOlA5khl5j4jtKQkyxPQ-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe=
+-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq7hWj-2FLB45pI7w2=
+9bMbfaWyoeZZPtPVpw2uEMuGMUFGhHhmIuV0NdxhKN8mINIkUKbS63zO3udZoDP-2BWJWEuhCJs=
+dGmqoMHJBz36zr90nSmqcJCsliGK8onv5f9BZe6MHZIbXPOnQAl3R8q1uHonb7xTZXu8NDcgtAO=
+J5W6acL-2B56rGzzO-2BgE2PzFH2BsxIbKfoPwU-2BW8DDzGwRScMImTkitvykRV9-2F4Bn0nPr=
+Xi20qnvlRSJ8N-2Fpl-2B6Oska97IN24Jsvh5lmEgpn-2B3wauhFoPg91P2lFBbHkMPhOGTqLok=
+F1RC-2BoTpN6vPz5r-2BJlconA7ChkCuVvR1OhGgbUwcBFneozfyU8JZphWF2cl5LUN4ERVJ15T=
+DmnbmJRwt7BAh9og-3D-3D" title=3D"Visit Pinterest.com">
+                                                    <img height=3D"25" bord=
+er=3D"0" src=3D"http://email-assets.pinterest.com/email/business/logo-type-=
+partner-email-header.png" style=3D"-ms-interpolation-mode:bicubic;text-deco=
+ration:none;display:block;outline:none;color:#cb2027;font-size:20px">
+                                                </a>
+                                            </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color:#f5f3f0;">
+                <tr>
+                    <td>
+                        <table class=3D"body" width=3D"620" align=3D"center=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                            <tr>
+                                <td align=3D"center">
+                                    <div class=3D"" style=3D"height:20px">=
+=C2=A0</div>
+                                    <a href=3D"http://email.pinterest.com/w=
+f/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPF=
+K2CtkxVYgZJK4IoB8v3NvSkob0G9-2BLDuZn90NCvfn-2FH3TNqqgmlTJKi9Orq2p3d6jY57NU-=
+2F-2BFUnrHdI5q7IgH0R7oeg-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzv=
+mWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq79sDpBvB4sGSDUYiKzrw7lIocFDF=
+vEJ2nmWkALuBOyfC4MMC13nHKsS6-2BLoifGWcr1DD-2BeRNn8wWBjBlBgXTXVGfwFmLBtyRUr0=
+5n1lVd6SIRxKv40wlRCC2-2FIpWgU8ZLQOgW5-2Fafkyz-2FK8iLT-2FvMA6Ku6cxUmJFKOgbWZ=
+ZbLgKJPHTtzYGJRoAOP-2BH-2BBzmkdaDym70tMmda6A9DjxkjtaXvAADezlRdViETmhRTM5Yls=
+wcqFyL3qg5BtIh-2FMu6SkW-2B9WtUrkMkXOQ4VsCZp1yJRxzA89CX-2FSZLOBUzsHkvDU617Hy=
+6i1aMpMAVO-2FmMg1f-2FkPubrXY1hx0hnZVOX8P9-2BIebevgDbFdkheNRhYxf94D2l8o9v5V8=
+jKmIbFiE7A-3D-3D">
+                                    <table class=3D"module module-header em=
+ail-background-header" width=3D"600" height=3D"300" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" background=3D"https://s3.amazonaws.com/pinterest-=
+blog-assets/email/business/8.6-dotbo-convert.jpg" style=3D"background-color=
+:#b4795a;border-top-left-radius:3px;border-top-right-radius:3px">
+                                    </table>
+                                    </a>
+                                    <table class=3D"module" width=3D"600" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                    style=3D"background:#FFFFFF;border-top-=
+left-radius:3px;border-top-right-radius:3px;border-bottom-left-radius:3px;b=
+order-bottom-right-radius:3px;border-top:1px solid #e3e3e3;border-bottom:1p=
+x solid #e3e3e3;border-left:1px solid #e3e3e3;border-right:1px solid #e3e3e=
+3;;overflow:hidden;">
+                                    <tr>
+                                        <td align=3D"center" style=3D"paddi=
+ng:0px;">
+                                        <table class=3D"module education" w=
+idth=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                            style=3D"background:#FFFFFF;bor=
+der-top: 0;">
+                                            <tr>
+                                                <td class=3D"" height=3D"34=
+"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class=3D"education-text=
+" align=3D"left" style=3D"padding:3px 50px 3px 50px;font-family:helvetica n=
+eue,helvetica,sans-serif;font-size:18px;line-height:18px;font-weight:bold;c=
+olor:#454545;">
+                                                    Dot & Bo: A well-design=
+ed Pinterest strategy
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                    <td class=3D"education-=
+text" align=3D"left" style=3D"font-family:helvetica neue,helvetica,sans-ser=
+if;font-size:16px;color:#666666;line-height:24px;padding:0px 50px 0 50px;">
+                                                        <br/>As a shopping =
+service that offers floor to ceiling design inspiration, <a href=3D"http://=
+email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgfxgiirpUzycjznQN=
+dFYmMVA-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0Ltn=
+QzFjJEV3s-2FaQy1xUIEx5377tq-2B4MPMsq9-2FmpJeft-2B-2F7mo9dp2xENRzMYWhMDgoeUN=
+CYtBxTpRgG22K-2FP1E-2BkmoR3N1LbqfsvjXboADjCZSNeA6kp6XuELq2TC6SnsgwqDHDifAB6=
+Von8cG5EWLVYOeKdA8cOQeIB6TEA9ChyXZvNy2Lm-2BDfqCEhKjP4pACMjiFQBwyCifFySBtIxq=
+P8m-2BNfyiHXLQWBTePwEhd3gtWAR5mRMqqh-2B3FQDI7eWr-2Bp8MCeTDY-2FWOlvQZzPMqvre=
+e6Lh5l6RLyh2aGmXCx5Jqb3CchexPm8Q4ivYkBrUWfMq0c-2FVk8D91wTsYGtc8TII2-2B5Douk=
+38U5N9yozGVOXoquJg4WAFkcT-2BaGHOD0zQ3mz29EVroVffN7W0dctgTfYk3P24A-3D-3D" st=
+yle=3D"color:#3399FF;text-decoration:none"><b>Dot & Bo</b></a> was already =
+connecting with a natural audience on Pinterest, where people often seek an=
+d plan ideas for their homes.=20
+
+<p>By using Promoted Pins, Dot & Bo was able to grow that audience=E2=80=94=
+since they began advertising on Pinterest, <b>repins have jumped by more th=
+an 6000%</b>, and they=E2=80=99ve <b>quadrupled the number of visitors on t=
+heir site.</b></p>
+
+<p>Learn all about it in our latest case study, and find out how Dot & Bo m=
+astered everything from curating collections to website widgets.</p>
+
+
+
+<a href=3D"http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LM=
+jXuAAucNZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPFK2CtkxVYgZJK4IoB8v3NvSkob0G9-2BLDuZn=
+90NCvfn-2FH3TNqqgmlTJKi9Orq2p3d6jY57NU-2F-2BFUnrHdI5q7IgH0R7oeg-3D-3D_hfIqh=
+jxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1=
+xUIEx5377tq3iziw6mVc8SW7DG2HvxT46qcPGIw41z9lhDsZUIOIQyJuwuRuUjou6o91Clxpyow=
+J3OJZ76IzRSU1wYg8h4w8jJNmV-2BbeC5HxYegM9uDeuKcyPj6eZwZUFISom6TphD-2FVZuEN0D=
+S6xz6uIaJE1GrpRFSM1-2FWWPkalUc6VX8QmRBnCUfAajIu2WtH89GtSnVJ3-2FoB6wKPY4wVIH=
+F3kiUEL3WZTfIhZ-2BjL2yC0fQM2VK4-2Fbl2ZqCoP5tnW-2Bz3mBBqjpHmpuuT3fCwKk9S6iR7=
+E4LEMfpKf3u-2FB-2BM1Sfw-2FkovxF0X6-2FRTu81Y1DrBdFcR9qjcy5qq5RJS8lBtGpMVWDB1=
+523q96xlEC00pHuVsuxUe2UTmiFAqjlWZS2KYbQY3Mw-3D-3D">
+<div align=3D'center'>
+<a href=3D"http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LM=
+jXuAAucNZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPFK2CtkxVYgZJK4IoB8v3NvSkob0G9-2BLDuZn=
+90NCvfn-2FH3TNqqgmlTJKi9Orq2p3d6jY57NU-2F-2BFUnrHdI5q7IgH0R7oeg-3D-3D_hfIqh=
+jxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1=
+xUIEx5377tq-2FoCNGJy7FGPqdjw1zpX81npgGiH3DeTWpJpL84obvaDftTibrBoQeoAlw-2F2A=
+Da-2B7wceAt-2BylJ7KfG8zLxdDGqu-2BAX4mbKOjmX35bUIJUcTXGB8WbYn6iERXv5Fx22elZJ=
+JsY68Xnw6F7vCL9DadXKaNBrwx-2FjrFmcx9h7QqkJWlCiMDGnbE3K5vLX4ZqgFMVcUL48ZlhsO=
+4nDEKb-2BSWFTM0sMAbYBx1AaAARfCgoSPbiflk8dqKMyBvZNESY4ISRyQVjYx-2BiPLXkT6zF4=
+kz8FotzMH14OWk4lWnR37nIBd4ua-2B-2BfeMb4cgBT-2Ff-2FybFSfEUamvv-2FHNzmUlG6KDn=
+NJUjJoY6bop-2BnHghqvstjcvb5f5LGS8RO3MYPc7dK7UC6kg-3D-3D" style=3D"text-deco=
+ration:none;display:block">
+    <div border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"height:p=
+x;background-color:#3983d0;padding:10px 15px 10px 15px;border-bottom:2px so=
+lid #2868a4;border-radius:3px;display:inline-block;display: inline-block;">
+<a href=3D"http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LM=
+jXuAAucNZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPFK2CtkxVYgZJK4IoB8v3NvSkob0G9-2BLDuZn=
+90NCvfn-2FH3TNqqgmlTJKi9Orq2p3d6jY57NU-2F-2BFUnrHdI5q7IgH0R7oeg-3D-3D_hfIqh=
+jxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1=
+xUIEx5377tqwGwdpmQIDK-2BHAChr9s6x-2FCkjZEtxDMrLu06Ty7cKfnsG4dXnq9Ci7daj934T=
+AntsEzKiZQW7gXojilONgmPGzZPMclr-2FLfW39gMqjXa4cfFfxnv-2F15H6npjOkvlmh4FiA2N=
+eJFwtNDr6zjnFGiXm5FJ27s9PbJK2QeK25A0zt3gYqTlh4FiBouwX64gx-2FCGTasqVYplnp0py=
+YmJ8FJZtHxnRBvWJMiDDSXBJcLn3Y5WlqCl8KKmXhBkuLIxx7CCkHJH-2FQXrKXQYdKCwYuUaGz=
+X6YGpL94mZ4fhZ4QShMZwC290QigNqFLiNiEc-2Fys7kgiRRTNVVF4QaFs4LkCMpo0tXX0BQmzu=
+E8ebQX-2BsBh1NNo-2F4yaaMIr5P3oKwsCRa-2FzA-3D-3D" style=3D"font-family:helve=
+tica,sans-serif;font-size:16px;color:#ffffff;text-decoration:none;display:b=
+lock;">
+Read more</a></div></a></div></a>
+
+  <div class=3D"education-text" align=3D"left" style=3D"font-family:helveti=
+ca neue,helvetica,sans-serif;font-size:11px;color:#666666;line-height:24px;=
+">
+    <br/><i>*Please note: Promoted Pins are only available to U.S.-based bu=
+sinesses at this time.</i>
+</div>
+
+
+                                                    </td>
+                                            </tr>
+                                        </table>
+
+                                        <table class=3D"module education" w=
+idth=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                            style=3D"background:#FFFFFF;bor=
+der-top: 0; padding-top:20px">
+                                            <tr>
+                                                <td align=3D"center">
+
+                                                </td>
+                                            </tr>
+
+                                        </table>
+                                    </table>
+                                            <div class=3D"" style=3D"height=
+:30px">=C2=A0</div>
+                                            <table class=3D"module" width=
+=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                            style=3D"border-collapse:collap=
+se;">
+                                            <tr>
+                                                <td align=3D"center">
+                                                    <table class=3D"social-=
+footer" width=3D"500" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"border-collapse:collapse;">
+                                                        <tr>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfx=
+FgBrsNdmkLInG8PsapCSwzwsDMsAgLexw4EWOSJCCYz0F4BB-2BtBP6R2lrjxevCnHHZJskEVgm=
+4z32kwr6lwly557j0ZGkTE3F7mVFUUbX4IalX9x4O7F-2FfoxBwsadEeh6hNjHVoClvW40q0U-3=
+D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s=
+-2FaQy1xUIEx5377tq-2FH6ljuQYgbILg93kqHVpEn-2F2z0o8mq9LW194mOA1KxYYxCZ3BfOWy=
+o5d12v-2FZ8trCd1scOyXnIviUFf47HyonRNhdty7rHHlUo7FdGxVa5FJ6ChLa3Ha1QCfLplTyv=
+JwnTEA6f5YNu-2B3mbFCTz9SOMTXIoeyy3bvYvJIRRuAUNfkE9bPk0CGgjPWfBFtba7Fe2FjqR9=
+2UKKY1YSndPC2XIuKxgGFrvOyhKTocerUc-2B6v-2FcTG7V1bHxACGi2-2BqYzj3AmNN405yRij=
+QlcxWArZSWQ3HI5RHK-2FOOtcJKo25oDQ0HtztCC0vrf2b7WP4p2ZMogfS3oMK4tjWYaXvjMwUq=
+mNObdsxSlps5-2FU-2FcimYWshbmeAGPJxqD3fj5LKRsWTzQ-3D-3D" style=3D"text-decor=
+ation:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/pinterest_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfx=
+FgBrsNdmkLInG8PsapCSwzwsDMsAgLexw4EWOSJCCYz0F4BB-2BtBP6R2lrjxevCnHHZJskEVgm=
+4z32kwr6lwly557j0ZGkTE3F7mVFUUbX4IalX9x4O7F-2FfoxBwsadEeh6hNjHVoClvW40q0U-3=
+D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s=
+-2FaQy1xUIEx5377tq60Wi3vQFnLXIaTyBSp22MC2KfMm5Tz53pncFb4QJMXefaRJpSxvtOqlMe=
+X0kde9rnmqBoBjuLZusv5hzJuOv9X9mqr-2Fk032vf5biG7AXchMDpXuOJrGstgO-2BPA388v-2=
+F5BMmdRcvj8KZcAGsSTmiZrzGFgB1kpewAqjPEmnf75DLeq9j5f4IVmziTrcQKZPQjaTbbDxua7=
+721l4sAQuwzVun-2Bn-2BIiyA9KGEhd-2F3oPH6-2BrEo40Qj1vsZtVx6gf64UCkYRQq2c3H4m7=
+KEXCZ07E8ZllJXLnCeO7guhjNHvnr8lSPixWkB09vnjmeOWELKmhcgYAcw3Bnw-2Fmrp4qrz6cH=
+q62usj8Xj4wItHFwrm-2B-2BEthi5xntRKOu323W5oaBQ1qg-3D-3D" style=3D"text-decor=
+ation:none;color:#979797;">
+                                                                    Pintere=
+st
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1Sl83R6jT=
+JbjkKNm8LpfWnfuSRMPY33JcJA-2FFaucgeVr-2FwNzvYFwi9-2F1HdPPPwVjHA-3D-3D_hfIqh=
+jxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1=
+xUIEx5377tqy39JH2516Kboz-2Frd4KpVy9eVk3mV7JdvYdPhtcnyML6PiduEXKt-2BVDTTvA3q=
+o9AAkWrmjYVr-2B3Iv47gnyfvqnpPWMoz8pvZFxfLmg-2BGPlYb4dxv2Xzx5G7GQkyGoDXuX-2B=
+zZZNvXGv-2Bsn0giwIOIXX1PFg1r8xWTTA8A5232MGiEEQIeFUZjK-2BfCUd4BrhxE-2B1fnuFF=
+IduEwxlmEfPe0E027ePIvbPJw1TJmNUa1Mx-2FnMjoMztvEIgLOkJm9fquHY8MZS4aI9K1hhCz-=
+2BiJF2mJu-2FUO6tAxttsWehNFh-2BpJFdg2iw9-2BC7HI3oZIuhZ3ZDYrOObnYiBa8Ys9g0Foe=
+ENW2whHxK4Yqk5XKM4OEDsIFCLj9C9fHhuXG-2FCL6NypfoQg-3D-3D" style=3D"text-deco=
+ration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/facebook_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1Sl83R6jT=
+JbjkKNm8LpfWnfuSRMPY33JcJA-2FFaucgeVr-2FwNzvYFwi9-2F1HdPPPwVjHA-3D-3D_hfIqh=
+jxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1=
+xUIEx5377tq0tVzDmOG-2BIEfHE88RWTRDv-2FktiiJZB-2BMb20C5hPW8WyU6ikVrUdLfZr4SN=
+85EyTx9mJOTmtVSu6-2BF86GYM8LG-2BbrrdM8XRvqPmaPVoQBuWWJXFeH0JDghLOu9qn1QLMbG=
+JEFFgWm0IwvHmb268zl9q40n70xBl5Bf5vV06M9-2FE3CxR28rMwh4yvTR6p86Vdhh5j-2BThfo=
+xJ0qvnFopvPce2p4ah3a6fW-2FqVIHF-2FQsNyzxPBc9KlXgsmR4mkAu6NxL-2BsTbGiEXok8Lg=
+T-2FSCelCfet-2BqkGyR7naHZvJ7uldn4pECfUiXc3GSGiC3lfyWpotDk5cofpwaBroz9ORv4P2=
+WWEB-2BN5kl5f4WGpIxkDepJB-2BQOOFd5y-2B9OG-2BU-2F7et6Ywg-3D-3D" style=3D"tex=
+t-decoration:none;color:#979797;">
+                                                                    Facebook
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1dvdMHRj4=
+vY4ggiryq-2BZXhzwZ9nvfrewLVO3srmcukby_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq8g3tWYY68ct8aLvh0jN7V=
+qbgI45yoxT63mInQJU6y-2FkvSzHcTjydXJnpPh5GgM9Vum-2Bv1jDVMVfRtkUX1bDspxCvhPK1=
+-2FVCvHy1Dlcyx7RO1TJwLOfBInG-2BSBBDZ-2F16i1EfxblTJJf1iqP4c7XP7urf1MMhYu4WOG=
+enLRtwm69J3EPPWT1s4UfjhpLxq78SRxUC-2B-2Fi-2BPHZmGQ-2FmzSorI9sZcrVWYFQu-2F7Q=
+vKDN58T8fXFOILKk8gK4eIHpewPIxu-2BuTCpzNNd7q-2F2a7lRu9zgOOZ0nsBhQfFunybwR2cf=
+-2FgaLt3hMYHCIJ6iPU2Or4jEAahOeU7EsQZYBRxCoGXY-2BbteYzM4i4W5bhE7reE-2BnvFjvO=
+n2xl0b-2BBU00sj8o0eow-3D-3D" style=3D"text-decoration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/twitter_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1dvdMHRj4=
+vY4ggiryq-2BZXhzwZ9nvfrewLVO3srmcukby_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq8GBzFYeQ9B9plg3wQFZBZ=
+Vu0bJOLJBxGC-2FNYPLK43CcWjde0sTwwzzNcgNTiv7HLrnnpKhl9gZND5psA6RJagLeh92GEk-=
+2F8isBP0e4rs9xWAb-2FRp7qDqgoCB0Cgitl4lCV-2BzvyRy7b0rWRQ-2BX1rx1aR1abhriPTMC=
+GYI9p17Nw82kHuXc-2FfCinvAjfv-2FJxIf3RJtcOA38nB3jKanFsfHAdjygokRFhYk1liAlEWz=
+a6pm1rnsBBMhnkIzIo7il1zGVuKhsi-2Bajb88TcHCmXCmgDDEhDrVzp5KaqMEWlpb4KhEEkqjc=
+hBghHRrXUgxoRmpsYc-2FcghFkntGEg87-2FCxLSGr9afuECZXDuA-2BBO0aKhu7FxRhX2rK-2F=
+BqgAjhlYPpEQA-3D-3D" style=3D"text-decoration:none;color:#979797">
+                                                                    Twitter
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D4Nhv31c1vN2wkc6mpjUZQR1qySEywrPhR=
+mG09eHa9g34ZLdnF-2F9E3x-2FZM5P-2FCpOy3EVVSx214R2tQizByg-2BFNA-3D-3D_hfIqhjx=
+rH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xU=
+IEx5377tq-2FMRpUZGMLQ0QYTF3VHq4GO8CC79M-2BTBbQP2Pvj-2BU-2BO-2FSm9SrIcGSgjnR=
+0-2FcwXMH-2FBy0DA0zPsj9DWX6Y8UaCvJZlkiwukak50exE1rWiERZ5SfOfKnH-2BBSMkbIkC1=
+VjeU1NeBWM2MrlNN5YXSRmgcCFi6kq5ZM-2BJZBrvFz6W4VQ2FeqgiYKkpIGbI0u7qEHVqdHPhb=
+v9SPvKtbViLs1aapsgd3Yuy0xiArXEEYkmGKK0Ta2bEuELdJyR-2Fa5xsMW5-2F7kQiNQiiql63=
+osDzE-2FL2lLunIZ3rFyN9uG27X5jVmZpBaU9Ew3hHdEWnWw4N61sYwVrNCv-2BIi3-2FHlVBdN=
+9z5hES2eDWYZlXihWj84sQQo2RH1E-2FrmYeqi-2F3Rs1gO2ZvQ-3D-3D" style=3D"text-de=
+coration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/gplus_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D4Nhv31c1vN2wkc6mpjUZQR1qySEywrPhR=
+mG09eHa9g34ZLdnF-2F9E3x-2FZM5P-2FCpOy3EVVSx214R2tQizByg-2BFNA-3D-3D_hfIqhjx=
+rH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xU=
+IEx5377tq7Dt1Ocha-2Bi7VeevOndCcULlHTx9BD-2Ff8x3tfY8vl3VWlGDyb2lCM8xSgcscau3=
+yXo1WLuRKGFVjlqV1ye8QixvBh4FDNkpsdz-2FkgLLhpwI-2FJD9H-2FZqRsjgrYOw-2BfqQa6y=
+Q8DinynfM-2FMLMnunogTfw2pajU8pidaCcYye4-2BeHwWH-2BwgjhCA4UAZbqmBAaGq-2FnMxF=
+3FMrDO1rKln1NMpMj97l3f9X0ovDm7lnJUddlMJFtqOZG00ORFktrpX3jAtZE7V7YhWGZZI39nU=
+Uw-2Fg3cU9bt-2BvFRvcIU74ScqOpzkUHjZDtdoyRgrLHKefL0cnH7XJHJprAQtw0Jy1w7iEhW-=
+2BJN-2Bzk4NpzfTCdNCCjvsCYEnH0HsieayUaPAF-2FaeEnFA-3D-3D" style=3D"text-deco=
+ration:none;color:#979797">
+                                                                    Google
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DgjudqBuRQmKrDgFe6sJPhuUKszHNUptpx=
+Q20yIh4MYELkouROSBWrMtUYLaWEoId_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjz=
+vmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq7zFJE0hYGsOthsQsDcQXwda41sm=
+cjjEStvneM-2FCVuH0GK2WLdZh2F73xVKhSKrXjGoT4HXGRW3j0GNGWsw-2F6NTitFBw6hiGkGq=
+LqMjGICKqbC-2BX47GUq27H-2BWcB9G-2FSYg4xZ-2B5EXRT9dsgyADw8o80xNg4WbuLNJLCHSw=
+Aq0ISIYvtsdkUDmIKj9opFf40KXWuhdiPN-2FBosCYDMXEpUM5SkVcisKsoZh0ja3yAFJluBFB-=
+2BzgTm7HBOK2sWsmwoSvo28-2BqB2Ir-2Fv0W3qkVB5EB2fb9dIEYFiyGHvBC7PptD95boKSYDS=
+mNwP9pUfyarjWWB0FzHEaKKUENe3qaKBr6SpWm-2BfEUcUCg-2FBRRM4cjQti-2BCHR-2BmcuUk=
+hLIA6GLFCiw-3D-3D" style=3D"text-decoration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/blog_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;font-family:helvetica neue,helvetica,=
+sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DgjudqBuRQmKrDgFe6sJPhuUKszHNUptpx=
+Q20yIh4MYELkouROSBWrMtUYLaWEoId_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjz=
+vmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq2KSbthFKN6wtQGPhj6zICIwzXh1=
+rErKXYai2Ea6xr6mplN6oUkJRKHZFr9SXqxX02SbX1CzQyiDUJWGRM-2FF5MeZJ99gdiXHNXkE5=
+lRa77fPOaf8LgDAQxoHS7qeJjmKE-2FSU31ZVpl5GLNmWDokG4rQfD90boAmN1PfFeovN4Pk1Og=
+dDxadUisKJEayXwyx-2BbCBhfXCVmVQJWg0ZSrbNqeR4ZOQbKhS35EyjAUSqPBuZ9ZFLjQ7bicB=
+s1-2F4kuXDLhIy7pCuUF-2B6rN4SWkizBDbrlEM2-2BzNCeWj9U6FKDQkbjAdXnW9a9-2Fxqmht=
+r3UI8gMbv4QU1YqD7r9wiYAUZuQPWbTUGBpdu9rtMw-2BzTg2Bg7oBl9WPWbj-2Fs8JMJoj8gmt=
+Q-3D-3D" style=3D"text-decoration:none;color:#979797;">
+                                                                    Blog
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <div class=3D"" style=3D"height:30p=
+x">=C2=A0</div>
+                                        <table class=3D"module" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:collapse;">
+                                            <tr>
+                                                <td>
+                                                    <table class=3D"legal-f=
+ooter" width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"border-collapse:collapse;">
+                                                        <tr>
+                                                            <td align=3D"ce=
+nter" style=3D"font-family:helvetica neue,helvetica,sans-serif;font-size:11=
+px;color:#999999;line-height:18px;padding:0 50px 0 50px">
+                                                                This email =
+was sent to <a href=3D"contactus@seeinindia.com" style=3D"color:#979797;tex=
+t-decoration:none;">contactus@seeinindia.com</a>.
+                                                                <br/>
+                                                                Don't want =
+to receive this type of email? <a href=3D"http://email.pinterest.com/wf/cli=
+ck?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PviSmPI4DcOZXo8WVGL=
+jraiWBs29mvx51sLjJFvASS4xkS3UBfyLJ3sjCLfLlZd8EpQiRh7K-2FzheAI-2F-2FAWlH75ff=
+-2BTKwXA7RIQfNty7jfB1NaKOtozRgI7U7EPupMujDCCmGQK5aroviJYra-2BkWtT1M_hfIqhjx=
+rH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xU=
+IEx5377tqw445bArPLAilXAmkAYa-2FybvQSfAK3H5ZFBaLsGW6EWMsDuhhG1v-2BQxqAreXVe7=
+hB3lz7TyyTE-2FLbQ4GeV7bnqmTR1hmo5wbFv-2B-2FJhuPWH90tK9D4HlmjnYzsqjtVYuD9HIE=
+EiJdEFwD-2FS3YOSoqSZw3wFbiDyq8otVK7QUkapcUZbvt6D7o7HdWb8yNx49lPysqOCj5rqtXm=
+tEd24FYJ5NHyV-2FaNjHU0uGBt1Lnh-2BxdAaOkQ3vHyPUziKI5f6ACwMgxrkKq8jekMzZBDo24=
+kxQPxFYXKetKWOvZIflDsUv7EDfoawk5AYqbxLV9vpHmMrApIm8xd1aPKsR33n08o6zAqI7XMjc=
+GiAme8tt21rjhk-2FBrdbZvxuVcpGbgkvndLQ-3D-3D" style=3D"color:#979797;text-de=
+coration:underline;font-weight:bold">Change your email preferences</a>.
+                                                                <br/>
+                                                                Didn't sign=
+ up for Pinterest? <a href=3D"http://email.pinterest.com/wf/click?upn=3D3o0=
+98S9vC1EmCZoGtpxasOKTuYU19I7yrelriHdyZHw032eI4T5EdOgoATVfi9iDgx8tDgWSgPxCVF=
+8gWcZuH0wYIDTiqKi1bS1MgDWRg3U1WVDtsYjTLNJQ6YPOx7Q-2Fm7fMsmtujG8ADB9SFZ3HV3t=
+cU7WfQdk-2FLGBc9jAQ80HFnbvhLbCffY6Bv9arWxllzlJySIMp6LHEvRrgIAheAw-3D-3D_hfI=
+qhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQ=
+y1xUIEx5377tq8awsnpd2fnWMBgot5x098RlxJPO-2BcsEH1H0oXCg5C1SQwZL5e9qhfAMnoq-2=
+Bl15bngmKfhggbrLjucmaPL-2Bg9GpTQ-2B7dIwPnPMgcKG-2Br39GuHjrpk3TB8pOPm8T8FvgC=
+rQ77MpT6w-2F4jTg5zgThZIpFeO2zJ4dXVwBpsK-2BAuhAKyyJ3uv-2FxhztSrgNipum5hVuTnY=
+ksFnfjJGY-2FwhaCt2-2BGF8lJvjBguyz1q2AZhlgn8W4ITy36aBlVNojZUPNp2Cq8NM5G8QcA3=
+WPH8wpbPB8CGkbg4vYDQwLGALsnVXlYSO3G-2B-2BjZlo1wRvRLKYDBepYyCMhShvlFh6OfELzG=
+cvp7h2QCCA4BmW4rT1-2B-2FWu1OvxredjHKfii0et1JrHeYMQw-3D-3D" style=3D"color:#=
+979797;text-decoration:underline;font-weight:bold">Please let us know!</a>
+                                                                <br/>
+                                                                Have a ques=
+tion? <a href=3D"http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPM=
+C-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PvZ-2Fkn9ELJw23aM-2BtJV7HRFztsXPGjvpKydYJ4FK=
+-2F-2BLxBqbYZCMp7kIbQoc34yixPI1HzBp3DHdkyvQ1Pgd58AXBFURG4eYCsar0QYvEfD0ylEx=
+Kyec4HnaF-2BB2pE6RRJ0-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UG=
+JyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tqzp5OS2odWgQw1-2FUKuJPW95wEc6HyUEqh=
+ZL4uKrabDH-2BiciP0r1lPLorX8VWSBIGJ68T-2Bc0WGurqW19m7vdTJfpAWytAwRuSVvE-2Fk1=
+QlEdD7WXcC9qmnVRNI2VSKqq7ZpUS5w88gBcrAi9T5EYoMxDM-2BWlIqkIDZmbFDOyWcNvvXAmu=
+0gYVy-2FOEybZVIjKxSzQ5EC2nG1zhvA70X-2FaNAiUmBjpGdrNyhZDy8LXNmW9LPexUlivZfdx=
+-2FHHH4xhU6quY4tHzDmhSBaATbXyfWakKXQ4lpreSOGn-2BsP8w1hDiFO7smUe87RsNj0hah0f=
+Lh49oay5gFj-2FeilKRZZNFdzJCnyXTux05qv-2BvRd-2BpDOo6zYn-2FXqKp1HxyxHVIKqqrbw=
+HQ-3D-3D" style=3D"color:#979797;text-decoration:underline;font-weight:bold=
+" title=3D"Find answers in our Help Center">Visit our Help Center</a>.
+                                                                <br/>
+                                                                =C2=A9 Pint=
+erest, Inc.
+                                                                <br/>
+                                                                808 Brannan=
+ Street, San Francisco, CA 94103
+                                                                <br/>
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfx=
+FgBrsNdmkLInG8PuX-2FtTYGnIN5GG1X3j4JaqSRDURyfib4p4k-2Bc-2F-2FbgmfUw-3D-3D_h=
+fIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2F=
+aQy1xUIEx5377tq9-2BWViSsuHL6NgeNZCxaUl5PqfR3dC0I7cSLe2OFFEG6EaZRaIUD0SyXB-2=
+BOKSEAQdehlr4SGxSCWYXkrmIYqFAagfGDGEpTMlNPze-2FncNHbGaoC5ggJObX0rZLmejXKp2V=
+npx1-2BECkKp7WADtHwKn6o-2BknlGgNNHdtOp95Pg7ncvhWEbCUQ0P7pr7kjdN2Ky8l4gsn8Ri=
+QkkJqpWTh-2BnZna-2BDIUOHJjl1OqFtcY4yuICZZtrfFG0J8qB-2BHEc0to2DzT2wgW5gSUZNq=
+HkLut-2BDUFxJun8aVqPGN7blE6Bgs2ksfGrfW22YKilwOhLrbmQ67V7e-2BkaBB1FJTodi7bRX=
+uy6em3t-2Fjq6kH0nVR6Cj4CzfqNl0OavWqOpG8wSXoIK5Q-3D-3D" style=3D"color:#9797=
+97;text-decoration:underline;font-weight:bold">Privacy Policy</a>
+
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK=
+30joyhd0Q9L9WUp2NYv9XMDoM3DZv3-2F6cx-2F-2FQyFxlBDZWLfQWMIqw-3D-3D_hfIqhjxrH=
+5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIE=
+x5377tq25R688Rh5JngDesIPLQtvuZjpwy7dPkqFIZCBk4-2FlMmAh06Xy1gf7qGzhGtXSf3vJU=
+7Ddfviv3JyXIwJzm2bxldcQVk2vcHF-2Fy7SLluDyZIsGeknEJPMTkJOtoTEyWxy-2Bv0j16-2F=
+JrX1hKgfXX5xxKZuPRFzXIp-2FL3pHjDukvUsWI0aQ8J2eYT-2FQNgosBhm9ydtKhmZPZsmgpM1=
+U7ACJOKj1aPdd-2Btm-2B48mKKNq0U0CiUoJJYjCTSgkrREq04GuL2wRXgfIcxACHW-2FhOCcld=
+dUebmF5BWYui7RGewnxOVh83R31x77mnWGBatBy2155gokDGTMJ71XNjerXCnf5agsGcIx7wGb8=
+AIqLJg-2FGssndgAeLxwfkOzY8R1pWgAn8K3Q-3D-3D" style=3D"color:#979797;text-de=
+coration:underline;font-weight:bold">Terms and Conditions</a>
+<br/><br/>
+To unsubscribe from all Pinterest email, click <a href=3D"http://email.pint=
+erest.com/wf/unsubscribe?upn=3DhfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzv=
+mWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq7rz5XAVqEI8xS-2B1sjVGXJOWXWg=
+b0JO3gLOrIGj5szns-2Fsc-2BNSBvDRhsgr853nJOFim9FntFlAe4U-2F5UBJMFoQrNl2H4Sl0c=
+hSMFdijWRkiusTJKrE6urWg4FDdYRV2BvIDqUtKxYe5vvjt8kiwGsvS0930BP4Jc-2FyhdOJ3VJ=
+JHKayfKy1ofy4evDjZwFQ8TEWq59IEt3nnKM2zKIf4L4lkUidWFog51B-2B95SunQqPoaUvDyDk=
+fpH-2BhAVAWBKcv7iSGPUCRh2GVcN6QEWH9KIEePW64H0T4hgjvUSVWT2dsRxDrKHmfS3jYF3ZD=
+LvW0rC95MwdJdRMZj8ojMfTkI5vJ2MuQy-2FFHRGBzzkFeDVYEnp16y-2Fk3l-2F-2Bbhy3Bp-2=
+B5GFug-3D-3D" style=3D"color:#979797;text-decoration:underline;">here</a>. =
+<br/> Note we may still send certain account related emails <br/> such as l=
+egal notices and password resets.=20
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class=3D"spacer" height=
+=3D"30"></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+=20=20=20=20=20=20=20=20=20=20=20=20
+<img src=3D"http://email.pinterest.com/wf/open?upn=3DhfIqhjxrH5PXl2rHT1sLDX=
+g-2FA9avWe-2F7dwqJqjzvmWs5UGJyHpm9Nnwd0LtnQzFjJEV3s-2FaQy1xUIEx5377tq-2Fee0=
+0JTnb-2Bhm81hkLAlvza396p-2FlwDpwlcGGklAklHrHqOqa5acC2ZHaunCGguoHp9PCrfzBaQ8=
+7Tr3Bu6DFRBQh8lJMD1xsonWi5kahONEAwtwHRYk1Q9wHRoqFkOK5NSOqEc7XQyZCOlWzjIlsaG=
+DpyZ21vmXUIof9igj0MLZFmy7bB2eSJm1F9BbItYsvjRZeXj1UqWAWZcKpd7ii6cbU8K6S825q-=
+2FHQ1NgCcBtO11d1kJUbWG-2FKoTRZzVUVAOJ0Ek0hB44M8sT13D-2BTw7En0iPWk5e5-2FZqY9=
+drkbe70NSvS1rXEouLR1sr7vr3-2FlJB07WfD3Rq76RDoOKrrrdz9oUfgrGFtlI9PsUYbGK1aBU=
+8YdECBouRuW1whVe7qWw-3D-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" =
+style=3D"height:1px !important;width:1px !important;border-width:0 !importa=
+nt;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impor=
+tant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !im=
+portant;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+            </html>
+
+--===============3435518267909996884==--

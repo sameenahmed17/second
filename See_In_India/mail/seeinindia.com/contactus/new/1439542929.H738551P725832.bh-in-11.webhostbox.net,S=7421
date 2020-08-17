@@ -1,0 +1,132 @@
+Return-path: <bounce-md_30486343.55cdae7e.v1-2defb6ccdad342a98e46853d2bc771ff@mandrillapp.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Fri, 14 Aug 2015 09:02:09 +0000
+Received: from mail186-11.suw21.mandrillapp.com ([198.2.186.11]:25999)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <bounce-md_30486343.55cdae7e.v1-2defb6ccdad342a98e46853d2bc771ff@mandrillapp.com>)
+	id 1ZQAsL-0032RK-C5
+	for contactus@seeinindia.com; Fri, 14 Aug 2015 09:02:09 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail186-11.suw21.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:List-Unsubscribe:Date:MIME-Version:Content-Type; i=kalpesh@mail186-11.suw21.mandrillapp.com;
+ bh=zRuKhMUBJNBpHUjERwFSNK1junw=;
+ b=Qw3G+Ak4RRM1oZ/X51a6HpUj/K9043Yza3AVlXTIbVA+TLmx5+sQs+woewqZHLlNCEECiLer1EDb
+   SPOpR+2TpBghfWNrOg9RuLoOd1YgAiFV/hz4DVWd+9++46IrMeciGOxYyL119weSijBUnBaZNEPQ
+   QdC/Ap4VfMGo9b6+zmY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mail186-11.suw21.mandrillapp.com;
+ b=pD6+u903Txwky1Vw8LvyE09USIkQMHPbyU9i1+G+CVMEbcWFucqfzOTuMpVLlz/rPDxZRoNUu+99
+   py+CphcPALv8FagM55BbwgIxbHWw1ApQwHYoHRry60yYwnjVlfyi6I8v3EXS/LacNTxVK/xWKtoU
+   EF8Kq2M+Qdr81KK1DKw=;
+Received: from pmta02.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail186-11.suw21.mandrillapp.com id hpmn92174bkv for <contactus@seeinindia.com>; Fri, 14 Aug 2015 09:01:50 +0000 (envelope-from <bounce-md_30486343.55cdae7e.v1-2defb6ccdad342a98e46853d2bc771ff@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1439542910; h=From : 
+ Sender : Subject : To : Message-Id : List-Unsubscribe : Date : 
+ MIME-Version : Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=vayez7tMFHDEStlJTzpG8rPrLz4S9emZ0KHHFHCGcjI=; 
+ b=N+hc9CBmxKhwi7wyN8varlBvXZ4Eopc3WzH3PE1pVzXGfhO2rme3q2VMRMGfd5delAjMJ7
+ gqxHu95wxA0fPNl/sEGWg1c/SVmRO29sCOsyafP8Eeix3kDBtPJQ/dCDu8xk+zEYdsaD7OFr
+ i2IaYv4ErUC1x6eI7N293O5GC2QSY=
+From: Tender247 Tender Alert <kalpesh@tender247.com>
+Sender: Tender247 Tender Alert <kalpesh@mail186-11.suw21.mandrillapp.com>
+Subject: Special Chance to Celebrate Independence Day with Tender247
+Received: from [182.74.245.70] by mandrillapp.com id 2defb6ccdad342a98e46853d2bc771ff; Fri, 14 Aug 2015 09:01:50 +0000
+To: <contactus@seeinindia.com>
+Message-Id: <2076079655.27761.1439542904116.JavaMail.isourcing@isourcing-desktop>
+List-Unsubscribe: <mailto:unsubscribe-md_30486343.55cdae7e.v1-2defb6ccdad342a98e46853d2bc771ff@mailin1.us2.mcsv.net?subject=unsub>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30486343.2defb6ccdad342a98e46853d2bc771ff
+X-Mandrill-User: md_30486343
+Date: Fri, 14 Aug 2015 09:01:50 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-NTjB3UU3lPYYnIXvk9sSOQ"
+X-Authenticated_sender: 
+
+--_av-NTjB3UU3lPYYnIXvk9sSOQ
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Happy Independence Day
+
+
+
+
+
+This email was sent to contactus@seeinindia.com (mailto:contactus@seeinindia.com)
+unsubscribe from this list (http://mandrillapp.com/track/unsub.php?u=30486343&id=2defb6ccdad342a98e46853d2bc771ff.YG7Z66oqQCDwXhqpZOBtWKkx4Is%3D&r=https%3A%2F%2Fmandrillapp.com%2Funsub%3Fmd_email%3Dcontactus%2540seeinindia.com)
+--_av-NTjB3UU3lPYYnIXvk9sSOQ
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html><head><meta name=3D"viewport" content=3D"width=3Ddevic=
+e-width" /><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /><title>Happy Independence Day</title></head><body bgcolor=3D"#F=
+FFFFF" topmargin=3D"0" leftmargin=3D"0" marginheight=3D"0" marginwidth=3D"0=
+" style=3D"-webkit-font-smoothing:antialiased; -webkit-text-size-adjust:non=
+e; width: 100%!important;height: 100%;"><table width=3D"100%"><tr><td></td>=
+<td style=3D"display:block!important;max-width:600px!important;margin:0 aut=
+o!important; clear:both!important;" bgcolor=3D"#FFFFFF"><div style=3D"max-w=
+idth:600px;margin:0 auto;display:block; "><table width=3D"100%"><tr><td><p =
+style=3D"margin-bottom: 10px;font-weight: normal;font-size:14px;line-height=
+:1.6;"><img src=3D"http://tender247.com/images/BannerImages/HDI_banner.jpg"=
+ style=3D"max-width: 100%;" alt=3D"" usemap=3D"#Map" /><map name=3D"Map" id=
+=3D"Map"> <area alt=3D"" title=3D"" href=3D"http://mandrillapp.com/track/cl=
+ick/30486343/182.74.245.70?p=3DeyJzIjoiUXdEYW5EWmdZQjFIVzM3OHF5ZG0xRnJsaDFJ=
+IiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9=
+cXFwvMTgyLjc0LjI0NS43MDo5MDkwXFxcL1QyNDdQcm9tb3Rpb25hbFxcXC9zZXJ2aWNlXFxcL0=
+dldFByb21vRGV0YWlsc1xcXC9jb250YWN0dXNAc2VlaW5pbmRpYS5jb21cXFwvVDI0NzE1QVVHM=
+TVcIixcImlkXCI6XCIyZGVmYjZjY2RhZDM0MmE5OGU0Njg1M2QyYmM3NzFmZlwiLFwidXJsX2lk=
+c1wiOltcImUzNjM5ZGNjZWE0NTQ4ZGI1Y2NlNWI0MGM0ZGZkZWViYzBjMWMyMWNcIl19In0" sh=
+ape=3D"poly" coords=3D"1,3,600,7,600,514,2,515" /></map></p></td></tr></tab=
+le></div></td><td></td></tr></table><img src=3D"http://mandrillapp.com/trac=
+k/open.php?u=3D30486343&id=3D2defb6ccdad342a98e46853d2bc771ff" height=3D"1"=
+ width=3D"1"><center>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; border-top:1px =
+solid #E5E5E5;">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding-top:20px; =
+padding-bottom:20px;">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"canspamBar">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"color:=
+#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; line-hei=
+ght:150%; padding-right:20px; padding-bottom:5px; padding-left:20px; text-a=
+lign:center;">
+                            This email was sent to <a href=3D"mailto:contac=
+tus@seeinindia.com" target=3D"_blank" style=3D"color:#404040 !important;">c=
+ontactus@seeinindia.com</a>
+                            &nbsp;&nbsp;
+                            <a href=3D"http://mandrillapp.com/track/click/3=
+0486343/mandrillapp.com?p=3DeyJzIjoiRzY4UlUwVnQ5TzA2ckVFUlBZaXprWlpzNnVvIiw=
+idiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXF=
+wvbWFuZHJpbGxhcHAuY29tXFxcL3RyYWNrXFxcL3Vuc3ViLnBocD91PTMwNDg2MzQzJmlkPTJkZ=
+WZiNmNjZGFkMzQyYTk4ZTQ2ODUzZDJiYzc3MWZmLllHN1o2Nm9xUUNEd1hocXBaT0J0V0treDRJ=
+cyUzRCZyPWh0dHBzJTNBJTJGJTJGbWFuZHJpbGxhcHAuY29tJTJGdW5zdWIlM0ZtZF9lbWFpbCU=
+zRGNvbnRhY3R1cyUyNTQwc2VlaW5pbmRpYS5jb21cIixcImlkXCI6XCIyZGVmYjZjY2RhZDM0Mm=
+E5OGU0Njg1M2QyYmM3NzFmZlwiLFwidXJsX2lkc1wiOltcIjg3ZjkyM2YxODI4NmZjOTc4MDBhN=
+TcwN2VhMjAyYzNhMDQ1MDBmYTRcIl19In0" style=3D"color:#404040 !important;">uns=
+ubscribe from this list</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <style type=3D"text/css">
+        @media only screen and (max-width: 480px){
+            table[id=3D"canspamBar"] td{font-size:14px !important;}
+            table[id=3D"canspamBar"] td a{display:block !important; margin-=
+top:10px !important;}
+        }
+    </style>
+</center></body></html>
+
+--_av-NTjB3UU3lPYYnIXvk9sSOQ--
+

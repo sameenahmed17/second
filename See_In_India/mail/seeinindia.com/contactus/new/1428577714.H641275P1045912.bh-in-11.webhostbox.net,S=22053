@@ -1,0 +1,215 @@
+Return-path: <bounce+245399.ad76-contactus=seeinindia.com@tripcrafters.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Thu, 09 Apr 2015 11:08:34 +0000
+Received: from rs89.mailgun.us ([209.61.151.89]:46794)
+	by bh-in-11.webhostbox.net with esmtp (Exim 4.82)
+	(envelope-from <bounce+245399.ad76-contactus=seeinindia.com@tripcrafters.com>)
+	id 1YgAK2-004O3y-2n
+	for contactus@seeinindia.com; Thu, 09 Apr 2015 11:08:34 +0000
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=tripcrafters.com; q=dns/txt;
+ s=smtp; t=1428577710; h=Sender: Date: Content-Transfer-Encoding:
+ Message-Id: To: From: Subject: Content-Type: Mime-Version;
+ bh=imi71933CIkZEEB36aJkoSw+SJmKYc0cgXlViUqsLTU=; b=ig/57Xri+TkUYnBqlqeLueZnqw77EsM2+F5eO4nc8XDNF7xVT/9YofJ4xb+EP2B+/UWhOOkK
+ VP/a52gMwExiScztMeCqyKEzuBTS3+TfssTnkmmkf50JVF6tt6ixrvVwuo3HH3BlwWdInxzV
+ +NkD5G84X23EwEUim/lT2DFA2IE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=tripcrafters.com; s=smtp;
+ q=dns; h=Mime-Version: Content-Type: Subject: From: To: Message-Id:
+ Content-Transfer-Encoding: Date: Sender;
+ b=LPR/lZrltqdZFV5+B7a2DtVyAahOVTm4U3/EuLL5R5lAjb998NfEttkEeX/zrvbqeLHoSj
+ Kf3qv+B6Fr2TiMR7KPupb5xqbq59qTVeRRYFHxGMAhmPADqIzDUpWukVT6RKgo4kj3sqVNLh
+ ahQ1mlIOujr3sZru2wHQhRx8oBF2U=
+Received: by luna.mailgun.net with HTTP; Thu, 09 Apr 2015 11:08:29 +0000
+Mime-Version: 1.0
+Content-Type: text/html; charset="ascii"
+Subject: Today's Discounted Leads
+From: TripCrafters <mail@tripcrafters.com>
+To: contactus@seeinindia.com
+X-Mailgun-Tag: Today's Discounted Leads
+Message-Id: <20150409110829.3095.33942@tripcrafters.com>
+Content-Transfer-Encoding: 7bit
+X-Mailgun-Sid: WyI4MmRhOSIsICJjb250YWN0dXNAc2VlaW5pbmRpYS5jb20iLCAiYWQ3NiJd
+Date: Thu, 09 Apr 2015 11:08:30 +0000
+Sender: mail@tripcrafters.com
+X-Authenticated_sender: 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Purchased Lead Details | Trip Crafters</title>
+    </head>
+    <body style="margin:0;padding:0;font-size:13px;font-family:arial;color:#444444;">
+    <div style="width:600px;margin:0 auto;background-color:#EEEEEE;">
+        <div style="padding-left:20px;padding-right:20px;width:560px;">
+            <div style="width:560px;height:10px;"></div>
+
+            <div style="width:560px;font-size:11px;color:#999999;">To ensure prompt delivery of emails from TripCrafters, please add mail@tripcrafters.com to your address book or contact list. If our emails go to your spam folder, make sure you mark them "Not Spam" when you open the email.</div>
+
+            <div style="width:560px;height:20px;"></div>
+
+            <div style="width:538px;border:1px solid #DDDDDD;background-color:#FFFFFF;padding:10px;">
+
+                <div style="width:538px;height:10px;"></div>
+
+                <div style="color:#2074BE;font-size:24px;padding-bottom:10px;border-bottom:1px solid #DDDDDD;">TripCrafters.com</div>
+
+                <div style="width:538px;height:20px;"></div>
+
+                <div style="width:538px;">Dear Sameer,</div>
+
+                <div style="width:538px;height:10px;"></div>
+
+                <div style="width:538px;">
+                <div style="width:538px;color:#FF7403;font-size:16px;font-weight:bold;padding-top:10px;padding-bottom: 10px;">Discounted Domestic Leads</div>
+                    <table cellpadding="0" cellspacing="0" border="0" style="border-left:1px solid #D0D0D0;border-top:1px solid #D0D0D0;width:537px;">
+                        <thead>
+                            <tr>
+                                <th style="color:#2074BE;padding:4px;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;width:40px;">Trip #</th>
+                                <th style="color:#2074BE;padding:4px;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;width:65px;">Travelers</th>
+                                <th style="color:#2074BE;padding:4px;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;width:135px;">Destinations</th>
+                                <th style="color:#2074BE;padding:4px;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;width:85px;">Leaving From</th>
+                                <th style="color:#2074BE;padding:4px;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;width:70px;">Duration</th>
+                                <th style="color:#2074BE;padding:4px;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;width:45px;">Price</th>
+                                <th style="color:#2074BE;padding:4px;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;width:33px;"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        <tr style="background-color:#F0F0F0;">
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#79344<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">2 Adults<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Port Blair</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Chennai (Madras)</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">16 Apr 2015<br>3 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 74</span><br/><span>Rs 56</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=79344" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr >
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#80008<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">2 Adults<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Nainital</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Aligarh</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">14 Apr 2015<br>2 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 69</span><br/><span>Rs 52</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=80008" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr style="background-color:#F0F0F0;">
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#80006<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">4 Adults<br/>4 Minors<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Nainital</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Gorakhpur</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">05 May 2015<br>2 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 99</span><br/><span>Rs 74</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=80006" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr >
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#79974<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">4 Adults<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Darjeeling</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Vadodara (Baroda)</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">22 May 2015<br>5 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 114</span><br/><span>Rs 86</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=79974" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr style="background-color:#F0F0F0;">
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#79924<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">4 Adults<br/>1 Minors<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Darjeeling</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Kolkata (Calcutta)</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">10 May 2015<br>4 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">Rs. 49</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=79924" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr >
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#79947<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">4 Adults<br/>4 Minors<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Tadoba Tiger Reserve</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Nagpur</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">12 Apr 2015<br>1 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 94</span><br/><span>Rs 71</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=79947" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr style="background-color:#F0F0F0;">
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#79838<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">4 Adults<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Matheran</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Nanded</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">02 May 2015<br>2 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 99</span><br/><span>Rs 74</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=79838" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr >
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#79829<br/><span style="font-size:10px;color:#FF7403;font-weight:bold;">Phone Verified</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">2 Adults<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Tadoba Tiger Reserve</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Mumbai (Bombay)</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">01 May 2015<br>2 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 69</span><br/><span>Rs 52</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=79829" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr><tr style="background-color:#F0F0F0;">
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;">#79677</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">4 Adults<br/></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;"><ul style="padding:0;margin:0;"><li style="list-style-position:inside;margin:0;padding:0;">Thekkady</li></ul></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">Kochi (Cochin)</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;">28 Apr 2015<br>4 Nights</td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;font-size:12px;text-align:center;"><span style="text-decoration: line-through;">Rs 109</span><br/><span>Rs 49</span></td>
+                    <td style="padding:4px;vertical-align:top;border-bottom:1px solid #D0D0D0;border-right:1px solid #D0D0D0;">
+                        <a href="http://www.tripcrafters.com/agent/lead?id=79677" style="text-decoration:none;color:#FF7403;font-weight:bold;font-size:13px;">BUY</a>
+                    </td>
+                </tr>
+                        </tboby>
+                    </table>
+                    <div style="width:538px;height:10px;"></div>
+                    <div style="width:538px;text-align:right;">
+                        <a href="http://www.tripcrafters.com/agent/reco_domestic_leads?discounted=1" style="text-decoration:none;font-size:14px;color:#2074BE;">View More Discounted Leads  &#187;</a>
+                    </div>
+                    <div style="width:538px;height:10px;"></div>
+                </div>
+
+                <div style="width:538px;height:20px;"></div>
+
+                <div style="width:508px;background-color:#F2F2F2;padding:15px;">
+                    <div style="padding-bottom:5px;font-size:16px;font-weight:bold;">Don't Like Your Lead Recommendations?</div>
+                    <div><a href="http://www.tripcrafters.com/agent/lead_preferences" style="text-decoration:none;color#2074BE;font-weight:bold;">Click here to customize your Lead Preferences</a></div>
+                </div>
+
+                <div style="width:538px;height:40px;"></div>
+
+                <div style="width:538px;">Cheers,</div>
+                <div style="width:538px;color:#2074BE;">TripCrafters Team</div>
+                <div style="width:538px;">www.tripcrafters.com</div>
+
+                <div style="width:538px;height:20px;"></div>
+
+                <div style="width:538px;padding-top:10px;border-top:1px solid #DDDDDD;">Join Us!</div>
+
+                <div style="width:538px;height:20px;">
+                    <a href="http://www.facebook.com/tripcrafters" style="text-decoration:none;color:#2074BE;" title="Tripcrafters.com Facebook">Facebook</a> | <a href="http://twitter.com/tripcrafters" style="text-decoration:none;color:#2074BE;" title="Tripcrafters.com Twitter">Twitter</a>
+                </div>
+
+            </div>
+
+
+            <div style="width:560px;height:10px;"></div>
+
+            <div style="width:560px;font-size:11px;color:#999999;">Copyright &copy; 2011 TripCrafters Travel Online LLP. All rights reserved.</div>
+            <div style="width:560px;font-size:11px;color:#999999;">Vasu Bhavan, Ground Floor, 11th Road, Khar (W), Mumbai - 400052. India.</div>
+
+            <div style="width:560px;height:20px;"></div>
+
+            <div style="width:560px;font-size:11px;color:#999999;">If you do not wish to receive these email. Please <a href="http://www.tripcrafters.com/agent/myaccount" style="text-decoration:none;color:#2074BE;">unsubscribe here</a>.</div>
+
+            <div style="width:560px;height:20px;"></div>
+
+        </div>
+    </div>
+    </body>
+    </html>

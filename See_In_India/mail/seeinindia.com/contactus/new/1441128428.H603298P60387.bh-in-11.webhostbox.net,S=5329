@@ -1,0 +1,98 @@
+Return-path: <mia.s@lacartes.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Tue, 01 Sep 2015 17:27:08 +0000
+Received: from col.lacartes.com ([206.212.245.242]:43608)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <mia.s@lacartes.com>)
+	id 1ZWpKu-000Fhh-7l
+	for contactus@seeinindia.com; Tue, 01 Sep 2015 17:27:08 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=lacartes.com; s=default;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Message-ID:Subject:From:To:Date; bh=9KlwIq0byZnsx5OweE8DNqgkkiKobsSFIIi+PP3Vnko=;
+	b=NDUEM7oaFFdcHaY0P85bSQ4QXZSL6vubKTWKPZ1b3OpdAJ6+cS7bn41ik90x97Ree2dyzjqAMkmdyrnGU6G2xu9+GVqJqyfDkladFSj4XkwaZCZqapPnKyY5iAL/ccmXAg1BRUTdgmmo95cstC3daRjJ20lqg/qrctpeZn9eMU4=;
+Received: from localhost ([::1]:53319 helo=col.lacartes.com)
+	by col.lacartes.com with esmtpsa (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <mia.s@lacartes.com>)
+	id 1ZWpKs-0002Py-3Q
+	for contactus@seeinindia.com; Tue, 01 Sep 2015 13:27:06 -0400
+Date: Tue, 1 Sep 2015 17:27:05 +0000
+To: "contactus@seeinindia.com" <contactus@seeinindia.com>
+From: Mia Smith <mia.s@lacartes.com>
+Subject: Query
+Message-ID: <f62fb43a5dd6c72cb4d84d8d5beef9d7@col.lacartes.com>
+X-Priority: 0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_f62fb43a5dd6c72cb4d84d8d5beef9d7"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - col.lacartes.com
+X-AntiAbuse: Original Domain - seeinindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lacartes.com
+X-Get-Message-Sender-Via: col.lacartes.com: authenticated_id: admin@lacartes.com
+X-Authenticated_sender: 
+
+--b1_f62fb43a5dd6c72cb4d84d8d5beef9d7
+Content-Type: text/plain; charset=us-ascii
+
+Hi,
+
+My name is Mia Smith and I manage the website Lacartes.com. We are expanding our
+online marketplace in your area and I was wondering if you'd like to add your
+business to our website for free? Our website is helping 600,000+ people every
+month find the businesses, products and services they need. We'd like to invite
+you to create a free business page on our website so our users will be able to
+find you and share your offerings with their friends and families.
+
+Your business page lets you publish photos, prices, videos, news announcements
+and communicate directly with customers. It will appear on all major search
+engines like Google so you will benefit from instant online exposure to a large
+audience looking for the products and services you offer. It will also feature a
+permanent link to send visitors to your own website. We make money through
+thirdparty ad banners so we do not charge businesses anything to use our
+website. Our goal is to grow our user base and help more people connect with the
+products and services they need. It is a win-win situation. 
+
+To set up your free business page, please follow this link:
+http://www.lacartes.com/post/business
+
+Please let me know if you encounter any problems or if there is anything you
+need. If this email has reached you by mistake or if you do not wish to take
+advantage of this free advertising opportunity, please accept my apology for any
+inconvenience caused and rest assured that you will not be contacted again.
+
+Many thanks for your time and consideration,
+
+Mia Smith
+mia.s@lacartes.com
+Business Manager
+www.lacartes.com
+
+
+--b1_f62fb43a5dd6c72cb4d84d8d5beef9d7
+Content-Type: text/html; charset=us-ascii
+
+Hi,<br />
+<br />
+My name is Mia Smith and I manage the website Lacartes.com. We are expanding our online marketplace in your area and I was wondering if you'd like to add your business to our website for free? Our website is helping 600,000+ people every month find the businesses, products and services they need. We'd like to invite you to create a free business page on our website so our users will be able to find you and share your offerings with their friends and families.<br />
+<br />
+Your business page lets you publish photos, prices, videos, news announcements and communicate directly with customers. It will appear on all major search engines like Google so you will benefit from instant online exposure to a large audience looking for the products and services you offer. It will also feature a permanent link to send visitors to your own website. We make money through thirdparty ad banners so we do not charge businesses anything to use our website. Our goal is to grow our user base and help more people connect with the products and services they need. It is a win-win situation. <br />
+<br />
+To set up your free business page, please follow this link:<br />
+http://www.lacartes.com/post/business<br />
+<br />
+Please let me know if you encounter any problems or if there is anything you need. If this email has reached you by mistake or if you do not wish to take advantage of this free advertising opportunity, please accept my apology for any inconvenience caused and rest assured that you will not be contacted again.<br />
+<br />
+Many thanks for your time and consideration,<br />
+<br />
+Mia Smith<br />
+mia.s@lacartes.com<br />
+Business Manager<br />
+www.lacartes.com
+
+
+
+--b1_f62fb43a5dd6c72cb4d84d8d5beef9d7--
+

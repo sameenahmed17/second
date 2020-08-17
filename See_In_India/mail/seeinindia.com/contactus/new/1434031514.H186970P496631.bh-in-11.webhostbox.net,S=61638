@@ -1,0 +1,1023 @@
+Return-path: <bounces+817483-1e9c-contactus=seeinindia.com@email.pinterest.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Thu, 11 Jun 2015 14:05:14 +0000
+Received: from o4.email.pinterest.com ([50.31.36.111]:11028)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <bounces+817483-1e9c-contactus=seeinindia.com@email.pinterest.com>)
+	id 1Z336X-00257r-1C
+	for contactus@seeinindia.com; Thu, 11 Jun 2015 14:05:14 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pinterest.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	s=smtpapi; bh=ULzOSSZU4t/twURWroBA4IhMvLU=; b=n8QfnlurHGu4Wq4LrY
+	hr6spadisPOwRwyONiYWDBumCsuIhAM/eyu6TY3u1bVIOfeJwieqWo8gJ4/1ePgN
+	LhKDNU4QWbl/Gph+LY77mX60BXrrxIg54glsJPUEKUgqZNHRKTHvQTLzdEYfeqAU
+	tdq9b5nCl4YfzNdTungvkAO1E=
+Received: by filter-369.sjc1.sendgrid.net with SMTP id filter-369.22560.5579952A9
+        2015-06-11 14:03:22.718112817 +0000 UTC
+Received: from ODE3NDgz (unknown [10.42.83.122])
+	by ismtpd-055 (SG) with HTTP id 14de2eeaeb9.510.2a01f
+	for <pinbot@pinterest.com>; Thu, 11 Jun 2015 14:03:22 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============4651370628571201009=="
+MIME-Version: 1.0
+From: Pinterest Partner Team <pinbot@pinterest.com>
+To: contactus@seeinindia.com
+Reply-to: partners@email.pinterest.com
+Subject: Case study: How Walgreens tripled their referral traffic
+Message-ID: <14de2eeaeb9.510.2a01f@ismtpd-055>
+Date: Thu, 11 Jun 2015 14:03:22 +0000 (UTC)
+List-Unsubscribe: <http://email.pinterest.com/wf/unsubscribe?upn=hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FoNw6LM013XnlXf3YM2nAp4jl-2FWkSXGK-2B-2FtViP1r522iTT3-2F54OxG8u1yhjysjrWfCm8sqIAxONiOuX0oAMhRNNCxGPu4QR1ILQ1Rst8l8m8lAhDIbKtfA-2BmDvAZ0K3Txud-2F0c3fpa9tfllD8ALHMFfUTQQDlW6m4PM0Xd-2FSYdNeO9-2BExFz5T6BOWPSRRwq44wZephK-2Fy8psSQe9ADYuooLREIREzqwN-2BOYvuJsCF9vgWak6WEfvU0FTa5gmixN83kbtt0L-2BN6jYOcIXCA3vGErwMP0IuvB9HMg8mbSPHsdIvNc9RoeB5mOnPUXe-2F9btOjazX7Wk0VucKmJakmHwsK442GjBlC5LUWAQ9qRSC6Xf>, <mailto:unsubscribe@email.pinterest.com?subject=http://email.pinterest.com/wf/unsubscribe*q*upn=hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FoNw6LM013XnlXf3YM2nAp4jl-2FWkSXGK-2B-2FtViP1r522iTT3-2F54OxG8u1yhjysjrWfCm8sqIAxONiOuX0oAMhRNNCxGPu4QR1ILQ1Rst8l8m8lAhDIbKtfA-2BmDvAZ0K3Txud-2F0c3fpa9tfllD8ALHMFfUTQQDlW6m4PM0Xd-2FSYdNeO9-2BExFz5T6BOWPSRRwq44wZephK-2Fy8psSQe9ADYuooLREIREzqwN-2BOYvuJsCF9vgWak6WEfvU0FTa5gmixN83kbtt0L-2BN6jYOcIXCA3vGErwMP0IuvB9HMg8mbSPHsdIvNc9RoeB5mOnPUXe-2F9btOjazX7Wk0VucKmJakmHwsK442GjBlC5LUWAQ9qRSC6Xf>
+X-SG-EID: RNI/K1V49f6gVNJKzMMLbNYFV669ql6Whi/l5Z4jyz1epEOrZWkIwPU9x+DAcqQQ/5D+3m8JOjfQ/7
+ tw0wvhirq8z23nDvtR1FAjjOJ/lsjWPPE9ZY/Ibs4qYs4JxOjR1vMDquqG23edivQ/4W3mp7ASi+K3
+ RNdNKsx+d/x7uQ4=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LC04+ywAb6KE5q61n1ElyeawSFUhDGceuYMPI
+ ezujrbv2EOR+t/HjOsT5EkPzKDHI6porb63u53yINKL/ABZD/HJQh4h5tSkl1prd4lqQ3LroWDCIm2
+ 4dYKgC+C20HpSDz/LZjoCjNRP/xPG1mBDaZl8V5GC4SUKc37vmIZkU4ZUB47Wi2JRT9BAcmvCsD6ai
+ M=
+X-Authenticated_sender: 
+
+--===============4651370628571201009==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+( http://www.pinterest.com/?utm_campaign=3Dpartner_20150611_newsletter&utm_=
+medium=3D2023&utm_source=3D31&e_t_s=3Dheader/ )                            =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                 =C2=A0
+
+                                                                           =
+                                                                  ( https:/=
+/business.pinterest.com/en/success-stories/walgreens?utm_campaign=3Dpartner=
+_20150611_newsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dcta )       =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                   Walgreens: At the corner=
+ of happy and Pinning                                                      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                            By adding the P=
+in It button, tracking trends in analytics and creating helpful tutorials w=
+ith their Promoted Pins (frozen whipped cream ( https://www.pinterest.com/p=
+in/90353536250016380/?utm_campaign=3Dpartner_20150611_newsletter&utm_medium=
+=3D2023&utm_source=3D31 ), anyone?), Walgreens ( https://www.pinterest.com/=
+walgreens/?utm_campaign=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm=
+_source=3D31 ) dramatically increased the number of people who went to thei=
+r site.=20=20
+
+                                            See how Walgreens proved they=
+=E2=80=99re not just a pharmacy but a one-stop-shop for stuff like gifts, D=
+IY projects and beauty products=E2=80=94and a Pinterest success.           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                         Read more                         =
+                                            ( https://business.pinterest.co=
+m/en/success-stories/walgreens?utm_campaign=3Dpartner_20150611_newsletter&u=
+tm_medium=3D2023&utm_source=3D31&e_t_s=3Dcta )                             =
+                                                                           =
+                                                                           =
+                                                      ( https://business.pi=
+nterest.com/en/success-stories/walgreens?utm_campaign=3Dpartner_20150611_ne=
+wsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dcta )                   =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                              =C2=A0
+
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+               New! Buttons that help people act on your Pins              =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                         We=E2=80=99ve added some easy-to-tap buttons that =
+will help Pinners check out your recipes, articles and more. Check out our =
+new look in our recent blog post.=20=20=20
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                   Read more               =
+                                                      ( https://business.pi=
+nterest.com/en/blog/fresh-look-pins?utm_campaign=3Dpartner_20150611_newslet=
+ter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dcta )                        =
+                                                                           =
+                                                                           =
+                                                           ( https://busine=
+ss.pinterest.com/en/blog/fresh-look-pins?utm_campaign=3Dpartner_20150611_ne=
+wsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dcta )                   =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                             =C2=A0
+
+                                                                           =
+                                                                    ( http:=
+//www.pinterest.com/business/?utm_campaign=3Dpartner_20150611_newsletter&ut=
+m_medium=3D2023&utm_source=3D31&e_t_s=3Dfooter )                           =
+                                                                 Pinterest =
+                        ( http://www.pinterest.com/business/?utm_campaign=
+=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dfo=
+oter )                                                                     =
+                                                ( https://www.facebook.com/=
+pinterestforbusiness/?utm_campaign=3Dpartner_20150611_newsletter&utm_medium=
+=3D2023&utm_source=3D31 )                                                  =
+                                          Facebook                         =
+( https://www.facebook.com/pinterestforbusiness/?utm_campaign=3Dpartner_201=
+50611_newsletter&utm_medium=3D2023&utm_source=3D31 )                       =
+                                                                           =
+                   ( https://www.twitter.com/Pinterest/?utm_campaign=3Dpart=
+ner_20150611_newsletter&utm_medium=3D2023&utm_source=3D31 )                =
+                                                                           =
+ Twitter                         ( https://www.twitter.com/Pinterest/?utm_c=
+ampaign=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm_source=3D31 )  =
+                                                                           =
+                                        ( https://plus.google.com/+Pinteres=
+t/?utm_campaign=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm_source=
+=3D31 )                                                                    =
+                        Google                         ( https://plus.googl=
+e.com/+Pinterest/?utm_campaign=3Dpartner_20150611_newsletter&utm_medium=3D2=
+023&utm_source=3D31 )                                                      =
+                                                               ( http://bus=
+iness.pinterest.com/en/blog/?utm_campaign=3Dpartner_20150611_newsletter&utm=
+_medium=3D2023&utm_source=3D31 )                                           =
+                                                 Blog                      =
+   ( http://business.pinterest.com/en/blog/?utm_campaign=3Dpartner_20150611=
+_newsletter&utm_medium=3D2023&utm_source=3D31 )                            =
+                                =C2=A0
+
+                                                                           =
+         This email was sent to contactus@seeinindia.com ( contactus@seeini=
+ndia.com ).=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                        Don't want to receive this type of email? Change yo=
+ur email preferences ( http://www.pinterest.com/settings/email/?utm_campaig=
+n=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Df=
+ooter ).=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20
+                        Didn't sign up for Pinterest? Please let us know! (=
+ https://help.pinterest.com/articles/if-someone-else-signed-your-email&utm_=
+campaign=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm_source=3D31&e_=
+t_s=3Dfooter )=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20
+                        Have a question? Visit our Help Center ( http://www=
+.pinterest.com/help/&utm_campaign=3Dpartner_20150611_newsletter&utm_medium=
+=3D2023&utm_source=3D31&e_t_s=3Dfooter ).=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        =C2=A9 Pinterest, Inc.=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        808 Brannan Street, San Francisco, CA 94103=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        Privacy Policy ( http://www.pinterest.com/_/_/about=
+/privacy/?utm_campaign=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm_=
+source=3D31 )                        |                        Terms and Con=
+ditions ( https://business.pinterest.com/en/business-terms-service?utm_camp=
+aign=3Dpartner_20150611_newsletter&utm_medium=3D2023&utm_source=3D31 )=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                        To unsubscribe from all Pinterest email, click here=
+ ( http://email.pinterest.com/wf/unsubscribe?upn=3DhfIqhjxrH5PXl2rHT1sLDXg-=
+2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fs7=
+sXUGTtrLRpCyVQauFjJl8hc3QzwRblkex9QK1shkCiS-2BtQjEafeoEdPu8a-2F7aL9KrMAqBXT=
+g6MtlYaIkzgwvEA0aNVL8vWmVSu3qa1T7MIxbEeVVIbOeO87U1rBmJC-2FsZDHOGUA-2FG6b-2B=
+wIi-2F4jr-2FDc25xJ-2F6PclQ39FuW0pXKy9IYaTWlGK-2B6DAR9XsZkdIAX6Uor1VsKf4ADF0=
+N0esDep7Yn5n-2Fp-2FgB-2FbUfD7a43rFdc4ujpjq8kUS9j9QkyuOcQA8RMRDmhS5-2BB9P-2B=
+zigWg8qnws1fBuObK0hIm8IOqoRyz8neRt6JT1lT2WFXmMAx6bjDLGbbHFEWItrQFVS4BSb4llT=
+Ey5v5Qka0WVL1E ).=20
+ Note we may still send certain account related emails=20
+ such as legal notices and password resets.=
+
+--===============4651370628571201009==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/>
+    <style type=3D"text/css">
+    .ExternalClass {width:100%;}.ExternalClass, .ExternalClass p, .External=
+Class span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;
+    }
+    body {
+       -webkit-text-size-adjust:none;=20
+       -ms-text-size-adjust:none;}
+       ul {
+        padding: 0px 0px 10px 40px;
+    }
+    body {margin:0; padding:0;}table td {border-collapse:collapse;}@media (=
+max-width: 480px) {
+        div, p, a, li, td { -webkit-text-size-adjust:none; }
+
+
+        table[class=3Dbody] {width:300px !important;}
+        table[class~=3Dmodule] {width:336px !important;}
+        table[class~=3Dinner-module] {width:336px !important;padding-left:1=
+0px;padding-right:10px;} *[class~=3Dmobile-full-width] {width:336px !import=
+ant;}
+        *[class~=3Dmobile-hide] {display:none !important;}
+        *[class~=3Dmobile-show] {display:block !important;max-height: none =
+!important;}
+        *[class~=3Dmobile-rel-pos] {position:relative !important;}
+        *[class~=3Dmobile-abs-pos] {position:absolute !important;}
+        *[class~=3Dmobile-h0] {height:0 !important;}
+        *[class~=3Dmobile-h10] {height:10px !important;}
+        *[class~=3Dmobile-h15] {height:15px !important;} table[class=3Dsoci=
+al-footer] {width:200px !important;}
+        table[class=3Dsocial-footer] td[class=3Dsocial-type] {padding:0 10p=
+x 0px 10px !important;}
+        table[class=3Dsocial-footer] td[class=3Dsocial-label] {display:none=
+ !important;} table[class=3Dlegal-footer] td {padding:0 10px 0 10px !import=
+ant;} td[class~=3D"salutation"] {padding:20px 0 20px 0 !important;} td[clas=
+s=3D"valediction"] {font-size:24px !important;}
+        td[class=3D"partner-valediction"] {font-size:22px !important;} tabl=
+e[class~=3D"module-header"] td[class=3Dheader] {font-size:24px !important;l=
+ine-height:22px !important;}
+        table[class~=3D"module-header"] td[class=3Dsubheader] {font-size:16=
+px !important;line-height:22px !important;}
+        table[class~=3D"module-header"] td[class=3Dspacer] {height:18px !im=
+portant;}
+        table[class~=3D"email-background-header"] {height:150px !important;=
+background-size:336px !important;}
+        img[class~=3D"email-background-header"] {height:150px !important;ba=
+ckground-size:336px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dheader-t=
+ext-container] {display:block !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dheader-t=
+ext] {font-size:16px !important;line-height:24px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dsmall-im=
+g] {padding:10px 20px 10px 10px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dlarge-im=
+g] {padding:0 20px 20px 20px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dlarge-im=
+g] td[class=3Dheader-image] {float:left !important;padding:0 40px 0 40px !i=
+mportant;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dlarge-im=
+g] td[class~=3Dheader-text] {display:block !important;text-align:center !im=
+portant;float:left !important;padding-top:10px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dalign-to=
+p] td[class=3Dheader-image] {display:block !important;float:left !important=
+;padding:0 18px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dalign-to=
+p] td[class~=3Dheader-text] {display:block !important;text-align:center !im=
+portant;float:left !important;padding-top:10px !important;} td[class=3Dedit=
+orial] {padding:0 5px 0 5px !important;}
+        td[class=3Deditorial] div[class=3Dtitle] {font-size: 18px !importan=
+t;}
+        td[class=3Deditorial] div[class=3Dbody] {font-size: 16px !important=
+;line-height: 24px !important;} table[class~=3Dboard] td[class=3Dboard-head=
+] {padding:10px 15px 10px 15px !important;}
+        table[class~=3Dboard] td[class=3Dboard-head] td[class=3Dboard-title=
+] {
+            max-width:170px;white-space:nowrap;overflow:hidden;text-overflo=
+w: ellipsis;}
+            table[class~=3Dboard] td[class=3Dboard-pins] {padding-left:14px=
+ !important; padding-right:14px !important;}
+            table[class~=3Dboard] td[class=3Dboard-pins] td[class~=3D"pin"]=
+:nth-child(3) {padding-right:0 !important;}
+            table[class~=3Dboard] td[class=3Dboard-pins] td[class~=3D"pin"]=
+:nth-child(4) {display:none !important;}
+            table[class~=3Dboard] td[class=3Dboard-pins] img {width:84px !i=
+mportant; height:84px !important;} table[class~=3Dboard-grid] td[class=3Dbo=
+ard-container] {display:block !important;padding-right:0px !important;}
+            table[class~=3Dboard-tip] {width:236px !important;}
+            table[class~=3Dboard-tip] td[class=3Darrow] {padding-top:0px !i=
+mportant;}
+            table[class~=3Dboard-tip] td[class=3Dtip] {padding-left:8px !im=
+portant;padding-right:8px !important;}
+            table[class~=3Dboard-tip] td[class=3Dspacer] {height:8px !impor=
+tant;}
+            table[class~=3Dsmall-board] td[class=3Dspacer] {height:8px !imp=
+ortant;} table[class~=3Dboard-container] {width:300px !important;}
+            table[class~=3Dboard-container] td[class=3Dpadded-container] {p=
+adding:20px 27px !important;} table[class~=3Dprice-drop-grid] td[class=3Dpr=
+ice-drop-container] {display:block !important;padding-right:0px !important;=
+} table[class~=3Dpin-grid] td[class=3Dfirst-col] {padding-right:0px !import=
+ant;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] {width:143px !impo=
+rtant;height:auto !important;}
+            table[class~=3Dpin-grid] td[class=3Dpin-img] img {width:143px !=
+important;height:auto !important;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dpin-own=
+er] img {width:24px !important;height:24px !important;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dpin-own=
+er-info] {padding-left:6px !important;font-size:10px !important;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Ddetails=
+] {max-width:123px;overflow:hidden;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dspacer]=
+ {height:8px !important;}
+            table[class~=3Dpin-tip] {width:143px !important;height:auto !im=
+portant;}
+            table[class~=3Dpin-tip] td[class=3Darrow] {padding-top:8px !imp=
+ortant;}
+            table[class~=3Dpin-tip] td[class=3Dtip] {padding-left:8px !impo=
+rtant;padding-right:8px !important;}
+            table[class~=3Dpin-tip] td[class=3Dspacer] {height:8px !importa=
+nt;} table[class~=3Dfriend-grid] td[class=3Dfriend-container] {display:bloc=
+k !important;padding-right:0px !important;} td[class~=3Deducation-text] {pa=
+dding-left:20px !important;padding-right:20px !important;}
+            table[class~=3Deducation] td[class=3Dspacer] {height:30px !impo=
+rtant;}
+            img[class=3Deducation] {width:260px;} table[class~=3Dbulleted-l=
+ist] td[class=3Dbullet] {padding-left:20px !important;}
+            table[class~=3Dbulleted-list] td[class=3Dtext] {padding-right:2=
+0px !important;} table[class~=3Dmobile-upsell] td[class~=3Ddownload-buttons=
+] {padding-bottom:30px !important;} td[class=3Dcategory-pins] {padding:0 20=
+px 0 20px !important;}
+            td[class=3Dcategory-head] {padding-top:15px !important;}
+            td[class=3Dcategory-links] {padding-bottom:8px !important;}
+            td[class=3Dcategory-links] td {display:block !important;text-al=
+ign:center !important;padding-bottom:6px !important;}
+            td[class=3D"category-pin"]:nth-child(4),
+            td[class=3D"category-pin"]:nth-child(5),
+            td[class=3D"category-pin"]:nth-child(6) {display:none !importan=
+t;} td[class~=3D"notification"] {padding:20px !important;} td[class~=3Dconv=
+ersation] {padding:20px !important;}
+            td[class~=3Dconversation-text] {padding-left:10px !important;}
+            td[class~=3Dconversation-button] {padding:10px 0 10px 0 !import=
+ant;} td[class=3Dlight-bulb] {padding:0 0 0 20px !important;} table[class~=
+=3Dfull-width-button] {width:260px !important;}
+            td[class~=3Dfull-width-cta-box] {padding:0 20px 0 20px !importa=
+nt;}
+        }
+        </style>
+    </head>
+    <body>
+        <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"background-color:#ffffff;border-bottom:2px solid #e4e3df;">
+            <tr>
+                <td>
+                    <table class=3D"body" height=3D"40" width=3D"620" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td>
+                                <table class=3D"module" width=3D"600" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"borde=
+r-collapse:collapse;">
+                                    <tr>
+                                        <td align=3D"left" valign=3D"bottom=
+" width=3D"97" height=3D"30" style=3D"padding:0 8px 8px 0">
+                                            <a href=3D"http://email.pintere=
+st.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PtB1WK=
+HrQ6g1AH1xjMH0F4G-2BMLvdn1WJUmHtKNJAY-2Bwz-2BV3iI0nod8G41SF5TMJSFWfLsQlUNoj=
+5Q27Ha5R42LZI6MVKtepfEbkmT91UHvrNgxwRjOrig8bzR66mZwhfQk-3D_hfIqhjxrH5PXl2rH=
+T1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3b=
+teV-2FuKfYhBnz4-2BwsrfmsLMxFfd4KWVQ34X4e0xr7QvUSvdWkWGW38TOgHySczxp3q3WEmRa=
+a7YhtIemSp-2BQnglgi0widDq-2ByZUPMVhOh-2FXLwB84VacH3s3sOfmD05jhCbkyDV2dZWBX5=
+PEK8iGyO2HX0EJ162vSDVvxudOA94R5QCY3c-2BsKb8iJJ0dcKWwhjhAzxyhgTeLwqM3wcFaw6F=
+c9817tKgfN-2B7iln4ZruesM0dg-2FpL9DXtoRLaKXOjYk-2FtKmJuwyI-2F7niO-2FBOwzH7YZ=
+VTLR8MWZ0vZizQkS-2FPz10-2BdNyDp5ffY8TGqqeLfX2HeP-2BxYEPaOyXBjHk-2BbuPwGOI6m=
+vFY0D0uFfDoqFZC3lynVcm" title=3D"Visit Pinterest.com">
+                                                <img height=3D"25" border=
+=3D"0" src=3D"http://email-assets.pinterest.com/email/business/logo-type-pa=
+rtner-email-header.png" alt=3D"Pinterest for Business"
+                                                style=3D"-ms-interpolation-=
+mode:bicubic;text-decoration:none;display:block;outline:none;color:#cb2027;=
+font-size:20px" />
+                                            </a>
+                                        </td>
+                                        <td align=3D"left" valign=3D"bottom=
+" style=3D"padding:0 2px 8px 0;font-size:16px;font-family:helvetica neue,he=
+lvetica,arial,sans-serif;color:#666666">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"background-color:#f5f3f0;">
+            <tr>
+                <td>
+                    <table class=3D"body" width=3D"620" align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td align=3D"center">
+                                <div class=3D"" style=3D"height:20px">=C2=
+=A0</div>
+                                <a href=3D"http://email.pinterest.com/wf/cl=
+ick?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPFK2Ct=
+kWfwqbaPMP-2B7jPc9W7E1NJckP5omWmDaOAooYf1Lr5AiW-2F8fZbT2hM-2FYYbNN0IDx2UuU0=
+tGusZLySYERYT07YOpw-2FnMIuyjUykp88VPiN-2F7EPkBKjWGthyep-2BY-2BC827IW7Qx3vXL=
+h4AhKLFCZyW92xw-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2B=
+bbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fvm0fQCIK1QzbeKjaCobE3IAkiDSZgPq=
+qfVZ2gqrGrQSzMzTEO8gMEUhfGajnisM2LPaxEY7plcfE0pBfoBa3GugH-2F6wAYv-2BwW2kRsL=
+G5EQ-2BcZxui3ZnqgpHgHmfoYNwDNWC7eb3JQnwYRZHAVijRsFZD7Nx-2FaQTdOSlegk69G62Va=
+rDQRpEnWv0zXV56JTA-2FpiAmMzHsUTcZgVkZZRvGfXSlF9-2BfFIvjQr-2BLK8KPQCpWZoyy4k=
+2v-2BtGTklFoxBkoByWZwUQn-2Bg-2BDrTF-2FvL-2F4Qw8u3nkJWCCDo8WvKoiGkPC45hl9-2B=
+fEsciQFalgrKVaHiHlXONW1LUiSaxY1tYivFKktsbZ5yHyudk7is1gf6js" target=3D"_blan=
+k">=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20
+                                    <table class=3D"module module-header em=
+ail-background-header" width=3D"600" height=3D"300" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" background=3D"http://email-assets.pinterest.com/e=
+mail/business/6.10-walgreens-email.jpg" style=3D"background-color:#b4795a;b=
+order-top-left-radius:3px;border-top-right-radius:3px;border-top:1px solid =
+#e3e3e3;border-left:1px solid #e3e3e3;border-right:1px solid #e3e3e3;">
+                                    </table></a>
+                                    <table class=3D"module" width=3D"600" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                    style=3D"background:#FFFFFF;border-bott=
+om-left-radius:3px;border-bottom-right-radius:3px;border-top:1px solid #e3e=
+3e3;border-bottom:1px solid #e3e3e3;border-left:1px solid #e3e3e3;border-ri=
+ght:1px solid #e3e3e3;;overflow:hidden;">
+                                    <tr>
+                                        <td align=3D"center" style=3D"paddi=
+ng:0px;">
+                                            <table class=3D"module educatio=
+n" width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                            style=3D"background:#FFFFFF;bor=
+der-top: 0;">
+                                            <tr>
+                                                <td class=3D"" height=3D"34=
+"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class=3D"education-text=
+" align=3D"left" style=3D"padding:3px 50px 3px 50px;font-family:helvetica n=
+eue,helvetica,sans-serif;font-size:18px;line-height:24px;font-weight:bold;c=
+olor:#454545;">
+                                                 Walgreens: At the corner o=
+f happy and Pinning
+                                             </td>
+                                         </tr>
+                                         <tr>
+                                            <td class=3D"" height=3D"20"></=
+td>
+                                        </tr>
+                                        <tr>
+                                            <td class=3D"education-text" al=
+ign=3D"left" style=3D"font-family:helvetica neue,helvetica,sans-serif;font-=
+size:16px;color:#666666;line-height:24px;padding:0px 50px 0 50px;">
+                                            By adding the Pin It button, tr=
+acking trends in analytics and creating helpful tutorials with their Promot=
+ed Pins (<a href=3D"http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9p=
+W8pfl6Rh5sK1U9YDM8KvdSEGQfVSNvzhNud3peMEIwAA0kTpgJ03GGCQy-2FBHEvYkYTSzPKzRq=
+ycVzbTFu2omtCTR9nXA8bDE7Xtzlqfae6lDv5yw9YF-2B4x5n1qmzxq3LfoHs3BRcKvz7CM8nzm=
+oBnMYM1X-2Befd7ktU-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2B=
+bbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fj140qMbP4yHw-2F3TGJ143yzVvr8au5=
+hrQuWawoA9tYazuw-2F8pUrmKOFn9xCChganAUkDKuK2kbdZTH-2F-2BMWLGHjrrIepuV6oIRXx=
+p486anfEHPEgbKeqGW5ISNXFqBsxbMjN07Yr2EvX3FVXWPTCIgBGe4UblIvXk4ZeupZPrtKdH6G=
+Alifg4rmhx1o60lVf-2Fze-2FTi1K0yCbqmxYhhaH3BEx89dARKlM5lNfJPl-2Fsi8dDmsHVLCB=
+GiOMAKIGTREwGmhPyxvm3aBbgBWk2AT36ywUy-2B-2Btx5RdnK2VnDMMNF4SaLCiFlXNZlnSRvZ=
+TigCpNu4gXUaBXdh-2FZ7qEqBqHtP6rsU3-2BGskhs2OGTRfPyIsc7" style=3D"color:#339=
+9FF;text-decoration:none" target=3D"_blank"><b>frozen whipped cream</b></a>=
+, anyone?), <a href=3D"http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2=
+B9pW8pfl6Rh5sK1U9YDM8KvdSEGQfVSNvzhNt6px-2FF6YUyVHAFlK44X-2B5Cp3iz6Jbx3rnSk=
+m00rq2QaITUpqmfTdljBllflbMEWjm5fuhJig-2BT8KPyB9kVIll7t38g0DdF8w30VK-2FO2vxD=
+UQrY5GWZGHDdUwBkrhAN26g-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQ=
+Yn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FjzulYS-2Fpof7HMt8XsvyU-2B9=
+ZjRkB0po5g3tlEersiFs15vRkqTXu3T41lr1o5z9nieUwPmlpZoPUlAUru-2BCWlPzL9tjirw2U=
+i-2BZEDy9R1BVUQJ75-2F-2BkrinWzVCaBifPdDhKB3ILjy3gcsuUjor-2FP6oJIIMsoReuwhjV=
+xWGHCOBdLQJ74-2By2yTUD36CYdvZf0hZKmyLXmmfq7W5ETpv0wxzXHVxUv7FMwY6aApY1CCzOg=
+HdT1dlMQ0rKJuQCAljYhFnpCw3FzD7Um-2BgmAmP-2FNw1Z1NdZBh5EjpKWRZdK7crMLtJpQE4w=
+-2FJQs1a7hlOqVHZ7fRyT3K3ZixGzaL5jsCTe3-2BmBn7qOMJ9F-2BJ5op61gcI" style=3D"c=
+olor:#3399FF;text-decoration:none" target=3D"_blank"><b>Walgreens</b></a> d=
+ramatically increased the number of people who went to their site.  <br><br>
+
+                                            See how Walgreens proved they=
+=E2=80=99re not just a pharmacy but a one-stop-shop for stuff like gifts, D=
+IY projects and beauty products=E2=80=94and a Pinterest success.=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+                                             <tr>
+                                                <td align=3D"center" class=
+=3D"education-text" style=3D"padding:20px 50px 0 50px">
+                                                    <a href=3D"http://email=
+.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q-2F=
+FbQ0OmnjrLIVeFPFK2CtkWfwqbaPMP-2B7jPc9W7E1NJckP5omWmDaOAooYf1Lr5AiW-2F8fZbT=
+2hM-2FYYbNN0IDx2UuU0tGusZLySYERYT07YOpw-2FnMIuyjUykp88VPiN-2F7EPkBKjWGthyep=
+-2BY-2BC827IW7Qx3vXLh4AhKLFCZyW92xw-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-=
+2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FuVDM87HjvPm=
+buTcMN-2Ba1AVYSJ1roUaR32PWS1PvMk5eB7RILinqXALGcpdwzskGNbwnSzundpn-2FT5fUgNY=
+ss9-2FQrBF4CCan5awkNzWhFZsH8R7vfycfdOrsJfG2kiVlUQMRz9Ia71OKVA6E39qHRXHcOYoK=
+Oo-2BXOO4FZS0tQPt2zoUoFJXoOWyro6f7-2B12cU-2FFU9shUKt-2B-2B0J9uTDVI60y8qMaXn=
+fi7-2F9MgWm367ztaJPlp26aJAmLXjserg5WxVOOKk23KFA7j-2FUcEzZsyLpo3Wkrp78uqODoq=
+U2Spj2XNCBgbEh2BxqkkU0HkZU3bQF2D-2FnWTKbo-2BzFLNIDgXA7dUuLp9AoInAnvos6ZhMCy=
+o" style=3D"text-decoration:none;display:block">
+                                                        <table height=3D"40=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                            <tr>
+                                                                <td height=
+=3D"38" style=3D"background-color:#3983d0;padding:2px 15px 0px 15px;border-=
+bottom:2px solid #2868a4;border-radius:3px;">
+                                                                    <a href=
+=3D"http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAuc=
+NZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPFK2CtkWfwqbaPMP-2B7jPc9W7E1NJckP5omWmDaOAooY=
+f1Lr5AiW-2F8fZbT2hM-2FYYbNN0IDx2UuU0tGusZLySYERYT07YOpw-2FnMIuyjUykp88VPiN-=
+2F7EPkBKjWGthyep-2BY-2BC827IW7Qx3vXLh4AhKLFCZyW92xw-3D-3D_hfIqhjxrH5PXl2rHT=
+1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bt=
+eV-2FnWjJVlBXjELHA5uA2OvK-2BAsbnINTOJXdBMXNow0jhCtKfQt5p5wCXd84yv-2BEowV26-=
+2BIK3frp2FB78ec0kgnGqc5TdfFbVmgIPEP56irhYsQqLaqZ9bfnBc94ZS1nXm7-2FVIapkfLVH=
+-2FGVKdECvItZzfKVPClIfFsFoR5TN-2FGyVRDJAtPE-2FI5OXUcF1DLvxMW0E-2BNAebPvYTGK=
+Y87fu-2BAeeOruMeQU3wnrMRG-2B6d0Cs9lecV44URnl-2BZLb79hRhXjjpzo9OHBMt09KQZSZl=
+eNuAL-2B4xjuc-2BDS9ASaxQL3T-2Fxn-2Bg-2B8JT3NDRT9lTjivlCtFMgF5nckEZJXBeG8FZJ=
+FcFeDXlrKsA27DGJuzWQOvBIA" style=3D"font-family:helvetica,sans-serif;font-s=
+ize:16px;color:#ffffff;text-decoration:none;display:block">
+                                                                     Read m=
+ore
+                                                                    </a>
+
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </a>
+                                                </td>
+                                         </tr>
+                                     </td>
+                                 </tr>
+                                <tr>
+                                   <tr>
+                                    <td class=3D"" height=3D"40"></td>
+                                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+        <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"background-color:#f5f3f0;">
+            <tr>
+                <td>
+                    <table class=3D"body" width=3D"620" align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td align=3D"center">
+                                <div class=3D"" style=3D"height:20px">=C2=
+=A0</div>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                    <table class=3D"module" width=3D"600" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                    style=3D"background:#FFFFFF;border-bott=
+om-left-radius:3px;border-bottom-right-radius:3px;border-top:1px solid #e3e=
+3e3;border-bottom:1px solid #e3e3e3;border-left:1px solid #e3e3e3;border-ri=
+ght:1px solid #e3e3e3;;overflow:hidden;">
+                                    <tr>
+                                        <td align=3D"center" style=3D"paddi=
+ng:0px;">
+                                            <table class=3D"module educatio=
+n" width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                            style=3D"background:#FFFFFF;bor=
+der-top: 0;">
+                                            <tr>
+                                                <td class=3D"" height=3D"34=
+"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class=3D"education-text=
+" align=3D"left" style=3D"padding:3px 50px 3px 50px;font-family:helvetica n=
+eue,helvetica,sans-serif;font-size:18px;line-height:24px;font-weight:bold;c=
+olor:#454545;">
+                                                 New! Buttons that help peo=
+ple act on your Pins
+                                             </td>
+                                         </tr>
+                                         <tr>
+                                            <td class=3D"" height=3D"20"></=
+td>
+                                        </tr>
+                                        <tr>
+                                            <td class=3D"education-text" al=
+ign=3D"left" style=3D"font-family:helvetica neue,helvetica,sans-serif;font-=
+size:16px;color:#666666;line-height:24px;padding:0px 50px 0 50px;">
+                                            We=E2=80=99ve added some easy-t=
+o-tap buttons that will help Pinners check out your recipes, articles and m=
+ore. Check out our new look in our recent blog post.   <br>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+                                             <tr>
+                                                <td align=3D"center" class=
+=3D"education-text" style=3D"padding:20px 50px 0 50px">
+                                                    <a href=3D"http://email=
+.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q-2F=
+DB99-2FannD34stwIPmXrNGohHcBq4k3U9MrdlWHj9aZ1blkyvDuZcLuzuvgbWUfVXn-2B8X8EE=
+0lltaZ-2BU3atDNHN4vGL-2BuZtMQfOMwefee47Ax2sGKdMli-2F7Bo-2FZxjK4nvk0vDkXWHbA=
+ThFBX83P19L_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F=
+59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FnvtlQHUku-2BPcDCVrcI-2FqMQPmvxJeVLeiIWfWf=
+HMGesxqFh2crmcYBhprQ-2BsL8HxoeKms2lKXPzqtk-2Bfx7eGBDesu3Mq3F4ksa1uhJpY1pCTy=
+7rBFshHyJe5-2Fd5jHNIH8NGLfIJnnWhs520vOClWjBbxUjVzPB82z-2BIcdlQPXBNTIRsnImYM=
+euJzpQL1SmWnla6L4lg3nMFsbKal3HmVxpkh7M2XZf8dgHbcT9tDksOUCmrRMIv7R0ZPP8NFT7h=
+a1wJSc-2F-2F5Vy8YuuF99X2Z9wLoFrMWYqlJT3QRfTmcFCXyimkMeXt1UVteycIGOlaDf-2BKC=
+JBtXysYObYz2zDLH2b45MTUrZglYyXiD-2FEK2hUDp" style=3D"text-decoration:none;d=
+isplay:block">
+                                                        <table height=3D"40=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                            <tr>
+                                                                <td height=
+=3D"38" style=3D"background-color:#3983d0;padding:2px 15px 0px 15px;border-=
+bottom:2px solid #2868a4;border-radius:3px;">
+                                                                    <a href=
+=3D"http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAuc=
+NZFK30joyhd0Q-2FDB99-2FannD34stwIPmXrNGohHcBq4k3U9MrdlWHj9aZ1blkyvDuZcLuzuv=
+gbWUfVXn-2B8X8EE0lltaZ-2BU3atDNHN4vGL-2BuZtMQfOMwefee47Ax2sGKdMli-2F7Bo-2FZ=
+xjK4nvk0vDkXWHbAThFBX83P19L_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWu=
+QYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FgZEr3msuxNKUkHFsvelYzQvjE=
+6IbKywgRO0P35rPl-2BNvJcwprYBpX1AG0Pu5sHj7uUOz6fIpiy-2BB8tl1DAKMA1D-2FaQI9QW=
+qidRe-2Ft6f2d-2BwR5WK3DzHiDCqHcWKrf-2F8Qi7lzHhKTtMn-2FfCS25zQolQtX3j8W-2BbR=
+OgGU6Q-2BnSzqXtr7yBE1BOEld1qIy1ANq9emLl-2F7akbHh9M1rQYCUJ0Cprkv4gd0yNrAa2x6=
+Pf6zSmf-2BbJU7NlLHtA90tIX7KBDiUjaKaMPvj0ONIXbmo91rhRmW2fuOskr9b-2BMUf-2F5wv=
+wiQ-2FU7S5Fhvl1zYnvtY9U-2FTMQJdxEmAP30S1Lm5DboN3JOOpT-2BDSE7siQITfwsbn" sty=
+le=3D"font-family:helvetica,sans-serif;font-size:16px;color:#ffffff;text-de=
+coration:none;display:block">
+                                                                     Read m=
+ore
+                                                                    </a>
+
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </a>
+                                                </td>
+                                         </tr>
+                                     </td>
+                                 </tr>
+                                <tr>
+                                   <tr>
+                                    <td class=3D"" height=3D"40"></td>
+                                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+     <div style=3D"min-height:30px">=C2=A0</div>
+
+
+     <table class=3D"module" width=3D"600" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0"
+     style=3D"border-collapse:collapse;" align=3D"center">
+     <tr>
+        <td align=3D"center">
+            <table class=3D"social-footer" width=3D"500" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:co=
+llapse;">
+                <tr>
+                    <td class=3D"social-type" width=3D"30">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PsapCSwzwsDMsAgLexw4EWOSJ=
+CCYz0F4BB-2BtBP6R2lrj8HTdx5qfzC3fg76svVJkzm2FAQ37YAZu-2BlJP7LA3tdux6TI826LE=
+l7Hrqc2dtxk7cAOvlYPc6feAIuknjw3LtM-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FnCBJ4DBT51BhWdC=
+PWKhfTyw8njLaCBR0kIAPjWz6pxFohLhK13jFC3tGQj-2BpTm3oQUPWvg-2BI4HTPQpkC0STauP=
+usNZMTeyzApLQxBu-2Ficn8XhT6swXvnp2uXQAL0PeIhz2M7TkhBXV33LgeSiuSDungG-2F67n-=
+2BXsaFV5tQQ67E6dzQo5ctA1VuueCt1-2F-2FE1q6kXM215QWkutMMdGoZTpGoXCkFiQtBCYZ8Q=
+RMXcfr8gm-2Fg-2BygtQZaxcetF4bHKCJV4Za2tKO-2FUaCUH-2BHaOZd4lr65G3IyqInH7wOhR=
+vQ4-2FfioF06nC6S95ETGjPXheNgabWyqYWmr3z2xr6q-2B-2FlZNP2wrwr6I0VIFlZYajX0e1X=
+i" style=3D"text-decoration:none">
+                            <img width=3D"30" height=3D"30" border=3D"0" sr=
+c=3D"http://email-assets.pinterest.com/email/shared/social/pinterest_large.=
+png"
+                            style=3D"-ms-interpolation-mode:bicubic;text-de=
+coration:none;display:block;outline:none;"/>
+                        </a>
+                    </td>
+                    <td class=3D"social-label" style=3D"padding-left:6px;pa=
+dding-right:20px;font-family:helvetica neue,helvetica,sans-serif;font-weigh=
+t:bold;font-size:11px">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PsapCSwzwsDMsAgLexw4EWOSJ=
+CCYz0F4BB-2BtBP6R2lrj8HTdx5qfzC3fg76svVJkzm2FAQ37YAZu-2BlJP7LA3tdux6TI826LE=
+l7Hrqc2dtxk7cAOvlYPc6feAIuknjw3LtM-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FhoO28-2B54Ft21q=
+HcETVG7Y5SERBdXabt2NO02QUoGiJ1WIxCkw8Dnfkd12yhitHsr108JjuLpejCJ5NuRTW3fuq1S=
+XWWitNvlTcRbR6KHuGo-2BH7UJi1acz5JWHcsoISKEo6iN4wL8Ybek4w66-2FJb70-2B3ZR99yw=
+4kgcA6MHvMceFM3P17r5JpwjExklQdQNm97NfRun1kSNxmUlkHMOYNX2jRPtbxRbbZ7YbNHyjbN=
+tOMCdzCB6jBsT4aravYKQ0gccqOv5ehlRWwL6GPcPwnpl-2BceEKbmuCGpNU8y-2BDZG8d8EDJt=
+Ek0iVPyGSArFf-2Fa6lHXph9QQYYxwy69beEB6raSC2rgkwMMUqsPzkx2ULLlW" style=3D"te=
+xt-decoration:none;color:#979797;">
+                            Pinterest
+                        </a>
+                    </td>
+                    <td class=3D"social-type" width=3D"30">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1Sl83R6jTJbjkKNm8LpfWnfuSRMPY33JcJA-2FFaucgeVr2h=
+lKLlnrbMVSkiyyER7y657QN8fojS1zeCmVPnEm1LL8EFJ3kfzM2LyeIyiCJswIPmvdFXcdhIxTP=
+kDQdnkBrx5gFI-2FdJHH0SNlRhzerLM0-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwq=
+JqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FsOqktegVFbGyEPkTG=
+zCmLGUQzKTJnf9aLw-2FWhgzJayRxQQpD5Ho17-2BhgVifeXB20QDeGaiBN2jbHWPsjtFtsR5BU=
+2RROX1Q1eCoaIDSyAHlKnIIiQgXcD9d-2F-2FOzSGPfJ1pyD-2BlL19EiSWW-2B0bbjG3IS0mvJ=
+BJlcfT1kIV830FppStKeAg49rkbZhwpGdgwbrhox7ERca3QFl96kqlrGbkvN8e3eyzNtMBK3LAY=
+WmB-2BJEFmP-2Fuy8MsPhmwL0Ezunn-2FgoL-2F6fVd3gsGu9Ly9b64xUwx8LJJZeyVHbe8u3gy=
+O8oK2O0xxcS8d78ABf7SPAoI1NAoQZI1sP7irpRkc3Zyn4oaFGk8dpaa0iIcltqqbd" style=
+=3D"text-decoration:none">
+                            <img width=3D"30" height=3D"30" border=3D"0" sr=
+c=3D"http://email-assets.pinterest.com/email/shared/social/facebook_large.p=
+ng"
+                            style=3D"-ms-interpolation-mode:bicubic;text-de=
+coration:none;display:block;outline:none;"/>
+                        </a>
+                    </td>
+                    <td class=3D"social-label" style=3D"padding-left:6px;pa=
+dding-right:20px;font-family:helvetica neue,helvetica,sans-serif;font-weigh=
+t:bold;font-size:11px">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1Sl83R6jTJbjkKNm8LpfWnfuSRMPY33JcJA-2FFaucgeVr2h=
+lKLlnrbMVSkiyyER7y657QN8fojS1zeCmVPnEm1LL8EFJ3kfzM2LyeIyiCJswIPmvdFXcdhIxTP=
+kDQdnkBrx5gFI-2FdJHH0SNlRhzerLM0-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwq=
+JqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FszVSN9zmXzh-2FXpV=
+2fCPLq389TFZ7UWWXSG4nUGf9bqTJxHU5EkvBMAB-2F0OcMG2BieipJxSZlMaFyTHMLwCJd-2FH=
+IDwhkiafSC-2F2nsIm1bvNgwyCubOAC9epCF1IaweR6u87dMAkad9vK33dXFRzCE69JiM44aXX5=
+P-2BJaLl1ZS4qyBo26S-2Bwuojt3NwHyLHjkfpbEnxqzS1wO2zlBRhcmMDg6BWTzrr2e2SDFUhF=
+RWkFomTXq-2B-2Fe4JV8-2FB0PpTJ5XxnTkp3YdnCE7D3jylLaFG5zQrodmliMQ-2FxuNkgezUi=
+5pGNR-2Bz-2FPI4t0dGIR3cCPbco-2F6GTtz8B0DLQegkxUn2GlBeAgAsaiOhNvZLagoscwf" s=
+tyle=3D"text-decoration:none;color:#979797;">
+                            Facebook
+                        </a>
+                    </td>
+                    <td class=3D"social-type" width=3D"30">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1cOsAGY7Hx-2Bi7NxxJvCy9CyezjQAiThQzwfdryN8Miybj-=
+2BmNc5npOhOb38kbZnspIvmbzvmlnYBmV2mxRGb4do-2FNO7K59GKJ8AGP4HZRpXmXAdGctpFg-=
+2FuaoJe8lim-2Fxuw-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-=
+2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fp2b8-2BWBgpeI5n4ANi6l0f9tB2x6=
+g9Ix-2BQCqN7zLWH6g6oCZkFcENLYjPi5oVNNY9aa6zOy4lqySaiH22cnhQ6UXTHyjPAVTLjHLk=
+V5v8-2FYLxg7nqxdu1B8viedMaPH8ZPGyo7-2BUXFiOT75UQG6Ym1s5In3lP4Lg-2B1W0rzTus2=
+MPJqLYBzs2hBDyzMoHVlQYnjMq-2B1U9p13KIhQ1EILNlehapm8YUOiyo5KpT5MC95eaz27WK84=
+yNhuGiDC0rRZqH0qIj5NvZx4wPSdesoQG1kmROD-2Bo1VsRp2B5gAihMXcaONuPjh4VwHZBf6k6=
+5bJRXbCJyt-2BsOSWMbYWnlX0upypvD1lo-2BQKRp8avbjX9NsIR" style=3D"text-decorat=
+ion:none">
+                            <img width=3D"30" height=3D"30" border=3D"0" sr=
+c=3D"http://email-assets.pinterest.com/email/shared/social/twitter_large.pn=
+g"
+                            style=3D"-ms-interpolation-mode:bicubic;text-de=
+coration:none;display:block;outline:none;"/>
+                        </a>
+                    </td>
+                    <td class=3D"social-label" style=3D"padding-left:6px;pa=
+dding-right:20px;font-family:helvetica neue,helvetica,sans-serif;font-weigh=
+t:bold;font-size:11px">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1cOsAGY7Hx-2Bi7NxxJvCy9CyezjQAiThQzwfdryN8Miybj-=
+2BmNc5npOhOb38kbZnspIvmbzvmlnYBmV2mxRGb4do-2FNO7K59GKJ8AGP4HZRpXmXAdGctpFg-=
+2FuaoJe8lim-2Fxuw-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-=
+2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FpBfL-2FGHHTcELJy4677V0nSSf13E=
+N-2BjzMFtK0yJFaAhLdFiJrVBQmTEY-2BmaSzZCMKFl3vgHIfiRE3z7vlz2CMjDiKwLjOksmoJW=
+KdVWR3tcGTvezT6h-2FpBvt9gmJ5ySWw9vaMIAiIJog1N2E-2FdyQj6AC2gga9nLToR-2Fr9S28=
+SeI75HF01cigWenLpbbdJjfw-2F1uJbxSPT1jDvMyzviFuch2PPyy2d-2FGLUCrkbwq9xYUPfkZ=
+Rx8PbtPXBq51B6-2BAgvutQMvn6-2BtaF35RJPRm2666CR7LH-2FVCemfnJHuiAx5-2FbM3Elvp=
+xG296RXMbx8Tu1oxIjPL-2BvxAJvUFKihg3KUXLKVgWuxfISBGWkhPzRhqIk" style=3D"text=
+-decoration:none;color:#979797">
+                            Twitter
+                        </a>
+                    </td>
+                    <td class=3D"social-type" width=3D"30">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3D4Nhv31c1vN2wkc6mpjUZQXX-2F03UVMDjzWKRJiObBbjGTEX5Bgvyp96PafokHBdtXQc3Vjs=
+axVm6gyu0Imt-2FvJBhTp-2Fj2-2B7vVBbmA6o35IKsNSLxGCpIdEQxmlm1-2BUSCYZWqssKJyK=
+LxK0VWoovwDBvWo8uHaKI0D2YNXTCBQ5AU-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fp5yGFZcmyC6Hzce=
+Vmjel9l-2FJZ14AuAW6I768QyezrLTXeQ-2FvK-2BGOV9jWi99BWqA3d6q3pZHgB6be0urgg3fA=
+oAKuWo1vIPV2NayuXsZCv7qgDfNkKw-2FBHU64KsPXY6-2Bw29XuB3TKwm5m7DrswR5xvsZsceC=
+fWdqQ8Vn0VC-2BwGAY4MsKtDFuFrUuyMBb4fvHqg-2B-2BsklfU3UEYsL2sO1doHHNbgEYED0lV=
+K0iDdIg-2FdroNlPqKRYBEhO-2BD7ApMgIjBHo1BJyyubReC-2FWzoXjnVteV4zoGUcTMI-2BrK=
+O6TOYjHEixOnVr8TNChY34s1zswZWENC1n-2Bja9u-2BK2WYdpQYxIeEqiYoGFx3JArkzxBOAkV=
+Y" style=3D"text-decoration:none">
+                            <img width=3D"30" height=3D"30" border=3D"0" sr=
+c=3D"http://email-assets.pinterest.com/email/shared/social/gplus_large.png"
+                            style=3D"-ms-interpolation-mode:bicubic;text-de=
+coration:none;display:block;outline:none;"/>
+                        </a>
+                    </td>
+                    <td class=3D"social-label" style=3D"padding-left:6px;pa=
+dding-right:20px;font-family:helvetica neue,helvetica,sans-serif;font-weigh=
+t:bold;font-size:11px">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3D4Nhv31c1vN2wkc6mpjUZQXX-2F03UVMDjzWKRJiObBbjGTEX5Bgvyp96PafokHBdtXQc3Vjs=
+axVm6gyu0Imt-2FvJBhTp-2Fj2-2B7vVBbmA6o35IKsNSLxGCpIdEQxmlm1-2BUSCYZWqssKJyK=
+LxK0VWoovwDBvWo8uHaKI0D2YNXTCBQ5AU-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fngfn6hmUU6YOdar=
+dKuA8pJzkkq2CFXa3IVfg85vXDQgA733XCXtNWHgGnIUSW2tUokwZkgHojqLVtder0-2Ftq60Gn=
+2Muiq6ZMhAH5Iojj1lId9VTfadxtQaCeE4hPmYqyYncq0K6Pib34sgf2xhTkkjsuNWYFk-2F-2F=
+Me0ObQJOZx1rs-2BVd69IjPOuAyIlA6xCMG3EGk3kU5-2FKSbc1fILd3UfsBpYaYBRL5ZgoApwE=
+sjpXyKdB-2Bwt6yGm5dmwI1iM6A9Pe5aFGedI876pmbrHJM4r01-2BAwfcg7CeEIM7CSUZ7oBsY=
+xLR9ZhnyhfbqXOVpKFM9dGPrH47HY05keZsF9AuNSElftWryVkxBDAeJzhLDZV" style=3D"te=
+xt-decoration:none;color:#979797">
+                            Google
+                        </a>
+                    </td>
+                    <td class=3D"social-type" width=3D"30">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3DgjudqBuRQmKrDgFe6sJPhuUKszHNUptpxQ20yIh4MYHyBFA5OX7v7wq79z5BzgFvZHpDINdK=
+3Ri0XxDS2OZ2q3UTpfe95GWcufcYX2ZkuYfIMn6ak33vPy4phwxt8QcR1Q9cSJEtPZpWrKButzn=
+8FqtaQFcOBEsbK-2BrSMwD6jto-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvm=
+WuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fi5adrW1bp6Tu9Y-2BSvLZ5s=
+KpqaHbk0Ul6XZ2w3Be6pg70dYar9wW1x3qZaiCuG3RzkqPgBSZ9dK-2BAeIfryRXhIzafaAgbo2=
+zdVEqumd2LX9OnQ5aI75ftz54VhA7KZqCtC5wIH12tRJ2KBUhpa7aHaq20jOisy5SQuYbul24-2=
+FtAixW1QVWn-2BuP6oivtHE50qRQ2S6QL3vTnDc5LAQBhi7tN8thbQvl7Qan-2BfEWRiTU6WjEF=
+G5j2esPhBRhlXpuEjI7NjCWqpnP-2B4aQOpCfAVpM7guSTozviV8Kn5pIpj78FVAAz9n51n2TtJ=
+BjTVJ097H2lQmZTkmdAG2to4DZfoYDsRdM7fb-2BKvz3cFbCmOq0h5" style=3D"text-decor=
+ation:none">
+                            <img width=3D"30" height=3D"30" border=3D"0" sr=
+c=3D"http://email-assets.pinterest.com/email/shared/social/blog_large.png"
+                            style=3D"-ms-interpolation-mode:bicubic;text-de=
+coration:none;display:block;outline:none;"/>
+                        </a>
+                    </td>
+                    <td class=3D"social-label" style=3D"padding-left:6px;fo=
+nt-family:helvetica neue,helvetica,sans-serif;font-weight:bold;font-size:11=
+px">
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3DgjudqBuRQmKrDgFe6sJPhuUKszHNUptpxQ20yIh4MYHyBFA5OX7v7wq79z5BzgFvZHpDINdK=
+3Ri0XxDS2OZ2q3UTpfe95GWcufcYX2ZkuYfIMn6ak33vPy4phwxt8QcR1Q9cSJEtPZpWrKButzn=
+8FqtaQFcOBEsbK-2BrSMwD6jto-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvm=
+WuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fp8JzotuRrhNx-2FBskKmkC0=
+MHZggJmS1m9eIyApuYCaDovaS-2BkPlJ4f04Po3Jjlg4rAwjqOE-2FNlxhMvD4f85RODm6VXjhG=
+c62HLbw0TdqNEP0RTvg7isxTNLZJe6LRAMkGC4koqMOAcGsFoc1wlBkFqZQArxCL-2B7oDkaAle=
+8fi0gC8j5QJaNSGeH1OKZ65RmKJVt3DmiO33V-2FnlSnbOEmoGFEPmBxPohoAVDZCl2UzHd4jQY=
+ahGg-2Bwn3p1wKVrxL8rcQDQ6R0WO44sFQ6Xuy0uCu6z76SvvlmBCAuibar1J7skMM3HbkQHJ3r=
+bC-2FO8BxXp8B92K-2B8jcPP22hTnbOIM-2B0BpKGxRm4FZZAwyMwPIu86" style=3D"text-d=
+ecoration:none;color:#979797;">
+                            Blog
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<div class=3D"" style=3D"height:30px">=C2=A0</div>
+<table class=3D"module" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"border-collapse:collapse;" align=3D"center">
+    <tr>
+        <td>
+            <table class=3D"legal-footer" width=3D"100%" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:co=
+llapse;">
+                <tr>
+                    <td align=3D"center" style=3D"font-family:helvetica neu=
+e,helvetica,sans-serif;font-size:11px;color:#999999;line-height:18px;paddin=
+g:0 50px 0 50px">
+                        This email was sent to <a href=3D"contactus@seeinin=
+dia.com" style=3D"color:#979797;text-decoration:none;">contactus@seeinindia=
+.com</a>.
+                        <br/>
+                        Don't want to receive this type of email? <a href=
+=3D"http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2Bs=
+CIfxFgBrsNdmkLInG8PviSmPI4DcOZXo8WVGLjraiWBs29mvx51sLjJFvASS4xsQ6E7xeDDonkn=
+cIcgcRzShycTL-2BUmczJYzax7cUx1n2ooM5mnH8ELg0j85Btt1gUajkB5YLCzA4n4Sf-2BvcoC=
+NAiFRdCGoV7SPFnC60u5fSD_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-=
+2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FgQv7oOAf38GM6lEoVIKOwCqQwNxxE=
+nHAK5BKK5K3Q95GYmBSzP-2BIok2O-2BNNLn2FEf-2F2-2FKVgVQwrv1W0br5H3KAVJ0TGi2n8e=
+sO2NJ-2BJV1aVlsCafqz0MqMai8e6Zyk2BRGCqc2iSsz1Ub4DqFboM63dxyuZp89bkL9oU9J2wq=
+BtcZAk-2FV4FnV3fhgLXUp00k9U4cVBOU3Y5Xi-2BGhsMeMVwy2-2FyrxyGUvKYgi9wLNX49DqD=
+1yN9sFiWmx4i40BAw3-2B2qbtRaHqSbEtNlpZIH-2BPRJ0LyGNgSSkHuKds1UgHxdnlWGuVuzyu=
+7tyex-2Fzjq-2BEnmQGGeMBQqKi-2BOHNBgJ0YPZZrwD5vJddeCnWIE6KB25" style=3D"colo=
+r:#979797;text-decoration:underline;font-weight:bold">Change your email pre=
+ferences</a>.
+                        <br/>
+                        Didn't sign up for Pinterest? <a href=3D"http://ema=
+il.pinterest.com/wf/click?upn=3D3o098S9vC1EmCZoGtpxasOKTuYU19I7yrelriHdyZHw=
+032eI4T5EdOgoATVfi9iDgx8tDgWSgPxCVF8gWcZuH0vqvVgUOnGnSjE1lGsLlPI-2F5Mx0RAHA=
+4-2BTMZT9v6pfBG11Ua8oNlEGakI3djJsdrWYr2Zj-2FqCeK0HvHGM9tAgTCjz-2FICXMUhkLyn=
+Xnzao8q3cLrqv6y-2Fst7URGx5NktMA-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2Fg5okGY2kc3TWzLv=
+vIlf2IDjJJBMpzHtGFVKM-2Fr014hS7aIgpQ2H-2FODDRAY9KvkBTXcK-2FXYqhlYy2MKxp4Y8O=
+XcmThWdQjmlWlATFBy1SrwkJBakIWA-2Fyad-2Fv8EXIm2id-2BDBBEXUsbhm4OG6Lh-2F62S-2=
+FBxRiBa0bZRhveeC4FBa0bp3mJUcHRlJxQxhJCCxkrTX6GJJBte2MrVxtNaOqsbQkkYSNGBaN4r=
+XMWd4ROizpodL0EOxLrpmLlJA1Y8Ml4PMwTedY3DVrWlVv4jM0Jae1NixP1yBFxQf22X-2FPYhg=
+wgZh0hPp-2Fy6c1TzfqYbqQ908K7-2ByAoBeFR123sdD2oq-2Be2mGisvGbrL4tQ2MdOrJZP" s=
+tyle=3D"color:#979797;text-decoration:underline;font-weight:bold">Please le=
+t us know!</a>
+                        <br/>
+                        Have a question? <a href=3D"http://email.pinterest.=
+com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PuWbIJh6t=
+7SDcpaGU1NKzbo0-2B-2F0Wf4tDQ6C-2B-2FJ7SR02Kgt2Wvixt10a8GeivS-2Fugr7mvbGeRUj=
+I0IgiC-2BURLwpVHHfWre9qdg4a82t2qhEvX5-2FhNetdkXbsPoX2nkbt33U-3D_hfIqhjxrH5P=
+Xl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0G=
+uKn3bteV-2FiNkXOVDDLQe6qPW3vJWLcfVo5z21JZXmCkif3AzWGfV-2BhBAd3tAtnSA9nXn9dC=
+SmWurtmIJyDWbSjvbI-2Fh-2F0Vg0W8axY4bJ-2Bnp8ufChnC5YPmGmWB5tNtBhF9aelgntC2-2=
+Fv08-2BTPVDaC6xx-2BczYvqWQtGGTTkwndgW7p-2BFrmxITDGRYIPQ5nmmsmFYbDRdBFcAJO01=
+I8yui2OMoJj7mOfHQacFcCfVaKdmhlZqr1sFoyoS7qcfjWV35dTfVmn-2B2yK2-2BI0fEGDshzK=
+E2pgPNjQcNNo79jKHGYJvyyU8AS4POEaJO0VNM77t9LjMiucBMPVE6FLNxIVC7u654ZuTKug8be=
+vmjIei-2FGj2zf4HlepXh" style=3D"color:#979797;text-decoration:underline;fon=
+t-weight:bold" title=3D"Find answers in our Help Center">Visit our Help Cen=
+ter</a>.
+                        <br/>
+                        =C2=A9 Pinterest, Inc.
+                        <br/>
+                        808 Brannan Street, San Francisco, CA 94103
+                        <br/>
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PuX-2FtTYGnIN5GG1X3j4JaqS=
+JhFSvRFm8YIrMqdacX-2F9K10bCsHPGryrEASlAkjDCPMONmKmZ0-2ByShuOHqTNnbHQHQd34jD=
+p0Ew1SszY9ghUjTRE2lFxY024G5hYFwuL6lQ-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F=
+7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2FgUlSPMPS3OJ1p=
+aKeEcLbFzwD0-2FKYS0COSdRVoiJH2T-2FjOml6cv-2BquJpaaEZXDn9nZxVgsKGP-2B2SglVGI=
+7iFKKe4HqQatTaqYEp6vOtwy8ruQXa5Hff-2FRgdgidJg-2B2yPQ7viB0xlbb8ZVtpvRUJExSQF=
+3GGAfgeuZLTUt-2BNRgStc5aXMFIZnb5KIX7lbUzcH6OiMsNDbwzQEpLvzODN2BrH-2FJd7czD0=
+xX1yxv6HpfEIhnh0B2LnOBeL77hVEBDJVz-2B1SKgupg40KtFa3KnInjToGRRnVT06Yaw0ByxzH=
+jxy49FaplET5bcCjMfIKQPmfIZS4OR2ayP0UKtaQRN7cNd83EIGymjo3LhroxIkypNc-2F" sty=
+le=3D"color:#979797;text-decoration:underline;font-weight:bold">Privacy Pol=
+icy</a>
+                        |
+                        <a href=3D"http://email.pinterest.com/wf/click?upn=
+=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q9L9WUp2NYv9XMDoM3DZv3-2Fo4L0qx=
+OLc69-2FczPXcSrx4I10MeMWogXY2a6rLiED-2BZrZgWALNApnjynVvdeQwafuCmVXmeMvSrNRB=
+yY6-2BK5APwMwjdvXOk9Vp8iQw-2FGaLvwMGihgHpAJUv9pdjnFW6rT_hfIqhjxrH5PXl2rHT1s=
+LDXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV=
+-2Fpi-2FTvsvX5eNJKOKq1W-2FzRvf-2BlEZUUScoiD3oUbfXPByr-2BQfqvfDh7jkjby-2BV4I=
+H4WqbNApPeGlKuYMtOEQ3ysuA0un6S-2BGTPmOwA7BA4fwzKeS-2BnTKOMjEdJELxXi5lxaVyvE=
+y3i3q2KvexYyG8yrmf0cV1iFWUequbIyuFeMd3vhjDdyGho6hHhHHaQY-2FOyVt99sodoDItLS4=
+YhLR1dPOoHF-2FYFsZhhshrWiEafENebIcU2uGlxBKJGrleT-2BGt89lb9ihgbTl1V1Wd-2BdiR=
+1NFGzaCLF36aq44sd73lMDU4Ao-2FYoWdIPvW7KxtcmBPgnu-2FW6UJtulxbPZwApSnnJwzsjAK=
+ewa4e1H89pHUU5-2Fz0" style=3D"color:#979797;text-decoration:underline;font-=
+weight:bold">Terms and Conditions</a>
+
+                        <br/><br/>
+                        To unsubscribe from all Pinterest email, click <a h=
+ref=3D"http://email.pinterest.com/wf/unsubscribe?upn=3DhfIqhjxrH5PXl2rHT1sL=
+DXg-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-=
+2Foan7hyimjV-2BTfH06LOd8hTwMkWL9FXcIOZ0J4dZzSyL19D1RZp0DkCeexH0wnzZzKrMRURb=
+eRuZLIc81v8iOzL-2BmgxCx3HC1dAzzHEdVciEQMhz8kKWdmsWXH2PZgCBDe6xoL5-2FtXeIVWK=
+4lTQ0lGCIf7edjUQjgmbP-2B1wfbfd7lILyXw7GbvO6Eh1nWerdJwEVdzCB8uttcUw-2BthpN44=
+-2F2mkc2fRhR852X5KPFOFJaos6LO0w84DRP-2BRIVrAp7jbNXG5uejVM-2B7KeSS0e73nVIUiI=
+qb7tVodN8fA3CA-2FfL-2Bm79giCNPVWYrS4GIR6jGO9pSknGDvTSVKrQA5JiQ75GRkerghp-2F=
+8Zf-2FyWBCYOZp" style=3D"color:#979797;text-decoration:underline;">here</a>=
+. <br/> Note we may still send certain account related emails <br/> such as=
+ legal notices and password resets.=20
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"spacer" height=3D"30"></td>
+    </tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<img src=3D"http://email.pinterest.com/wf/open?upn=3DhfIqhjxrH5PXl2rHT1sLDX=
+g-2FA9avWe-2F7dwqJqjzvmWuQYn-2Bbbx-2BZ-2F59pNJPm7Ycac6jzC4x8lI0GuKn3bteV-2F=
+nw7c-2BB8MSaoqtK-2Fi-2BTjih1PNPU5oGhL01ifK2CXmO45yl1Vga1STY9TMcI6PXeFNblY9M=
+jd2Ky2IURRgCn2Mh7LJAFTxxmCOfAXvH4S0mZusd9mwGmYyn2-2BjbiY2kr08sQgJonq8SRx3-2=
+FAOiwlH7iQxGPJ-2FS6JoSVepGejT1VO2jO4ksRlryac12yr0KfWNHBbeQCo6fHLzmSHK3lpgUX=
+y9gMKDz4NzLki-2FBcRt3h9z7rXy8U2Sy6yPmRlrzSKUZMS9RVJdZz6678yYqjF7EoAZEEVv38q=
+d53vYa-2FFO17gIEvb6iayF6l5zvJuXF0G76aER-2F5pRC1tyMYYzju0QltirqwrM-2Byg0AbsY=
+2tmb03AN" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1p=
+x !important;width:1px !important;border-width:0 !important;margin-top:0 !i=
+mportant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0=
+ !important;padding-top:0 !important;padding-bottom:0 !important;padding-ri=
+ght:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--===============4651370628571201009==--

@@ -1,0 +1,1063 @@
+Return-path: <bounce-md_30486343.55ac2314.v1-9234b521c73c44368aff4f22778611a5@mandrillapp.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Sun, 19 Jul 2015 22:22:17 +0000
+Received: from mail187-18.suw11.mandrillapp.com ([198.2.187.18]:48959)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <bounce-md_30486343.55ac2314.v1-9234b521c73c44368aff4f22778611a5@mandrillapp.com>)
+	id 1ZGwyN-002T6M-O1
+	for contactus@seeinindia.com; Sun, 19 Jul 2015 22:22:16 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail187-18.suw11.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:List-Unsubscribe:Date:MIME-Version:Content-Type; i=kalpesh@mail187-18.suw11.mandrillapp.com;
+ bh=avLFN1zkBY3oYOdw85BSq2eL988=;
+ b=o6Y6ntuvWY3jDYJ5KNsw1QZAosM/T2Kd2HiboGuiw7lYhYTz0ixtLflOT5KGmiaE9+OR0jwK55Yo
+   E3IaDr9MUQ2yl3QhrGuGzeuSIcNf83+BhetBIOkOTib8Lh+IYAj9ihEp6DU7SuU875cDQPt79Qe2
+   mRCBnxtYeULXvcw/jEg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mail187-18.suw11.mandrillapp.com;
+ b=h600wXDr1NN9zHYfU7gRnb4M8bAlRAmmkyWmEZrvzWy7rR1cgN0NgKYIRTDAvoT/UiLsW6nkA6n6
+   eYKMX5xmItTaTQvd58TFE2jM6CQ8haC+FhSnB4yGLQhjYzsfJwGJQDd1d6n84RmPCE3j0ZKx37vK
+   Yjv17zY4cXy3egu0Ta8=;
+Received: from pmta01.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail187-18.suw11.mandrillapp.com id hlghhg174i4g for <contactus@seeinindia.com>; Sun, 19 Jul 2015 22:22:12 +0000 (envelope-from <bounce-md_30486343.55ac2314.v1-9234b521c73c44368aff4f22778611a5@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1437344532; h=From : 
+ Sender : Subject : To : Message-Id : List-Unsubscribe : Date : 
+ MIME-Version : Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=If19r8r+D0T5i18GUt5KERhvOf4jaf+VbYTsDDAClww=; 
+ b=qdSre8iWUTe4o7FsrxTicFmrDbnP0W9w750wRVCCVq84TG/B9q5lJP5poIxnq5T730UduJ
+ zprUUlbcoYhhm66c4uD+wVdeEXaLJHazLvVEyYqDg2vQmbycrLoRR9zUW2UgO/MigOsBOVft
+ hAt+P2vslFucIeOcYY0fwTALKMa34=
+From: Tender247 Tender Alert <kalpesh@tender247.com>
+Sender: Tender247 Tender Alert <kalpesh@mail187-18.suw11.mandrillapp.com>
+Subject: (25) Latest Tenders of Vehicle Hiring
+Received: from [182.74.245.70] by mandrillapp.com id 9234b521c73c44368aff4f22778611a5; Sun, 19 Jul 2015 22:22:12 +0000
+To: <contactus@seeinindia.com>
+Message-Id: <81213227.18175.1437344523975.JavaMail.isourcing@isourcing-desktop>
+List-Unsubscribe: <mailto:unsubscribe-md_30486343.55ac2314.v1-9234b521c73c44368aff4f22778611a5@mailin1.us2.mcsv.net?subject=unsub>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30486343.9234b521c73c44368aff4f22778611a5
+X-Mandrill-User: md_30486343
+Date: Sun, 19 Jul 2015 22:22:12 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-RJsC4EbTVDlZ3Md7ZdRzsg"
+X-Authenticated_sender: 
+
+--_av-RJsC4EbTVDlZ3Md7ZdRzsg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Tender247 Tender AlertFor assistance, Call us @ 07575075733 */*
+09737607000Dear Sir,
+
+We at Tender247.com <www.tender247.com> provide information on Latest
+Tenders with Tender Document & Tender Result. To help you evaluate our
+service we are sending the Tenders published in last 24 hours, that could
+be of Your Interest. 
+
+ Note : If the following tenders are not relevant to you, we request you to
+reply us with the Product / Service / Categories of which you would like to
+receive the tenders. 
+
+*Latest Tenders : * 
+
+*1.*Scope Of Work : *1. Hiring Of Multi-Utility Vehicle For Leading Of
+P.Way Material And Machinery From Station To Station Including Block
+Section For Day To Day Track Work In The Section Of Sr.Den-Iii/Uambala (11)
+Replacement Of Steel Over Head Tank No. 2. With Rcc Water Storage Overhead
+Tank Of 50,000 Gallons Capacity With 20 Mtrs. High Staging In Railway
+Colony At Jagadhari Workshop In The Section Of Sse/W/Judw Under Aden/Judw.
+(12) (i) Dismantling Of Abandoned Structures At Ambala As Per Tender
+Schedule, In The... <http://Tender247.com/TenderDetails/2724806>Value :2.81
+CrLocation :Haryana IndiaDeadline :20-08-2015T247 ID :2724806Buy This
+Tender Information <http://tender247.com/SubcribeNow/1>*2.*Scope Of Work :
+*Annual Works Contract For Providing Services Of Bus On Hire Basis For
+Movement Of O&M Staff At Os-Nptps, Parli-Vaijnath..
+<http://Tender247.com/TenderDetails/2720835>Value :73.97 LacsLocation
+:Maharashtra IndiaDeadline :20-07-2015T247 ID :2720835Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*3.*Scope Of Work : *Hiring
+Of Vehicles For The Use Of Officers Of Vigilance & Safety Department Of
+West Central Railway On Official Duty.
+<http://Tender247.com/TenderDetails/2724981>Value :45.12 LacsLocation
+:Madhya Pradesh IndiaDeadline :12-08-2015T247 ID :2724981Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*4.*Scope Of Work : *Hiring
+of pickup trucks such as TATA 497 SP/Kargo King/Mahindra NC 640 DP or
+equivalent of 5 seater capacity for SSE/S/GDV,BVRM,EE,NDD,RJY,SLO & TUI
+<http://Tender247.com/TenderDetails/2725016>Value :43.68 LacsLocation
+:Andhra Pradesh IndiaDeadline :31-08-2015T247 ID :2725016Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*5.*Scope Of Work : *Hiring
+of 9 numbers of a/c utility vehicles (tata indica or equivalent ac car) for
+the use of officials of regional office (south) for a period of one year on
+contract basis. <http://Tender247.com/TenderDetails/2721787>Value :43.2
+LacsLocation :Tamil Nadu IndiaDeadline :24-07-2015T247 ID :2721787Buy This
+Tender Information <http://tender247.com/SubcribeNow/1>*6.*Scope Of Work :
+*Hiring Of Pickup Trucks Such As Tata 497 Sp/Kargo King/Mahindra Nc 640 Dp
+Or Equivalent Of 5 Seater Capacity For Sse/S/Gdr,Bttr,Ogl, Bpp,Tel &
+M/Bza.. <http://Tender247.com/TenderDetails/2724997>Value :37.44
+LacsLocation :Andhra Pradesh IndiaDeadline :31-08-2015T247 ID :2724997Buy
+This Tender Information <http://tender247.com/SubcribeNow/1>*7.*Scope Of
+Work : *Hiring Of 04 (Four) No. Light Commercial Vehicles (Multi Utility
+Vehicle) I. E. 01 No. <http://Tender247.com/TenderDetails/2725085>Value
+:36.51 LacsLocation :Rajasthan IndiaDeadline :21-08-2015T247 ID :2725085Buy
+This Tender Information <http://tender247.com/SubcribeNow/1>*8.*Scope Of
+Work : *Providing Vehicle On Lease.
+<http://Tender247.com/TenderDetails/2720883>Value :33.73 LacsLocation
+:Delhi IndiaDeadline :13-08-2015T247 ID :2720883Buy This Tender Information
+<http://tender247.com/SubcribeNow/1>*9.*Scope Of Work : *Hiring of 1 number
+of diesel vehicle fitted with hydraulic ladder of 12 Mtr working height for
+two years period in Zone VIII.
+<http://Tender247.com/TenderDetails/2722026>Value :28 LacsLocation :Tamil
+Nadu IndiaDeadline :31-07-2015T247 ID :2722026Buy This Tender Information
+<http://tender247.com/SubcribeNow/1>*10.*Scope Of Work : *Providing
+Vehicles Including Ambulance Services at the Hospital by Ambulance, Staff
+car & Wellness Van on Contract Basis.
+<http://Tender247.com/TenderDetails/2724285>Value :21 LacsLocation :Haryana
+IndiaDeadline :17-08-2015T247 ID :2724285Buy This Tender Information
+<http://tender247.com/SubcribeNow/1>*11.*Scope Of Work : *Hiring Of Diesel
+Driven 7 Seater Non-Ac Light Commercial Vehicle, Eg. Sumo, Bolero, Tavera
+Etc.. <http://Tender247.com/TenderDetails/2719206>Value :20 LacsLocation
+:Uttar Pradesh IndiaDeadline :10-08-2015T247 ID :2719206Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*12.*Scope Of Work : *Work
+Of Providing School Bus (29+1 Seater) On Hire Basis, For Girl Students
+Residing In T.P.S. Colony And Going To Various Schools/ Colleges At Parli
+City & Ambejogai. <http://Tender247.com/TenderDetails/2720842>Value :19.51
+LacsLocation :Maharashtra IndiaDeadline :22-07-2015T247 ID :2720842Buy This
+Tender Information <http://tender247.com/SubcribeNow/1>*13.*Scope Of Work :
+*Hiring of Three, 03 Nos. Golden Yellow Painted fulfilling Honorable
+Supreme Court guidelines School Buses 52/56 or higher Seater BUILT On MNM,/
+TATA / Ashok Leyland Chassis or equivalent for School Children of Lingaraj
+Area for a period of One Year.
+<http://Tender247.com/TenderDetails/2721521>Value :17.82 LacsLocation
+:Orissa IndiaDeadline :28-07-2015T247 ID :2721521Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*14.*Scope Of Work :
+*Hiring of vehicle: jeep/sumo on leas basis.(Hindi scan image)
+<http://Tender247.com/TenderDetails/2725672>Value :13.81 LacsLocation
+:Uttar Pradesh IndiaDeadline :21-08-2015T247 ID :2725672Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*15.*Scope Of Work :
+*Providing Of Vehicle : Mahindra Maximo Plus Vehicle For Door To Door
+Garbage Collection Work <http://Tender247.com/TenderDetails/2724639>Value
+:13 LacsLocation :Madhya Pradesh IndiaDeadline :05-08-2015T247 ID
+:2724639Buy This Tender Information
+<http://tender247.com/SubcribeNow/1>*16.*Scope Of Work : *Hiring Of 1 No.
+Of 3.5 Ton Pay Load Lcv Truck (Six Wheelers) Road Vehicle (Swaraj Mazda Or
+Equivalent) For Departmental Use Of Sse/Br/Vzm & Rgda For A Period Of 12
+Months Under The Jurisdiction Of Den/Br/Wat..
+<http://Tender247.com/TenderDetails/2723883>Value :12.26 LacsLocation
+:Andhra Pradesh IndiaDeadline :20-08-2015T247 ID :2723883Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*17.*Scope Of Work :
+*Hiring Of Vehicles. <http://Tender247.com/TenderDetails/2722265>Value :12
+LacsLocation :Punjab IndiaDeadline :04-08-2015T247 ID :2722265Buy This
+Tender Information <http://tender247.com/SubcribeNow/1>*18.*Scope Of Work :
+*Hiring of non ac passenger vehicle such as tata sumo, mahindra, scorpio,
+toyota, qualis or similar having six seat capacity excluding driver for
+period of two years for sr.dsos office, safety department cst.
+<http://Tender247.com/TenderDetails/2724438>Value :11.86 LacsLocation
+:Maharashtra IndiaDeadline :21-08-2015T247 ID :2724438Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*19.*Scope Of Work :
+*Hiring of One Private Vehicle AC for official use of CRS/N.F.Circle for 24
+(Twenty four) months <http://Tender247.com/TenderDetails/2725234>Value
+:9.89 LacsLocation :West Bengal IndiaDeadline :21-08-2015T247 ID
+:2725234Buy This Tender Information
+<http://tender247.com/SubcribeNow/1>*20.*Scope Of Work : *Hiring of four
+wheeler vehicle for period of 24 months for the office of Dy.CSTE[C] Dadar
+for supervision of various works in division of Central Railway.
+<http://Tender247.com/TenderDetails/2724442>Value :8.83 LacsLocation
+:Maharashtra IndiaDeadline :26-08-2015T247 ID :2724442Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*21.*Scope Of Work :
+*Hiring of one Air Conditioned vehicle Toyota Etios V(M) / Swift Desire
+LDI, Diesel BS-IV/ Indigo ECS LX CR4 BS4 /Verito 1.5 D4 BS4 / Classic 1.4
+CLXI for the official use of ADRM ADI for a period of 24 months.
+<http://Tender247.com/TenderDetails/2725080>Value :8.04 LacsLocation
+:Gujarat IndiaDeadline :19-08-2015T247 ID :2725080Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*22.*Scope Of Work :
+*Hiring of Bus, Providing of catering service, Advertisement works (flex,
+banner, hoarding), Supply of training kit, Printing booklet, award items.
+(Hindi Scan Image) <http://Tender247.com/TenderDetails/2722055>Value :8
+LacsLocation :Rajasthan IndiaDeadline :04-08-2015T247 ID :2722055Buy This
+Tender Information <http://tender247.com/SubcribeNow/1>*23.*Scope Of Work :
+*Hiring of pickup truck of 4 ton diesel pickup van (LCV) on contract basis
+for transport of railway material under SSE/TRD/KCG for a period of 2
+years. <http://Tender247.com/TenderDetails/2724995>Value :6.86 LacsLocation
+:Andhra Pradesh IndiaDeadline :21-08-2015T247 ID :2724995Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*24.*Scope Of Work :
+*Hiring Of 01 No. Of Road Vehicle For Official Use Of Coaching Depot
+Officer, For A Period Of 02 Years.
+<http://Tender247.com/TenderDetails/2723886>Value :6.68 LacsLocation
+:Andhra Pradesh IndiaDeadline :13-08-2015T247 ID :2723886Buy This Tender
+Information <http://tender247.com/SubcribeNow/1>*25.*Scope Of Work :
+*Hiring Of One Non-Ac Tata Indigo, Mahindra-Bolero Or Logan Or Any Other
+Equivalent Vehicle With Hard Top For The Official Use Of Sr Dpo Including
+Maintenance, Minor/Major Repairs, Cost Of Lubricants, Driver & Fuel, Toll
+Tax, Operations & Maintenance Upto Running 1500 Km In A Month For 24
+Months.. <http://Tender247.com/TenderDetails/2725116>Value :5.87
+LacsLocation :Rajasthan IndiaDeadline :20-08-2015T247 ID :2725116Buy This
+Tender Information <http://tender247.com/SubcribeNow/1>Partner with us at
+Tender247 and uncover valuable opportunities! Look forward to service you.
+
+Thanks & Regards,
+
+*Pankaj Modi / Vishal Dhori*
+
+Mobile : *07575075733 / 09737607000*
+E-mail ID: *sales@tender247.com*
+Website: *www.Tender247.com*
+
+i-Sourcing Technologies Pvt. Ltd., 503, Shikhar Complex, Nr. Adani house,
+Mithakhali 6 Roads, Navrangpura, Ahmedabad - 380009
+
+
+
+
+
+This email was sent to contactus@seeinindia.com (mailto:contactus@seeinindia.com)
+unsubscribe from this list (http://mandrillapp.com/track/unsub.php?u=30486343&id=9234b521c73c44368aff4f22778611a5.YG7Z66oqQCDwXhqpZOBtWKkx4Is%3D&r=https%3A%2F%2Fmandrillapp.com%2Funsub%3Fmd_email%3Dcontactus%2540seeinindia.com)
+--_av-RJsC4EbTVDlZ3Md7ZdRzsg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l; charset=3Dutf-8" /><title>Tender247 Tender Alert</title></head><body><di=
+v style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 13px; colo=
+r: #000; line-height: 20px"><center><table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"2" style=3D"max-width: 600px;"><tr><td colspan=
+=3D"2" align=3D"left" valign=3D"middle"><table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0"><tr><td align=3D"left" valign=3D"middle=
+"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"border-bottom: 1px solid #f7931e; padding-bottom: 10px"><tr><td widt=
+h=3D"72%" align=3D"left" valign=3D"bottom">For assistance, Call us @ <font =
+style=3D"color: #3F49DE; font-size: 15px; font-weight: bold; padding-bottom=
+: 5px;">07575075733</font>  <strong>/</strong>  <font style=3D"color: #3F49=
+DE; font-size: 15px; font-weight: bold; padding-bottom: 5px;">09737607000</=
+font></td><td width=3D"28%" align=3D"right" valign=3D"middle"><img src=3D"h=
+ttp://www.tender247.com/images/email-logo1.png" /></td></tr></table></td></=
+tr></table></td></tr><tr><td style=3D"color:#555555; padding:15px 0 0 0;">D=
+ear Sir,<br /><br />We at <a href=3D"www.tender247.com" target=3D"_blank">T=
+ender247.com</a> provide information on Latest Tenders with Tender Document=
+ & Tender Result. To help you evaluate our service we are sending the Tende=
+rs published in last 24 hours, that could be of Your Interest. <br /><br />=
+<font style=3D"font-weight: bold; text-decoration: underline;"> Note</font>=
+ : If the following tenders are not relevant to you, we request you to repl=
+y us with the Product / Service / Categories of which you would like to rec=
+eive the tenders. <br /><br /><strong>Latest Tenders  : </strong> <br /><br=
+ /></td></tr><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" ali=
+gn=3D"center" valign=3D"top" style=3D"padding-top: 5px"><strong>1.</strong>=
+</td><td width=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of=
+ Work : </strong><a href=3D"http://mandrillapp.com/track/click/30486343/Ten=
+der247.com?p=3DeyJzIjoiaVF3dnozSjdyb0R2OU5ySURtYjJxTGxZVF9NIiwidiI6MSwicCI6=
+IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ=
+3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjQ4MDZcIixcImlkXCI6XCI5MjM0YjUyMWM3M2=
+M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxN=
+DM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #=
+000; text-decoration: none">1. Hiring Of Multi-Utility Vehicle For Leading =
+Of P.Way Material And Machinery From Station To Station Including Block Sec=
+tion For Day To Day Track Work In The Section Of Sr.Den-Iii/Uambala (11) Re=
+placement Of Steel Over Head Tank No. 2. With Rcc Water Storage Overhead Ta=
+nk Of 50,000 Gallons Capacity With 20 Mtrs. High Staging In Railway Colony =
+At Jagadhari Workshop In The Section Of Sse/W/Judw Under Aden/Judw. (12) (i=
+) Dismantling Of Abandoned Structures At Ambala As Per Tender Schedule, In =
+The...</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">V=
+alue :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">2.81 Cr</td><=
+/tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><t=
+d align=3D"left" valign=3D"middle" colspan=3D"3">Haryana India</td></tr><tr=
+><td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"3">20-08-2015</td></tr><tr><td align=
+=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" v=
+align=3D"middle" colspan=3D"2">2724806</td><td align=3D"right" width=3D"180=
+"><a href=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=3D=
+eyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ=
+4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdW=
+JjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExY=
+TVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIz=
+NzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: none=
+"><span style=3D"text-decoration: underline;">Buy This Tender Information</=
+span></a></td></tr></table></td></tr></table></td></tr></table></td></tr><t=
+r><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" v=
+align=3D"top" style=3D"padding-top: 5px"><strong>2.</strong></td><td width=
+=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </st=
+rong><a href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com?p=
+=3DeyJzIjoiQUc0Q21qNXUwa1V0bkRSUGZJYWxlMFE1Q2pFIiwidiI6MSwicCI6IntcInVcIjoz=
+MDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9=
+UZW5kZXJEZXRhaWxzXFxcLzI3MjA4MzVcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZj=
+RmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwN=
+jcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-de=
+coration: none">Annual Works Contract For Providing Services Of Bus On Hire=
+ Basis For Movement Of O&M Staff At Os-Nptps, Parli-Vaijnath..
+</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :=
+</td><td align=3D"left" valign=3D"middle" colspan=3D"3">73.97 Lacs</td></tr=
+><tr><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><td a=
+lign=3D"left" valign=3D"middle" colspan=3D"3">Maharashtra India</td></tr><t=
+r><td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td alig=
+n=3D"left" valign=3D"middle" colspan=3D"3">20-07-2015</td></tr><tr><td alig=
+n=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" =
+valign=3D"middle" colspan=3D"2">2720835</td><td align=3D"right" width=3D"18=
+0"><a href=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=
+=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjoz=
+MDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9=
+TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4Nj=
+ExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZ=
+GIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: n=
+one"><span style=3D"text-decoration: underline;">Buy This Tender Informatio=
+n</span></a></td></tr></table></td></tr></table></td></tr></table></td></tr=
+><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"cent=
+er" valign=3D"top" style=3D"padding-top: 5px"><strong>3.</strong></td><td w=
+idth=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </=
+strong><a href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com=
+?p=3DeyJzIjoiZWVnWG9QUGNPUGdFbnZMZ1VzVTl3T0dJcUQ0IiwidiI6MSwicCI6IntcInVcIj=
+ozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcX=
+C9UZW5kZXJEZXRhaWxzXFxcLzI3MjQ5ODFcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFm=
+ZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2Y=
+wNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-=
+decoration: none">Hiring Of Vehicles For The Use Of Officers Of Vigilance &=
+ Safety Department Of West Central Railway On Official Duty. </a></td></tr>=
+<tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"3">45.12 Lacs</td></tr><tr><td align=
+=3D"left" valign=3D"middle" width=3D"65">Location :</td><td align=3D"left" =
+valign=3D"middle" colspan=3D"3">Madhya Pradesh India</td></tr><tr><td align=
+=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td align=3D"left" =
+valign=3D"middle" colspan=3D"3">12-08-2015</td></tr><tr><td align=3D"left" =
+valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" valign=3D"m=
+iddle" colspan=3D"2">2724981</td><td align=3D"right" width=3D"180"><a href=
+=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=3DeyJzIjoiU=
+EEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0Myxc=
+InZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5=
+vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcIn=
+VybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdf=
+SJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: none"><span s=
+tyle=3D"text-decoration: underline;">Buy This Tender Information</span></a>=
+</td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td><ta=
+ble width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" valign=
+=3D"top" style=3D"padding-top: 5px"><strong>4.</strong></td><td width=3D"95=
+%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><=
+tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </strong><a =
+href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com?p=3DeyJzI=
+joiWlAwLVlGVXlQeW5UZ2VIZUpXTC1kaGJ3YUV3IiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0=
+MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJ=
+EZXRhaWxzXFxcLzI3MjUwMTZcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nz=
+g2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZ=
+TkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-decoration=
+: none">Hiring of pickup trucks such as TATA 497 SP/Kargo King/Mahindra NC =
+640 DP or equivalent of 5 seater capacity for SSE/S/GDV,BVRM,EE,NDD,RJY,SLO=
+ & TUI</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">V=
+alue :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">43.68 Lacs</t=
+d></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td=
+><td align=3D"left" valign=3D"middle" colspan=3D"3">Andhra Pradesh India</t=
+d></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td=
+><td align=3D"left" valign=3D"middle" colspan=3D"3">31-08-2015</td></tr><tr=
+><td align=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"2">2725016</td><td align=3D"right" w=
+idth=3D"180"><a href=3D"http://mandrillapp.com/track/click/30486343/tender2=
+47.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6Intc=
+InVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmN=
+vbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0Zj=
+IyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2Y=
+WQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decor=
+ation: none"><span style=3D"text-decoration: underline;">Buy This Tender In=
+formation</span></a></td></tr></table></td></tr></table></td></tr></table><=
+/td></tr><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=
+=3D"center" valign=3D"top" style=3D"padding-top: 5px"><strong>5.</strong></=
+td><td width=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of W=
+ork : </strong><a href=3D"http://mandrillapp.com/track/click/30486343/Tende=
+r247.com?p=3DeyJzIjoiMTRad1BYVVN4a3AwMXptNUZrQ1RUVW5YNVowIiwidiI6MSwicCI6In=
+tcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3L=
+mNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjE3ODdcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0=
+NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM=
+1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #00=
+0; text-decoration: none">Hiring of 9 numbers of a/c utility vehicles (tata=
+ indica or equivalent ac car) for the use of officials of regional office (=
+south) for a period of one year on contract basis.</a></td></tr><tr><td ali=
+gn=3D"left" valign=3D"middle" width=3D"45">Value :</td><td align=3D"left" v=
+align=3D"middle" colspan=3D"3">43.2 Lacs</td></tr><tr><td align=3D"left" va=
+lign=3D"middle" width=3D"65">Location :</td><td align=3D"left" valign=3D"mi=
+ddle" colspan=3D"3">Tamil Nadu India</td></tr><tr><td align=3D"left" valign=
+=3D"middle" width=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle=
+" colspan=3D"3">24-07-2015</td></tr><tr><td align=3D"left" valign=3D"middle=
+" width=3D"65">T247 ID :</td><td align=3D"left" valign=3D"middle" colspan=
+=3D"2">2721787</td><td align=3D"right" width=3D"180"><a href=3D"http://mand=
+rillapp.com/track/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQw=
+b1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJ=
+sXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXC=
+JpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbX=
+CI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"=
+_blank" style=3D"color: BLUE; text-decoration: none"><span style=3D"text-de=
+coration: underline;">Buy This Tender Information</span></a></td></tr></tab=
+le></td></tr></table></td></tr></table></td></tr><tr><td><table width=3D"10=
+0%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border: 1px s=
+olid #ccc;"><tr><td width=3D"5%" align=3D"center" valign=3D"top" style=3D"p=
+adding-top: 5px"><strong>6.</strong></td><td width=3D"95%"><table width=3D"=
+100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2=
+"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><t=
+r><td colspan=3D"4"><strong>Scope Of Work : </strong><a href=3D"http://mand=
+rillapp.com/track/click/30486343/Tender247.com?p=3DeyJzIjoiam1QNlFrNmFmVFhW=
+bk5tNXFCLUdpcnk4a09jIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJ=
+sXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3Mj=
+Q5OTdcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX=
+2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0"=
+ target=3D"_blank" style=3D"color: #000; text-decoration: none">Hiring Of P=
+ickup Trucks Such As Tata 497 Sp/Kargo King/Mahindra Nc 640 Dp Or Equivalen=
+t Of 5 Seater Capacity For Sse/S/Gdr,Bttr,Ogl, Bpp,Tel & M/Bza..
+</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :=
+</td><td align=3D"left" valign=3D"middle" colspan=3D"3">37.44 Lacs</td></tr=
+><tr><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><td a=
+lign=3D"left" valign=3D"middle" colspan=3D"3">Andhra Pradesh India</td></tr=
+><tr><td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td a=
+lign=3D"left" valign=3D"middle" colspan=3D"3">31-08-2015</td></tr><tr><td a=
+lign=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"lef=
+t" valign=3D"middle" colspan=3D"2">2724997</td><td align=3D"right" width=3D=
+"180"><a href=3D"http://mandrillapp.com/track/click/30486343/tender247.com?=
+p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjo=
+zMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC=
+9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4N=
+jExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzVi=
+ZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: =
+none"><span style=3D"text-decoration: underline;">Buy This Tender Informati=
+on</span></a></td></tr></table></td></tr></table></td></tr></table></td></t=
+r><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"cent=
+er" valign=3D"top" style=3D"padding-top: 5px"><strong>7.</strong></td><td w=
+idth=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </=
+strong><a href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com=
+?p=3DeyJzIjoiNGpiTGZuU29nNlhYbGp4VEpSM2duVHdsVDJVIiwidiI6MSwicCI6IntcInVcIj=
+ozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcX=
+C9UZW5kZXJEZXRhaWxzXFxcLzI3MjUwODVcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFm=
+ZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2Y=
+wNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-=
+decoration: none">Hiring Of 04 (Four) No. Light Commercial Vehicles (Multi =
+Utility Vehicle) I. E. 01 No.</a></td></tr><tr><td align=3D"left" valign=3D=
+"middle" width=3D"45">Value :</td><td align=3D"left" valign=3D"middle" cols=
+pan=3D"3">36.51 Lacs</td></tr><tr><td align=3D"left" valign=3D"middle" widt=
+h=3D"65">Location :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">=
+Rajasthan India</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"=
+65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">21-08=
+-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">T247 I=
+D :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">2725085</td><td =
+align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.com/track/click=
+/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiw=
+idiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXF=
+wvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjN=
+zNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgx=
+ODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color:=
+ BLUE; text-decoration: none"><span style=3D"text-decoration: underline;">B=
+uy This Tender Information</span></a></td></tr></table></td></tr></table></=
+td></tr></table></td></tr><tr><td><table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td wid=
+th=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-top: 5px"><stron=
+g>8.</strong></td><td width=3D"95%"><table width=3D"100%" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><st=
+rong>Scope Of Work : </strong><a href=3D"http://mandrillapp.com/track/click=
+/30486343/Tender247.com?p=3DeyJzIjoibzBRdFROU2FsY3plSjVWenBuR1pNY3p0T1pzIiw=
+idiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXF=
+wvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjA4ODNcIixcImlkXCI6XCI5M=
+jM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2Ew=
+MDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" styl=
+e=3D"color: #000; text-decoration: none">Providing Vehicle On Lease. </a></=
+td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :</td><=
+td align=3D"left" valign=3D"middle" colspan=3D"3">33.73 Lacs</td></tr><tr><=
+td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"3">Delhi India</td></tr><tr><td alig=
+n=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td align=3D"left"=
+ valign=3D"middle" colspan=3D"3">13-08-2015</td></tr><tr><td align=3D"left"=
+ valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" valign=3D"=
+middle" colspan=3D"2">2720883</td><td align=3D"right" width=3D"180"><a href=
+=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=3DeyJzIjoiU=
+EEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0Myxc=
+InZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5=
+vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcIn=
+VybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdf=
+SJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: none"><span s=
+tyle=3D"text-decoration: underline;">Buy This Tender Information</span></a>=
+</td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td><ta=
+ble width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" valign=
+=3D"top" style=3D"padding-top: 5px"><strong>9.</strong></td><td width=3D"95=
+%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><=
+tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </strong><a =
+href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com?p=3DeyJzI=
+joiWkVKMGZEOGt5dXplcVhiX1ZISlZQVkNGODJBIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0=
+MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJ=
+EZXRhaWxzXFxcLzI3MjIwMjZcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nz=
+g2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZ=
+TkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-decoration=
+: none">Hiring of 1 number of diesel vehicle fitted with hydraulic ladder o=
+f 12 Mtr working height for two years period in Zone VIII.</a></td></tr><tr=
+><td align=3D"left" valign=3D"middle" width=3D"45">Value :</td><td align=3D=
+"left" valign=3D"middle" colspan=3D"3">28 Lacs</td></tr><tr><td align=3D"le=
+ft" valign=3D"middle" width=3D"65">Location :</td><td align=3D"left" valign=
+=3D"middle" colspan=3D"3">Tamil Nadu India</td></tr><tr><td align=3D"left" =
+valign=3D"middle" width=3D"65">Deadline :</td><td align=3D"left" valign=3D"=
+middle" colspan=3D"3">31-07-2015</td></tr><tr><td align=3D"left" valign=3D"=
+middle" width=3D"65">T247 ID :</td><td align=3D"left" valign=3D"middle" col=
+span=3D"2">2722026</td><td align=3D"right" width=3D"180"><a href=3D"http://=
+mandrillapp.com/track/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJm=
+UnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFw=
+idXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXC=
+IsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcI=
+jpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=
+=3D"_blank" style=3D"color: BLUE; text-decoration: none"><span style=3D"tex=
+t-decoration: underline;">Buy This Tender Information</span></a></td></tr><=
+/table></td></tr></table></td></tr></table></td></tr><tr><td><table width=
+=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border:=
+ 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" valign=3D"top" styl=
+e=3D"padding-top: 5px"><strong>10.</strong></td><td width=3D"95%"><table wi=
+dth=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td colsp=
+an=3D"2"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </strong><a href=3D"ht=
+tp://mandrillapp.com/track/click/30486343/Tender247.com?p=3DeyJzIjoiV1k0Y2h=
+TcmM5SldENEtGeVVBc0t5Zkk2Y0N3IiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIj=
+oxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzX=
+FxcLzI3MjQyODVcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwi=
+LFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzR=
+cIl19In0" target=3D"_blank" style=3D"color: #000; text-decoration: none">Pr=
+oviding Vehicles Including Ambulance Services at the Hospital by Ambulance,=
+ Staff car & Wellness Van on Contract Basis.</a></td></tr><tr><td align=3D"=
+left" valign=3D"middle" width=3D"45">Value :</td><td align=3D"left" valign=
+=3D"middle" colspan=3D"3">21 Lacs</td></tr><tr><td align=3D"left" valign=3D=
+"middle" width=3D"65">Location :</td><td align=3D"left" valign=3D"middle" c=
+olspan=3D"3">Haryana India</td></tr><tr><td align=3D"left" valign=3D"middle=
+" width=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=
+=3D"3">17-08-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=
+=3D"65">T247 ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">27=
+24285</td><td align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.c=
+om/track/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY=
+2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJo=
+dHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlw=
+iOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMD=
+BkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" s=
+tyle=3D"color: BLUE; text-decoration: none"><span style=3D"text-decoration:=
+ underline;">Buy This Tender Information</span></a></td></tr></table></td><=
+/tr></table></td></tr></table></td></tr><tr><td><table width=3D"100%" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc=
+;"><tr><td width=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-to=
+p: 5px"><strong>11.</strong></td><td width=3D"95%"><table width=3D"100%" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table=
+ width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td co=
+lspan=3D"4"><strong>Scope Of Work : </strong><a href=3D"http://mandrillapp.=
+com/track/click/30486343/Tender247.com?p=3DeyJzIjoiblE4QlE4X0lGMXN4V1hhd2Vu=
+LVVNWUQycUIwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJ=
+odHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MTkyMDZcIi=
+xcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiO=
+ltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=
+=3D"_blank" style=3D"color: #000; text-decoration: none">Hiring Of Diesel D=
+riven 7 Seater Non-Ac Light Commercial Vehicle, Eg. Sumo, Bolero, Tavera Et=
+c..
+</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :=
+</td><td align=3D"left" valign=3D"middle" colspan=3D"3">20 Lacs</td></tr><t=
+r><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><td alig=
+n=3D"left" valign=3D"middle" colspan=3D"3">Uttar Pradesh India</td></tr><tr=
+><td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"3">10-08-2015</td></tr><tr><td align=
+=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" v=
+align=3D"middle" colspan=3D"2">2719206</td><td align=3D"right" width=3D"180=
+"><a href=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=3D=
+eyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ=
+4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdW=
+JjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExY=
+TVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIz=
+NzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: none=
+"><span style=3D"text-decoration: underline;">Buy This Tender Information</=
+span></a></td></tr></table></td></tr></table></td></tr></table></td></tr><t=
+r><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" v=
+align=3D"top" style=3D"padding-top: 5px"><strong>12.</strong></td><td width=
+=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </st=
+rong><a href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com?p=
+=3DeyJzIjoiM3MxV2xhenR6VzJwSkkxd2x3MUZBMFUzaEM4IiwidiI6MSwicCI6IntcInVcIjoz=
+MDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9=
+UZW5kZXJEZXRhaWxzXFxcLzI3MjA4NDJcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZj=
+RmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwN=
+jcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-de=
+coration: none">Work Of Providing School Bus (29+1 Seater) On Hire Basis, F=
+or Girl Students Residing In T.P.S. Colony And Going To Various Schools/ Co=
+lleges At Parli City & Ambejogai.</a></td></tr><tr><td align=3D"left" valig=
+n=3D"middle" width=3D"45">Value :</td><td align=3D"left" valign=3D"middle" =
+colspan=3D"3">19.51 Lacs</td></tr><tr><td align=3D"left" valign=3D"middle" =
+width=3D"65">Location :</td><td align=3D"left" valign=3D"middle" colspan=3D=
+"3">Maharashtra India</td></tr><tr><td align=3D"left" valign=3D"middle" wid=
+th=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=3D"3"=
+>22-07-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">=
+T247 ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">2720842</t=
+d><td align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.com/track=
+/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diR=
+EgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxc=
+XC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI=
+1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZT=
+FiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"=
+color: BLUE; text-decoration: none"><span style=3D"text-decoration: underli=
+ne;">Buy This Tender Information</span></a></td></tr></table></td></tr></ta=
+ble></td></tr></table></td></tr><tr><td><table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr><=
+td width=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-top: 5px">=
+<strong>13.</strong></td><td width=3D"95%"><table width=3D"100%" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table width=
+=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=
+=3D"4"><strong>Scope Of Work : </strong><a href=3D"http://mandrillapp.com/t=
+rack/click/30486343/Tender247.com?p=3DeyJzIjoiS1R0WTVTc3hSZDRJMi1TMWRmdUZ6N=
+0pFQWlBIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRw=
+OlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjE1MjFcIixcIml=
+kXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIj=
+BlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_b=
+lank" style=3D"color: #000; text-decoration: none">Hiring of Three, 03 Nos.=
+ Golden Yellow Painted fulfilling Honorable Supreme Court guidelines School=
+ Buses 52/56 or higher Seater BUILT On MNM,/ TATA / Ashok Leyland Chassis o=
+r equivalent for School Children of Lingaraj Area for a period of One Year.=
+</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :=
+</td><td align=3D"left" valign=3D"middle" colspan=3D"3">17.82 Lacs</td></tr=
+><tr><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><td a=
+lign=3D"left" valign=3D"middle" colspan=3D"3">Orissa India</td></tr><tr><td=
+ align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td align=3D"=
+left" valign=3D"middle" colspan=3D"3">28-07-2015</td></tr><tr><td align=3D"=
+left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" valig=
+n=3D"middle" colspan=3D"2">2721521</td><td align=3D"right" width=3D"180"><a=
+ href=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=3DeyJz=
+IjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM=
+0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcm=
+liZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcI=
+ixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgw=
+XCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: none"><s=
+pan style=3D"text-decoration: underline;">Buy This Tender Information</span=
+></a></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><t=
+d><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" valig=
+n=3D"top" style=3D"padding-top: 5px"><strong>14.</strong></td><td width=3D"=
+95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </strong><=
+a href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com?p=3DeyJ=
+zIjoiTUV1OTIxcTc2aGlnNGQ5c1huZ2xUY1F5OTdjIiwidiI6MSwicCI6IntcInVcIjozMDQ4Nj=
+M0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZ=
+XJEZXRhaWxzXFxcLzI3MjU2NzJcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3=
+Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTM=
+wZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-decorati=
+on: none">Hiring of vehicle: jeep/sumo on leas basis.(Hindi scan image)</a>=
+</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :</td=
+><td align=3D"left" valign=3D"middle" colspan=3D"3">13.81 Lacs</td></tr><tr=
+><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"3">Uttar Pradesh India</td></tr><tr>=
+<td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"3">21-08-2015</td></tr><tr><td align=
+=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" v=
+align=3D"middle" colspan=3D"2">2725672</td><td align=3D"right" width=3D"180=
+"><a href=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=3D=
+eyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ=
+4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdW=
+JjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExY=
+TVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIz=
+NzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: none=
+"><span style=3D"text-decoration: underline;">Buy This Tender Information</=
+span></a></td></tr></table></td></tr></table></td></tr></table></td></tr><t=
+r><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" v=
+align=3D"top" style=3D"padding-top: 5px"><strong>15.</strong></td><td width=
+=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </st=
+rong><a href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com?p=
+=3DeyJzIjoiUFVfenFtcmFMTW5nbnVMNGdEc2RBLXJtbFp3IiwidiI6MSwicCI6IntcInVcIjoz=
+MDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9=
+UZW5kZXJEZXRhaWxzXFxcLzI3MjQ2MzlcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZj=
+RmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwN=
+jcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-de=
+coration: none">Providing Of Vehicle : Mahindra Maximo Plus Vehicle For Doo=
+r To Door Garbage Collection Work </a></td></tr><tr><td align=3D"left" vali=
+gn=3D"middle" width=3D"45">Value :</td><td align=3D"left" valign=3D"middle"=
+ colspan=3D"3">13 Lacs</td></tr><tr><td align=3D"left" valign=3D"middle" wi=
+dth=3D"65">Location :</td><td align=3D"left" valign=3D"middle" colspan=3D"3=
+">Madhya Pradesh India</td></tr><tr><td align=3D"left" valign=3D"middle" wi=
+dth=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=3D"3=
+">05-08-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65"=
+>T247 ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">2724639</=
+td><td align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.com/trac=
+k/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2di=
+REgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlx=
+cXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNG=
+I1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZ=
+TFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D=
+"color: BLUE; text-decoration: none"><span style=3D"text-decoration: underl=
+ine;">Buy This Tender Information</span></a></td></tr></table></td></tr></t=
+able></td></tr></table></td></tr><tr><td><table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr>=
+<td width=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-top: 5px"=
+><strong>16.</strong></td><td width=3D"95%"><table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table width=
+=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=
+=3D"4"><strong>Scope Of Work : </strong><a href=3D"http://mandrillapp.com/t=
+rack/click/30486343/Tender247.com?p=3DeyJzIjoic0hyRXloNTd2YXdRUVYtQlo3ZEVjR=
+k1WU3QwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRw=
+OlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjM4ODNcIixcIml=
+kXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIj=
+BlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_b=
+lank" style=3D"color: #000; text-decoration: none">Hiring Of 1 No. Of 3.5 T=
+on Pay Load Lcv Truck (Six Wheelers) Road Vehicle (Swaraj Mazda Or Equivale=
+nt) For Departmental Use Of Sse/Br/Vzm & Rgda For A Period Of 12 Months Und=
+er The Jurisdiction Of Den/Br/Wat..
+</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :=
+</td><td align=3D"left" valign=3D"middle" colspan=3D"3">12.26 Lacs</td></tr=
+><tr><td align=3D"left" valign=3D"middle" width=3D"65">Location :</td><td a=
+lign=3D"left" valign=3D"middle" colspan=3D"3">Andhra Pradesh India</td></tr=
+><tr><td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td a=
+lign=3D"left" valign=3D"middle" colspan=3D"3">20-08-2015</td></tr><tr><td a=
+lign=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"lef=
+t" valign=3D"middle" colspan=3D"2">2723883</td><td align=3D"right" width=3D=
+"180"><a href=3D"http://mandrillapp.com/track/click/30486343/tender247.com?=
+p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjo=
+zMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC=
+9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4N=
+jExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzVi=
+ZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: =
+none"><span style=3D"text-decoration: underline;">Buy This Tender Informati=
+on</span></a></td></tr></table></td></tr></table></td></tr></table></td></t=
+r><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"cent=
+er" valign=3D"top" style=3D"padding-top: 5px"><strong>17.</strong></td><td =
+width=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : <=
+/strong><a href=3D"http://mandrillapp.com/track/click/30486343/Tender247.co=
+m?p=3DeyJzIjoiWGlqV0piaHZnbU0xTUZZejVvbGRRdm1GYjBFIiwidiI6MSwicCI6IntcInVcI=
+jozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxc=
+XC9UZW5kZXJEZXRhaWxzXFxcLzI3MjIyNjVcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGF=
+mZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2=
+YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text=
+-decoration: none">Hiring Of Vehicles.</a></td></tr><tr><td align=3D"left" =
+valign=3D"middle" width=3D"45">Value :</td><td align=3D"left" valign=3D"mid=
+dle" colspan=3D"3">12 Lacs</td></tr><tr><td align=3D"left" valign=3D"middle=
+" width=3D"65">Location :</td><td align=3D"left" valign=3D"middle" colspan=
+=3D"3">Punjab India</td></tr><tr><td align=3D"left" valign=3D"middle" width=
+=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">0=
+4-08-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">T2=
+47 ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">2722265</td>=
+<td align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.com/track/c=
+lick/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREg=
+wIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC=
+9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1M=
+jFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFi=
+YTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"co=
+lor: BLUE; text-decoration: none"><span style=3D"text-decoration: underline=
+;">Buy This Tender Information</span></a></td></tr></table></td></tr></tabl=
+e></td></tr></table></td></tr><tr><td><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td=
+ width=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-top: 5px"><s=
+trong>18.</strong></td><td width=3D"95%"><table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"=
+100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4=
+"><strong>Scope Of Work : </strong><a href=3D"http://mandrillapp.com/track/=
+click/30486343/Tender247.com?p=3DeyJzIjoiZGhIREhnaHcxZVk0VzU5VkJUcHpQMWdwdl=
+lnIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcX=
+C9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjQ0MzhcIixcImlkXCI6=
+XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU=
+2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank"=
+ style=3D"color: #000; text-decoration: none">Hiring of non ac passenger ve=
+hicle such as tata sumo, mahindra, scorpio, toyota, qualis or similar havin=
+g six seat capacity excluding driver for period of two years for sr.dsos of=
+fice, safety department  cst.</a></td></tr><tr><td align=3D"left" valign=3D=
+"middle" width=3D"45">Value :</td><td align=3D"left" valign=3D"middle" cols=
+pan=3D"3">11.86 Lacs</td></tr><tr><td align=3D"left" valign=3D"middle" widt=
+h=3D"65">Location :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">=
+Maharashtra India</td></tr><tr><td align=3D"left" valign=3D"middle" width=
+=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">2=
+1-08-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">T2=
+47 ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">2724438</td>=
+<td align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.com/track/c=
+lick/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREg=
+wIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC=
+9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1M=
+jFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFi=
+YTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"co=
+lor: BLUE; text-decoration: none"><span style=3D"text-decoration: underline=
+;">Buy This Tender Information</span></a></td></tr></table></td></tr></tabl=
+e></td></tr></table></td></tr><tr><td><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td=
+ width=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-top: 5px"><s=
+trong>19.</strong></td><td width=3D"95%"><table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"=
+100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4=
+"><strong>Scope Of Work : </strong><a href=3D"http://mandrillapp.com/track/=
+click/30486343/Tender247.com?p=3DeyJzIjoiMDMwNlZ1aGFiLXRPX2hCYnFvXzROanNCSk=
+VVIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcX=
+C9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjUyMzRcIixcImlkXCI6=
+XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU=
+2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank"=
+ style=3D"color: #000; text-decoration: none">Hiring of One Private Vehicle=
+ AC for official use of CRS/N.F.Circle for 24 (Twenty four) months</a></td>=
+</tr><tr><td align=3D"left" valign=3D"middle" width=3D"45">Value :</td><td =
+align=3D"left" valign=3D"middle" colspan=3D"3">9.89 Lacs</td></tr><tr><td a=
+lign=3D"left" valign=3D"middle" width=3D"65">Location :</td><td align=3D"le=
+ft" valign=3D"middle" colspan=3D"3">West Bengal India</td></tr><tr><td alig=
+n=3D"left" valign=3D"middle" width=3D"65">Deadline :</td><td align=3D"left"=
+ valign=3D"middle" colspan=3D"3">21-08-2015</td></tr><tr><td align=3D"left"=
+ valign=3D"middle" width=3D"65">T247 ID :</td><td align=3D"left" valign=3D"=
+middle" colspan=3D"2">2725234</td><td align=3D"right" width=3D"180"><a href=
+=3D"http://mandrillapp.com/track/click/30486343/tender247.com?p=3DeyJzIjoiU=
+EEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0Myxc=
+InZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5=
+vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcIn=
+VybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdf=
+SJ9" target=3D"_blank" style=3D"color: BLUE; text-decoration: none"><span s=
+tyle=3D"text-decoration: underline;">Buy This Tender Information</span></a>=
+</td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td><ta=
+ble width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" valign=
+=3D"top" style=3D"padding-top: 5px"><strong>20.</strong></td><td width=3D"9=
+5%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=
+<tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </strong><a=
+ href=3D"http://mandrillapp.com/track/click/30486343/Tender247.com?p=3DeyJz=
+IjoiWTFja2RVRVQ4MGUtNVYtN0paQkVySUw2anNnIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM=
+0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZX=
+JEZXRhaWxzXFxcLzI3MjQ0NDJcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3N=
+zg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMw=
+ZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #000; text-decoratio=
+n: none">Hiring of four wheeler vehicle for period of 24 months for the off=
+ice of Dy.CSTE[C] Dadar for supervision of various works in division of Cen=
+tral Railway.</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=
+=3D"45">Value :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">8.83=
+ Lacs</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">Locati=
+on :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">Maharashtra Ind=
+ia</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">Deadline =
+:</td><td align=3D"left" valign=3D"middle" colspan=3D"3">26-08-2015</td></t=
+r><tr><td align=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td a=
+lign=3D"left" valign=3D"middle" colspan=3D"2">2724442</td><td align=3D"righ=
+t" width=3D"180"><a href=3D"http://mandrillapp.com/track/click/30486343/ten=
+der247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6=
+IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ=
+3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZm=
+Y0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlM=
+TE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-d=
+ecoration: none"><span style=3D"text-decoration: underline;">Buy This Tende=
+r Information</span></a></td></tr></table></td></tr></table></td></tr></tab=
+le></td></tr><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" ali=
+gn=3D"center" valign=3D"top" style=3D"padding-top: 5px"><strong>21.</strong=
+></td><td width=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope O=
+f Work : </strong><a href=3D"http://mandrillapp.com/track/click/30486343/Te=
+nder247.com?p=3DeyJzIjoiQUY3YVFwTXdSOVllTkZKZ1MtSExRNURFRW93IiwidiI6MSwicCI=
+6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMj=
+Q3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjUwODBcIixcImlkXCI6XCI5MjM0YjUyMWM3M=
+2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgx=
+NDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: =
+#000; text-decoration: none">Hiring of one Air Conditioned vehicle Toyota E=
+tios V(M) / Swift Desire LDI, Diesel BS-IV/ Indigo ECS LX CR4 BS4 /Verito 1=
+.5 D4 BS4 / Classic 1.4 CLXI for the official use of ADRM ADI for a period =
+of 24 months.</a></td></tr><tr><td align=3D"left" valign=3D"middle" width=
+=3D"45">Value :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">8.04=
+ Lacs</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">Locati=
+on :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">Gujarat India</=
+td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">Deadline :</t=
+d><td align=3D"left" valign=3D"middle" colspan=3D"3">19-08-2015</td></tr><t=
+r><td align=3D"left" valign=3D"middle" width=3D"65">T247 ID :</td><td align=
+=3D"left" valign=3D"middle" colspan=3D"2">2725080</td><td align=3D"right" w=
+idth=3D"180"><a href=3D"http://mandrillapp.com/track/click/30486343/tender2=
+47.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6Intc=
+InVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmN=
+vbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0Zj=
+IyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2Y=
+WQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color: BLUE; text-decor=
+ation: none"><span style=3D"text-decoration: underline;">Buy This Tender In=
+formation</span></a></td></tr></table></td></tr></table></td></tr></table><=
+/td></tr><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td width=3D"5%" align=
+=3D"center" valign=3D"top" style=3D"padding-top: 5px"><strong>22.</strong><=
+/td><td width=3D"95%"><table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><strong>Scope Of =
+Work : </strong><a href=3D"http://mandrillapp.com/track/click/30486343/Tend=
+er247.com?p=3DeyJzIjoiZzFOSWZWTXEyeS1wZWZxQngyNDM3Ulk4akxFIiwidiI6MSwicCI6I=
+ntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3=
+LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjIwNTVcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M=
+0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxND=
+M1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" style=3D"color: #0=
+00; text-decoration: none">Hiring of Bus, Providing of catering service, Ad=
+vertisement works (flex, banner, hoarding), Supply of training kit, Printin=
+g booklet, award items. (Hindi Scan Image)</a></td></tr><tr><td align=3D"le=
+ft" valign=3D"middle" width=3D"45">Value :</td><td align=3D"left" valign=3D=
+"middle" colspan=3D"3">8 Lacs</td></tr><tr><td align=3D"left" valign=3D"mid=
+dle" width=3D"65">Location :</td><td align=3D"left" valign=3D"middle" colsp=
+an=3D"3">Rajasthan India</td></tr><tr><td align=3D"left" valign=3D"middle" =
+width=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=3D=
+"3">04-08-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"6=
+5">T247 ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">2722055=
+</td><td align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.com/tr=
+ack/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2=
+diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwO=
+lxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIz=
+NGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDc=
+wZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=
+=3D"color: BLUE; text-decoration: none"><span style=3D"text-decoration: und=
+erline;">Buy This Tender Information</span></a></td></tr></table></td></tr>=
+</table></td></tr></table></td></tr><tr><td><table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc;"><=
+tr><td width=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-top: 5=
+px"><strong>23.</strong></td><td width=3D"95%"><table width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table wid=
+th=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspa=
+n=3D"4"><strong>Scope Of Work : </strong><a href=3D"http://mandrillapp.com/=
+track/click/30486343/Tender247.com?p=3DeyJzIjoiYzRwcExPQmN3dzhOY25XdDk5S2lp=
+cmRUYjJzIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHR=
+wOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjQ5OTVcIixcIm=
+lkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcI=
+jBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_=
+blank" style=3D"color: #000; text-decoration: none">Hiring of pickup truck =
+of 4 ton diesel pickup van (LCV) on contract basis for transport of railway=
+ material under SSE/TRD/KCG for a period of 2 years.</a></td></tr><tr><td a=
+lign=3D"left" valign=3D"middle" width=3D"45">Value :</td><td align=3D"left"=
+ valign=3D"middle" colspan=3D"3">6.86 Lacs</td></tr><tr><td align=3D"left" =
+valign=3D"middle" width=3D"65">Location :</td><td align=3D"left" valign=3D"=
+middle" colspan=3D"3">Andhra Pradesh India</td></tr><tr><td align=3D"left" =
+valign=3D"middle" width=3D"65">Deadline :</td><td align=3D"left" valign=3D"=
+middle" colspan=3D"3">21-08-2015</td></tr><tr><td align=3D"left" valign=3D"=
+middle" width=3D"65">T247 ID :</td><td align=3D"left" valign=3D"middle" col=
+span=3D"2">2724995</td><td align=3D"right" width=3D"180"><a href=3D"http://=
+mandrillapp.com/track/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJm=
+UnQwb1NFUzVWY2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFw=
+idXJsXCI6XCJodHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXC=
+IsXCJpZFwiOlwiOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcI=
+jpbXCI3ZTdhMDBkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=
+=3D"_blank" style=3D"color: BLUE; text-decoration: none"><span style=3D"tex=
+t-decoration: underline;">Buy This Tender Information</span></a></td></tr><=
+/table></td></tr></table></td></tr></table></td></tr><tr><td><table width=
+=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border:=
+ 1px solid #ccc;"><tr><td width=3D"5%" align=3D"center" valign=3D"top" styl=
+e=3D"padding-top: 5px"><strong>24.</strong></td><td width=3D"95%"><table wi=
+dth=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td colsp=
+an=3D"2"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"3"><tr><td colspan=3D"4"><strong>Scope Of Work : </strong><a href=3D"ht=
+tp://mandrillapp.com/track/click/30486343/Tender247.com?p=3DeyJzIjoiZW9IQ2Q=
+1WTN5eFhpbE1wZzhZNWh4amRpQ1MwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIj=
+oxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzX=
+FxcLzI3MjM4ODZcIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwi=
+LFwidXJsX2lkc1wiOltcIjBlMjU2Y2EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzR=
+cIl19In0" target=3D"_blank" style=3D"color: #000; text-decoration: none">Hi=
+ring Of 01 No. Of Road Vehicle For Official Use Of Coaching Depot Officer, =
+For A Period Of 02 Years.</a></td></tr><tr><td align=3D"left" valign=3D"mid=
+dle" width=3D"45">Value :</td><td align=3D"left" valign=3D"middle" colspan=
+=3D"3">6.68 Lacs</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D=
+"65">Location :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">Andh=
+ra Pradesh India</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D=
+"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=3D"3">13-0=
+8-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=3D"65">T247 =
+ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">2723886</td><td=
+ align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.com/track/clic=
+k/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY2s5U2diREgwIi=
+widiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cX=
+FwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlwiOTIzNGI1MjFj=
+NzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMDBkMDcwZTFiYTg=
+xODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" style=3D"color=
+: BLUE; text-decoration: none"><span style=3D"text-decoration: underline;">=
+Buy This Tender Information</span></a></td></tr></table></td></tr></table><=
+/td></tr></table></td></tr><tr><td><table width=3D"100%" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" style=3D"border: 1px solid #ccc;"><tr><td wi=
+dth=3D"5%" align=3D"center" valign=3D"top" style=3D"padding-top: 5px"><stro=
+ng>25.</strong></td><td width=3D"95%"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0"><tr><td colspan=3D"2"><table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"3"><tr><td colspan=3D"4"><=
+strong>Scope Of Work : </strong><a href=3D"http://mandrillapp.com/track/cli=
+ck/30486343/Tender247.com?p=3DeyJzIjoiVVY2YW9xRkxNZ2t2M1BLbF9jeW15Z3h3amxNI=
+iwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9c=
+XFwvVGVuZGVyMjQ3LmNvbVxcXC9UZW5kZXJEZXRhaWxzXFxcLzI3MjUxMTZcIixcImlkXCI6XCI=
+5MjM0YjUyMWM3M2M0NDM2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjBlMjU2Y2=
+EwMDI3OWQ3ZDgxNDM1MTI3N2YwNjcwYTMwZTkwMmY0NzRcIl19In0" target=3D"_blank" st=
+yle=3D"color: #000; text-decoration: none">Hiring Of One Non-Ac Tata Indigo=
+, Mahindra-Bolero Or Logan Or Any Other Equivalent Vehicle With Hard Top Fo=
+r The Official Use Of Sr Dpo Including Maintenance, Minor/Major Repairs, Co=
+st Of Lubricants, Driver & Fuel, Toll Tax, Operations & Maintenance Upto Ru=
+nning 1500 Km In A Month For 24 Months..</a></td></tr><tr><td align=3D"left=
+" valign=3D"middle" width=3D"45">Value :</td><td align=3D"left" valign=3D"m=
+iddle" colspan=3D"3">5.87 Lacs</td></tr><tr><td align=3D"left" valign=3D"mi=
+ddle" width=3D"65">Location :</td><td align=3D"left" valign=3D"middle" cols=
+pan=3D"3">Rajasthan India</td></tr><tr><td align=3D"left" valign=3D"middle"=
+ width=3D"65">Deadline :</td><td align=3D"left" valign=3D"middle" colspan=
+=3D"3">20-08-2015</td></tr><tr><td align=3D"left" valign=3D"middle" width=
+=3D"65">T247 ID :</td><td align=3D"left" valign=3D"middle" colspan=3D"2">27=
+25116</td><td align=3D"right" width=3D"180"><a href=3D"http://mandrillapp.c=
+om/track/click/30486343/tender247.com?p=3DeyJzIjoiUEEyYWNiVzJmUnQwb1NFUzVWY=
+2s5U2diREgwIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJo=
+dHRwOlxcXC9cXFwvdGVuZGVyMjQ3LmNvbVxcXC9TdWJjcmliZU5vd1xcXC8xXCIsXCJpZFwiOlw=
+iOTIzNGI1MjFjNzNjNDQzNjhhZmY0ZjIyNzc4NjExYTVcIixcInVybF9pZHNcIjpbXCI3ZTdhMD=
+BkMDcwZTFiYTgxODFlOTBjZTNlMTE2YWQ4MzViZGIzNzgwXCJdfSJ9" target=3D"_blank" s=
+tyle=3D"color: BLUE; text-decoration: none"><span style=3D"text-decoration:=
+ underline;">Buy This Tender Information</span></a></td></tr></table></td><=
+/tr></table></td></tr></table></td></tr><tr><td style=3D"color:#555555; pad=
+ding:15px 0 0 0;">Partner with us at Tender247 and uncover valuable opportu=
+nities! Look forward to service you.<br /><br />Thanks & Regards,<br /><br =
+/><strong>Pankaj Modi / Vishal Dhori</strong><br /><br />Mobile : <font sty=
+le=3D"color: #000; text-decoration: none"><strong>07575075733 / 09737607000=
+</strong></font><br />E-mail ID: <font style=3D"color: #000; text-decoratio=
+n: none"><strong>sales@tender247.com</strong></font><br />Website: <font st=
+yle=3D"color: #000; text-decoration: none"><strong>www.Tender247.com</stron=
+g></font><br /><br /><p style=3D" font-size:11px; background-color:#c6c9d0;=
+ padding:10px 20px">i-Sourcing Technologies Pvt. Ltd., 503, Shikhar Complex=
+, Nr. Adani house, Mithakhali 6 Roads, Navrangpura, Ahmedabad - 380009</p><=
+br /><br /></td></tr></table></center></div><img src=3D"http://mandrillapp.=
+com/track/open.php?u=3D30486343&id=3D9234b521c73c44368aff4f22778611a5" heig=
+ht=3D"1" width=3D"1"><center>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; border-top:1px =
+solid #E5E5E5;">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding-top:20px; =
+padding-bottom:20px;">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"canspamBar">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"color:=
+#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; line-hei=
+ght:150%; padding-right:20px; padding-bottom:5px; padding-left:20px; text-a=
+lign:center;">
+                            This email was sent to <a href=3D"mailto:contac=
+tus@seeinindia.com" target=3D"_blank" style=3D"color:#404040 !important;">c=
+ontactus@seeinindia.com</a>
+                            &nbsp;&nbsp;
+                            <a href=3D"http://mandrillapp.com/track/click/3=
+0486343/mandrillapp.com?p=3DeyJzIjoiUTF2UUdQczB0b2s2NlpGYXd5cTltU1c0Q3Z3Iiw=
+idiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXF=
+wvbWFuZHJpbGxhcHAuY29tXFxcL3RyYWNrXFxcL3Vuc3ViLnBocD91PTMwNDg2MzQzJmlkPTkyM=
+zRiNTIxYzczYzQ0MzY4YWZmNGYyMjc3ODYxMWE1LllHN1o2Nm9xUUNEd1hocXBaT0J0V0treDRJ=
+cyUzRCZyPWh0dHBzJTNBJTJGJTJGbWFuZHJpbGxhcHAuY29tJTJGdW5zdWIlM0ZtZF9lbWFpbCU=
+zRGNvbnRhY3R1cyUyNTQwc2VlaW5pbmRpYS5jb21cIixcImlkXCI6XCI5MjM0YjUyMWM3M2M0ND=
+M2OGFmZjRmMjI3Nzg2MTFhNVwiLFwidXJsX2lkc1wiOltcIjg3ZjkyM2YxODI4NmZjOTc4MDBhN=
+TcwN2VhMjAyYzNhMDQ1MDBmYTRcIl19In0" style=3D"color:#404040 !important;">uns=
+ubscribe from this list</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <style type=3D"text/css">
+        @media only screen and (max-width: 480px){
+            table[id=3D"canspamBar"] td{font-size:14px !important;}
+            table[id=3D"canspamBar"] td a{display:block !important; margin-=
+top:10px !important;}
+        }
+    </style>
+</center></body></html>
+
+--_av-RJsC4EbTVDlZ3Md7ZdRzsg--
+

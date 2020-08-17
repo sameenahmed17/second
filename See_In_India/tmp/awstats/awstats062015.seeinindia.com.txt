@@ -1,0 +1,991 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201506 will be lost/reset.
+# Last config file used to build this data file was /home2/seeinind/tmp/awstats/awstats.seeinindia.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2695                
+POS_VISITOR 30483               
+POS_DAY 36625               
+POS_DOMAIN 3589                
+POS_LOGIN 4213                
+POS_ROBOT 4368                
+POS_WORMS 5017                
+POS_EMAILSENDER 5148                
+POS_EMAILRECEIVER 5291                
+POS_SESSION 37402               
+POS_SIDER 37594               
+POS_FILETYPES 5426                
+POS_DOWNLOADS 5696                
+POS_OS 5744                
+POS_BROWSER 6078                
+POS_SCREENSIZE 7343                
+POS_UNKNOWNREFERER 7417                
+POS_UNKNOWNREFERERBROWSER 8080                
+POS_ORIGIN 8490                
+POS_SEREFERRALS 8637                
+POS_PAGEREFS 8813                
+POS_SEARCHWORDS 9081                
+POS_KEYWORDS 9363                
+POS_MISC 2358                
+POS_ERRORS 9569                
+POS_CLUSTER 4069                
+POS_SIDER_404 9719                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150701000248 209 51116 15025319998860
+FirstTime 20150601043815
+LastTime 20150630125600
+LastUpdate 20150701053823 209 0 208 0 0
+TotalVisits 187                 
+TotalUnique 147                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 158                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 55 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 35 383892 279 532 1890253
+1 17 50 749814 295 495 1977535
+2 26 57 482308 263 427 1539944
+3 113 113 758355 260 417 1360413
+4 5 9 134706 216 329 1161841
+5 59 147 2023074 273 602 1438318
+6 13 39 331087 269 547 1648365
+7 26 31 607908 254 416 1516635
+8 13 45 367213 249 406 1179212
+9 29 113 914037 248 552 1417545
+10 29 84 760392 276 453 1530035
+11 15 73 1199236 232 403 1209217
+12 9 9 148648 267 354 1597916
+13 15 106 757800 356 526 1891333
+14 13 49 1073009 515 668 5129994
+15 58 142 1739446 285 446 1726502
+16 7 97 1411219 380 601 3549470
+17 31 152 2121555 290 549 1338382
+18 20 87 1103523 412 692 3075402
+19 8 68 1472953 220 377 1066180
+20 21 101 1332592 378 513 2506986
+21 14 41 434480 246 386 1501070
+22 6 33 350056 212 296 1026579
+23 15 70 599150 586 782 1715471
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 185 560 5826233
+ua 130 130 1077098
+ro 76 84 1648380
+dz 50 148 1310578
+in 31 344 4565374
+cn 14 80 706597
+bd 13 52 787501
+gb 12 45 757269
+jp 8 62 1016372
+ru 8 35 456751
+de 7 7 86036
+fr 4 4 46039
+br 4 4 150536
+vn 3 3 24201
+zz 3 4 90600
+se 3 3 83335
+il 2 56 504894
+jo 2 33 708364
+ca 2 30 288338
+nl 2 2 296
+lt 2 31 698940
+rs 1 1 37634
+kr 1 1 37634
+tn 1 28 252447
+sg 1 1 30127
+eu 1 1 8154
+hu 1 1 37634
+cz 1 1 19091
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+spider 3099 21044188 20150630233248 20
+bot[\s_+:,\.\;\/\\-] 1486 14473167 20150630215025 153
+googlebot 780 4532921 20150630231233 47
+robot 206 1191327 20150630225646 41
+bingpreview 60 653131 20150624094943 0
+slurp 56 292515 20150624212116 16
+crawl 53 462274 20150630140438 4
+unknown 52 105701 20150630012218 52
+google[_+\s]web[_+\s]preview 16 101445 20150616163509 0
+no_user_agent 9 247149 20150629201518 1
+msnbot\-media 6 46027 20150618033020 0
+php 5 69902 20150630155027 0
+googlebot\-image 2 2032 20150626193818 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 278 2137795 0 0
+png 717 1378166 0 0
+ico 1 1405 0 0
+php 275 2647432 0 0
+html 182 2786722 0 0
+js 105 943450 0 0
+xml 1 2351 0 0
+jpg 81 9866141 0 0
+config 1 3075 0 0
+Unknown 109 1488328 0 0
+gif 1 1588 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+linuxandroid 207 10
+blackberry 1 1
+winlong 3 3
+winxp 178 149
+ios_iphone 2 1
+winphone 52 13
+win2000 9 9
+win2003 11 8
+win8 37 10
+macosx9 36 9
+macosx7 5 5
+winnt 2 2
+java 85 76
+linuxubuntu 5 5
+linux 160 20
+win7 559 113
+macosx 45 12
+Unknown 55 55
+win8.1 298 66
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 64
+firefox28.0 6 6
+safari7.0.3 2 2
+msie6.0 40 13
+chrome40.0.2214.115 40 13
+chrome34.0.1847.137 11 9
+chrome28.0.1500.94 28 1
+chrome40.0.2214.111 27 1
+chrome39.0.2171.95 10 10
+firefox4.0 1 1
+chrome38.0.2125.111 1 1
+firefox34.0 1 1
+ecatch 1 1
+chrome28.0.1500.72 4 4
+msie8.0 15 10
+chrome39.0.2171.42 3 3
+msie7.0 16 13
+chrome37.0.2062.120 1 1
+chrome42.0.2311.152 9 9
+chrome43.0.2357.92 31 2
+netscape 12 12
+safari5.1.1 5 5
+chrome34.0.1847.131 2 2
+firefox21.0 5 4
+lg\- 28 1
+firefox29.0 33 5
+firefox3.5.2 5 5
+firefox38.0 11 8
+firefox3.6.23 113 113
+chrome35.0.1916.114 3 2
+chrome36.0.1985.143 6 3
+mozilla 37 10
+netscape5.0 2 2
+chrome32.0.1700.76 157 23
+firefox14.0.1 11 11
+firefox3.6.3 2 2
+chrome41.0.2228.0 1 1
+firefox36.0 3 3
+safari 90 4
+chrome43.0.2357.124 150 22
+android 64 4
+chrome43.0.2357.78 28 1
+safari8.0.6 41 8
+firefox31.0 1 1
+iphone 4 2
+chrome43.0.2357.81 222 26
+firefox6.0.2 5 3
+chrome41.0.2272.101 4 4
+chrome43.0.2357.93 28 1
+chrome33.0.1750.146 1 1
+msie9.0 14 14
+Unknown 120 111
+blackberry 1 1
+chrome27.0.1453.110 1 1
+chrome43.0.2357.130 35 8
+chrome41.0.2227.1 1 1
+msie11.0 154 5
+firefox37.0 29 2
+firefox3.6.28 1 1
+msie10.0 56 17
+firefox6.0 1 1
+safari5.1 2 1
+chrome39.0.2171.99 1 1
+firebird 9 9
+firefox3.6.8 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla 20150624104127
+Mozilla/5.0_(compatible;_coccoc/1.0;__http://help.coccoc.com/) 20150628003204
+Python-urllib/2.7 20150609113102
+Internet_Explorer_6.0 20150603013843
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20150606160841
+Go_1.1_package_http 20150629200255
+Mozilla/5.0_(compatible;_Owler/0.4;__;_) 20150621082157
+SEOstats_2.1.0__________https://github.com/eyecatchup/SEOstats 20150608053947
+wscheck.com/1.0.0_(_http://wscheck.com/) 20150608053946
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H;/bin/uname_-a;echo_@ 20150627234506
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+wscheck.com/1.0.0_(_http://wscheck.com/) 20150608053946
+Python-urllib/2.7 20150609113102
+Internet_Explorer_6.0 20150603013843
+Go_1.1_package_http 20150629200255
+()_{_:;_};_echo_Content-type:text/plain;echo;echo;echo_M`expr_1330___7`H;/bin/uname_-a;echo_@ 20150627234506
+Java/1.6.0_04 20150619150103
+Java/1.7.0_09 20150602105746
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 274 288
+From1 119 146
+From2 27 27
+From3 11 11
+From4 137 1279
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 19 19
+baidu 6 6
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://www.innovins.com/portfolio_cms.php 5 5
+http://tomck.com 3 3
+http://allwomen.info 2 2
+http://pizza-tycoon.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+indiatours%26thingstodoinindia-seeinindia 4
+hackedby+zalim+%7cteamleets 2
+ip+103.21.59.28+.php%3fid%3d 1
+things+to+see+in+india 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 12
+indiatours%26thingstodoinindia-seeinindia 4
+zalim 2
+%7cteamleets 2
+hackedby 2
+india 1
+ip 1
+.php%3fid%3d 1
+see 1
+to 1
+in 1
+103.21.59.28 1
+things 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 7 245
+302 7 140
+206 6 220525
+406 380 69821
+301 1794 414739
+404 3689 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 306
+/admin/images/cityplace/1394224730_sp1.jpg 90 -
+/wordpress/ 1 -
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule2.jpg 1 http://www.google.co.in/imgres
+/admin/images/cityplace/1399314526_helicopter%20ride%20in%20delhi%203.jpg 2 http://www.seeinindia.com/171-helicopter-ride-in-delhi
+/admin/images/cityplace/1394092019_sw6.jpg 2 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%2012.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1399286349_atv%20ride%20in%20mumbai%20pune%20delhi%20chennai%203.jpg 1 https://www.google.co.in/
+/admin/images/cityplace/1399537178_parasailing%20in%20mumbai%20virar%202.jpg 17 http://www.seeinindia.com/136-parasailing-in-goa
+/admin/images/cityplace/1378557431_1.jpg 1 -
+/admin/images/cityplace/1416664744_rishikesh-lead.jpg 1 -
+/admin/images/cityplace/1392034650_ch14.JPG 6 -
+/css/colorbox.css 3 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1388766207_Image%208.jpg 1 -
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule9.jpg 1 -
+/admin/images/cityplace/1391872326_b5.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1430140466_facebook.php 96 http://www.seeinindia.com/
+/admin/images/cityplace/1390851436_ds1.jpg 3 -
+/admin/images/cityplace/1399314526_helicopter%20ride%20in%20delhi.jpg 4 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1395439160_ri1.jpg 2 -
+/xmlrpc.php 4 -
+/admin/images/cityplace/1389875207_ch6.jpg 2 -
+/admin/images/cityplace/1390851436_ds3.jpg 1 -
+/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/admin/images/cityplace/1388766586_Image%205.jpg 1 -
+/://platform.twitter.com/widgets.js 1 http://www.seeinindia.com/
+/admin/images/cityplace/1398870651_pt5.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1378557431_2.jpg 4 -
+/admin/images/cityplace/1388766207_Image%206.jpg 1 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%201.jpg 9 http://www.seeinindia.com/search.php
+/admin/images/cityplace/1395441104_jbi4.jpg 3 -
+/admin/images/cityplace/1400425473_city%20tour%20%20of%20leh_palace%201.jpg 1 -
+/admin/images/cityplace/1400390120_city%20tour%20of%20srinagar_delhi_agra%202.jpg 1 -
+/admin/images/cityplace/1396530524_ps7.jpg 2 -
+/admin/images/cityplace/1392034519_ch10.JPG 2 -
+/css/default.css 1 http://www.seeinindia.com/indexa.php
+/- 6 -
+/admin/images/banner/1412551538_single-image1.jpg 1 -
+/admin/images/cityplace/1419394502_red%20fort%20(%20gets11pd).jpg 14 https://www.google.co.uk/
+/admin/images/cityplace/1378557431_6.jpg 1 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%202.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/js/script.js 157 -
+/blogs/feed/ 2 -
+/admin/images/cityplace/1398870651_pt11.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1398870651_pt10.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/gtm.js 1 http://www.seeinindia.com/
+/244- 4 -
+/admin/images/cityplace/1394092019_sw1.jpg 3 -
+/admin/images/cityplace/1394194314_tr5.jpg 1 -
+/admin/images/cityplace/1417607280_skiing.jpg 76 -
+/admin/images/cityplace/1394092019_sw10.jpg 37 https://www.google.com/
+/admin/images/cityplace/1388766207_Image%204.jpg 1 -
+/admin/images/banner/1419398886_shikara_ride_in_srinagar.jpg 92 -
+/admin/images/cityplace/1399308540_helicopter+ride+in+mumbai.jpg 2 http://www.seeinindia.com/
+/admin/images/banner/1419398886_sea_walk_tour_in_andaman.jpg 81 -
+/js/jquery.validate.js 5 http://www.seeinindia.com/register.php
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule13.jpg 1 -
+/admin/images/cityplace/1399314526_helicopter%20ride%20in%20delhi%201.jpg 2 http://www.seeinindia.com/171-helicopter-ride-in-delhi
+/admin/images/cityplace/1399287670_jet%20skiing%20in%20ganpatipule%20mumbai%20pune%20goa%201.jpg 1 http://www.google.co.in/imgres
+/admin/images/cityplace/1395868844_bbr4.jpg 3 https://www.google.co.in/
+/admin/images/cityplace/1388764670_Image%201.jpg 1 -
+/admin/images/cityplace/1385803505_7.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/cityplace/1395746502_pbt1.jpg 1 -
+/admin/images/cityplace/1388764670_Image%203.jpg 1 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%206.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1394190904_ff4.jpg 2 -
+/Herry.php 6 -
+/admin/images/cityplace/1419394661_light%20and%20sound%20show%20(%20gets11pd).JPG 6 http://www.bing.com/images/search
+/biling 1 -
+/admin/uploaded/a953db94b5630075a978acd053cdf33a.jpg 3 http://www.seeinindia.com/about.php
+/admin/images/cityplace/1386956947_sb4.jpg 3 -
+/admin/images/cityplace/1400391210_day+trip+to+gulmarg_sonmarg_pahalgam+2.jpg 1 http://www.seeinindia.com/424-pangong-lake-tour-from-leh
+/admin/images/cityplace/1391517564_fx.jpg 8 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1394092019_sw5.jpg 7 https://www.google.com/
+/admin/images/cityplace/1388764743_Image%203.jpg 1 -
+/policy 2 -
+/admin/images/cityplace/1400423803_trip+to+pangong_lake_ladakh+5.jpg 1 http://www.seeinindia.com/424-pangong-lake-tour-from-leh
+/admin/images/cityplace/1391624847_psc2.png 97 https://www.google.com/
+/admin/images/cityplace/1396530524_ps10.jpg 3 http://www.seeinindia.com/136-parasailing-in-goa
+/admin/images/cityplace/1394224730_sp8.jpg 1 http://www.seeinindia.com/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach
+/bt 1 -
+/IcA 1 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%203.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1388766207_Image%203.jpg 3 https://www.google.co.in/
+/admin/images/cityplace/1400389270_shikara%20ride%20in%20srinagar%207.jpg 1 http://www.seeinindia.com/romantic-activity
+/admin/images/cityplace/1401196698_segaway%20tours%20in%20delhi%2011.jpg 1 -
+/admin/images/cityplace/1399287670_jet%20skiing%20in%20ganpatipule%20mumbai%20pune%20goa%205.jpg 1 -
+/admin/images/cityplace/1402229839_jodhpur%20bazaar%20walk%203.jpg 2 -
+/403.shtml 1 -
+/admin/images/cityplace/1416063587_taj+mahal.jpg 2 http://www.seeinindia.com/
+/admin/images/cityplace/1385803745_10.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/cityplace/1386684929_powerboating2.jpg 2 -
+/robots.txt 2 -
+/admin/images/cityplace/1389875254_ch6.jpg 5 -
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule4.jpg 1 http://www.google.co.in/imgres
+/admin/images/cityplace/1422526002_kashmir%206.jpg 3 -
+/css/flexslider.css 15 -
+/admin/images/dp/featured-image-4.jpg 76 -
+/sbeam.php 3 -
+/admin/images/cityplace/1388666056_hab19.jpg 2 http://www.seeinindia.com/186-hot-air-balloning-in-agra
+/admin/images/cityplace/1388764670_Image%202.jpg 1 -
+/admin/images/cityplace/1391624847_psc3.jpg 3 http://www.seeinindia.com/136-parasailing-in-goa
+/js/modernizr.custom.17475.js 155 -
+/admin/images/cityplace/1392034519_ch14.JPG 2 -
+/admin/images/cityplace/1394092019_sw7.jpg 9 https://www.google.com/
+/admin/images/cityplace/1399314526_helicopter%20ride%20in%20delhi%205.jpg 1 http://www.seeinindia.com/171-helicopter-ride-in-delhi
+/admin/images/cityplace/1392240492_ky2.JPG 1 -
+/admin/images/cityplace/1402340256_horse%20riding%20in%20udaipur%2015.jpg 6 -
+/admin/images/cityplace/1388764670_Image%207.jpg 1 -
+/admin/images/cityplace/1388764933_Image%204.jpg 1 -
+/blog/rss.xml 2 -
+/admin/images/cityplace/1378557431_4.jpg 2 -
+/admin/images/dp/featured-image-2.jpg 75 -
+/admin/images/cityplace/1391624847_psc1.jpg 7 http://www.seeinindia.com/136-parasailing-in-goa
+/css/responsive.css 16 -
+/247- 1 Connection:%20close
+/admin/images/cityplace/1386956947_sb2.jpg 7 -
+/admin/images/cityplace/1399307214_scuba%20diving%20in%20andamans%202.jpg 5 https://www.google.com.sa/
+/amd/pira 2 http://www.seeinindia.com/amd/
+/admin/images/cityplace/1392034650_ch11.JPG 5 -
+/admin/images/cityplace/1387796352_Mahabaleshar%201.jpg 1 -
+/admin/images/cityplace/1395516305_pb3.jpg 1 -
+/admin/images/cityplace/1388051728_cp1.jpg 2 -
+/admin/images/cityplace/1399314526_helicopter%20ride%20in%20delhi%204.jpg 1 http://www.seeinindia.com/171-helicopter-ride-in-delhi
+/img/no-images-3.jpg 1 -
+/admin/images/cityplace/1395439820_snrk1.jpg 16 -
+/404.php 2 -
+/BHP_sym 2 -
+/admin/images/cityplace/1399036093_udaipur-city-tours9.jpg 1 -
+/admin/images/cityplace/1395867519_js1.jpg 6 http://www.seeinindia.com/136-parasailing-in-goa
+/admin/images/cityplace/1392034650_ch13.JPG 5 -
+/admin/images/banner/1430140557_facebook.php 112 http://image.baidu.com/i
+/admin/images/cityplace/1392034650_ch15.JPG 5 -
+/admin/images/cityplace/1419399167_hawa%20mahal%20-1%20(jai04gets).jpg 4 -
+/admin/images/cityplace/1389875207_ch5.jpg 2 -
+/blog/ 1 -
+/wp/ 1 -
+/admin/images/cityplace/1421316184_kashmir.jpg 3 -
+/admin/images/cityplace/1394193561_tr2.jpg 1 http://www.seeinindia.com/romantic-activity
+/admin/images/cityplace/1395439388_ct1.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/rss/blog 2 -
+/admin/images/cityplace/1392034519_ch13.JPG 2 -
+/js/jquery.min.js 143 -
+/admin/images/cityplace/1399292846_paragliding%20in%20pune%20kamshet%20mumbai%20virar%20sikkim%20%203.jpg 1 https://www.google.co.in/
+/admin/images/cityplace/1394224730_spd.jpg 1 http://www.seeinindia.com/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach
+/eventdisplay.php 2 -
+/admin/images/cityplace/1390916224_ds5.JPG 1 -
+/admin/images/cityplace/1395441104_jbi5.jpeg 3 -
+/admin/images/cityplace/1417678036_10410858_901225549907536_583568117823286169_n.jpg 1 -
+/admin/images/cityplace/1399286349_atv%20ride%20in%20mumbai%20pune%20delhi%20chennai%205.jpg 1 -
+/admin/images/cityplace/1395518894_parasail.jpg 4 http://www.seeinindia.com/136-parasailing-in-goa
+/admin/images/dp/featured-image-1.jpg 75 -
+/rss/blogs 2 -
+/admin/images/cityplace/1388666056_hab18.jpg 3 http://www.seeinindia.com/186-hot-air-balloning-in-agra
+/admin/images/cityplace/1386956947_sb3.JPG 2 -
+/admin/images/cityplace/1394224730_sp4.jpg 1 http://www.seeinindia.com/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach
+/admin/images/cityplace/1388766207_Image%207.jpg 1 -
+/admin 1 -
+/admin/images/cityplace/1396958614_sk2.jpg 1 http://www.seeinindia.com/romantic-activity
+/admin/images/cityplace/1378710713_103.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule5.jpg 1 http://www.google.co.in/imgres
+/admin/images/cityplace/1394195163_sbr1.jpg 1 -
+/admin/images/cityplace/1387195153_DSC_0140.JPG 1 -
+/blogs/rss/ 2 -
+//www.googletagmanager.com/ns.html 2 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%207.jpg 3 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1399307214_scuba%20diving%20in%20andamans%201.jpg 1 -
+/admin/images/cityplace/1398870651_pt13.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/ 4 http://whois.domaintools.com/seeinindia.com
+/js/rs-plugin/css/settings.css 92 -
+/admin/images/cityplace/1389875254_ch5.jpg 6 -
+/admin/images/cityplace/1402229839_jodhpur%20bazaar%20walk%202.jpg 2 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%2010.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1388071008_Main.jpg 2 -
+/admin/images/cityplace/1388666056_hab17.jpg 3 http://www.seeinindia.com/186-hot-air-balloning-in-agra
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule15.jpg 1 -
+/killer.php 1 -
+/bilibg/ 1 -
+/admin/images/cityplace/1417678036_1002361_901225389907552_6065976595300092723_n.jpg 70 -
+/admin/images/cityplace/1387195153__SC_0528.JPG 1 -
+/admin/images/cityplace/1378557431_3.JPG 16 -
+/admin/images/cityplace/1392034519_ch11.JPG 2 -
+/admin/images/cityplace/1388764670_Image%204.jpg 1 -
+/admin/images/cityplace/1378557431_Bis.jpg 4 https://www.google.co.in/
+/admin/images/cityplace/1399285920_parasailing%20in%20mumbai%20virar%20goa%20delhi%204.jpg 10 http://www.seeinindia.com/136-parasailing-in-goa
+/admin/images/cityplace/1417607280_skiing%201.jpg 2 http://www.seeinindia.com/500-skiing-trip-to-gulmarg
+/admin/images/cityplace/1399307196_scuba%20diving%20in%20andamans%201.jpg 10 -
+/admin/images/cityplace/1386684929_powerboating.JPG 1 -
+/admin/images/cityplace/1402225301_udaipur%20city%20walk%205.jpg 1 -
+/js/jquery-1.10.2.min.js 28 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1402225301_udaipur%20city%20walk%201.jpg 1 -
+/log.php 1 -
+/admin/images/cityplace/1378710713_111.jpg 9 https://www.google.com.pk/
+/admin/images/cityplace/1398370849_ds2.jpg 1 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%204.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/is/head.js 1 http://www.seeinindia.com/websc-bank.php
+/admin/images/cityplace/1394092019_sw9.jpg 9 https://www.google.co.in/
+/admin/images/cityplace/1398870651_pt14.jpg 2 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1394092019_sw8.jpg 2 -
+/BT 2 -
+/admin/images/cityplace/1398870651_pt8.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%2011.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1419394713_chor%20bizarre%20restaurant%20(%20gets11pd).jpg 1 -
+/default.php 1 http://seeinindia.com/default.php
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule6.jpg 1 -
+/admin/images/cityplace/1388766207_Image%201.jpg 1 -
+/admin/images/cityplace/1388766207_Image%205.jpg 1 -
+/admin/images/cityplace/1392034650_ch9.JPG 5 -
+/admin/images/cityplace/1388051728_cp2.jpg 2 -
+/img/logo.png 5 http://www.seeinindia.com/136-parasailing-in-goa
+/admin/images/cityplace/1399292740_paragliding%20in%20pune%20kamshet%20mumbai%20virar%20sikkim%2016.jpg 2 https://www.google.co.in/
+/admin/images/cityplace/1399314526_helicopter%20ride%20in%20delhi%202.jpg 5 http://www.google.co.in/blank.html
+/admin/images/cityplace/1396530524_ps6.jpg 1 https://www.google.co.in/
+/admin/images/cityplace/1378710713_90.jpg 21 http://namecheap.com/blah/
+/js/rs-plugin/js/jquery.plugins.min.js 114 http://www.seeinindia.com/
+/admin/images/cityplace/1385803505_6.JPG 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/cityplace/1385803505_8.jpg 175 http://namecheap.com/blah/
+/admin/images/cityplace/1386959822_bb1.jpg 5 https://www.google.co.in/
+/admin/images/cityplace/1385803650_9.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/cityplace/1388666056_hab20.jpg 3 http://www.seeinindia.com/186-hot-air-balloning-in-agra
+/js/rs-plugin/js/jquery.revolution.min.js 111 http://www.seeinindia.com/
+/admin/images/cityplace/1399285010_paramotoring%20in%20mumbai%20virar%206.jpg 1 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%209.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/js/jquery.flexslider-min.js 154 -
+/blog/feed/ 2 -
+/admin/images/cityplace/1395441104_jbi1.jpg 3 -
+/admin/images/cityplace/1416063587_taj%20mahal.jpg 71 -
+/admin/images/cityplace/1391623612_bt4.jpg 6 -
+/admin/images/cityplace/1399308540_helicopter%20ride%20in%20mumbai.jpg 116 -
+/administrator/index.php 1 -
+/admin/images/cityplace/1394092019_sw4.jpg 2 -
+/admin/images/cityplace/1394192928_hr5.jpg 1 -
+/admin/images/cityplace/1394224730_sp3.jpg 1 https://www.google.co.in/
+/more_info.php 2 -
+/admin/images/cityplace/1398870651_pt7.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/facebook.php 5 -
+/harrix.php 2 -
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%205.jpg 2 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1391693854_h16.jpg 1 -
+/admin/images/cityplace/1395441104_jbi3.jpg 2 -
+/admin/images/cityplace/1395868750_bbt3.jpg 1 -
+/admin/images/cityplace/1388666628_hab18.jpg 7 http://www.seeinindia.com/search-main.php
+/js/bootstrap-datepicker.js 151 -
+/admin/images/banner/1416130539_2775706201_705fd66bae_o.jpg 8 -
+/admin/images/cityplace/1394539944_tt1.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1388764670_Image%206.jpg 2 -
+/admin/images/cityplace/1388666192_hab18.jpg 6 http://www.seeinindia.com/search-main.php
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%208.jpg 3 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1387195153_DSC_0112.JPG 1 -
+/admin/images/cityplace/1398332021_supb1.jpg 1 -
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule10.jpg 1 -
+/styles/actions/users/form.css 1 http://seeinindia.com/styles/actions/users/form.css
+/admin/images/cityplace/1386956947_sb1.jpg 2 -
+/admin/images/cityplace/1390851436_ds2.jpg 1 -
+/admin/images/cityplace/1417678036_10313749_901225593240865_6498346771129569465_n.jpg 1 -
+/admin/images/cityplace/1378710713_96.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/cityplace/1399287670_jet%20skiing%20in%20ganpatipule%20mumbai%20pune%20goa8.jpg 1 https://www.google.co.in/
+/admin/images/cityplace/1398870651_pt9.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1388666527_hab20.jpg 7 http://www.seeinindia.com/search-main.php
+/admin/images/cityplace/1389875254_ch7.jpg 5 -
+/admin/images/cityplace/1399307196_scuba%20diving%20in%20andamans%202.jpg 2 -
+/admin/images/cityplace/1416063299_pangong+lake.jpg 2 http://www.seeinindia.com/
+/.1.js 1 http://www.seeinindia.com/
+/css/styles.css 15 -
+/admin/images/cityplace/1391624847_psc4.jpg 11 https://www.google.com/
+/admin/images/cityplace/1399287670_jet%20skiing%20in%20ganpatipule%20mumbai%20pune%20goa7.jpg 1 https://www.google.co.in/
+/admin/images/cityplace/1378710713_58.jpg 126 http://namecheap.com/blah/
+/admin/images/cityplace/1395747376_wb3.jpg 1 -
+/admin/images/cityplace/1396529684_spo.jpg 1 http://www.seeinindia.com/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach
+/admin/images/cityplace/1388051728_cp3.jpg 2 -
+/admin/images/cityplace/1422526047_kashmir2.jpg 3 -
+/js/jquery.minimalect.min.js 113 http://www.seeinindia.com/
+/admin/images/cityplace/1378557431_5.jpg 8 -
+/admin/images/banner/1419400479_sunderban_tiger_safari.jpg 2 -
+/blog/rss/ 2 -
+/admin/images/cityplace/1398870651_pt12.jpg 1 http://www.seeinindia.com/298-trek-to-palla-top-
+/admin/images/cityplace/1391517564_fx2.JPG 1 -
+/admin/images/cityplace/1399286349_atv%20ride%20in%20mumbai%20pune%20delhi%20chennai%202.jpg 3 -
+/admin/images/dp/featured-image-3.jpg 75 -
+/admin/images/cityplace/1378710713_92.jpg 2 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/eventform.php 2 -
+/admin/images/cityplace/1391517564_fx1.jpeg 1 -
+/admin/images/cityplace/1417607280_skiing%202.jpg 2 http://www.seeinindia.com/500-skiing-trip-to-gulmarg
+/admin/images/cityplace/1399292846_paragliding%20in%20pune%20kamshet%20mumbai%20virar%20sikkim%206.jpg 1 -
+/admin/images/cityplace/1392034519_ch9.JPG 2 -
+/admin/images/cityplace/1402261274_7.jpg 2 -
+/admin/images/cityplace/1395441104_jbi6-gif.jpg 2 -
+/admin/images/cityplace/1394092019_sw2.jpg 2 -
+/admin/images/cityplace/1388665767_hab16.jpg 81 -
+/admin/images/cityplace/1396277025_img_0355.JPG 1 -
+/admin/images/cityplace/1399036093_udaipur-city-tours3.jpg 1 -
+/blogRSS.xml 2 -
+/admin/images/cityplace/1396529711_spp.jpg 1 http://www.seeinindia.com/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach
+/-city 7 -
+/admin/images/cityplace/1388764670_Image%205.jpg 1 -
+/admin/images/cityplace/1392556723_cs2.jpg 2 -
+/admin/images/cityplace/1419394742_del%20delhi%20-%20red%20fort%20lahore%20(gets11pd).jpg 1 https://www.google.co.uk/
+/admin/images/cityplace/1394224730_spg.jpg 1 http://www.seeinindia.com/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach
+/admin/images/cityplace/1392034650_ch10.JPG 5 -
+/admin/images/cityplace/1399286349_atv%20ride%20in%20mumbai%20pune%20delhi%20chennai%204.jpg 1 -
+/admin/images/cityplace/1395516702_bbr3.jpg 1 -
+/admin/images/cityplace/1402225301_udaipur%20city%20walk%203.jpg 1 -
+/js/jquery.colorbox.js 29 http://www.seeinindia.com/446-flying-tour-of-mumbai
+/admin/images/cityplace/1399036093_udaipur-city-tours1.jpg 1 -
+/admin/images/cityplace/1416063299_pangong%20lake.jpg 70 -
+/admin/images/cityplace/1394193561_tr3.jpg 1 -
+/admin/images/cityplace/1389875207_ch7.jpg 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 158
+78.30.215.131 113 113 758355 20150605032713
+86.123.242.40 38 42 824190 20150619150102
+79.116.30.170 38 42 824190 20150613050434
+64.79.100.42 17 17 102527 20150624104127
+105.109.61.44 17 61 707230 20150613211051
+41.107.140.164 13 40 270704 20150603112513
+182.160.117.252 13 52 787501 20150609184945
+45.55.134.15 12 13 80126 20150608021832
+69.58.178.58 12 12 345311 20150620075128
+45.55.133.248 11 12 72058 20150602021459
+45.55.229.135 11 12 72060 20150612170244
+105.103.18.44 9 36 261897 20150603233554
+38.100.21.61 8 11 358224 20150614012527
+86.24.43.184 8 41 719191 20150601180232
+91.200.12.71 6 6 146544 20150626175842
+105.109.56.182 6 6 44016 20150603084411
+14.97.141.178 6 9 481633 20150621060553
+37.139.52.23 5 5 188170 20150628092222
+91.200.12.41 5 5 40335 20150610143643
+148.251.139.144 5 5 40335 20150629211325
+157.56.3.66 5 5 151084 20150622220804
+54.90.133.59 4 4 18401 20150618090259
+54.159.232.205 4 29 134568 20150618092732
+54.144.253.212 4 4 23854 20150601133945
+54.158.119.169 4 35 172214 20150601135434
+66.249.84.218 2 4 57143 20150605141831
+64.233.172.163 0 22 223723 
+66.102.8.254 1 25 280460 20150619161209
+104.41.128.182 1 1 37634 20150622193943
+185.10.107.69 1 1 8154 20150607042845
+184.72.171.36 1 1 5473 20150618090110
+69.164.111.198 1 6 203082 20150606171755
+23.238.22.37 1 1 8067 20150619060338
+54.157.8.129 1 1 8067 20150618074025
+111.206.36.133 0 1 1206 
+167.114.64.100 2 2 75268 20150629145506
+87.229.26.122 1 1 37634 20150624014636
+178.45.111.20 3 30 268581 20150603113535
+213.251.182.103 2 2 338 20150626124158
+46.118.119.63 1 1 37634 20150621113915
+54.204.254.69 2 2 10708 20150608150404
+202.177.246.50 1 27 245182 20150617061226
+95.211.224.45 2 2 296 20150619233422
+198.84.74.62 4 4 32268 20150618060336
+203.145.175.7 1 31 691164 20150610113650
+66.102.7.219 0 17 233052 
+150.70.97.126 1 1 37634 20150621054206
+115.69.241.248 1 28 687174 20150607203048
+23.238.33.28 4 4 32268 20150630102839
+66.249.84.224 0 2 31860 
+66.102.8.249 2 20 395724 20150627022015
+45.55.134.20 1 2 15332 20150629191225
+54.211.67.162 3 3 18381 20150629200255
+61.135.190.219 1 2 15332 20150622142623
+1.39.12.61 1 1 20 20150615175245
+54.234.9.192 1 6 39458 20150601133930
+62.90.132.141 2 56 504894 20150619133459
+193.106.31.24 1 1 8067 20150606142353
+146.120.166.53 1 1 19091 20150604044232
+105.109.252.247 4 4 26527 20150623152900
+198.84.74.61 2 2 16134 20150611053829
+23.238.33.26 2 2 16134 20150625073330
+199.217.119.4 3 3 112902 20150608053947
+212.200.208.4 1 1 37634 20150624210232
+191.237.1.54 1 1 37634 20150623110616
+198.84.74.59 1 1 8067 20150607105739
+192.122.131.37 1 1 30127 20150609113102
+69.160.54.33 1 1 0 20150626064018
+174.129.134.83 1 1 37634 20150622122541
+66.102.8.244 0 14 32377 
+54.166.113.114 1 1 37634 20150605044544
+107.172.3.203 1 1 8067 20150618014016
+1.39.12.40 1 28 252447 20150615161752
+66.102.6.202 1 19 50037 20150613001100
+81.129.248.80 3 3 444 20150630125600
+191.237.13.236 1 1 37634 20150622211022
+66.249.84.212 0 2 102768 
+61.135.190.102 2 3 23399 20150607195207
+106.38.241.100 1 6 39458 20150611082732
+131.253.38.67 3 3 112902 20150615112945
+78.62.246.79 2 31 698940 20150608142107
+89.145.76.117 1 1 37634 20150626024900
+54.157.12.200 2 2 5492 20150629200049
+144.76.114.81 1 1 8067 20150618152808
+122.161.232.108 1 1 2351 20150625053419
+72.14.199.88 1 1 8067 20150606160841
+23.238.22.39 4 4 32268 20150623061039
+54.159.238.144 2 8 37686 20150629201221
+180.76.15.27 1 1 8067 20150613182641
+61.135.190.224 2 4 30664 20150622174222
+103.248.80.5 4 4 150536 20150607072229
+23.238.33.27 1 1 8067 20150601163720
+197.2.77.7 1 28 252447 20150627153610
+111.206.36.136 0 1 400 
+52.8.44.138 1 28 252447 20150609180149
+94.23.217.201 1 1 8067 20150608120244
+103.50.157.30 1 28 680157 20150614195326
+104.37.28.58 1 1 37634 20150607012446
+171.25.193.20 1 1 8067 20150614115237
+23.238.22.40 3 3 24201 20150629075238
+207.102.138.3 1 29 280271 20150602105711
+54.159.197.101 3 18 86945 20150608151148
+180.153.186.43 1 1 8067 20150606224047
+80.248.227.79 2 2 75268 20150628004412
+123.30.175.217 2 2 16134 20150628003204
+183.136.142.68 1 1 8067 20150603205249
+54.204.195.243 1 7 37666 20150608150339
+54.146.191.201 1 1 8067 20150601133558
+178.137.164.105 1 1 37634 20150627173229
+37.187.179.235 1 1 37634 20150602232243
+104.236.220.125 1 2 15332 20150625114833
+66.102.7.205 0 5 32942 
+54.158.126.193 1 6 39458 20150608150727
+163.47.141.98 3 30 268581 20150606052352
+54.183.153.209 3 3 18537 20150621082157
+91.200.12.39 2 2 12755 20150627084420
+64.233.172.171 1 14 37864 20150620010723
+54.166.25.128 1 1 20 20150601134257
+157.56.2.203 4 4 114231 20150604102703
+105.108.130.63 1 1 204 20150604123413
+177.84.197.99 1 1 37634 20150622142732
+1.38.13.2 2 29 260514 20150624190550
+64.233.172.179 2 24 284504 20150626171000
+80.77.26.66 1 1 37634 20150614005112
+101.0.34.143 1 5 32193 20150614043304
+198.84.74.60 3 3 24201 20150622055944
+91.200.12.14 1 1 35774 20150628223934
+66.102.6.194 0 15 228515 
+23.238.22.41 1 1 8067 20150620060355
+174.122.245.18 1 1 37634 20150627234506
+201.8.231.14 1 1 37634 20150622125709
+180.160.71.227 1 27 251192 20150606091320
+66.102.6.210 0 23 354741 
+106.184.7.111 3 3 30000 20150603013843
+54.158.113.136 3 28 134548 20150629202053
+123.30.175.222 1 1 8067 20150619131521
+54.159.214.209 1 7 37666 20150618090529
+54.157.216.43 1 1 8067 20150629195906
+54.205.9.183 1 6 39458 20150629202507
+1.234.46.205 1 1 37634 20150615140225
+123.126.113.106 1 28 252447 20150609222425
+23.238.22.38 2 2 16134 20150626074654
+23.91.121.130 1 1 169 20150625230206
+180.76.15.8 1 1 8067 20150616220848
+182.237.133.32 2 29 260514 20150616090003
+149.200.135.92 2 33 708364 20150603193909
+202.177.246.62 3 30 268581 20150603103121
+23.23.58.31 1 6 39458 20150618075006
+54.157.219.185 1 1 20 20150601133911
+59.184.161.126 2 56 260514 20150612050639
+106.194.26.214 4 31 276648 20150624171303
+66.102.7.212 0 5 112443 
+54.204.173.217 1 1 8067 20150608150006
+54.161.140.162 3 3 13166 20150608150311
+182.69.218.126 1 35 695903 20150611162402
+192.99.9.164 1 1 8067 20150612000428
+61.135.190.103 1 3 22597 20150623011830
+183.33.85.100 1 1 37634 20150601043815
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150601 22 91 1008525 9
+20150602 16 45 473298 6
+20150603 41 180 1868277 10
+20150604 13 13 241610 8
+20150605 118 152 1278995 6
+20150606 10 69 770455 8
+20150607 10 38 907066 7
+20150608 32 88 1120246 13
+20150609 17 110 1330589 5
+20150610 4 34 715365 4
+20150611 3 42 743428 3
+20150612 16 98 764779 5
+20150613 58 135 1802410 5
+20150614 13 47 1124342 6
+20150615 5 32 335802 5
+20150616 5 32 284715 4
+20150617 3 29 253397 3
+20150618 15 51 267834 9
+20150619 44 129 1761437 6
+20150620 14 44 609440 3
+20150621 14 18 636471 7
+20150622 10 12 272602 10
+20150623 7 8 87560 4
+20150624 26 80 723024 7
+20150625 4 5 25919 4
+20150626 11 38 608485 6
+20150627 9 66 604089 7
+20150628 9 9 277712 5
+20150629 17 54 350366 10
+20150630 2 2 8215 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 6
+0s-30s 160
+15mn-30mn 6
+30s-2mn 13
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 93
+/ 162 2777137 136 122
+/tour-info.php 46 361021 4 4
+/index.php 38 513515 9 10
+/indexa.php 25 127665 0 0
+/register.php 23 296436 5 6
+/about.php 23 217397 3 7
+/popbox.php 19 149984 3 3
+/contact.php 19 155673 3 3
+/login.php 18 300 7 5
+/search-main.php 12 26833 7 7
+/car_rental.php 10 132662 0 0
+/504-day-trip-to-sundarban 10 153852 0 3
+/need-more.php 9 118896 0 1
+/186-hot-air-balloning-in-agra 9 111354 0 0
+/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach 7 139674 1 1
+/travel-login.php 6 70894 0 0
+/bs3/ 6 1152 0 0
+/500-skiing-trip-to-gulmarg 5 98028 0 1
+/beach-activity 4 100046 0 0
+/privacy_statement.php 4 205625 0 0
+/amd/ 4 816 1 0
+/fun-activity 4 104086 0 2
+/72-great-escape-water-park-tickets 3 45605 2 2
+/446-flying-tour-of-mumbai 3 23994 1 0
+/amazing-activity 3 73371 0 0
+/sitemap.xml 1 2351 1 1
+/373-jet-ski-at-mandwa 1 8277 0 0
+/searchtourajax1.php 2 0 0 0
+/Jaipur-city 1 5517 0 0
+/238-airplane-flying-tour-in-bangalore 1 8374 0 0
+/254-tea-plantation-tour-in-munnar-by-cycle 1 5682 0 0
+/tour-info.php/trackback/ 1 5675 0 1
+/377-stand-up-paddle-boarding-at-mandwa 1 7921 0 0
+/travelsearchuserajax.php 2 8 0 0
+/dzmafia/ 1 200 0 0
+/241-speedboat-ride-in-goa 1 8054 0 0
+/242-desert-safari-at-jaisalmer-in-india 1 5681 0 0
+/251-shikara-ride-in-dal-lake 1 5682 0 0
+/232-paramotoring-in-mumbai 1 8055 0 0
+/156-panchgani-and-mahabaleshwartour-on-private-basis 1 5823 0 0
+/325-desert-safari-at-jaisalmer-in-india 1 5807 0 0
+/Kolkata-city 1 5326 0 0
+/searchuserajax.php 2 8 0 0
+/421-gulmarg-tour-from-srinagar 1 7352 0 0
+/256-rickshaw-tour-in-delhi 1 5682 0 0
+/bs3/css/ 2 396 0 0
+/dzmafia/seeinind..config 1 3075 0 0
+/239-stand-up-paddle-boarding-at-mandwa 1 5682 0 0
+/171-helicopter-ride-in-delhi 2 15280 1 1
+/324-tea-plantation-tour-in-munnar-by-cycle 1 8536 0 0
+/250-kayaking-near-mumbai-at-alibaug 1 5682 0 0
+/240-kayaking-at-goa 1 5682 0 0
+/Srinagar-city 1 5477 0 0
+/travelsearchuserajax1.php 2 8 0 0
+/435-jaipur-haveli-and-palace-tour 1 8604 0 0
+/249-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach 1 5682 0 0
+/websc-bank.php 1 4344 0 0
+/81-paramotoring-in-mumbai 1 8430 0 0
+/website_terms.php 3 163586 0 0
+/258-indian-marriage-tour 1 7728 0 0
+/searchuserajax1.php 2 8 0 0
+/173-agra-and-taj-mahal-tour-from-delhi-in-private-vehicle 3 57516 0 0
+/248-yacht-sailing-tour-of-mumbai 1 5682 0 0
+/136-parasailing-in-goa 2 16662 1 1
+/searchtourajax.php 2 0 0 0
+/252-hot-air-balloning-in-agra 1 5681 0 0
+/search1.php 2 38432 0 0
+/Port-Blair-city 1 5537 0 0
+/romantic-activity 3 43048 0 2
+/233-jet-ski-at-mandwa 1 8291 0 0
+/Delhi-city 1 5524 0 0
+/255-jaipur-haveli-and-palace-tour 1 5682 0 0
+/bconfig/ 3 612 1 1
+/231-great-escape-water-park-tickets 1 8256 0 0
+/298-trek-to-palla-top- 1 7491 1 1
+/bs3/js/ 2 402 0 0
+/search.php 3 64125 0 1
+/138-kayaking-at-goa 1 7937 0 0
+/332-airplane-flying-tour-in-bangalore 1 8125 0 0
+/539----jaipur-sightseeing-including-amber-fort---elephant-ride 3 66907 0 0
+/253-indian-marriage-tour 1 5682 0 0
+/257-panchgani-and-mahabaleshwartour-on-private-basis 1 8506 0 0
+/137-speedboat-ride-in-goa 1 7766 0 0
+/376-kayaking-near-mumbai-at-alibaug 1 7590 0 0
+/424-pangong-lake-tour-from-leh 3 74162 0 0
+/calendern/ 1 332 0 1
+/Leh-city 1 5438 0 0
+/170-helicopter-ride-in-mumbai 3 78186 0 0
+/captcha.php 2 12 0 0
+/418-shikara-ride-in-dal-lake 1 7365 0 0
+/288-yacht-sailing-tour-of-mumbai 1 8063 0 0
+/260-rickshaw-tour-in-delhi 1 7718 0 0
+/Mumbai-city 1 5487 0 0
+END_SIDER

@@ -1,0 +1,1737 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /home2/seeinind/tmp/awstats/awstats.seeinindia.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2696                
+POS_VISITOR 33501               
+POS_DAY 57772               
+POS_DOMAIN 3657                
+POS_LOGIN 4592                
+POS_ROBOT 4747                
+POS_WORMS 5457                
+POS_EMAILSENDER 5588                
+POS_EMAILRECEIVER 5731                
+POS_SESSION 58660               
+POS_SIDER 58869               
+POS_FILETYPES 5866                
+POS_DOWNLOADS 6148                
+POS_OS 6221                
+POS_BROWSER 6649                
+POS_SCREENSIZE 9405                
+POS_UNKNOWNREFERER 9479                
+POS_UNKNOWNREFERERBROWSER 10823               
+POS_ORIGIN 11372               
+POS_SEREFERRALS 11518               
+POS_PAGEREFS 11698               
+POS_SEARCHWORDS 18607               
+POS_KEYWORDS 18804               
+POS_MISC 2359                
+POS_ERRORS 18908               
+POS_CLUSTER 4448                
+POS_SIDER_404 19055               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501001049 431 100591 13622366495851
+FirstTime 20150401001614
+LastTime 20150430195957
+LastUpdate 20150501065229 431 0 430 0 0
+TotalVisits 493                 
+TotalUnique 285                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 772                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 62 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 39 84 4343947 309 625 20999949
+1 49 195 6325660 331 584 9319082
+2 66 181 8672998 302 449 5269128
+3 51 176 6884566 493 632 7302320
+4 70 415 11204134 313 411 3939671
+5 137 1338 57205765 752 1033 11922845
+6 48 321 22319032 381 511 6669919
+7 63 369 30245798 301 389 2062683
+8 54 386 27776423 293 401 3684825
+9 234 1186 55428067 309 496 3010123
+10 71 609 24069740 424 687 8485807
+11 46 515 27623301 511 675 5435034
+12 83 935 51166052 399 498 3871519
+13 208 609 32759114 429 617 7905192
+14 45 197 13930923 307 411 4397514
+15 20 265 22083413 244 373 6125808
+16 31 486 30191270 303 374 2934494
+17 54 589 34759137 267 345 4268069
+18 52 115 22484614 621 719 2415548
+19 34 271 20422415 314 523 8308301
+20 45 127 17749950 281 380 6427396
+21 36 99 12384451 638 895 14587456
+22 29 157 15098340 264 485 15164677
+23 31 106 7788516 282 694 25477451
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 46
+in 456 4163 146960563
+ua 385 443 15893731
+us 255 2119 110032878
+pk 174 662 181462188
+cn 116 215 5047118
+jp 46 273 12192518
+fr 31 31 725056
+es 26 115 5080115
+ru 18 18 611591
+tn 15 58 1916546
+iq 10 10 256060
+id 9 464 20662091
+au 7 7 171742
+ph 5 190 10696363
+vn 4 4 32127
+th 4 120 4428784
+de 4 4 65373
+il 3 122 4850712
+gb 3 125 6948533
+bd 2 60 2244006
+tr 2 60 2243588
+no 2 67 3599389
+sg 2 4 87148
+ca 2 4 1104372
+nl 2 14 1495671
+pt 1 59 2206372
+eg 0 1 3022843
+ba 0 1 55318
+my 1 60 2238985
+ma 1 52 2040481
+ro 0 1 589336
+dk 0 1 3022843
+ec 1 1 37216
+sa 1 70 2206372
+om 0 1 57474
+cz 0 7 2675230
+fi 1 1 8020
+ke 1 54 2198489
+gr 1 1 5664
+mv 1 59 2206372
+eu 1 1 8020
+it 1 2 72561
+pl 0 1 105962
+ar 0 2 57482
+ae 1 3 1266367
+ve 1 1 27956
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+spider 3880 34356314 20150430235824 19
+bot[\s_+:,\.\;\/\\-] 3060 95464446 20150430173215 134
+googlebot 1367 20436910 20150430235435 55
+crawl 411 2321508 20150427145611 4
+slurp 105 1545612 20150430183806 20
+googlebot\-image 76 6397861 20150428122645 0
+msnbot\-media 59 10643885 20150430043443 0
+unknown 47 91739 20150429120910 47
+robot 45 212247 20150429122827 19
+[\s_+:,\.\;\/\\-]bot 24 2214518 20150414092820 9
+bingpreview 19 648635 20150424214603 0
+no_user_agent 12 233966 20150428062139 2
+php 3 19881 20150427195742 0
+google[_+\s]web[_+\s]preview 3 1397053 20150422174441 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 939 5793395 0 0
+png 2896 6225802 0 0
+htm 2 2433 0 0
+php 783 7883944 0 0
+html 684 18011048 0 0
+xml 3 7053 0 0
+js 1618 18837274 0 0
+jpg 2594 503921880 0 0
+jpeg 1 409958 0 0
+Unknown 124 1621239 0 0
+gif 87 203600 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 183 0 619040
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 27
+blackberry 1 1
+linuxandroid 515 1
+winlong 252 30
+winxp 2217 394
+ios_iphone 109 5
+win2000 72 16
+winvista 816 0
+linuxfedora 1 1
+win95 10 0
+winunknown 22 3
+win2003 32 4
+wince 2 2
+macosx9 4 2
+win8 112 10
+ios_ipad 40 1
+macosx7 1 1
+unix 1 0
+winnt 239 123
+linuxubuntu 3 0
+win98 3 0
+linux 502 19
+win7 4130 241
+winme 9 3
+win16 3 0
+macosx 377 3
+Unknown 92 9
+win8.1 166 27
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 141
+firefox28.0 4 0
+webcapture 8 3
+chrome41.0.2272.96 1 0
+chrome34.0.1847.137 69 0
+chrome40.0.2214.10 1 0
+chrome31.0.1650.63 38 0
+safari6.1.4 1 0
+msie8.0 288 53
+chrome25.0.1364.160 2 0
+chrome33.0.1734.5 1 0
+chrome39.0.2171.65 26 14
+chrome13.0.782.1 1 0
+msie7.0 30 5
+chrome40.0.0.0 1 0
+chrome27.0.1453 224 0
+chrome41.0.2272.89 65 0
+chrome15.0.849.0 1 0
+chrome31.0.1650.59 1 0
+safari5.1.1 5 1
+chrome44.0.2376.0 3 0
+firefox13.0 1 0
+opera9.01 6 3
+firefox38.0 6 0
+chrome35.0.1916.114 1 0
+firefox33.0 35 24
+chrome36.0.1985.143 100 6
+firefox25.0 1 0
+chrome33.0.1750.117 1 0
+firefox14.0.1 10 10
+opera8.50 3 3
+chrome41.0.2228.0 3 3
+firefox36.0 547 1
+safari 193 2
+firefox16.0.1 1 1
+safari7.0 141 6
+chrome34.0.1847.76 1 0
+firefox5.0 1 0
+chrome38.0.2125.104 1 0
+android 224 1
+chrome36.0.1985.125 24 15
+opera9.80 3 0
+chrome43.0.2357.18 3 0
+chrome33.0.0.0 5 0
+netscape4.76 3 0
+chrome16.0.904.0 2 0
+netscape0.91 12 0
+chrome38.0.2125.122 1 0
+chrome42.0.2311.109 2 0
+chrome13.0.766.0 1 0
+msie5.0 10 1
+chrome43.0.2357.10 3 0
+msie9.0 18 8
+opera7.54 3 3
+chrome39.0.2171.93 1 0
+blackberry 1 1
+chrome27.0.1453.56 1 0
+chrome18.0.1025.166 181 0
+msie999.1 1 0
+chrome30.0.1599.105 1 0
+samsung 2 0
+opera8.01 7 7
+firefox30.0 43 1
+msie5.5 31 7
+chrome23.0.1271.17 1 0
+chrome10.0.612.1 1 0
+firefox22.0 7 4
+opera26.0.1656.24 1 1
+firefox3.6.12 1 0
+chrome23.0.1271.97 1 0
+msie6.0 212 63
+chrome40.0.2214.94 1 0
+chrome40.0.2214.115 59 0
+ibrowse 1 0
+chrome28.0.1500.94 60 0
+chrome40.0.2214.111 60 0
+chrome39.0.2171.95 5 2
+firefox4.0 1 1
+chrome38.0.2125.111 6 4
+firefox34.0 29 0
+firefox1.0.4 5 0
+chrome28.0.1500.72 4 1
+opera8.0 1 1
+chrome42.0.2311.90 2102 226
+netscape3.0 2 0
+chrome37.0.2062.120 59 0
+chrome41.0.2272.76 2 0
+wget 1 0
+opera9.0 12 3
+chrome39.0.2171.71 54 18
+chrome42.0.2311.108 2 0
+opera12.16 4 0
+opera7.11 5 0
+chrome34.0.1847.131 18 2
+chrome40.0.2214.109 1 0
+firefox21.0 4 0
+firefox29.0 15 0
+safari6.0 57 0
+chrome44.0.2369.0 3 0
+firefox3.5.2 2 2
+safari7.1.4 1 0
+firefox12.0 1 0
+mozilla 200 6
+chrome42.0.2311.135 44 1
+chrome32.0.1700.76 277 2
+firefox3.6.3 1 1
+chrome40.0.2214.93 2 0
+firefox35.0 5 1
+chrome37.0.2062.124 20 18
+opera12.17 7 7
+chrome11.0.696.77 1 0
+opera9.00 8 5
+chrome12.0.742.30 1 0
+msie3.02 2 2
+chrome26.0.1410.58 1 0
+firefox6.0.2 11 0
+chrome41.0.2272.101 619 0
+msie2.0 5 0
+safari8.0 10 0
+safari7.1.5 1 0
+chrome30.0.1573.2 1 0
+Unknown 53 5
+firefox27.0 1 0
+firefox11.0 68 0
+chrome30.0.0.0 31 0
+firefox17.0 1 0
+chrome43.0.2342.2 1 0
+opera8.00 12 8
+chrome41.0.2272.118 1175 0
+chrome27.0.1453.110 1 0
+opera28.0.1750.51 2 0
+chrome41.0.2272.104 1 0
+chrome18.0.966.0 1 0
+safari8.0.4 3 0
+msie11.0 2 0
+firefox37.0 1870 323
+chrome43.0.2351.3 3 0
+chrome30.0.1599.103 1 0
+msie10.0 67 5
+firefox6.0 7 3
+safari5.1 1 0
+firebird 8 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 19
+\ 20150412020456
+Mozilla/5.0_(compatible;_coccoc/1.0;__http://help.coccoc.com/) 20150428123416
+Opera/9.80_(Android;_Opera_Mini/7.5.35199/36.1701;_U;_en)_Presto/2.12.423_Version/12.16 20150421180242
+SAMSUNG-GT-C3312R/1.0_NetFront/4.2_Profile/MIDP-2.0_Configuration/CLDC-1.1 20150408170202
+Xenu_Link_Sleuth/1.3.8 20150403181210
+Mozilla/5.0_(Series30Plus;_Nokia220/14.00.11;_Profile/Series30Plus_Configuration/Series30Plus)_Gecko/20100401_S40OviBrowser/3.8.1.0.5 20150407101828
+Hivemind 20150427110108
+wordpress/2.1.1 20150424070327
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20150422063202
+Python-urllib/1.17 20150427132506
+Mozilla/5.0_(compatible;_heritrix/3.1.1__http://www.baidu.com) 20150405202209
+Internet_Explorer_6.0 20150417023649
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20150407041248
+Mozilla/5.0_(compatible;_GWPImages/1.0) 20150427111041
+Go_1.1_package_http 20150428082359
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1487;_U;_en)_Presto/2.12.423_Version/12.16 20150405125639
+Mozilla/5.0_(Android;_Mobile;_rv:34.0)_Gecko/34.0_Firefox/34.0 20150411174853
+Porkbun/Mustache_(Website_Analysis;_http://porkbun.com;_tech@porkbun.com) 20150403082631
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150412153702
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+python-requests/2.5.1_CPython/2.7.2_Windows/2008ServerR2 20150404090555
+Python-urllib/1.17 20150427132506
+\ 20150412020456
+Internet_Explorer_6.0 20150417023649
+Xenu_Link_Sleuth/1.3.8 20150403181210
+Go_1.1_package_http 20150428082359
+Hivemind 20150427110108
+Porkbun/Mustache_(Website_Analysis;_http://porkbun.com;_tech@porkbun.com) 20150403082631
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150412153702
+wordpress/2.1.1 20150424070327
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 466 755
+From1 0 1
+From2 38 345
+From3 428 479
+From4 664 8151
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 27 333
+baidu 11 11
+yahoo 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 145
+http://www.email-germes-trans-images.info 12 12
+http://www.bogema-hotel.ru 11 11
+http://coldfilm.ru 11 11
+http://chimiver.info 11 11
+http://darkoman.com 11 11
+http://gormonrosta.biz 9 9
+http://sfa-pump.ru 8 8
+http://www.innovins.com/portfolio_cms.php 7 7
+http://highlandmedia.net 7 7
+http://doska-vsem.ru 7 7
+http://skins4mine.ru 6 6
+http://brianjeanmp.net 6 6
+http://www.kinolavr.com 6 6
+http://med-poisk.com 6 6
+http://100news.biz 6 6
+http://zoneg.ru 6 6
+http://taihouse.ru 6 6
+http://www.artparquet.ru 6 6
+http://qualified-site.com 6 6
+http://www.oknosite.ru 6 6
+http://tentauto23.ru 5 5
+http://mirtorrent.net 5 5
+http://aibolita.ru 5 5
+http://sololift-grundfos.ru 5 5
+http://vseproaveo.ru 5 5
+http://vkadre.ws 3 3
+http://shop-electron.ru 3 3
+http://novosti-hi-tech.ru 2 2
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/eba134f67b3cd135ec95c21a40ca05dd/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/9c6713733735bd9e50a2f4ba0675141d/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/3c4035fae1b8a3ece8d2f50a5ab6bad0/3/0 1 1
+http://autovideobroadcast.com 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/5b98bd6657830786919d366e96879b7b/3/0 1 1
+http://waplocator.com 4 4
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/252f234e516e5d3e35df1ea7881e5b54/3/0 1 1
+http://www.ruli.to 4 4
+http://filmstrek.ru 3 3
+http://montescue.net 3 3
+http://sims-game.com 2 2
+http://diyportal.ru 4 4
+http://www.ropot-partners.ru 1 1
+http://www.tell-all.ru 1 1
+http://www.rospromtest.ru 3 3
+http://www.u-met.ru 2 2
+http://172.16.0.1/login 2 2
+http://ww.itimes.com/somen-majumdar-54d86f67a3cd7/interest-updates 0 3
+http://wallpapera.net 2 2
+http://viktoria-center.ru 2 2
+http://pixshark.com/the-great-escape-water-park-rain-dance.htm 0 2
+http://doeco.ru 3 3
+http://ufa-medosmotr.ru 1 1
+http://stroyka-house.ru 2 2
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/206fb4a7d11fbff8ad4f25bf395effbe/3/0 4 4
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/11b5581257c506aaff12fdc0ecdac78e/3/0 1 1
+http://www.to2ko.ru 2 2
+http://cssrf.ru 2 2
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/287081f82ac9975acee6e52b20d51e08/3/0 1 1
+http://fashion-kid.ru 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/5671977b2a190cd40557f9608ae56e63/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/f3fe729987b49e1ef8e7bcac058dc9bd/3/0 2 2
+http://www.simtree.ru 3 3
+http://moomi-daeri.com 3 3
+http://producm.ru 3 3
+http://fixprice.xoztovari.ru 3 3
+http://droidmod.ru 4 4
+http://solnplast.ru 3 3
+http://minedroid.com 4 4
+http://eramebel.com 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/5cf85cdf4a4737af052daea447e9c947/3/0 1 1
+http://ublaze.ru 1 1
+http://arenda-krana.biz 3 3
+http://nanoagro.net 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/624d9bdecb927513e60eb62be6a16000/3/0 1 1
+http://pornogig.com 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/d905f41ce26135219cded4706e81742f/3/0 1 1
+http://userclick.su 5 5
+http://idkredit.com 3 3
+http://23taxi.ru 2 2
+http://cpa-partnerki.ru 2 2
+http://wma.su 2 2
+http://bolshe.ru 5 5
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/093b805a4afc912cbce300eac883110e/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/4fe185ce0cfe73c7a848f2bff66d7a7b/3/0 1 1
+http://emerald-anapa.ru 3 3
+http://imgarcade.com/1/the-great-escape-water-park-rain-dance/ 0 12
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/d9e61b7aa30010f46ea9856813058954/3/0 1 1
+http://hdimagegallery.com 0 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/e8c9d8bdab5b3f0c13744fa345c86c7c/3/0 1 1
+http://autofore.ru 4 4
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/f148f9c4c795f2db767b00df34b8da75/3/0 1 1
+http://xoztovari.ru 2 2
+http://imgkid.com/great-escape-water-park-rain-dance.shtml 0 5
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/4db55d10e6ce36fe711e97033e9eff26/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/72dff3703e318aae370992e6eefe8377/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/2b361c02a0a2e9b258a96848bbd728ef/3/0 1 1
+http://blagodat-na-more.ru 3 3
+http://poisk-zakona.ru 2 2
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/eabc242f370587e333698f3eba4a6c6b/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/d29f1b5922d561a83cb5f42edb79e31a/3/0 1 1
+http://blogig.org 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/f5a215a12ec5e852d6cc54ab47232147/3/0 1 1
+http://777s.ru 3 3
+http://milediva.ru 3 3
+http://viel.su 3 3
+http://namecheap.com/blah/ 0 18
+http://fin48.ru 2 2
+http://urth.ru 1 1
+http://atlantic-map.com 3 3
+http://www.sport-komplekt.ru 2 2
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/356987dc45e28bfc0eb25113f3f903b7/3/0 1 1
+http://stroyka-house.ru 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/8e3a382f4f6ab73326ed084503fa24e6/3/0 1 1
+http://vipsiterip.com 3 3
+http://hdimagelib.com 0 10
+http://sexhd.tv 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/c0bf9a8571a37cdd3fa251f0c13d0b18/3/0 1 1
+http://gamerealla.ru 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/8d88968f53b919e4db27d3b0cd5524bc/3/0 1 1
+http://kinonew-online.net 4 4
+http://feminissimo.ru 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/8a1bb252a8c51f165a1850dc6546acc0/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/b6104f700e0cbdf3d8a6784757a8e518/3/0 1 1
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/caebd210cd3adfebaf0c336a83d574d0/3/0 1 1
+http://www.bitovki-kupit.ru 3 3
+http://pornokajf.com 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/f07d920b28165e6ac2cabd53274ccbc7/3/0 1 1
+http://mosrif.ru 5 5
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/dae57ca7869d04ad2c8bbca26a83052e/3/0 1 1
+http://krasnodar-split-system.ru 2 2
+http://www.domain2008.com 1 1
+http://ikidz.ru 5 5
+http://www.seoboxer.ru 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/37e150e4c8a74dc1060e550d22e72516/3/0 1 1
+http://www.indiacitydeal.com/index/search/city/Nagpur 1 1
+http://10sotok.info 3 3
+http://mini.7zap.com 2 2
+http://minecraf-portal.ru 3 3
+http://oknoudoma.ru 3 3
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/997a08afaf2713f3fd53e5611b6e6880/3/0 1 1
+http://www.new-square.su 3 3
+http://sexreliz.com 2 2
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/46f8b6f387ef818fa04e3ce6c7f56c9a/3/0 1 1
+http://www.ywec.ru 4 4
+http://pv-services.ru 2 2
+http://www.linkcollider.com/page/singlesurf/222607/autosurf/7dccdebcc0a5dd6a803a2ac6da6935a9/3/0 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+indiatours%26thingstodoinindia-seeinindia 11
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+indiatours%26thingstodoinindia-seeinindia 11
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 18 17473
+206 94 13326267
+406 532 103961
+404 1195 0
+301 2168 502164
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 204
+/components/com_jdownloads/jdownloads.js 1 -
+/admin/images/cityplace/1399309688_helicopter%20ride%20in%20mumbai%204.jpg 3 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/ 26 http://wma.su/
+/admin/images/cityplace/1394224730_sp1.jpg 25 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/admin/images/cityplace/1400423803_trip%20to%20pangong_lake_ladakh%204.jpg 1 -
+/admin/images/cityplace/1402229839_jodhpur%20bazaar%20walk%202.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/images/cityplace/1399405083_yacht%20sailing%20in%20mumbai%20colaba%203.jpg 1 -
+/admin/images/cityplace/1399286349_atv%20ride%20in%20mumbai%20pune%20delhi%20chennai%203.jpg 2 http://www.seeinindia.com/search.php
+/admin/images/cityplace/1399537178_parasailing%20in%20mumbai%20virar%202.jpg 2 http://www.seeinindia.com/search.php
+/admin/images/cityplace/52 7 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1430140466_facebook.php 27 http://www.seeinindia.com/admin/upload-image.php
+/images/loading.gif 28 http://www.seeinindia.com/css/colorbox.css
+/admin/images/cityplace/1400423803_trip%20to%20pangong_lake_ladakh%205.jpg 1 -
+/admin/images/cityplace/1399314526_helicopter%20ride%20in%20delhi.jpg 4 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/wp-content/plugins/revolution-slider/release_log.txt 1 -
+/admin/jsn/jquery.skitter.min.js 2 http://www.seeinindia.com/admin/travellogin.php
+/admin/images/cityplace/1395434771_supb1.jpg 1 -
+/admin/images/cityplace/1399287570_jet%20skiing%20in%20mumbai%20pune%20goa%20ganpatipule15.jpg 3 -
+/admin/images/cityplace/1402227318_jodhpur%20city%20walk%206.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/images/cityplace/1400391210_day%20trip%20to%20gulmarg_sonmarg_pahalgam%202.jpg 1 -
+/wp-content/plugins/showbiz/js/admin.js 1 -
+/admin/images/cityplace/1417678036_1002361_901225389907552_6065976595300092723_n.jpg 24 http://www.seeinindia.com/
+/admin/images/cityplace/60 6 http://www.seeinindia.com/tour-info.php
+/admin/wp-login.php 1 -
+/admin/images/cityplace/1387195153__SC_0528.JPG 1 -
+/resources/css/common.css 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/images/cityplace/1419399167_amer%20fort%20(jai04gets).jpg 2 -
+/admin/images/cityplace/1398370809_ds5.JPG 5 -
+/admin/images/cityplace/1399285920_parasailing%20in%20mumbai%20virar%20goa%20delhi%204.jpg 2 http://www.seeinindia.com/search.php
+/admin/images/cityplace/1402225301_udaipur%20city%20walk%204.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/images/cityplace/1419399167_city%20palace%20-1%20(jai04gets).jpg 2 -
+/admin/images/cityplace/1399307196_scuba%20diving%20in%20andamans%201.jpg 1 -
+/admin/images/dp/wxcqd_large.php 2 http://www.seeinindia.com/edit-profile.php
+/img/icons/right-arrow.png 9 http://www.seeinindia.com/css/flexslider.css
+//manage/fckeditor/editor/dialog/fck_about.html 2 -
+//admin/fckeditor/editor/dialog/fck_about.html 2 -
+/admin/images/cityplace/1394224730_sp9.jpg 1 -
+/admin/images/cityplace/1400423803_trip%20to%20pangong_lake_ladakh%201.jpg 2 -
+/admin/images/cityplace/1378557431_2.jpg 1 https://www.google.co.in/
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%201.jpg 3 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/admin/images/cityplace/1378710713_111.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/cityplace/59 5 http://www.seeinindia.com/tour-info.php
+/cms/wp-login.php 1 -
+/admin/img/tables/arrow-asc.png 9 http://www.seeinindia.com/admin/css1/tables.css
+/admin/images/cityplace/63 5 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1399309688_helicopter%20ride%20in%20mumbai%203.png 3 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/wp-content/plugins/wp-symposium-pro/js/wp-symposium-pro-profile-widget/Readme.txt 1 -
+/admin/images/cityplace/1394092019_sw9.jpg 1 -
+/- 6 http://www.seeinindia.com/fun-activity
+/admin/images/cityplace/50 6 http://www.seeinindia.com/tour-info.php
+/admin/jsn/jquery.easing.1.3.js 2 http://www.seeinindia.com/admin/travellogin.php
+/wp-login.php 2 -
+/244- 7 -
+/wp-content/plugins/revslider/release_log.txt 1 -
+/admin/images/cityplace/1417607280_skiing.jpg 24 http://www.seeinindia.com/
+/admin/images/cityplace/54 7 http://www.seeinindia.com/tour-info.php
+/admin/images/banner/1419398886_shikara_ride_in_srinagar.jpg 75 http://www.seeinindia.com/
+/admin/images/cityplace/1399309688_helicopter%20ride%20in%20mumbai%205.jpg 3 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/wp-login/ 1 -
+/admin/images/banner/1419398886_sea_walk_tour_in_andaman.jpg 69 http://www.seeinindia.com/
+/INJECTION/seeinind%20..%20config.phphttp://www.seeinindia.com/INJECTION/seeinind%20..%20config.php 1 -
+/admin/images/cityplace/1378710713_90.jpg 8 -
+/admin/images/cityplace/58 5 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1399308540_helicopter%20ride%20in%20mumbai%201.jpg 3 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/resources/images/logo.png 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/images/main_image/_modal. 51 http://www.seeinindia.com/indexa.php
+/admin/images/cityplace/1385803505_6.JPG 29 https://www.google.com.pk/
+/admin/images/cityplace/1385803505_7.jpg 2 -
+/license.php 2 -
+/admin/images/cityplace/1385803505_8.jpg 19 https://www.google.com.pk/
+/admin/images/cityplace/1419399167_elephant%20ride%20(jai04gets).jpg 4 -
+/admin/images/cityplace/1419399167_jaipur%20jantar%20jaipur%20(jai04gets).jpg 2 -
+/admin/images/cityplace/1419399167_taj-mahal-mosque%20(jai04gets).jpg 2 -
+/admin/images/cityplace/1385803650_9.jpg 2 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/section/wp-login.php 1 -
+/admin/images/cityplace/1399285010_paramotoring%20in%20mumbai%20virar%206.jpg 3 -
+/admin/images/cityplace/1416063587_taj%20mahal.jpg 22 http://www.seeinindia.com/
+/admin/cssn/form.css 2 http://www.seeinindia.com/admin/travellogin.php
+/admin/images/cityplace/1399308540_helicopter%20ride%20in%20mumbai.jpg 39 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/administrator/index.php 1 -
+/admin/images/cityplace/1394224730_sp3.jpg 1 -
+/resources/js/jquery.fancybox8cbb.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/images/cityplace/62 5 http://www.seeinindia.com/tour-info.php
+/admin/css/style.css 15 http://www.seeinindia.com/admin/introductions.php
+/admin/uploaded/a953db94b5630075a978acd053cdf33a.jpg 1 http://www.seeinindia.com/about.php
+/admin/cssn/skitter.styles.css 2 http://www.seeinindia.com/admin/travellogin.php
+/img/icons/left-arrow.png 10 http://www.seeinindia.com/css/flexslider.css
+/admin/images/cityplace/1402227318_jodhpur%20city%20walk.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/images/cityplace/1399309688_helicopter%20ride%20in%20mumbai%206.jpg 4 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/admin/images/cityplace/1394092019_sw5.jpg 1 -
+/admin/images/cityplace/1391517564_fx.jpg 5 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+/resources/css/jqtransform.css 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/cssn/style.css 2 http://www.seeinindia.com/admin/travellogin.php
+//info_sub.php 2 -
+/policy 2 -
+/admin/images/cityplace/1394224730_sp8.jpg 1 -
+/admin/images/cityplace/56 6 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1400389270_shikara%20ride%20in%20srinagar%207.jpg 1 -
+/admin/images/cityplace/1395867519_br3.jpg 1 -
+/403.shtml 1 -
+/resources/css/color.css 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/img/tables/table-head-bg.png 9 http://www.seeinindia.com/admin/css1/tables.css
+/admin/images/cityplace/1385803745_10.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/robots.txt 2 -
+/admin/img/tables/arrow-both.png 9 http://www.seeinindia.com/admin/css1/tables.css
+/admin/images/cityplace/1395440008_spm.jpg 1 -
+/admin/images/cityplace/1402227318_jodhpur%20city%20walk%204.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/images/cityplace/53 7 http://www.seeinindia.com/tour-info.php
+/admin/images/dp/featured-image-4.jpg 21 http://www.seeinindia.com/
+/admin/login.php 3 -
+/admin/images/cityplace/1402227318_jodhpur%20city%20walk%203.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/introductions.php 1 http://www.seeinindia.com/admin/login.php
+/wordpress/wp-login.php 1 -
+/admin/images/cityplace/1400423803_trip%20to%20pangong_lake_ladakh%207.jpg 1 -
+/admin/images/cityplace/1391624847_psc3.jpg 2 https://www.google.co.in/
+/admin/index.php 1 -
+/admin/images/cityplace/1396215434_dt5.jpg 1 -
+/admin/images/cityplace/1378710713_96.jpg 6 http://pixshark.com/the-great-escape-water-park-rain-dance.htm
+/admin/images/cityplace/1417678036_10313749_901225593240865_6498346771129569465_n.jpg 1 -
+/wp-admin/wp-login.php 1 -
+/admin/images/cityplace/1395440008_spk.jpg 1 -
+//editor/editor/dialog/fck_about.html 2 -
+/wp-content/plugins/wp-symposium-pro/js/wps.admin.js 1 -
+/resources/js/jquery.carouFredSel-6.2.1-packed.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/images/cityplace/1392240492_ky2.JPG 1 -
+/admin/images/cityplace/1395440008_spn.jpg 1 -
+/admin/images/dp/featured-image-2.jpg 22 http://www.seeinindia.com/
+/wp-content/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js 1 -
+/resources/css/style.css 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/247- 3 -
+/resources/js/jquery.mousewheel.min.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/images/cityplace/1394224730_sp2.jpg 1 -
+/resources/js/jquery.prettyPhoto.html 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/images/cityplace/46 7 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1399307214_scuba%20diving%20in%20andamans%202.jpg 1 -
+/admin/images/cityplace/1417757778_kayaking-offroad-adventure.jpg 1 -
+/admin/images/cityplace/1393971955_mkh4.jpg 1 -
+/admin/images/cityplace/1378710713_58.jpg 20 -
+/admin/images/cityplace/1396529684_spo.jpg 1 -
+/images/loading_background.png 28 http://www.seeinindia.com/css/colorbox.css
+/blog/wp-login.php 1 -
+/admin/images/cityplace/1400423803_trip%20to%20pangong_lake_ladakh%202.jpg 1 -
+/admin/images/cityplace/51 6 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1422599897_images%205.jpg 1 -
+/site/wp-login.php 1 -
+/admin/jsn/jquery.validate.js 2 http://www.seeinindia.com/admin/travellogin.php
+/admin/images/cityplace/1392759922_jt4.jpg 1 -
+/admin/ 1 -
+/admin/images/cityplace/1399308540_helicopter%20ride%20in%20mumbai%202.jpg 6 http://www.seeinindia.com/170-helicopter-ride-in-mumbai
+//js/fckeditor/editor/dialog/fck_about.html 2 -
+/images/controls.png 28 http://www.seeinindia.com/css/colorbox.css
+/admin/images/cityplace/1400423803_trip%20to%20pangong_lake_ladakh%208.jpg 1 -
+/admin/images/dp/featured-image-3.jpg 21 http://www.seeinindia.com/
+/admin/images/cityplace/1378710713_92.jpg 4 -
+/admin/images/cityplace/1395439820_snrk1.jpg 1 -
+/apple-touch-icon.png 3 -
+/admin/supplier.php 1 http://www.seeinindia.com/admin/introductions.php
+/admin/images/cityplace/61 5 http://www.seeinindia.com/tour-info.php
+/update 1 -
+/resources/js/jquery-ui-1.10.3.custom.min.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+//fckeditor/editor/dialog/fck_about.html 2 -
+/admin/images/cityplace/1422599924_images1.jpg 1 -
+/admin/images/banner/1430140557_facebook.php 85 -
+/admin/images/cityplace/1388665767_hab16.jpg 22 -
+//sys.php 2 -
+/js/html5shiv.js 3 -
+/resources/js/jquery.touchSwipe.min.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/cpcrack.php 1 -
+/resources/css/prettyPhoto.html 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/-city 9 -
+/admin/images/cityplace/1396529711_spp.jpg 1 -
+/admin/images/cityplace/1393971955_dbw1.jpg 1 -
+/admin/images/cityplace/55 6 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1394193561_tr2.jpg 1 https://www.google.com/
+/admin/images/cityplace/1394224730_spf.jpg 1 -
+/resources/js/jquery.themepunch.revolution.min.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/jsn/jquery-1.6.3.min.js 2 http://www.seeinindia.com/admin/travellogin.php
+/admin/images/cityplace/1394224730_spd.jpg 1 -
+/admin/images/cityplace/1394224730_spg.jpg 1 -
+/admin/images/cityplace/1419394593_diwane-e%20-khas%20(gets11pd).jpg 1 -
+/wp/wp-login.php 1 -
+/admin/images/cityplace/1390234814_okw1.jpg 1 -
+/admin/images/cityplace/1402227318_jodhpur%20city%20walk%202.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/images/ie6/borderTopCenter.png 1 http://www.seeinindia.com/css/colorbox.css
+/resources/js/script.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/apple-touch-icon-precomposed.png 3 -
+/admin/images/cityplace/1417678036_10410858_901225549907536_583568117823286169_n.jpg 1 -
+/admin/images/cityplace/1417757778_10835362_940642252613722_2892689049556587291_o.jpg 1 -
+/admin/images/cityplace/1394224730_sph.jpg 1 -
+/wp-content/plugins/wp-symposium-pro/readme.txt 1 -
+/admin/images/dp/featured-image-1.jpg 21 http://www.seeinindia.com/
+/wp-content/plugins/revslider/js/settings.js 1 -
+/admin/images/cityplace/1402227318_jodhpur%20city%20walk%205.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/161-paintball-in-goa 1 -
+/resources/js/jquery-1.10.2.min.js 1 http://www.seeinindia.com/css/fonts/flexslider-icon.html
+/admin/images/cityplace/1394224730_sp4.jpg 1 -
+/admin/images/main_image/1413174248_modal.jpg 23 http://www.seeinindia.com/admin/introductions.php
+/admin/images/cityplace/1378710713_103.jpg 1 http://www.seeinindia.com/72-great-escape-water-park-tickets
+/admin/images/dp/lpzetn_large.php 3 http://www.seeinindia.com/edit-profile.php
+/admin/images/cityplace/1402052911_jaipur%20bazaar%20walk.JPG 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/images/cityplace/1393971955_mkh2.jpg 1 -
+/admin/images/cityplace/1416063299_pangong%20lake.jpg 25 http://www.seeinindia.com/
+/admin/images/cityplace/1402067436_jaipur%20walks%204.jpg 1 http://www.seeinindia.com/438-walking-tour-of-jodhpur
+/admin/images/cityplace/57 6 http://www.seeinindia.com/tour-info.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 772
+103.19.133.99 264 1516 35044909 20150429042648
+39.51.85.213 117 211 4271318 20150430191031
+134.249.53.8 104 104 3870464 20150426183134
+178.137.85.64 101 101 3608222 20150428053904
+46.119.113.155 89 89 3236927 20150428014146
+60.254.4.68 47 300 6595427 20150421074221
+198.84.74.59 32 32 252555 20150430050427
+115.114.17.142 31 545 12528667 20150420041829
+123.252.195.74 31 230 4962381 20150423170202
+150.242.204.105 26 115 5080115 20150422173303
+91.207.8.46 25 25 930400 20150415181955
+182.185.21.208 25 25 200500 20150406065618
+221.120.222.136 25 28 88753 20150427133907
+115.113.121.126 23 302 15840742 20150415061106
+180.174.213.246 20 20 608054 20150427072502
+38.100.21.61 16 19 597089 20150418134657
+197.7.29.36 15 58 1916546 20150425214842
+109.120.157.179 15 15 558240 20150422063202
+91.200.12.74 14 14 323914 20150422082257
+115.111.79.34 13 165 8812466 20150424070603
+95.130.13.153 12 12 395464 20150408185003
+178.137.19.143 12 12 451608 20150429215759
+45.55.133.245 12 21 175088 20150415072538
+192.241.142.56 12 21 175088 20150402200610
+69.58.178.57 11 11 333476 20150420102422
+66.249.84.218 2 15 547699 20150428042147
+64.233.172.163 1 47 1726186 20150408143556
+111.92.149.212 0 1 589336 
+68.173.166.126 0 1 57474 
+39.48.0.16 0 2 1621633 
+202.46.61.105 1 1 29302 20150428224342
+111.88.167.45 0 1 589336 
+39.50.222.232 0 1 1032297 
+39.44.183.7 0 1 589336 
+94.153.8.126 1 1 37216 20150424110204
+103.50.157.223 0 1 1032297 
+183.87.121.55 0 1 57474 
+167.114.158.22 1 1 0 20150403181210
+45.55.134.22 2 11 113918 20150427113603
+59.182.119.87 0 1 57474 
+111.119.177.118 0 1 589336 
+125.63.78.162 0 1 55318 
+146.120.166.167 0 1 589336 
+182.58.50.197 0 1 57474 
+178.32.241.57 1 1 8067 20150428204147
+150.70.173.37 3 3 111648 20150423162209
+1.22.137.197 0 1 30709 
+39.50.165.3 0 2 1621633 
+182.182.85.247 0 1 589336 
+150.70.173.10 0 1 9171 
+23.95.43.106 1 1 8020 20150420221842
+103.230.221.253 0 1 57474 
+59.103.203.207 0 1 1032297 
+186.138.63.195 0 2 57482 
+36.83.124.146 0 7 1147749 
+74.76.234.189 0 1 40123 
+180.151.35.149 0 1 26839 
+54.80.208.162 1 15 134621 20150406185551
+103.249.229.200 0 1 1032297 
+66.249.84.224 2 28 869006 20150423144624
+117.203.196.141 0 1 64541 
+139.190.163.82 0 1 589336 
+150.70.173.45 0 2 162242 
+103.15.249.113 0 1 257029 
+113.203.178.95 0 1 1032297 
+150.70.173.8 3 5 101499 20150428102934
+173.208.218.3 1 1 35172 20150422082736
+202.53.234.78 1 52 2195819 20150403082618
+39.44.85.233 0 1 1032297 
+117.220.249.19 0 1 62440 
+94.153.66.163 8 8 298564 20150429015645
+39.48.99.191 0 1 589336 
+104.46.33.225 1 1 8020 20150404090555
+150.70.97.113 1 1 28883 20150423112018
+72.163.217.105 1 49 1160721 20150427053624
+59.161.254.21 0 1 54003 
+150.107.17.160 0 1 83681 
+119.159.69.215 0 1 1032297 
+39.44.121.83 0 1 1032297 
+209.95.43.211 0 1 589336 
+87.61.174.93 0 1 3022843 
+139.190.195.120 0 1 1032297 
+14.139.82.163 0 1 30643 
+182.182.126.101 0 1 57474 
+117.220.206.51 0 2 97597 
+14.139.119.173 1 29 1480020 20150423050248
+124.40.246.85 1 59 2206372 20150417160940
+123.125.68.16 0 1 1501960 
+60.50.29.194 1 59 2206372 20150415122859
+180.92.142.11 0 1 1032297 
+180.92.159.118 0 1 1032297 
+88.241.177.104 1 59 2206372 20150416220039
+1.39.0.3 0 1 40123 
+119.157.146.93 0 1 1032297 
+39.48.245.167 0 1 1032297 
+216.244.86.91 1 1 8067 20150430104931
+150.70.173.52 0 1 63518 
+88.255.172.60 1 1 37216 20150405004430
+66.249.83.224 0 19 480619 
+111.88.63.35 0 1 1032297 
+119.159.41.209 0 1 589336 
+123.125.68.55 0 1 400 
+66.102.6.202 0 53 1214492 
+89.146.138.151 0 1 55318 
+66.249.84.212 3 22 1249296 20150424081436
+59.103.215.90 0 1 1032297 
+84.209.156.140 0 1 55318 
+39.50.130.66 0 1 1032297 
+202.5.159.111 0 1 589336 
+220.181.38.221 0 1 1320 
+103.39.83.208 0 1 1032297 
+114.143.44.219 0 1 57474 
+111.88.143.9 0 1 1032297 
+118.102.147.98 0 1 138021 
+111.88.188.9 0 1 57474 
+39.44.108.201 0 1 589336 
+79.52.120.35 1 1 8020 20150403042035
+150.70.97.125 0 2 108945 
+66.23.235.10 1 1 169 20150427072628
+150.70.173.7 2 2 42083 20150422095717
+31.148.246.212 0 1 105962 
+39.48.62.247 0 2 1178672 
+150.70.75.213 1 1 37216 20150423093213
+199.115.114.229 0 1 1032297 
+50.128.255.183 1 59 2206372 20150402163147
+144.76.30.242 1 1 8020 20150405040430
+111.88.45.219 0 1 589336 
+66.249.82.194 1 47 2969971 20150418080420
+203.188.224.38 0 1 1032297 
+39.44.162.26 0 1 1032297 
+108.216.18.9 0 2 57482 
+111.88.153.203 0 1 1032297 
+202.69.15.157 0 1 589336 
+12.201.228.162 0 1 30643 
+182.71.249.2 5 138 5875856 20150415100037
+174.129.151.53 1 1 8020 20150406143427
+54.89.132.36 2 16 142735 20150428121100
+111.92.154.252 0 1 1032297 
+213.251.182.12 1 1 169 20150405020242
+70.176.200.244 1 59 2206372 20150423190608
+119.73.106.97 0 1 1032297 
+199.16.140.24 0 1 57474 
+202.46.62.112 1 1 8214 20150416190600
+202.46.48.84 1 1 8527 20150423210024
+111.88.149.190 0 1 589336 
+150.70.173.44 0 1 81121 
+111.88.133.164 0 1 589336 
+182.69.147.50 0 1 41623 
+115.245.23.27 0 1 57474 
+39.48.167.105 0 1 589336 
+114.143.46.166 9 26 2013553 20150407125449
+150.107.89.239 0 1 57474 
+59.94.42.121 0 1 57474 
+113.203.144.107 0 1 1032297 
+117.215.20.108 0 1 57474 
+182.182.35.133 0 1 589336 
+146.120.166.211 0 1 589336 
+139.190.141.74 0 1 589336 
+110.85.81.115 2 2 69628 20150407052537
+54.162.229.133 3 3 18334 20150413043609
+162.209.101.250 2 2 107811 20150430191132
+117.192.238.71 0 1 206114 
+118.103.238.218 0 1 1032297 
+98.126.17.83 5 5 91694 20150409001729
+62.90.233.130 1 1 37216 20150412024559
+173.208.215.156 1 1 35172 20150422092604
+217.165.79.238 0 1 1032297 
+139.190.199.179 0 1 1032297 
+202.177.227.184 0 1 461610 
+111.88.47.21 0 1 589336 
+199.168.141.171 7 7 200026 20150422054923
+80.77.26.66 1 1 37216 20150405014712
+74.215.36.35 0 1 589336 
+202.46.50.48 1 1 8782 20150421181124
+118.103.236.167 0 1 1032297 
+125.99.124.30 0 1 57474 
+202.134.158.114 0 1 40123 
+1.39.2.55 0 1 57474 
+203.207.62.38 0 1 72913 
+106.77.80.39 0 1 61318 
+125.18.28.62 0 1 72353 
+122.169.96.194 0 3 687663 
+202.46.56.145 1 1 8105 20150406195101
+150.70.173.51 0 1 7846 
+150.70.173.53 1 1 27396 20150422115711
+39.50.230.98 0 1 1032297 
+150.107.147.126 2 58 858618 20150430152816
+64.233.173.142 0 14 5255820 
+91.207.7.74 2 2 70344 20150410051331
+39.48.90.85 0 1 1032297 
+111.88.27.68 0 1 1032297 
+59.183.133.50 0 1 57474 
+150.70.97.116 0 1 9854 
+182.186.181.204 0 1 1032297 
+98.126.119.115 3 3 30649 20150413083608
+27.50.88.121 7 7 171742 20150422181329
+194.6.233.33 1 1 37216 20150418200230
+46.117.98.114 0 1 64541 
+115.115.117.126 0 1 62291 
+117.217.7.191 0 1 57474 
+114.125.43.24 1 59 2206372 20150402175119
+39.44.21.252 0 1 589336 
+61.135.190.103 2 21 215932 20150430130842
+5.104.226.5 0 14 0 
+1.39.46.157 0 1 57474 
+39.48.180.173 0 1 1032297 
+37.228.104.211 0 4 2429350 
+54.211.189.50 1 1 8020 20150420042741
+82.72.94.42 0 1 30643 
+70.170.2.39 1 59 2206372 20150423235208
+39.48.47.147 0 1 589336 
+92.118.26.96 1 1 5664 20150410115649
+182.72.87.218 0 1 72353 
+39.48.215.69 0 1 1032297 
+119.159.127.212 0 1 589336 
+213.251.182.10 1 1 169 20150403194357
+98.176.99.98 1 44 358210 20150430012516
+150.70.97.119 0 1 9171 
+183.87.18.82 0 1 30709 
+119.159.69.159 0 1 1032297 
+116.0.40.254 0 1 1032297 
+103.251.228.8 0 2 113766 
+59.181.122.103 0 1 37514 
+180.149.36.194 1 44 358210 20150430080049
+119.159.30.21 0 2 1621633 
+188.165.242.206 1 1 5432 20150411174853
+71.202.97.28 0 1 108425 
+62.210.178.179 3 3 73272 20150425152000
+202.46.48.87 1 1 7695 20150422213612
+119.159.125.250 0 1 1032297 
+146.120.166.183 0 1 589336 
+119.159.67.213 0 1 589336 
+52.5.163.72 1 1 8020 20150406075932
+103.17.81.206 0 1 57474 
+203.188.230.159 0 1 57474 
+98.231.173.3 0 1 589336 
+120.88.37.238 0 1 57474 
+182.178.74.129 0 1 589336 
+1.39.46.143 0 1 40771 
+54.162.84.6 2 2 9987 20150413043634
+119.157.249.129 0 1 57474 
+49.248.47.67 0 1 40853 
+103.252.5.169 0 1 37514 
+203.124.29.19 0 1 1032297 
+139.190.130.210 0 1 589336 
+39.48.37.66 0 1 1032297 
+73.196.35.101 0 1 589336 
+173.208.222.42 7 7 200012 20150423052634
+54.196.33.180 2 2 9984 20150406145320
+66.249.88.230 0 16 1044144 
+39.44.14.224 0 1 589336 
+114.143.46.110 10 73 3610145 20150413135443
+50.172.50.240 0 1 64541 
+220.181.38.184 0 2 63420 
+24.74.200.7 0 1 105962 
+183.207.224.50 1 1 37216 20150410074113
+27.255.49.118 0 1 589336 
+111.91.123.245 0 1 57474 
+202.46.55.184 1 1 8020 20150423021701
+116.73.171.150 0 1 57474 
+39.44.26.99 0 1 57474 
+202.46.56.146 1 1 8104 20150423235148
+119.157.166.105 0 1 589336 
+66.249.93.218 0 11 7722678 
+182.182.76.110 0 1 40853 
+202.46.62.114 1 1 7415 20150424021836
+202.21.177.46 1 59 2206372 20150415115851
+54.204.120.223 1 1 37216 20150423132835
+14.192.137.177 0 1 57474 
+202.46.51.66 1 1 8214 20150417001506
+122.162.54.162 0 1 234993 
+97.77.104.22 6 6 148194 20150411063540
+27.0.53.182 0 1 40853 
+220.181.38.223 0 1 56924 
+137.132.250.12 2 2 296 20150425182149
+202.38.181.118 0 1 25850 
+39.50.203.33 0 1 589336 
+103.249.229.122 0 1 1032297 
+119.155.152.116 0 1 1032297 
+111.11.184.10 7 7 171742 20150416185733
+117.169.1.218 4 4 90814 20150423122745
+180.251.158.48 1 22 863491 20150409060954
+54.81.9.176 1 15 134621 20150420043031
+54.225.53.173 3 51 406773 20150413044736
+61.135.190.102 2 21 215838 20150425045759
+43.247.120.117 0 1 589336 
+175.110.232.114 0 1 589336 
+122.169.42.55 0 1 40853 
+50.137.91.48 0 1 40123 
+150.70.97.96 1 1 27396 20150422132129
+184.226.44.22 0 1 57474 
+202.46.56.164 1 1 7417 20150401040917
+183.207.228.51 6 6 148165 20150428070616
+39.48.13.230 0 1 589336 
+111.88.225.79 0 1 207744 
+123.30.175.218 2 2 16040 20150420195350
+111.119.182.64 0 2 1621633 
+39.44.65.14 0 1 589336 
+94.203.43.159 1 1 27956 20150421203106
+49.206.207.4 0 1 23574 
+43.250.80.149 1 59 2206372 20150402175257
+223.232.74.233 0 2 98327 
+198.52.223.208 1 1 8020 20150411032307
+103.4.233.205 0 1 57474 
+64.233.173.137 0 10 2897840 
+119.157.233.81 0 1 1032297 
+54.162.74.108 2 21 138262 20150406150530
+116.74.1.38 2 2 4702 20150404051705
+24.114.255.83 0 1 1032297 
+150.70.97.97 0 2 64948 
+112.198.99.169 0 1 157012 
+203.192.207.208 0 1 57474 
+114.143.203.35 0 1 55318 
+119.157.157.173 0 1 1032297 
+111.88.52.239 0 1 57474 
+103.232.236.36 0 1 40123 
+39.44.211.180 0 1 1032297 
+123.201.23.250 0 2 2064594 
+39.50.154.188 0 1 57474 
+117.221.133.69 0 1 30643 
+195.154.241.109 2 2 16040 20150416033200
+111.88.13.140 0 1 589336 
+96.254.109.137 1 59 2206372 20150409052536
+202.5.138.184 0 1 1032297 
+72.228.52.66 0 1 40123 
+66.249.83.212 0 14 1118732 
+162.209.98.69 1 1 37216 20150411044146
+119.157.252.54 0 2 1089771 
+14.98.40.177 0 1 40853 
+123.125.68.48 0 1 125 
+220.181.38.234 0 1 1614 
+14.207.134.92 2 60 2214392 20150402052201
+113.203.213.1 0 2 2064594 
+54.158.34.193 2 21 138259 20150413045604
+1.39.3.169 0 1 40853 
+182.178.205.132 0 1 589336 
+202.5.158.153 0 1 1032297 
+119.160.116.51 0 1 589336 
+107.167.103.184 0 1 3022843 
+114.143.1.74 0 1 57474 
+150.70.173.41 1 2 120439 20150424061323
+202.46.62.204 1 1 37216 20150418085546
+150.70.173.49 1 4 170038 20150424061312
+202.46.53.162 1 1 7828 20150406211223
+223.176.45.187 0 1 37514 
+39.51.33.153 0 1 589336 
+103.226.141.45 1 57 1956992 20150407101935
+182.178.76.174 0 1 589336 
+188.82.22.18 1 59 2206372 20150403225007
+39.48.205.63 0 1 589336 
+66.102.6.210 1 56 3231980 20150417141556
+173.208.243.196 1 1 35172 20150422113824
+46.121.67.169 0 1 240706 
+54.157.248.83 1 15 134621 20150420043338
+192.151.154.83 2 2 70344 20150408231136
+1.23.93.85 0 1 57474 
+103.43.162.168 1 59 2206372 20150401071255
+24.62.7.103 0 1 40853 
+113.203.173.68 0 1 1032297 
+106.185.42.217 3 3 28258 20150417023649
+175.110.212.142 0 1 1032297 
+39.48.104.144 0 1 589336 
+54.166.32.51 3 51 406773 20150406162346
+111.88.50.156 0 1 1032297 
+111.119.184.144 0 2 98327 
+121.247.141.224 0 1 57474 
+150.70.173.14 2 2 56279 20150424091806
+27.147.222.200 1 1 37634 20150429032220
+103.12.123.77 0 2 98327 
+150.70.97.114 4 4 76020 20150428102917
+27.255.60.131 0 1 1032297 
+59.182.104.155 0 1 40123 
+203.194.108.108 0 1 40123 
+93.76.176.221 1 1 8020 20150425214307
+66.249.88.232 1 31 916600 20150403121300
+39.41.121.217 0 1 30709 
+113.203.231.52 0 1 589336 
+54.163.66.21 4 57 410415 20150420050137
+59.103.215.184 0 1 589336 
+114.79.169.208 1 49 3273107 20150408130632
+122.161.137.56 0 1 127008 
+182.178.100.189 0 1 589336 
+202.46.54.170 1 1 8105 20150406224446
+73.26.176.86 0 1 534401 
+103.250.189.73 1 59 2206372 20150402052213
+109.123.120.154 0 2 2064594 
+66.249.81.239 0 22 1736700 
+66.249.82.202 0 32 4710929 
+54.161.221.207 1 1 3841 20150428082359
+182.56.212.197 0 1 57474 
+77.89.158.10 0 1 62148 
+150.70.173.56 0 2 49246 
+122.163.42.205 0 1 82927 
+39.50.246.147 0 1 589336 
+119.156.9.31 0 1 589336 
+58.240.238.218 7 7 171742 20150417024205
+182.48.92.98 1 59 2206372 20150402175151
+39.50.211.119 0 1 1032297 
+64.233.173.147 0 14 4641642 
+101.59.201.194 0 2 2064594 
+90.203.12.255 0 1 32613 
+111.92.139.112 0 2 1621633 
+82.56.50.248 0 1 64541 
+119.157.234.214 0 1 1032297 
+27.124.63.2 0 1 1032297 
+202.46.49.97 1 1 8926 20150422182810
+86.163.7.74 0 1 252222 
+103.229.208.223 0 1 57474 
+202.46.57.130 1 1 8105 20150409183902
+39.48.150.101 0 1 1032297 
+144.76.99.22 1 1 12117 20150427151939
+106.76.82.2 0 1 40853 
+180.251.14.81 1 59 2592864 20150402175203
+207.102.138.158 1 1 37216 20150418032246
+125.209.80.235 0 1 589336 
+66.249.81.242 1 21 1622063 20150416023256
+66.102.7.219 0 39 1605368 
+54.149.107.194 1 1 37216 20150403082631
+105.158.133.169 1 52 2040481 20150402163945
+202.46.62.79 1 1 7828 20150406191733
+183.171.160.233 0 1 32613 
+61.135.190.223 1 6 58524 20150428231154
+122.15.158.133 0 1 56209 
+103.240.163.194 0 1 108425 
+39.44.134.110 0 1 589336 
+115.111.107.42 0 2 1621633 
+119.157.201.132 0 1 589336 
+39.48.66.2 0 1 1032297 
+111.88.225.9 0 1 1032297 
+61.135.190.100 1 9 101856 20150410104353
+103.248.113.112 0 1 40123 
+103.20.135.4 0 1 589336 
+23.23.14.220 1 1 8020 20150427110108
+61.135.190.219 0 2 8084 
+202.46.56.158 1 1 7547 20150423231536
+203.124.29.21 0 1 57474 
+218.204.140.104 1 1 27956 20150421085634
+115.249.161.114 0 1 37514 
+162.209.8.106 1 1 24575 20150421203108
+150.70.97.120 2 2 39513 20150428102807
+74.7.145.93 0 1 1460131 
+182.182.22.67 0 1 589336 
+182.48.232.25 0 1 40853 
+182.180.191.21 0 1 57474 
+99.183.226.76 0 3 442669 
+66.249.82.210 1 31 1410758 20150408143556
+150.70.173.46 0 1 63518 
+49.248.192.126 2 48 16040 20150411041526
+95.219.56.26 0 1 589336 
+202.46.63.143 1 1 7419 20150424005148
+43.248.10.56 1 1 12117 20150428065946
+31.222.142.254 1 1 37216 20150413083256
+150.70.173.39 1 1 37216 20150422120312
+39.48.28.77 0 1 1032297 
+27.153.160.70 1 1 7080 20150422200441
+223.176.62.148 0 4 30496 
+182.55.85.220 0 1 30643 
+115.42.70.117 0 1 589336 
+39.53.223.81 4 4 31465 20150430195957
+54.236.253.177 0 1 64541 
+67.148.183.245 2 2 45331 20150421203015
+119.157.181.194 0 1 589336 
+173.208.222.90 7 7 200012 20150423001510
+182.182.58.37 0 1 1032297 
+119.73.118.176 0 2 1089771 
+39.51.94.251 0 1 1032297 
+27.5.146.163 0 1 40123 
+46.229.166.195 0 4 1390596 
+14.99.198.98 0 1 55318 
+5.154.64.1 1 59 2206372 20150411064902
+150.70.173.40 0 2 36400 
+131.253.38.67 8 8 273465 20150429004628
+202.46.62.199 1 1 8153 20150423192512
+39.50.132.13 0 1 1032297 
+111.88.145.15 0 2 1621633 
+36.83.134.147 0 9 386684 
+216.49.48.59 6 44 391223 20150430012442
+69.195.133.66 1 1 37216 20150419011527
+117.241.253.166 0 1 294598 
+150.70.97.98 1 1 37216 20150422091112
+14.97.246.232 0 1 57474 
+61.135.190.224 0 2 8084 
+49.14.18.223 0 1 30709 
+223.196.188.159 2 101 2214392 20150415090407
+182.178.22.204 0 1 1032297 
+39.48.132.133 0 1 589336 
+60.243.28.9 0 1 57474 
+202.46.50.129 1 1 7654 20150425023226
+202.131.106.56 1 54 2198489 20150415063953
+96.227.124.38 1 1 37216 20150413021308
+1.39.96.44 0 1 257029 
+90.211.124.242 1 59 2206372 20150408165310
+66.249.88.234 0 16 269323 
+182.178.178.37 0 1 589336 
+139.190.213.155 0 1 589336 
+220.181.38.140 0 1 1217 
+115.118.15.117 0 1 41623 
+99.46.112.254 1 43 2097941 20150423003439
+43.225.17.54 0 1 1032297 
+150.107.41.109 0 1 57474 
+220.227.107.130 0 1 72353 
+200.84.48.244 1 1 27956 20150416185707
+39.48.243.224 0 1 589336 
+106.66.237.102 1 59 2206372 20150412192428
+150.70.173.13 0 1 27824 
+111.88.140.92 0 1 57474 
+46.229.170.197 2 2 74432 20150427040627
+122.170.111.190 0 1 57474 
+14.139.60.13 1 50 2891959 20150406053805
+180.76.6.213 1 1 8020 20150411005347
+139.190.154.81 0 1 589336 
+91.207.7.186 3 3 105516 20150403140825
+182.182.26.150 0 1 589336 
+119.154.235.192 0 1 589336 
+202.46.60.141 1 1 7418 20150423230343
+89.207.130.134 0 4 0 
+163.47.141.98 5 65 950980 20150429133714
+122.161.148.226 0 1 206114 
+123.30.175.219 1 1 8020 20150404014930
+111.88.43.197 0 1 589336 
+59.103.201.156 0 1 1032297 
+144.76.64.115 1 1 8020 20150406160430
+111.88.239.60 0 1 589336 
+115.42.77.151 0 1 1032297 
+39.50.206.63 0 1 57474 
+119.157.238.85 0 2 1621633 
+150.107.20.179 0 1 57474 
+39.50.135.114 0 1 589336 
+112.79.36.186 0 1 37514 
+59.88.12.68 0 1 254384 
+125.18.18.214 0 1 72353 
+39.54.182.245 0 1 589336 
+139.190.199.196 0 1 1032297 
+182.184.70.232 0 1 1032297 
+182.182.114.198 0 1 589336 
+66.102.6.194 2 71 2532779 20150424151341
+50.93.249.212 4 62 2288824 20150414022351
+24.16.111.66 1 59 2206372 20150417161000
+183.87.245.114 0 2 130387 
+52.5.139.113 4 4 32080 20150405085425
+150.70.173.47 1 1 7624 20150424061328
+117.247.110.172 0 2 228537 
+150.70.97.121 2 2 74432 20150411042910
+87.98.244.71 1 1 3841 20150427134131
+119.159.98.30 0 1 1032297 
+103.44.107.2 0 2 98327 
+150.70.173.6 0 4 84656 
+111.92.158.241 0 1 589336 
+150.70.172.232 0 3 43928 
+119.160.118.249 0 1 1032297 
+119.159.84.2 0 1 1032297 
+117.209.196.35 0 1 119416 
+115.167.117.18 0 1 589336 
+111.92.157.54 0 2 1178672 
+150.70.173.57 1 1 21350 20150424091906
+123.125.68.62 0 1 41979 
+181.215.128.130 1 1 37216 20150426015406
+119.157.221.44 0 1 589336 
+119.157.226.11 0 1 1032297 
+39.50.167.138 0 1 589336 
+122.179.183.120 0 1 72353 
+39.44.29.175 0 2 1621633 
+150.70.173.43 1 1 37634 20150429042813
+183.207.224.51 5 5 128030 20150424042151
+115.249.25.252 0 1 40853 
+150.70.97.112 0 2 29268 
+66.102.7.212 2 37 1536586 20150413053028
+36.79.15.48 1 46 2410063 20150408164159
+223.196.167.201 1 1 8020 20150401023713
+111.92.145.254 0 1 1032297 
+23.23.45.67 1 1 8020 20150420043137
+39.44.216.129 0 1 1032297 
+192.99.9.164 1 1 8020 20150419155237
+41.238.146.229 0 1 3022843 
+178.137.166.68 6 6 225804 20150430132406
+106.67.146.130 0 1 40123 
+49.248.63.37 0 1 71518 
+68.105.107.90 0 2 1178672 
+39.44.206.89 0 2 1621633 
+202.46.62.155 1 1 7945 20150423204809
+202.141.250.179 0 1 57474 
+61.135.190.105 1 3 48245 20150415141639
+85.113.55.152 1 1 8020 20150401131507
+104.222.192.204 1 1 19739 20150417082730
+39.44.220.149 0 1 1032297 
+139.190.207.203 0 1 1032297 
+39.50.138.152 0 1 1032297 
+202.46.50.199 1 1 7654 20150424120433
+182.180.187.93 0 1 589336 
+182.71.12.178 0 1 107494 
+119.42.70.24 2 46 1155091 20150423051541
+103.5.189.71 0 1 57474 
+59.181.134.37 0 1 57474 
+192.8.229.10 0 1 100914 
+138.36.237.61 2 2 74432 20150412020456
+115.114.8.251 0 1 57474 
+139.190.229.223 0 1 589336 
+54.159.75.101 3 3 18334 20150406145410
+182.64.55.192 0 1 26839 
+150.70.173.54 0 4 172179 
+119.159.81.12 0 1 1032297 
+39.44.118.14 0 1 1032297 
+111.119.181.208 0 1 589336 
+203.81.228.116 1 59 2206372 20150408105428
+39.50.129.47 0 2 1621633 
+71.191.237.34 0 1 589336 
+111.95.101.22 1 59 2206372 20150402175309
+14.192.154.236 0 1 589336 
+94.153.9.66 3 3 112902 20150429181327
+202.91.134.9 0 1 57474 
+121.52.154.36 0 1 1032297 
+150.70.97.115 1 1 35774 20150423170328
+202.69.11.239 0 1 589336 
+49.203.5.153 0 1 40123 
+14.139.125.71 0 1 100914 
+120.62.46.16 0 1 294598 
+192.187.108.250 1 1 35172 20150403190352
+117.216.250.64 0 1 55318 
+150.70.97.126 0 1 93396 
+91.200.12.22 2 2 12755 20150408233837
+183.87.141.230 0 1 57474 
+178.49.193.42 2 2 45331 20150422082141
+23.88.228.62 1 1 37216 20150407162916
+39.44.75.180 0 1 589336 
+119.157.173.151 0 1 57474 
+60.13.0.180 1 1 37216 20150405202209
+202.46.53.130 1 1 2014 20150423195831
+150.70.75.167 1 1 37216 20150402053159
+123.30.175.221 1 1 8067 20150428123416
+198.27.66.100 1 1 8020 20150422141234
+117.205.107.201 0 4 248592 
+119.160.119.75 0 1 1032297 
+42.83.85.42 0 1 589336 
+115.28.85.240 7 7 171742 20150419015856
+85.154.171.100 0 1 57474 
+197.254.80.42 1 54 2198489 20150425123050
+185.10.104.131 1 1 8020 20150418220217
+62.90.132.141 2 118 4412744 20150420125944
+66.249.81.245 0 13 598977 
+27.116.54.238 0 1 37514 
+111.88.184.78 0 1 589336 
+103.242.120.199 0 1 1032297 
+123.236.248.139 0 1 57474 
+54.159.93.3 1 1 8020 20150413043311
+182.182.82.193 0 1 589336 
+115.118.184.136 0 1 1032297 
+103.1.112.74 0 1 55318 
+12.153.112.11 1 59 2206372 20150405202126
+182.180.189.6 0 1 1032297 
+31.148.246.31 0 1 589336 
+66.249.93.221 0 9 6632907 
+203.109.80.2 0 1 55318 
+125.24.146.87 0 14 1059301 
+31.148.246.101 0 1 105962 
+122.96.59.106 7 7 171798 20150422042623
+92.96.169.192 0 1 206114 
+202.46.48.100 1 1 35820 20150426182400
+70.39.176.52 0 1 57474 
+36.81.65.145 1 35 1856672 20150405014329
+115.167.87.159 0 1 589336 
+61.135.190.104 4 36 407424 20150422084532
+150.70.173.11 1 1 4867 20150424070725
+119.157.193.239 0 1 1032297 
+24.91.222.74 0 1 40123 
+132.203.171.48 0 1 26839 
+103.53.45.35 0 1 589336 
+69.171.227.114 2 2 16040 20150412153702
+202.5.152.237 0 1 589336 
+150.70.173.42 1 4 141213 20150401071328
+119.154.225.100 0 1 589336 
+125.99.122.130 0 1 40123 
+49.204.218.161 0 1 33337 
+72.14.199.88 1 1 8020 20150407041248
+54.162.13.107 1 15 134621 20150413044609
+66.249.93.224 0 8 5157649 
+27.107.219.147 0 2 98327 
+178.151.15.203 1 59 2206372 20150417161119
+121.243.228.7 0 1 57474 
+63.110.89.212 1 1 0 20150416080535
+183.87.255.66 0 1 57474 
+111.88.1.239 0 1 1032297 
+103.20.135.172 0 2 1178672 
+117.206.34.26 0 1 206114 
+139.190.139.30 0 1 589336 
+27.5.114.141 0 2 98327 
+62.201.200.5 10 10 256060 20150419225926
+113.203.174.147 0 1 589336 
+146.120.166.33 0 1 105962 
+153.9.254.173 0 1 62965 
+176.97.116.131 3 3 21289 20150430155650
+199.30.24.207 0 53 2191030 
+213.251.182.115 1 1 169 20150413014201
+182.182.9.123 0 1 1032297 
+39.44.21.179 0 1 589336 
+182.48.216.148 0 1 72913 
+119.73.114.126 0 1 207744 
+113.203.144.218 0 1 589336 
+139.190.215.177 0 1 589336 
+203.135.33.254 0 1 1032297 
+103.8.150.44 1 59 2206372 20150403121625
+119.157.151.78 0 1 589336 
+62.210.180.9 7 7 222264 20150426160955
+111.88.140.184 0 1 589336 
+111.88.162.207 1 36 775820 20150429071300
+202.46.58.42 1 1 7548 20150422220934
+69.42.220.27 2 2 12117 20150427132016
+182.182.119.206 0 1 589336 
+173.208.222.146 7 7 200010 20150422235415
+14.140.253.129 0 2 98245 
+175.110.193.107 0 1 57474 
+66.102.7.205 1 39 1280438 20150403050313
+2.54.183.109 0 1 95505 
+155.245.114.11 0 1 86996 
+39.44.125.146 0 2 1621633 
+36.85.70.123 1 57 2203141 20150409052801
+118.103.232.196 0 1 589336 
+103.21.59.28 3 3 6446 20150427132506
+182.185.49.254 0 1 77315 
+39.44.68.105 0 1 57474 
+150.70.172.231 0 1 70084 
+103.38.38.207 0 1 57474 
+1.186.79.9 0 1 62291 
+64.233.172.171 1 36 2072517 20150410131103
+71.191.229.181 0 1 589336 
+182.185.221.189 1 59 2206372 20150402175138
+175.107.249.173 0 1 1032297 
+107.77.83.53 5 104 805887 20150427192133
+182.66.60.230 0 4 30496 
+150.70.173.5 1 1 28883 20150422101222
+213.251.182.110 1 1 169 20150426110451
+64.233.172.179 0 37 973746 
+117.169.1.5 6 6 134313 20150426194736
+54.204.109.153 3 3 14826 20150420043304
+36.84.55.162 1 59 2592864 20150402175141
+202.46.50.51 1 1 8751 20150424000347
+115.69.241.230 0 1 57474 
+39.44.201.142 0 4 4129188 
+180.92.151.215 0 1 1032297 
+111.92.156.138 0 1 57474 
+138.128.2.235 2 2 13684 20150405025008
+220.227.121.137 0 2 178612 
+111.88.171.139 0 1 589336 
+49.248.207.191 2 2 16040 20150407034911
+42.83.86.148 0 1 589336 
+175.110.128.127 0 1 1032297 
+125.18.7.61 0 1 1032297 
+195.242.218.133 9 9 336198 20150429234540
+111.92.133.161 0 1 589336 
+82.35.181.134 1 59 2206372 20150402052034
+175.107.250.162 0 2 1621633 
+110.85.80.216 1 1 34930 20150408062004
+119.159.224.197 0 1 589336 
+111.88.153.65 0 1 589336 
+14.139.119.172 0 14 457743 
+101.222.146.13 0 1 65587 
+106.79.171.136 1 19 692961 20150416115500
+202.177.246.62 2 120 5254364 20150420050915
+202.141.247.197 0 2 1621633 
+119.63.131.124 0 2 1089771 
+124.124.53.17 0 3 1397053 
+208.13.170.73 0 1 157012 
+103.28.180.41 1 59 2206372 20150409054319
+66.249.83.218 1 26 993513 20150410062910
+175.107.250.6 0 1 589336 
+101.57.116.55 0 1 1460131 
+115.167.110.67 0 1 589336 
+150.70.97.118 1 1 37216 20150423092415
+182.184.51.152 0 1 1032297 
+42.201.205.190 0 1 589336 
+39.44.6.193 0 1 207744 
+202.177.254.109 0 1 1032297 
+89.65.66.18 0 1 105962 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150401 23 151 19619110 12
+20150402 54 826 37345729 23
+20150403 24 388 30316638 16
+20150404 24 55 10326425 15
+20150405 32 158 19639448 15
+20150406 63 212 12090794 24
+20150407 32 180 12164763 11
+20150408 38 396 26454941 15
+20150409 29 257 21742647 12
+20150410 23 289 17623104 13
+20150411 38 230 14398350 20
+20150412 24 101 16717079 11
+20150413 36 318 23195264 16
+20150414 20 96 10490989 6
+20150415 59 710 35240605 14
+20150416 33 342 15812903 15
+20150417 60 584 25482950 20
+20150418 37 125 22940851 13
+20150419 26 38 7602400 9
+20150420 92 707 29330896 19
+20150421 17 56 12707959 12
+20150422 295 1363 41733695 37
+20150423 99 476 28379975 33
+20150424 71 313 14464859 29
+20150425 28 167 21159727 10
+20150426 31 61 18003905 11
+20150427 180 442 9689846 16
+20150428 52 363 3314479 18
+20150429 31 104 2497270 14
+20150430 25 223 2430025 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 13
+0s-30s 435
+2mn-5mn 8
+15mn-30mn 7
+30s-2mn 19
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 83
+/ 673 17995135 336 315
+/tour-info.php 172 2732027 83 66
+/indexa.php 116 267194 6 6
+/searchtourajax.php 113 47866 0 1
+/index.php 51 1024058 12 30
+/547-everest-experience-by-helicopter 43 416309 5 9
+/search.php 38 253956 0 0
+/login.php 35 497045 2 4
+/facebook.php 35 289535 4 4
+/register.php 28 515628 7 5
+/edit-profile.php 18 328886 0 0
+/admin/login.php 16 28508 6 1
+/about.php 15 120093 2 4
+/contact.php 14 115485 3 4
+/cpcrack.php 14 22669 0 0
+/search1.php 13 235825 0 0
+/500-skiing-trip-to-gulmarg 12 231092 0 1
+/admin/introductions.php 12 168570 1 1
+/activity.php 9 233611 9 9
+/390-port-blair-to-havelock-island-sea-plane-transfer-with-trip-to-radhanagar-beach 8 120076 1 2
+/car_rental.php 8 157826 1 0
+/1337w0rm.php 8 12125 0 0
+/170-helicopter-ride-in-mumbai 8 117266 1 1
+/504-day-trip-to-sundarban 7 111820 0 2
+/need-more.php 7 126958 0 1
+/373-jet-ski-at-mandwa 5 41385 1 1
+/sitemap.xml 3 7053 2 2
+/INJECTION/seeinind%20..%20config.php 3 7399 1 1
+/UPDATE/Update%20Your%20Email%20Account_files/saved_resource 1 321 0 0
+/168-delhi-sightseeing-in-standard-car 2 15064 0 1
+/admin/manage-tour.php 2 43737 0 0
+/BT/ 1 209 0 0
+/72-great-escape-water-park-tickets 1 7739 1 1
+/560-himachal-package-06-days 4 29944 0 0
+/search-main.php 3 10522 1 1
+/tour-info.php/trackback/ 2 11350 0 2
+/446-flying-tour-of-mumbai 3 23994 0 0
+/searchuserajaxsession.php 2 48 0 0
+/amazing-activity 2 11530 0 1
+/searchuserajax.php 1 24 0 0
+/admin/banner-images.php 3 8091 0 0
+/UPDATE/Update%20Your%20Email%20Account_files/count.php 2 40 0 1
+http://www.seeinindia.com/index.php 1 37429 0 1
+/438-walking-tour-of-jodhpur 1 7967 1 1
+/UPDATE/Update%20Your%20Email%20Account.htm 2 2433 0 0
+/privacy_statement.php 3 143663 1 1
+/171-helicopter-ride-in-delhi 3 22920 0 0
+/174-agra-and-taj-mahal-tour-from-delhi-in-standard-vehicle 2 15358 0 0
+/24-paintballing-for-four-ultimate-adrenaline-rush- 1 7539 0 0
+/admin/travellogin.php 3 11226 0 0
+/186-hot-air-balloning-in-agra 1 25502 0 0
+/searchuserajaxsession1.php 2 48 0 0
+/admin/adminpanel.php 1 205 0 0
+/admin/images/dp/ 1 598 0 1
+/admin/upload-image.php 3 6713 0 0
+http://www.seeinindia.com/login.php 3 52792 1 0
+/admin/ 2 2442 0 0
+/fun-activity 1 32801 0 0
+/BT/seeinind%20..%20config.php 1 1249 0 0
+/INJECTION/ 2 513 0 0
+/400-baratang-day-trip 1 7853 1 1
+/admin/supplier.php 6 34448 0 3
+/website_terms.php 1 71064 0 0
+/admin/images/banner/1430140557_facebook.php 5 96579 0 0
+/admin/create-a-new-tour.php 1 2122 0 0
+/my-cart.php 1 7759 0 1
+/searchuserajax1.php 1 24 0 0
+/173-agra-and-taj-mahal-tour-from-delhi-in-private-vehicle 3 57516 0 0
+/82-parasailing-at-arnala-fort-near-mumbai 2 68348 0 0
+http://www.seeinindia.com/tour-info.php 2 56125 1 0
+/romantic-activity 3 43080 0 1
+http://www.seeinindia.com/search1.php 1 19632 0 0
+/Kathmandu-city 2 26422 2 1
+/539----jaipur-sightseeing-including-amber-fort---elephant-ride 2 59286 0 1
+/332-airplane-flying-tour-in-bangalore 2 16250 0 0
+/beach-activity 1 31471 0 0
+/UPDATE/ 3 801 0 0
+/424-pangong-lake-tour-from-leh 2 66552 0 0
+/bconfig/bhc.php 1 593 0 0
+/travel-login.php 5 65462 1 4
+http://www.seeinindia.com/edit-profile.php 1 23223 0 0
+/admin/admin.php 3 5862 0 0
+/167-delhi-city-tour-in-private-car 1 5834 0 0
+END_SIDER

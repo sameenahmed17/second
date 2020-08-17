@@ -1,0 +1,1 @@
+document.write('<p><a href="http://www.afficheip.net/?utm_source=Externe&amp;utm_medium=Site&amp;utm_campaign=IP" title=\"Affichez votre adresse ip\" style="position:relative;z-index:999999;font-size:10px; font-family:Verdana; color:#000000; background-color:#FFFFFF; text-decoration:none;"></a></p>'); 

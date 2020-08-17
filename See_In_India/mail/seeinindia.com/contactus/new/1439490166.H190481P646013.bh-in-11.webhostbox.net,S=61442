@@ -1,0 +1,986 @@
+Return-path: <bounces+817483-1e9c-contactus=seeinindia.com@email.pinterest.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Thu, 13 Aug 2015 18:22:46 +0000
+Received: from o2.email.pinterest.com ([50.31.33.232]:54931)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <bounces+817483-1e9c-contactus=seeinindia.com@email.pinterest.com>)
+	id 1ZPx9I-002i1M-Vn
+	for contactus@seeinindia.com; Thu, 13 Aug 2015 18:22:45 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pinterest.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	s=s20150427; bh=7nds31O6CuxxmqaFhsl3B2DoRJU=; b=IENi1Ial14Br2Wwe
+	UXjMnA9wayJrwi8uELQTh7OienkSP0ahSKsRvUontN8rjvN7btnDYHEmjK+AetOn
+	EVXH229M4slrscPDokii6c3FgsoTwNvsngmnkz5w6cEivksRlMbF3sXbqbsvaj0P
+	KTS3ZWjXT/X4tjtAHaZI7O+74ls=
+Received: by filter-408.sjc1.sendgrid.net with SMTP id filter-408.7633.55CCE02718
+        2015-08-13 18:21:28.581038107 +0000 UTC
+Received: from ODE3NDgz (unknown [10.42.83.122])
+	by ismtpd-053 (SG) with HTTP id 14f284b9e0d.192.1ef9817
+	for <pinbot@pinterest.com>; Thu, 13 Aug 2015 18:21:28 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============3391111187425675962=="
+MIME-Version: 1.0
+From: Pinterest Partner Team <pinbot@pinterest.com>
+To: contactus@seeinindia.com
+Reply-to: partners@email.pinterest.com
+Subject: Case study: How Bob Vila boosted traffic by 33%
+Message-ID: <14f284b9e0d.192.1ef9817@ismtpd-053>
+Date: Thu, 13 Aug 2015 18:21:28 +0000 (UTC)
+List-Unsubscribe: <http://email.pinterest.com/wf/unsubscribe?upn=hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtgULcWlghC8Tx-2F1Vu5RZFM9nRPAW4XTMuuLMcvjFSvJV9Jlgd4NNKvYs9f6iwHBSeDkfjIOvK5jnR6jqGBJ6kkmim09MGLAVIYtoxd7GOGvNLWYJAUf6Un3xRw30MzgPTbA2FFWFt-2Fw9IoB5pDETFGquqOgTCpkDedaFZZaNj0egn5AmR0iM5BAHUXw2Tpwv3L3cHV416vyiuyO5rzLnq-2Ff87AXMpLI92hqQ-2Bo6QyYsOEYEqalUEGuZdldGVtmolGW83Y7HSNcTxqbcjcSBmm9o-2F4bGM0vjuE20rl3CV-2FTZw-2BH61537vlp7dR-2Fvo7tH4P7INdTjt-2FsdQbzKvT35TmXqmx1C5u-2F-2FiR-2FYEsnCJDf2n>, <mailto:unsubscribe@email.pinterest.com?subject=http://email.pinterest.com/wf/unsubscribe*q*upn=hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtgULcWlghC8Tx-2F1Vu5RZFM9nRPAW4XTMuuLMcvjFSvJV9Jlgd4NNKvYs9f6iwHBSeDkfjIOvK5jnR6jqGBJ6kkmim09MGLAVIYtoxd7GOGvNLWYJAUf6Un3xRw30MzgPTbA2FFWFt-2Fw9IoB5pDETFGquqOgTCpkDedaFZZaNj0egn5AmR0iM5BAHUXw2Tpwv3L3cHV416vyiuyO5rzLnq-2Ff87AXMpLI92hqQ-2Bo6QyYsOEYEqalUEGuZdldGVtmolGW83Y7HSNcTxqbcjcSBmm9o-2F4bGM0vjuE20rl3CV-2FTZw-2BH61537vlp7dR-2Fvo7tH4P7INdTjt-2FsdQbzKvT35TmXqmx1C5u-2F-2FiR-2FYEsnCJDf2n>
+X-SG-EID: RNI/K1V49f6gVNJKzMMLbNYFV669ql6Whi/l5Z4jyz1nAYwTg7/2/jfBVQEhGYmzV+GS6KJiqjbe8Z
+ 6UfeupMFmDcCq/LJD8WPyLn7t3qKRsdrNxvkd+7it68Pd+SaYeunUZDbzHVtJMv3UY+E06aJw4MwEh
+ F80kqqogKcDi+zM=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LAdN9SPml59/lJUjxMFA7a89WDNyW2eHp4fz/
+ Jol2nORXiQOP4fPW0UpK44vh77ePwomLvq3EaADqurrQ22Zdjj+mdyW5iZ+rLtdjOVAiFPhZTtzXBP
+ 9E1+kW0uXxjQ1gxKNluxIJzdBSU0Vk1SZJSqBIZUxkjJI3VZ1itak/jumPZKlintMOPC4OWbed1x0C
+ A=
+X-Authenticated_sender: 
+
+--===============3391111187425675962==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+For years, Bob Vila has been TV=E2=80=99s home improvement guru. Now, he=E2=
+=80=99s gone digital on Pinterest.                                         =
+                                                                           =
+                                                                           =
+                      ( http://www.pinterest.com/?utm_campaign=3Dpartner_20=
+150813_newsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dheader/ )      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                       =C2=A0
+
+                                                                           =
+                                                                  ( https:/=
+/business.pinterest.com/en/success-stories/bob-vila/?utm_campaign=3Dpartner=
+_20150813_newsletter )                                                     =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+     Bob Vila: Using Pinterest tools to grow traffic                       =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                For years, Bob Vila has been TV=E2=80=99s home improvement =
+guru. Now, he=E2=80=99s gone digital on Pinterest.=20
+
+By creating handy how-to Pins, monitoring metrics and scheduling Pins durin=
+g peak Pinning hours, the Bob Vila team has increased traffic to their webs=
+ite by 33%. The team even found that a big chunk of that audience is men=E2=
+=80=94each month, the number of male Pinners who visit BobVila.com grows by=
+ 20%.=20
+
+In our latest case study, learn tips and tricks for polishing your Pinteres=
+t profile from Bob Vila. (No elbow grease required).=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+            Read more                                                      =
+               ( https://business.pinterest.com/en/success-stories/bob-vila=
+/?utm_campaign=3Dpartner_20150813_newsletter )                             =
+                                                                           =
+                                                                           =
+                                                      ( https://business.pi=
+nterest.com/en/success-stories/bob-vila/?utm_campaign=3Dpartner_20150813_ne=
+wsletter )                                                                 =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+  =C2=A0
+
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+    PIN TIP                                                                =
+                                                Reaching men on Pinterest  =
+                                                                           =
+                                                                           =
+                                                                           =
+          Remember: Men are the fastest growing demographic on Pinterest. I=
+n 2014, the number of men on Pinterest doubled.
+
+ Want to attract a larger male audience on Pinterest? Check out how busines=
+ses like the Wall Street Journal and REI are  curating boards for men.  ( h=
+ttps://business.pinterest.com/en/blog/reach-men-fastest-growing-demographic=
+-pinterest?utm_campaign=3Dpartner_20150813_newsletter )
+
+                                                                           =
+                                                                           =
+                                        =C2=A0
+
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                      ( http://www.pinteres=
+t.com/business/?utm_campaign=3Dpartner_20150813_newsletter&utm_medium=3D202=
+3&utm_source=3D31&e_t_s=3Dfooter )                                         =
+                                                                           =
+                                                                           =
+                                                             Pinterest     =
+                                                            ( http://www.pi=
+nterest.com/business/?utm_campaign=3Dpartner_20150813_newsletter&utm_medium=
+=3D2023&utm_source=3D31&e_t_s=3Dfooter )                                   =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                         ( https://www.face=
+book.com/pinterestforbusiness )                                            =
+                                                                           =
+                                                                           =
+                                                          Facebook         =
+                                                        ( https://www.faceb=
+ook.com/pinterestforbusiness )                                             =
+                                                                           =
+                                                                           =
+                                                                           =
+                                               ( https://www.twitter.com/pi=
+nterestforbiz )                                                            =
+                                                                           =
+                                                                           =
+                                          Twitter                          =
+                                       ( https://www.twitter.com/pinterestf=
+orbiz )                                                                    =
+                                                                           =
+                                                                           =
+                                                                           =
+                        ( https://plus.google.com/113839006205144536713/vid=
+eos )                                                                      =
+                                                                           =
+                                                                           =
+                                Google                                     =
+                            ( https://plus.google.com/113839006205144536713=
+/videos )                                                                  =
+                                                                           =
+                                                                           =
+                                                                           =
+                          ( http://business.pinterest.com/en/blog )        =
+                                                                           =
+                                                                           =
+                                                                           =
+                   Blog                                                    =
+             ( http://business.pinterest.com/en/blog )                     =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                   =C2=A0
+
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                This email =
+was sent to contactus@seeinindia.com ( contactus@seeinindia.com ).=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                                                Don't want =
+to receive this type of email? Change your email preferences ( http://www.p=
+interest.com/settings/email/?utm_campaign=3Dpartner_20150813_newsletter&utm=
+_medium=3D2023&utm_source=3D31&e_t_s=3Dfooter ).=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20
+                                                                Didn't sign=
+ up for Pinterest? Please let us know! ( https://help.pinterest.com/article=
+s/if-someone-else-signed-your-email?utm_campaign=3Dpartner_20150813_newslet=
+ter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dfooter )=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                                                Have a ques=
+tion? Visit our Help Center ( http://www.pinterest.com/help/?utm_campaign=
+=3Dpartner_20150813_newsletter&utm_medium=3D2023&utm_source=3D31&e_t_s=3Dfo=
+oter ).=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                =C2=A9 Pint=
+erest, Inc.=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                808 Brannan=
+ Street, San Francisco, CA 94103=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                Privacy Pol=
+icy ( http://www.pinterest.com/_/_/about/privacy/ ) |                      =
+                                          Terms and Conditions ( https://bu=
+siness.pinterest.com/en/business-terms-service )
+
+To unsubscribe from all Pinterest email, click here ( http://email.pinteres=
+t.com/wf/unsubscribe?upn=3DhfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtx=
+EZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtgwYi42-2FZSMIWriqZcsWsOgr42Xj4S-2F=
+IAy4wqxu-2FhrgqMkZ2-2F9ESk6p1Sc6NnQnsU1xoIB05P1JZRi2XoHu5F6mea7yiVS-2Fmr6EN=
+mqeJtcNVFmeb37iP64PG5AqkvUdodIVBLuAXr9lR4H1hfstICKGhl012FrlIEDPwVv1KR2wj8HZ=
+34zINFaruGXC-2F-2BKSx6W8-2BDvy5lkCkcw0HiRQHGoTA3D252ABCdv-2BmillsokIG6EaGTu=
+BxyRaBTg5UrYMiLlmyehnHsJBoMXShH-2BdMyvPn8UPbbONmZodtl-2B95brJ78vUkYWrmVS9PK=
+TmlGS9Bfc7D1gLkY-2BpeKvhb8MiD6z4QeTuHN1cNqNbE2UtROkHv ).=20
+ Note we may still send certain account related emails=20
+ such as legal notices and password resets.=
+
+--===============3391111187425675962==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/>
+    <style type=3D"text/css">
+    .ExternalClass {width:100%;}.ExternalClass, .ExternalClass p, .External=
+Class span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;
+    }
+    body {
+       -webkit-text-size-adjust:none;=20
+       -ms-text-size-adjust:none;}
+       ul {
+        padding: 0px 0px 10px 40px;
+    }
+    body {margin:0; padding:0;}table td {border-collapse:collapse;}@media (=
+max-width: 480px) {
+        div, p, a, li, td { -webkit-text-size-adjust:none; }
+
+
+        table[class=3Dbody] {width:300px !important;}
+        table[class~=3Dmodule] {width:336px !important;}
+        table[class~=3Dinner-module] {width:336px !important;padding-left:1=
+0px;padding-right:10px;} *[class~=3Dmobile-full-width] {width:336px !import=
+ant;}
+        *[class~=3Dmobile-hide] {display:none !important;}
+        *[class~=3Dmobile-show] {display:block !important;max-height: none =
+!important;}
+        *[class~=3Dmobile-rel-pos] {position:relative !important;}
+        *[class~=3Dmobile-abs-pos] {position:absolute !important;}
+        *[class~=3Dmobile-h0] {height:0 !important;}
+        *[class~=3Dmobile-h10] {height:10px !important;}
+        *[class~=3Dmobile-h15] {height:15px !important;} table[class=3Dsoci=
+al-footer] {width:200px !important;}
+        table[class=3Dsocial-footer] td[class=3Dsocial-type] {padding:0 10p=
+x 0px 10px !important;}
+        table[class=3Dsocial-footer] td[class=3Dsocial-label] {display:none=
+ !important;} table[class=3Dlegal-footer] td {padding:0 10px 0 10px !import=
+ant;} td[class~=3D"salutation"] {padding:20px 0 20px 0 !important;} td[clas=
+s=3D"valediction"] {font-size:24px !important;}
+        td[class=3D"partner-valediction"] {font-size:22px !important;} tabl=
+e[class~=3D"module-header"] td[class=3Dheader] {font-size:24px !important;l=
+ine-height:22px !important;}
+        table[class~=3D"module-header"] td[class=3Dsubheader] {font-size:16=
+px !important;line-height:22px !important;}
+        table[class~=3D"module-header"] td[class=3Dspacer] {height:18px !im=
+portant;}
+        table[class~=3D"email-background-header"] {height:150px !important;=
+background-size:336px !important;}
+        img[class~=3D"email-background-header"] {height:150px !important;ba=
+ckground-size:336px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dheader-t=
+ext-container] {display:block !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dheader-t=
+ext] {font-size:16px !important;line-height:24px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dsmall-im=
+g] {padding:10px 20px 10px 10px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dlarge-im=
+g] {padding:0 20px 20px 20px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dlarge-im=
+g] td[class=3Dheader-image] {float:left !important;padding:0 40px 0 40px !i=
+mportant;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dlarge-im=
+g] td[class~=3Dheader-text] {display:block !important;text-align:center !im=
+portant;float:left !important;padding-top:10px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dalign-to=
+p] td[class=3Dheader-image] {display:block !important;float:left !important=
+;padding:0 18px !important;}
+        table[class~=3Dmodule-header-image-background] td[class~=3Dalign-to=
+p] td[class~=3Dheader-text] {display:block !important;text-align:center !im=
+portant;float:left !important;padding-top:10px !important;} td[class=3Dedit=
+orial] {padding:0 5px 0 5px !important;}
+        td[class=3Deditorial] div[class=3Dtitle] {font-size: 18px !importan=
+t;}
+        td[class=3Deditorial] div[class=3Dbody] {font-size: 16px !important=
+;line-height: 24px !important;} table[class~=3Dboard] td[class=3Dboard-head=
+] {padding:10px 15px 10px 15px !important;}
+        table[class~=3Dboard] td[class=3Dboard-head] td[class=3Dboard-title=
+] {
+            max-width:170px;white-space:nowrap;overflow:hidden;text-overflo=
+w: ellipsis;}
+            table[class~=3Dboard] td[class=3Dboard-pins] {padding-left:14px=
+ !important; padding-right:14px !important;}
+            table[class~=3Dboard] td[class=3Dboard-pins] td[class~=3D"pin"]=
+:nth-child(3) {padding-right:0 !important;}
+            table[class~=3Dboard] td[class=3Dboard-pins] td[class~=3D"pin"]=
+:nth-child(4) {display:none !important;}
+            table[class~=3Dboard] td[class=3Dboard-pins] img {width:84px !i=
+mportant; height:84px !important;} table[class~=3Dboard-grid] td[class=3Dbo=
+ard-container] {display:block !important;padding-right:0px !important;}
+            table[class~=3Dboard-tip] {width:236px !important;}
+            table[class~=3Dboard-tip] td[class=3Darrow] {padding-top:0px !i=
+mportant;}
+            table[class~=3Dboard-tip] td[class=3Dtip] {padding-left:8px !im=
+portant;padding-right:8px !important;}
+            table[class~=3Dboard-tip] td[class=3Dspacer] {height:8px !impor=
+tant;}
+            table[class~=3Dsmall-board] td[class=3Dspacer] {height:8px !imp=
+ortant;} table[class~=3Dboard-container] {width:300px !important;}
+            table[class~=3Dboard-container] td[class=3Dpadded-container] {p=
+adding:20px 27px !important;} table[class~=3Dprice-drop-grid] td[class=3Dpr=
+ice-drop-container] {display:block !important;padding-right:0px !important;=
+} table[class~=3Dpin-grid] td[class=3Dfirst-col] {padding-right:0px !import=
+ant;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] {width:143px !impo=
+rtant;height:auto !important;}
+            table[class~=3Dpin-grid] td[class=3Dpin-img] img {width:143px !=
+important;height:auto !important;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dpin-own=
+er] img {width:24px !important;height:24px !important;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dpin-own=
+er-info] {padding-left:6px !important;font-size:10px !important;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Ddetails=
+] {max-width:123px;overflow:hidden;}
+            table[class~=3Dpin-grid] table[class~=3Dpin] td[class=3Dspacer]=
+ {height:8px !important;}
+            table[class~=3Dpin-tip] {width:143px !important;height:auto !im=
+portant;}
+            table[class~=3Dpin-tip] td[class=3Darrow] {padding-top:8px !imp=
+ortant;}
+            table[class~=3Dpin-tip] td[class=3Dtip] {padding-left:8px !impo=
+rtant;padding-right:8px !important;}
+            table[class~=3Dpin-tip] td[class=3Dspacer] {height:8px !importa=
+nt;} table[class~=3Dfriend-grid] td[class=3Dfriend-container] {display:bloc=
+k !important;padding-right:0px !important;} td[class~=3Deducation-text] {pa=
+dding-left:20px !important;padding-right:20px !important;}
+            table[class~=3Deducation] td[class=3Dspacer] {height:30px !impo=
+rtant;}
+            img[class=3Deducation] {width:260px;} table[class~=3Dbulleted-l=
+ist] td[class=3Dbullet] {padding-left:20px !important;}
+            table[class~=3Dbulleted-list] td[class=3Dtext] {padding-right:2=
+0px !important;} table[class~=3Dmobile-upsell] td[class~=3Ddownload-buttons=
+] {padding-bottom:30px !important;} td[class=3Dcategory-pins] {padding:0 20=
+px 0 20px !important;}
+            td[class=3Dcategory-head] {padding-top:15px !important;}
+            td[class=3Dcategory-links] {padding-bottom:8px !important;}
+            td[class=3Dcategory-links] td {display:block !important;text-al=
+ign:center !important;padding-bottom:6px !important;}
+            td[class=3D"category-pin"]:nth-child(4),
+            td[class=3D"category-pin"]:nth-child(5),
+            td[class=3D"category-pin"]:nth-child(6) {display:none !importan=
+t;} td[class~=3D"notification"] {padding:20px !important;} td[class~=3Dconv=
+ersation] {padding:20px !important;}
+            td[class~=3Dconversation-text] {padding-left:10px !important;}
+            td[class~=3Dconversation-button] {padding:10px 0 10px 0 !import=
+ant;} td[class=3Dlight-bulb] {padding:0 0 0 20px !important;} table[class~=
+=3Dfull-width-button] {width:260px !important;}
+            td[class~=3Dfull-width-cta-box] {padding:0 20px 0 20px !importa=
+nt;}
+        }
+
+        </style>
+    </head>
+    <body>
+        <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"background-color:#ffffff;border-bottom:2px solid #e4e3df;">
+            <tr>
+                <td>
+                    <table class=3D"body" height=3D"40" width=3D"620" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td>
+                                <table class=3D"module" width=3D"600" align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"borde=
+r-collapse:collapse;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+
+<tr>
+<td colspan=3D"3" style=3D"color:#ffffff;font-size:1px;">For years, Bob Vil=
+a has been TV=E2=80=99s home improvement guru. Now, he=E2=80=99s gone digit=
+al on Pinterest.</td>
+</tr>
+
+                                    <tr>
+                                        <td align=3D"left" valign=3D"bottom=
+" width=3D"97" height=3D"30" style=3D"padding:0 8px 8px 0">
+                                            <a href=3D"http://email.pintere=
+st.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PtB1WK=
+HrQ6g1AH1xjMH0F4G-2BdXClgFI1SmRI6aHfahGzvoZ5ZgRAbddn-2BcnqqUpmgu3W8s4YDOh71=
+JRE6D9-2FswtAC3eIizhzcgIkLUSj8EbYXE3KrIR1txnbco6hn1YCrM-3D_hfIqhjxrH5PXl2rH=
+T1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtp4=
+HLiX4tNapvyEUEEmncwCeXSfxeRvxD9WAOWZAoLzCiPM-2Bfj3nDJWuwzSxfSDHaSWbOtVWwjT6=
+bdivriEmYZv02lWQaYi7xmURJHFLr8uxeokgcrMEPgTpenS-2FJIWY3vDgJEkRJVGB8X28UvsGl=
+hhyp94BzFdWZX3Q-2Bz18J6xGmr-2BgF0Mnb5R2-2Bbd6BF0AtsjGdpRRqadruccH-2FNC7dkux=
+NgT06HFCuyTBQyGtwvVv7pwC3nGLDx1Z6DMxUNO6CJ5qxFA09yVaKM-2BNfCB6-2FcGLOj34sw7=
+M5cozN2kGa0oShkgJkvTEVW3HZmyjSC181AFOprMUKv3c5Ra1bR0d8CvIhfqJliBsXVU15sffRp=
+TX" title=3D"Visit Pinterest.com">
+                                                <img height=3D"25" border=
+=3D"0" src=3D"http://email-assets.pinterest.com/email/business/logo-type-pa=
+rtner-email-header.png" alt=3D"Pinterest for Business"
+                                                style=3D"-ms-interpolation-=
+mode:bicubic;text-decoration:none;display:block;outline:none;color:#cb2027;=
+font-size:20px" />
+                                            </a>
+                                        </td>
+                                        <td align=3D"left" valign=3D"bottom=
+" style=3D"padding:0 2px 8px 0;font-size:16px;font-family:helvetica neue,he=
+lvetica,arial,sans-serif;color:#666666">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"background-color:#f5f3f0;">
+            <tr>
+                <td>
+                    <table class=3D"body" width=3D"620" align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td align=3D"center">
+                                <div class=3D"" style=3D"height:20px">=C2=
+=A0</div>
+                                <a href=3D"http://email.pinterest.com/wf/cl=
+ick?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPFK2Ct=
+k-2BdDa9vbN1Dt1jcKvgDBMMTbpwtxQtivEaTnaevtXiPiSjOKknnM43aiJvibC5uYchj-2FsjV=
+RUZ4F-2BDzmC9hVEZg-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZ=
+giOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtmfz3Pf0A2SlUqNMiyZ0YbBSL5mWKHDqVg3fI=
+TSP7SDiCxmZzCjzx4HMZzJYtVkmrd1csSYth1tfMUxJe9V-2BrItB7386BZstn1t4BHrJyPcQt0=
+d-2Bkrh0ZelrWxgB9HifQl-2BJdWK-2B9YWCRGveISlJlLNk7HscaH49TfjgTr0EALARqeZxbhi=
+Ub76PlXhLnf7v8Ke1h94YAQbh0pphRZBIs6gEkuZlqkQljHwT8vooGXhpJRsyqVSaX-2BZCTZB-=
+2F0nVj8FrHio5tF1HIp2RLH1E-2BG3VpxZnmx-2BvQ641aByZWe4-2BNx5-2FDE495eKHGmOJGY=
+TNobP0mcoOUXTb7hU7DFVgZnCkIGkgp3A9hdJgASoaOUgla" target=3D"_blank">=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                                    <table class=3D"module module-header em=
+ail-background-header" width=3D"600" height=3D"300" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" background=3D"https://s3.amazonaws.com/pinterest-=
+blog-assets/email/bob-vila-newsletter.jpg" style=3D"background-color:#b4795=
+a;border-top-left-radius:3px;border-top-right-radius:3px;border-top:1px sol=
+id #e3e3e3;border-left:1px solid #e3e3e3;border-right:1px solid #e3e3e3;">
+                                    </table></a>
+                                    <table class=3D"module" width=3D"600" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                    style=3D"background:#FFFFFF;border-bott=
+om-left-radius:3px;border-bottom-right-radius:3px;border-top:1px solid #e3e=
+3e3;border-bottom:1px solid #e3e3e3;border-left:1px solid #e3e3e3;border-ri=
+ght:1px solid #e3e3e3;;overflow:hidden;">
+                                    <tr>
+                                        <td align=3D"center" style=3D"paddi=
+ng:0px;">
+                                            <table class=3D"module educatio=
+n" width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                            style=3D"background:#FFFFFF;bor=
+der-top: 0;">
+                                            <tr>
+                                                <td class=3D"" height=3D"34=
+"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class=3D"education-text=
+" align=3D"left" style=3D"padding:3px 50px 3px 50px;font-family:helvetica n=
+eue,helvetica,sans-serif;font-size:18px;line-height:24px;font-weight:bold;c=
+olor:#454545;">
+                                                 Bob Vila: Using Pinterest =
+tools to grow traffic=20
+                                             </td>
+                                         </tr>
+                                         <tr>
+                                            <td class=3D"" height=3D"20"></=
+td>
+                                        </tr>
+                                        <tr>
+                                            <td class=3D"education-text" al=
+ign=3D"left" style=3D"font-family:helvetica neue,helvetica,sans-serif;font-=
+size:16px;color:#666666;line-height:24px;padding:0px 50px 0 50px;">
+                                           For years, Bob Vila has been TV=
+=E2=80=99s home improvement guru. Now, he=E2=80=99s gone digital on Pintere=
+st.=20
+<br/><br/>
+By creating handy how-to Pins, monitoring metrics and scheduling Pins durin=
+g peak Pinning hours, the Bob Vila team has <b>increased traffic to their w=
+ebsite by 33%</b>. The team even found that a big chunk of that audience is=
+ men=E2=80=94<b>each month, the number of male Pinners who visit BobVila.co=
+m grows by 20%</b>.=20
+<br/><br/>
+In our latest case study, learn tips and tricks for polishing your Pinteres=
+t profile from Bob Vila. (No elbow grease required).
+                                            <br/>
+
+                                             <tr>
+                                                <td align=3D"center" class=
+=3D"education-text" style=3D"padding:20px 50px 0 50px">
+                                                    <a href=3D"http://email=
+.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q-2F=
+FbQ0OmnjrLIVeFPFK2Ctk-2BdDa9vbN1Dt1jcKvgDBMMTbpwtxQtivEaTnaevtXiPiSjOKknnM4=
+3aiJvibC5uYchj-2FsjVRUZ4F-2BDzmC9hVEZg-3D-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9av=
+We-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtsy0kw-2FrQN7Jz-2=
+BrWueLfWp5WbBOzGk4mVw8WRAETJTcpiTYz59Z8-2Fi2HjMKY1nTaD6p7l2EhMwhXBEFhP0qGNc=
+je2-2BMGpjZ9XkQNE4lMpg2TVyUnoE20advHM-2Bapx198ZU8J3fHf7KGhRNrOQ52ki-2B7Fu8g=
+kkhlXj-2Bbm5XgFfld-2Fr8pGt0xxcu3JGxOmECTfLfvyXqsWDpXK3yDnQYsvilA6MaNDal8xO2=
+GD4Atz-2F-2FKjCJL7oMyJp-2Bq4RvwDeIWP-2BZ8eYmOyZ9zN1F5rRzA234eDD8RcOPl9bj8hg=
+ar7dT-2BbAG8dGa8Z29j18N0G4pOi50NjFsBAjT7QIhBTRQMhRxm875b859lH5SQOxucHtlVZ" =
+style=3D"text-decoration:none;display:block">
+                                                        <table height=3D"40=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                                            <tr>
+                                                                <td height=
+=3D"38" style=3D"background-color:#3983d0;padding:2px 15px 0px 15px;border-=
+bottom:2px solid #2868a4;border-radius:3px;">
+                                                                    <a href=
+=3D"http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAuc=
+NZFK30joyhd0Q-2FFbQ0OmnjrLIVeFPFK2Ctk-2BdDa9vbN1Dt1jcKvgDBMMTbpwtxQtivEaTna=
+evtXiPiSjOKknnM43aiJvibC5uYchj-2FsjVRUZ4F-2BDzmC9hVEZg-3D-3D_hfIqhjxrH5PXl2=
+rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbt=
+pEYWq5pbD165d2BdUfKEFNmPWQDUFBXrexbaSUwlo6sX9wnUaBHNSyEQmAr8c6PtZLg7TCXfe1f=
+QbDNcbrQz-2FzMxCx80Yjmdr4wXuK2zJICYDhtWD-2B8vlQrPHdq69vUjtzd-2FFwtwtU9RGbQE=
+C2-2FwDPRCSWzgaboMTkjfkE8Cq37eCNbTImclMzGZkSP18nPr-2BWKA41sQu6FMMEYV8gkpC2-=
+2B0uWL9UHaaSBvcM-2Fri96tKGL6eD1Aow-2Fhuj3Lmmer9D7nP0UFz1gumxOP9jpd0YsSswJLl=
+nGUG-2Fm7Ljzx4-2Fc9ZRZwrWPmV9wuEQaEZOJNAHDXQ-2BEQRwUHRDUbGxI08yixzJLTFLda0T=
+Ct9AP4E8Cx" style=3D"font-family:helvetica,sans-serif;font-size:16px;color:=
+#ffffff;text-decoration:none;display:block">
+                                                                     Read m=
+ore
+                                                                    </a>
+
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </a>
+                                                </td>
+                                         </tr>
+                                     </td>
+                                 </tr>
+                                <tr>
+                                   <tr>
+                                    <td class=3D"" height=3D"40"></td>
+                                </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        <div style=3D"min-height:30px">=C2=A0</div>
+        <table class=3D"module" width=3D"600" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"background:#ffffff;border:1px solid #e3e3e3" a=
+lign=3D"center">
+            <tr>
+                <td style=3D"padding:0 30px 10px 30px">
+                    <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+                        <tr>
+                            <td align=3D"left" width=3D"20" height=3D"60" s=
+tyle=3D"padding-right:20px">
+                                <img width=3D"20" height=3D"60" src=3D"http=
+s://ci4.googleusercontent.com/proxy/ryiON_hRJU3g9Nqx56fUVGKL-BocwTtOTJpa4G2=
+Tf5lOz_2HgxWMHyiQdVC10-UrtuvLNNjhzol4QTx9w4oPMMJKWQbY4XmATcfbBsLP3TRfvdyrhg=
+STAfM=3Ds0-d-e1-ft#http://email-assets.pinterest.com/email/shared/email/lig=
+ht_bulb.jpg" border=3D"0" alt=3D"" style=3D"text-decoration:none;outline:no=
+ne">
+                            </td>
+                            <td style=3D"padding-top:12px;vertical-align:to=
+p">
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+                                    <tr>
+                                        <td align=3D"left" style=3D"font-fa=
+mily:helvetica neue,helvetica,sans-serif;font-size:12px;font-weight:bold;co=
+lor:#728f34;line-height:20px">PIN TIP</td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"left" style=3D"font-fa=
+mily:helvetica neue,helvetica,sans-serif;font-size:18px;font-weight:bold;co=
+lor:#333333;line-height:20px">Reaching men on Pinterest
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align=3D"left" style=3D"font-family:helvetica neue,helv=
+etica,sans-serif;font-size:14px;color:#333333;line-height:20px;padding:0 30=
+px 10px 50px"> Remember: Men are the fastest growing demographic on Pintere=
+st. In 2014, <b>the number of men on Pinterest doubled.</b><br><br> Want to=
+ attract a larger male audience on Pinterest? Check out how businesses like=
+ the Wall Street Journal and REI are <b><a href=3D"http://email.pinterest.c=
+om/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK30joyhd0Q9kC1-2Bcp-2FYzE=
+B4qzm8VIpY9qJQ8IHRD7SrfDu0s-2Fr-2Ff3cGHh6ZFhFQXJqoAzbY7x4xwMzvrXZqlVIMZcnrh=
+6vDmcX9XXUWqO8sBWBrEJsahMt5E-2FO59Dog-2B-2BwUnRiuEprQC6Ad8J6WURQDuHudoHypP_=
+hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsG=
+VW7sDKnl7YIkbtu46Z4ms16sAuDkDTpJ6GyWK6We1D-2Fl93j8LAFgyEVQTSyq1LW4713Enmi0L=
+kqUOVxLyWJKQRv4ASk5nVwglheHh9pVt3sHOhzRZcvX6cdNx7XeSNe3ifi1vXryP-2BQr-2BpnR=
+mHR7b6K8tqTBOFftkgCOT05cD-2FXaxKH-2FJtqbpEROqvTlKaulsTXcO4JiWzJSallpNcAcNVv=
+fX8I-2FSgs5HB4aszv7ULJJfGs6AevMbRIbsiWVKFJOL-2FgziYnAsdeQdIfhhkiBYBAKORSFZ-=
+2B6GTHJAW8TD3cQbv7CtbuBHSHaPXQjlhIs5HBFdbWusjqKDM21cYMRdKI6ii86f0sTRt1SgfLB=
+grWqli3NrnkXLHlaRj" style=3D"color:#3399FF;text-decoration:none" target=3D"=
+_blank"> curating boards for men. </a><br><br>
+
+                                                                </td>
+                                            </tr>
+                                        </table>
+
+                                          <div style=3D"min-height:30px">=
+=C2=A0</div>
+
+                                               <table class=3D"module" widt=
+h=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"
+                                                style=3D"border-collapse:co=
+llapse;" align=3D"center">
+                                            <tr>
+                                                <td align=3D"center">
+                                                    <table class=3D"social-=
+footer" width=3D"500" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"border-collapse:collapse;">
+                                                        <tr>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfx=
+FgBrsNdmkLInG8PsapCSwzwsDMsAgLexw4EWOSJCCYz0F4BB-2BtBP6R2lrj0NNf-2Fk-2FIaGW=
+w4MPzAF7THih4FrenqG-2BDsq69NFdREVDG-2BRLtIk8wUsjvoOWUscJsob3DsDvdOG0985mNJT=
+nk6A-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6S=
+f1RTRYsGVW7sDKnl7YIkbtokw581ffu6DPCT-2FCCqf2trnlJOi11atxG49xxxgRWqqaIh00XUh=
+4mvzqi7QYTWvyOtO7U7sTzEoaGSag2My4oDonP1uGGizJxm3Q8ns-2B5tPv3TKimKFfZvfYBB5n=
+Il3X-2Bar1SjhVBCMZRpYiMADIl8I-2FlfPmwldOeAdK1mp5MfHwURMC3ll3rHp1bjjHxi8ahdG=
+JsoeS98KzsZ5ZjnapV4tdkrrpljZcqD1UHZFtYiyEwDPFzMMaC5ce1peYdwT9-2BDe6hm3FMU4p=
+gOLQFSQH9-2FkZVjMbsdn6s87iyUKfdQscHkl6BsM-2F53F0g5BpHv491c9uBqOyNhRhaoGZKfd=
+PmhKUuezq6y-2BE4KNLIGcBDMw" style=3D"text-decoration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/pinterest_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfx=
+FgBrsNdmkLInG8PsapCSwzwsDMsAgLexw4EWOSJCCYz0F4BB-2BtBP6R2lrj0NNf-2Fk-2FIaGW=
+w4MPzAF7THih4FrenqG-2BDsq69NFdREVDG-2BRLtIk8wUsjvoOWUscJsob3DsDvdOG0985mNJT=
+nk6A-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6S=
+f1RTRYsGVW7sDKnl7YIkbttX5gFKVIBRZZTxBRzVPZpeWpeP3TIMI9d1eSKWno5SjUmS-2FEOCS=
+O0IseO93uxD8MhqFN3-2FNgwgxvr3DiP8fcH6TbkjY-2Fz1ZhPMsiT5JjbNz6lBG1swl3ujSH4b=
+MLyEWoIV2A-2BqhL5r1C0mtffJlulttHa1XdP9ZJ4CGJS1tXLw1ca8-2Bswf6sj0XmoDyFXq7J5=
+BzEJW5Dk0mc7EWQWFPzZf55ScuDlBEteUUtP1XOxVVpNHBBTWtk7PIo53WJqnLAoz5YNUBho7MH=
+Tdq7celruuvsjzS7TE0Z4zEkHVv-2BJkorW0j3mAJ-2BCue4WWBv1tEap-2Bct0N4VjuV8KP3cH=
+G5BawTZP1zhx3FKKhxpZeXi8dt" style=3D"text-decoration:none;color:#979797;">
+                                                                    Pintere=
+st
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1Sl83R6jT=
+JbjkKNm8LpfWnfuSRMPY33JcJA-2FFaucgeVr-2FwNzvYFwi9-2F1HdPPPwVjHA-3D-3D_hfIqh=
+jxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sD=
+Knl7YIkbtmEod-2BRBIyXF2hUbTrhYw7-2FgWfFhe47j-2BE8IBIJxRufB47Yxh-2F4TOvu3JrW=
+ykOm8-2FTspX95C8yEAhrQH0jC8yVwOm2oToFrTA4F8VzXznhC-2FqNeLo8LOQQ43B-2FDmsJ25=
+kdhhL-2BwueUcuB-2FK4NEruAaA-2FxZG8Q0nbz-2BGvRjrYC1-2B-2FY0IbgXD-2BXCNjL1bES=
+wqzdca0ZHXqmIlfhQ2E36jp5Rf3ip7GnlLN5rWJhFgr2OTHZTEE4a-2F-2BVvcLGqDMRNXiYHC2=
+3pYAck1TAbZZhGGl-2BBRm8Xfaf7PX-2BjxQOxbsnAE9vlGxInSlk7PPjc-2B8RXY2dys0Ss7ox=
+O-2FWuFnmd6ADs1Iz7GYEk8TvZQqiZwXCsq1-2F" style=3D"text-decoration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/facebook_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1Sl83R6jT=
+JbjkKNm8LpfWnfuSRMPY33JcJA-2FFaucgeVr-2FwNzvYFwi9-2F1HdPPPwVjHA-3D-3D_hfIqh=
+jxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sD=
+Knl7YIkbtvFBwen89k0lXkZxxZBK71Jh0jO-2Fkp5zCcJDDWBNs8pqjh9BsmOj-2F2-2BNogW36=
+Ckyxny4ECKcDdJueRLBDNubxkCoM3TCxP2i7wylpcRevoXdM3nyYPDkkQagx6GStxHqUHIojyHQ=
+5wRcxPIui93C9f5VP2iI27odJNY8r2QRS-2BysUmq8kVU1XmZEWFBRrUZ-2F69nXt0i0xHDignF=
+vAW-2BXCO0Ckzx4hdwe-2BxmhnRL5LhysRijbWzkBt7LCEGh2ql1lj42LZURsovMEbmGfKv0iDn=
+1jNuO-2FCiCsOtccfeGS-2BiSpNrEXV22itJuBeikjTb7OiL1fTDzZ5Te2Ub5aWxi3sx-2BQYIs=
+23j6-2BKfEgIiZqKcVO" style=3D"text-decoration:none;color:#979797;">
+                                                                    Facebook
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1dvdMHRj4=
+vY4ggiryq-2BZXhzwZ9nvfrewLVO3srmcukby_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbthsES5p02pLnxbLOd3dNW7iY=
+FTBWFXhbDAvt8xH41JqOgadqgszFWIIQFfovqEYlRsDnWnI-2Fr3qgDrHczNVAQT-2FtcVZZyYB=
+YF7oYTkZfuC79vKPAmTYdLYZgPA5AqdFv93etUTv2n81gRXZbVe7PQJZ2MWEU1CgasDnOJIjWyM=
+5iqRoJ2ju1p7GB-2FMwFhKNr3nDLRPQFEPdy-2B1Ti-2Fc8Gb-2FkJXaKT8Pj-2B5ieLczllLKF=
+FXuucXOeoSXyI1zh-2FhV2M8N8u6HhbL0x3WkA7WC9WNjFgjmbVZNiNLZxMs-2BdQOGs8nc50U1=
+grG-2F7ItHfMRofFDft13Hx8BVccR-2B2Q37yg3NsyjH6Jn5VR7BEVFCi61VxG" style=3D"te=
+xt-decoration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/twitter_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D2g6n-2Bq-2B9pW8pfl6Rh5sK1dvdMHRj4=
+vY4ggiryq-2BZXhzwZ9nvfrewLVO3srmcukby_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7d=
+wqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtgykw19h3gnLjJIXDg4cB8wh=
+uU-2BLm0mCxvJjGK46SH8DS1uaGA018f-2B-2BoNimLpfz1m-2BFfUktl1E9-2Fe6DvlIttQyNK=
+Cs5AkkdMdcudrZtCswFPeSzM-2Fa-2FwtcaJYSGfVciXSUb-2FpbNNaKLsBcUxEMJcu-2FyKlXA=
+BStr63rOLFRWUe-2B1bso-2FFyUhAEfyAclR-2BuZ-2BBazx8K6NMQJ3Ugp4ynaA3LdHxigSwTN=
+AIlcdviSbJd3Qb80ULtCBI1qo88-2BuZ0dNAHVdEourkKh52jCIfQD-2Ba6i2SuAiWWhZ0yP0iZ=
+w-2BZzKpHIxfaFJ4iko3Wv8txGAdk-2FbHFW4110v0p1DPFngE0UYeswe1-2FPf1FOnApeD4pvj=
+f" style=3D"text-decoration:none;color:#979797">
+                                                                    Twitter
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D4Nhv31c1vN2wkc6mpjUZQR1qySEywrPhR=
+mG09eHa9g34ZLdnF-2F9E3x-2FZM5P-2FCpOy3EVVSx214R2tQizByg-2BFNA-3D-3D_hfIqhjx=
+rH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKn=
+l7YIkbtv24XHC6TCS70IW4EuoQ1cn54dNx4O8WEu6HoczHvl-2F0RnZcEDsA69kY31qcIWNXv14=
+evaFDW6rOmQ7Q-2FRmkeUL09hcx1s-2FnVftz24MrguacXciQrQvdsrf-2FGndQRd-2FbIbXC1M=
+OkZQEoG-2BrwtaOeh-2FpC3WQO-2BhIBlqWypkf5ne9m8w9Zd10BY-2BUftzo7tvPzd2wn-2FL9=
+zVGKVkf-2FzfrbwpyOO3Uy-2B8K6xNiI4SaO33gPdUcw2yrY6DwQUDjHvlJwq3FO196atkSTlgN=
+fgueqQp49NdXxPEFu0MNa5bT0OmXVlANfelzupCZVluZvlVDEDEqK-2BBbZrvE-2BOVN0suPj-2=
+BTxKdcZo9ROBbd1dgLQO3KKl2" style=3D"text-decoration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/gplus_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;padding-right:20px;font-family:helvet=
+ica neue,helvetica,sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3D4Nhv31c1vN2wkc6mpjUZQR1qySEywrPhR=
+mG09eHa9g34ZLdnF-2F9E3x-2FZM5P-2FCpOy3EVVSx214R2tQizByg-2BFNA-3D-3D_hfIqhjx=
+rH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKn=
+l7YIkbtiikCWddph8JxGIVIBympZ2yawf0aLfQHrFBKdMsGptdwQhuRVsp-2FeZ3M3BskHL62eS=
+NWji0rpOQWNktNnTWnAAwj-2Fg8D-2Bs3kbVYGR22y-2FrwMH-2BmX1RmaDCZwwoPygV-2B-2Bm=
+3gg1IXpFZH8h5vSliYNYGo42wGyCBchF-2Fjl10zCHhRotwNnWLkjBx3vT5LsSQUiytCOw-2Fbk=
+y3RSLXmjCuTs4GMOTvBXOQ0IKaMZXI3l2Ahhmf0onGD0EMJIQ49hx-2FwukTsH1W0LAUWsnVdE0=
+6WRkucgEu6XrLKvIwxjnvvBpOks7oauvRfh0-2Bgypt52wfU0z3Hohk6JVsZHbl0qn-2FpLAyjE=
+MN7TE1txLeYqPRhEA-2BW" style=3D"text-decoration:none;color:#979797">
+                                                                    Google
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-type" width=3D"30">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DgjudqBuRQmKrDgFe6sJPhuUKszHNUptpx=
+Q20yIh4MYELkouROSBWrMtUYLaWEoId_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjz=
+vmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtv-2BkATQSzIB0SwPC9sJSp2Cbovwe=
+pzaQDTYu-2FT8KAvvpnAYB67EEibhNSTu7hKmw86d-2Bojo4XBPCIa3lbGwz9l2Wmb4-2BBlla8=
+akOhVk8DF00MlVANM4OuOcSVycUluyikXUsyiMgBS7Zopz1Lh0-2FpHSDd7LuJLNBdfmOnpTv15=
+51WOmpt14Vw7z06o4rVmYJDfPG4UpgrZMiOyd5molUvn4NZ44bJkMq4agUlTqAfJ59uHoAEz7SG=
+dut1m0Oc91nhbzhPyHBdgPWItISkb831-2BEJeyvruPX2v-2Bl0Lmd0HvceJlaQHtisirTB-2BJ=
+yNFwouj-2BKAQO6cK18EQdVTHxOyU-2FEv0IBbV9F-2BDo2FLt1PhcuI" style=3D"text-dec=
+oration:none">
+                                                                    <img wi=
+dth=3D"30" height=3D"30" border=3D"0" src=3D"http://email-assets.pinterest.=
+com/email/shared/social/blog_large.png"
+                                                                    style=
+=3D"-ms-interpolation-mode:bicubic;text-decoration:none;display:block;outli=
+ne:none;"/>
+                                                                </a>
+                                                            </td>
+                                                            <td class=3D"so=
+cial-label" style=3D"padding-left:6px;font-family:helvetica neue,helvetica,=
+sans-serif;font-weight:bold;font-size:11px">
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DgjudqBuRQmKrDgFe6sJPhuUKszHNUptpx=
+Q20yIh4MYELkouROSBWrMtUYLaWEoId_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjz=
+vmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtloOsdyHGv9MPU7F-2BX2GMveo1Ebx=
+D9dtsANYRiElxtaFBx52SzK87Dxor9EU4-2F-2F0KZZvsaySWDOe9cY-2BTlZJte6nSEf2eAu0d=
+i16udh6gBWVk1oBWhbQM7GvDe4WiVLfRVtzi0cgIAB-2BGnkLIob-2BiTr9jN6CpbZr-2FgdJ3U=
+u-2FDEopbvHDCQKOVtB6slMQdqLvQNGty4TKhlcpd9P-2F3XNdV-2Bfy9mm4QU3-2FDfetunbJN=
+0l6Yna5Ta5ODEO-2FfTD9wNweQDsUr3qyaHW2U-2B-2BnbU1qOWjkPTh763UX73Y2Hd0hoM7ASw=
+UwKQGT6BlcOx5Ks7-2Fdpv5FA1mLjfrzrFcM-2FPtEVzwHlJRz8x2vTmz0B9Rg03S6" style=
+=3D"text-decoration:none;color:#979797;">
+                                                                    Blog
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <div class=3D"" style=3D"height:30p=
+x">=C2=A0</div>
+                                        <table class=3D"module" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:collapse;" a=
+lign=3D"center">
+                                            <tr>
+                                                <td>
+                                                    <table class=3D"legal-f=
+ooter" width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"border-collapse:collapse;">
+                                                        <tr>
+                                                            <td align=3D"ce=
+nter" style=3D"font-family:helvetica neue,helvetica,sans-serif;font-size:11=
+px;color:#999999;line-height:18px;padding:0 50px 0 50px">
+                                                                This email =
+was sent to <a href=3D"contactus@seeinindia.com" style=3D"color:#979797;tex=
+t-decoration:none;">contactus@seeinindia.com</a>.
+                                                                <br/>
+                                                                Don't want =
+to receive this type of email? <a href=3D"http://email.pinterest.com/wf/cli=
+ck?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PviSmPI4DcOZXo8WVGL=
+jraiWBs29mvx51sLjJFvASS4xuU7CyGN8boaJasARKJv1gcOqx2ef2Oolm7l0zwH-2BC7NTujgt=
+gAaoTG2l-2F7I3IlEGMK4lCpTAEooGTNjteDPj8lAxSyj8yPgCcWNSgQBctck_hfIqhjxrH5PXl=
+2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkb=
+tja92wHmgTdqpLP8N5nBd8R-2FGaAnMNVgqzal1iU3znorVztx8F1Y9VrcAx70KJFkf5G-2F6ye=
+nOwQhEANHo-2FqFp2dY7SCorYeT1D-2B36HJ-2FB9WpKxvPiHrzQwfKHtKBVKOW5vHnFNjjaK-2=
+FcCBMhG18DYO8u6dAUHuMW3MALdkwHtsDKJ-2FWF8yWduU-2FEYxO4FjLxT-2B5ye0dGHmlBeyx=
+9NN-2FGv1KkwH0zdlEqj517SN0ruEQZMGflaysQmxUgyxUw5r2kr59kMGHzdDMVNjTQDmdeHm1G=
+femjirPR8qeEjvn4gwt0eA2v2gphPMWJMg3rH-2FZKq593UKTD73cXnP9pKAp-2Btx-2FPgo8IQ=
+YeKxic6TYszaQls" style=3D"color:#979797;text-decoration:underline;font-weig=
+ht:bold">Change your email preferences</a>.
+                                                                <br/>
+                                                                Didn't sign=
+ up for Pinterest? <a href=3D"http://email.pinterest.com/wf/click?upn=3D3o0=
+98S9vC1EmCZoGtpxasOKTuYU19I7yrelriHdyZHw032eI4T5EdOgoATVfi9iDgx8tDgWSgPxCVF=
+8gWcZuH0wYIDTiqKi1bS1MgDWRg3U1WVDtsYjTLNJQ6YPOx7Q-2FV4UvKHxDoPdziKN41xsSsKZ=
+KpoP8mvSHgkEKLKMFH-2BauEKvZQSPSKWl2jHlJ1cBwHmK-2F-2FmCvp2-2FDHpcWBzsmAA-3D-=
+3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTR=
+YsGVW7sDKnl7YIkbtiG7CwW9YTVFd9-2FsgRXs2b9bfusrmWGeZFhsYipw7-2BxVGdWaznIRcGH=
+fNOKKShPRJ4P11Aw1jFETcY48vJGujvbnhjryouizFsLYuTqFB1MWNC2Fcdf8c741S67-2BKBUT=
+fzuHJvW03f5e-2FVdbvdAdAOvrUoabbb7w1hW190kvhQW5zS-2BPr4kXS6OPWI2CriuswT4ZijO=
+CM9M-2FFI4epyjMdKRLfyAD9OmaJv1uyBit-2FVpUJ-2F4b8EFF-2BG3LGUI3pyCLy7-2BeqNjs=
+YZP5GxsnzLlnKrcMrnPKNZVZJXB1jD3w0hOXnPSDDJuqx53WHWfptI5KG4OOO7FzdAMIk3ZkgjZ=
+I-2BgPOx4k-2F4o4latvSdmEnbhgH" style=3D"color:#979797;text-decoration:under=
+line;font-weight:bold">Please let us know!</a>
+                                                                <br/>
+                                                                Have a ques=
+tion? <a href=3D"http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPM=
+C-2BpFFgf-2BsCIfxFgBrsNdmkLInG8PvZ-2Fkn9ELJw23aM-2BtJV7HRFi1E8kiO5rCC-2FRuv=
+VzAmkgDvr5LTx2qNXGG-2FNxOLFfXungc8ThXfZrFF5e4m0GNvyE42J64dnBRgF2mpDfx02lU3V=
+7gAN2APnHuU-2BbFloGs4-3D_hfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZ=
+giOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtoy-2BPGLDNhFf5N0uKdAIbYlSniq4KzT4IsJ=
+4bbYOlw4COX72U3clwST183lkxjTujm51UO2oJpEGrp25s-2FomzA5yT2ZbccsfFo0UpRGVzHHc=
+PCAiuJylv2e9IvN6fbQ8kKJrvDz0jUQOc-2FxBYpHm5PAzQiy6-2FtBhZhaQGrkUkZhUprdgcAt=
+h08GUb-2BO82hfd1CsSZa-2BVB17akZPQ6jexjQH8RzyTYixuRaNLiPEtdG742V0sWdNwKWJCBv=
+CbQZsW310wxM0uCxD7LUUFAjzls6kl4C9CppkltTCxLnB2txketotcGkuIN2KPZ2suH-2B0ISDO=
+BROiQHnZWcS1dTjFRLLO5OMldCRadCZNMHnFD4Fmu" style=3D"color:#979797;text-deco=
+ration:underline;font-weight:bold" title=3D"Find answers in our Help Center=
+">Visit our Help Center</a>.
+                                                                <br/>
+                                                                =C2=A9 Pint=
+erest, Inc.
+                                                                <br/>
+                                                                808 Brannan=
+ Street, San Francisco, CA 94103
+                                                                <br/>
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DzwOUeExOMjS-2BPMC-2BpFFgf-2BsCIfx=
+FgBrsNdmkLInG8PuX-2FtTYGnIN5GG1X3j4JaqSRDURyfib4p4k-2Bc-2F-2FbgmfUw-3D-3D_h=
+fIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGV=
+W7sDKnl7YIkbtuH-2FG-2F79WnkeKXEtoPZzexFlTia3efvqu3KZOauFjQGDJmspHTpbPy8eP4P=
+QSrKfN5UJFnDENCE7LjtsERitA9-2FdBQojJopUhjcqAiDeb5q7yI6COeRulUliLa2MMq5MigNR=
+vKN62xHS-2FBVkN1PME1pmgEGwzIn1YtWoRGJR8WMjHUX0nUSluXHCKoLHMQr20az0S4TLUFGkE=
+4BxHEnzITCdM3OBd2b1ahockDKm3qZR5ggdCEeu-2F-2Bb24xkw46HCYYNJk7dhadGquuLRHsDy=
+oqS-2FwPXR5EoyJqKRhU042xzCCZpxdDrzuRMQfkpoJKKOB5Ie2k8Tk92IIVt9edkHIk3ySgMom=
+bYNSd3Q0-2BUNwOOB" style=3D"color:#979797;text-decoration:underline;font-we=
+ight:bold">Privacy Policy</a> |
+
+                                                                <a href=3D"=
+http://email.pinterest.com/wf/click?upn=3DSznsqpuVoPlyUiVX5Hl4LMjXuAAucNZFK=
+30joyhd0Q9L9WUp2NYv9XMDoM3DZv3-2F6cx-2F-2FQyFxlBDZWLfQWMIqw-3D-3D_hfIqhjxrH=
+5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7=
+YIkbtuVVoN5U-2FyuwBiP5AQXtBdCO0Xb4dZuOyfeT2DH-2F93zCqZlys8OJ7JRmU418NV7b7FJ=
+X8-2BdMEBQl-2Ba-2BxUwJWeqVYRaWeQmjw73oBLBusgdPt3vPFhR2aC-2FIJONDTJQgb7woR5Z=
+-2BUJ8awtrUAVNQ-2B5w2QFH0rVRORKOzTySWBDSrNJBR7aSFtSE40uEO7vp565tTzQ4oEMwN0z=
+Xh9iihbW5UfdPqg59kRwFIkHh8eN4GhKh0rcSbhYzHPArzOy8CASNECom9fds0hrnH3O9yZxUSz=
+xUI1HlsX3C8XYQqmnqUTQFMxI-2FgVblAqfCQJmYGAwhPuBEGqN3Jj3v9h0ijpSZZ0N8PX3OCsk=
+0Xz-2FC7spLUb" style=3D"color:#979797;text-decoration:underline;font-weight=
+:bold">Terms and Conditions</a>
+<br/><br/>
+To unsubscribe from all Pinterest email, click <a href=3D"http://email.pint=
+erest.com/wf/unsubscribe?upn=3DhfIqhjxrH5PXl2rHT1sLDXg-2FA9avWe-2F7dwqJqjzv=
+mWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtjrY9-2FN3WOPt6waGGlpI3NQriKK7v=
+miq9w3ZTBiPHB5t6e0B6zKRZqehjvqBtM7isyCWxGG4P0GBH4kTyYm-2BsluXonULUChi9yfelr=
+5T-2Fk7jqneBElkzb0xq4mZi5DDiM6X6UQitjyHNKdOSiIiwOhCcU76G5E5TgiVF7FFz0Vpm4w7=
+OLdFOrcLyLcagYFEV0lRub4myirnlGeQKKrn532qMMQ6wvcjAzH1kedEIMATSavTXfEO23e9Yl-=
+2F8zna1M-2B29Lx1es7uj6Q9mDAjvdeHldOBoViOHfYANXjeAMjKxslepF-2FAS7Gt9wVILeduY=
+gPKAvUq4Qur65jNi394zMsFLYFNnfPZOohri5jHxrJDFg" style=3D"color:#979797;text-=
+decoration:underline;">here</a>. <br/> Note we may still send certain accou=
+nt related emails <br/> such as legal notices and password resets.=20
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+            <tr>
+        <td class=3D"spacer" height=3D"30"></td>
+    </tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<img src=3D"http://email.pinterest.com/wf/open?upn=3DhfIqhjxrH5PXl2rHT1sLDX=
+g-2FA9avWe-2F7dwqJqjzvmWtxEZgiOxDbi6X3GA5CY6Sf1RTRYsGVW7sDKnl7YIkbtmfF3ReE8=
+fDq5eb4oOqGqmeevFlMhbrPj4YilEUuMq-2F7b90QAXzm-2FN4qb2cwF-2BqatmA-2BjXRDAaBV=
+v5ZdYPLgEyFSKt7VNputuMDgG9jPsTdvJW3weM0StAjX4uqsEWT0YmMlreEPso-2Fg05w-2FawL=
+t5avDZYiaIwrwzFtbn8v2Lgat10jYGqeFZTdCbPU-2BnYywSH9Vuye77RThowSe7hAkGzTFAUX9=
+UhEjKsDQbHivOB7CBSnn8-2BN-2FtyQJ2iyfOthWp5w8CIxq3ODTEAGgsApHUQFaUrWyLMdUynR=
+MRn26ID29pDABbCslB-2BWFyDEmOxx1ulS3G0sHXCUFuk9S8Jd9nMsy7fI2ku5aB1QJ0KSHxCI-=
+2F" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !imp=
+ortant;width:1px !important;border-width:0 !important;margin-top:0 !importa=
+nt;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impo=
+rtant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--===============3391111187425675962==--

@@ -1,0 +1,207 @@
+Return-path: <>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Fri, 18 Sep 2015 15:57:37 +0000
+Received: from mail-sg2apc01hn0245.outbound.protection.outlook.com ([104.47.125.245]:51936 helo=APC01-SG2-obe.outbound.protection.outlook.com)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:AES256-SHA256:256)
+	(Exim 4.85)
+	id 1Zcy2b-004HZr-00
+	for contactus@seeinindia.com; Fri, 18 Sep 2015 15:57:37 +0000
+Authentication-Results: spf=none (sender IP is ) smtp.mailfrom=<>; 
+Received: from [100.66.183.17] (116.202.34.220) by
+ HK2PR04MB0801.apcprd04.prod.outlook.com (10.162.242.11) with Microsoft SMTP
+ Server (TLS) id 15.1.274.16; Fri, 18 Sep 2015 15:57:22 +0000
+Content-Type: multipart/alternative; boundary="===============1960257424=="
+MIME-Version: 1.0
+Subject: Reply 
+To: Recipients
+From: Christopher
+Date: Sat, 19 Sep 2015 09:28:06 -0700
+Reply-To: <christopher_white7@hotmail.com>
+X-Originating-IP: [116.202.34.220]
+X-ClientProxiedBy: HKXPR03CA0025.apcprd03.prod.outlook.com (10.141.129.15) To
+ HK2PR04MB0801.apcprd04.prod.outlook.com (25.162.242.11)
+Message-ID: <HK2PR04MB0801A4A10563C16BD2D16120B8590@HK2PR04MB0801.apcprd04.prod.outlook.com>
+X-Microsoft-Exchange-Diagnostics:
+	1;HK2PR04MB0801;2:5l7LUh/TsWqvwvO8BHj/v2104jmEfj+A5H3l18u9fRGY6oQN2TtG29DSIypac5qclK4cyPILKUvc5GHSBggLhR20UN96rboLP78lz4kKkb43Cb+NYGybRFEMrYyDVSSibg+6hVpjTPlawrm2M3ZTY+a4TQ2CsIIc2jG9JtJY7LQ=;3:XUCiL5/fXde+L90EpU1HiDtNPZMURNOXq4PD4ey8S3bDOAhKr31IxHE8nTRyLVbgUbfjJeAk4jyhCII2UVZ3cZiuECsiFAyp72mKvVg+Xk2mG0Czsp3YwY/Ttkd7r5mOxGPCL+1W9D2llwEJll63vw==;25:z5iCMgw8ecY5WJD3SQhWwPa0z8jpgH3weWozuG5/cOVt6pndec7bm4sNipTAciUxqKM5WMTl0PPO8yZehuqqrrkaRO2Z8sLS0gy3eKKW72ohrk1QHXms3JVecke4Bjoz3bvUtPquSl/H2YQV2f51ynAZ5J7fCSyik4RzilKnNKdsuDfI2eNJPd/GO2SOTM+LUcUfFiU2qIphSn/n1HD3icHNewRsMZugkkV+uKiZTZ2ug92ucHamvecz1ms18ATsiVYRAjh2jVeGReW4uO3+nw==;4:8c5Wf1sdWkJfsuiVFelp9K8Yr66Jsfbpgo6Qt5afubpbbkwJ+LQjfUYCfBsEd5t/X2/gEj0Yo10CHLnGpDj4CXQpNf92iqMb8A+f7SbG2F+rhtDklqN2l5ByGM7cxOLmdjNnn7kXVWjHKQir0NRGl6z6u5b3TY/R+XgQRXnR1QiSvybW7OMUPlcN/ia2uJ3HjuJRhfR8yk5tbElnn/bZIouxlawJjHQl+vgjYz71Vq4JxfoPsCM2R8WdlKZzW0DBizqKiOthoa3Bcn9AhmqeRYhfSWa/E9lMBaeoZqw/fLZ1qwFHDbMc35ux9cJLbDMyZOWiFBn9tat+v2rqGzMMxw==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:HK2PR04MB0801;
+X-Microsoft-Antispam-PRVS: <HK2PR04MB0801D112F0A5215E9B7CB5D2B8590@HK2PR04MB0801.apcprd04.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(601004)(520078)(8121501046)(5005006)(3002001);SRVR:HK2PR04MB0801;BCL:0;PCL:0;RULEID:;SRVR:HK2PR04MB0801;
+X-Forefront-PRVS: 0703B549E4
+X-Forefront-Antispam-Report: SFV:SPM;SFS:(10019020)(6009001)(6049001)(35000200001)(189002)(199003)(68736005)(81156007)(46552002)(77096005)(110136002)(87976001)(62966003)(107886002)(551984002)(218053001)(33656002)(189998001)(42382002)(77156002)(4001450100002)(5001920100001)(64706001)(66066001)(46102003)(5001960100002)(551934003)(74316001)(561924002)(563864002)(229853001)(76576001)(106356001)(5007970100001)(105586002)(42186005)(575854001)(101416001)(53806999)(325944007)(54356999)(19580405001)(81956001)(50986999)(512934002)(5004730100002)(84326002)(43066003)(5001830100001)(5001860100001)(97736004)(4001540100001)(250100001)(5005630100001)(109986003)(78352002)(122386002)(40100003)(19580395003)(83656004);DIR:OUT;SFP:1501;SCL:5;SRVR:HK2PR04MB0801;H:[100.66.183.17];FPR:;SPF:None;PTR:InfoNoRecords;MX:0;A:0;LANG:en;
+Received-SPF: None (protection.outlook.com: [100.66.183.17] does not designate
+ permitted sender hosts)
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;HK2PR04MB0801;23:MZmbFd7RfP05Wm5pTsiMCAqOhKM6yI2c/YgdnWxWh?=
+ =?us-ascii?Q?fA30B5oPGvSJq9i4enSaz/KTGXCLVGcp0d4yjGEPz/7JNS6Ig1/2tRGiZhBl?=
+ =?us-ascii?Q?/TcCWgeY7XFirDw8hUvK0DukQ3zLJVkJgss0EhqE+LKl833/x/ornZr+E5W8?=
+ =?us-ascii?Q?pC2BO/upAQkaJwaYppoE/bCmn6AvEcgpcsIWxABadBflcAFZ9VIcMBt/zT5h?=
+ =?us-ascii?Q?+docYpmskFXQFbvnVhwun0UKzkeQnaFHH0AhmqAgcCEX4ATqq7Pba9tsSum9?=
+ =?us-ascii?Q?ZHL3QZQVX4yJDDb7r4zQTZfzzvwMpxVaHZ341cb4h8u6aVqS+8ft3jT8jYYi?=
+ =?us-ascii?Q?odH3lxBxQ1ciZewojov0AICgmMvTs9ECJY6UiLJdHxRvnoEsKwyLcrq1gMKi?=
+ =?us-ascii?Q?b69qOf57ddt1eaQy78lbu4S+gLvPAnKI5RWv0Smcet7PsNI0M3P+W/R8zzRn?=
+ =?us-ascii?Q?dNaP0KvrKtRkSxlIZToZJw0ci9GcIhMmYfiY3b5dHx1J+pZxfUMz+aJorqyh?=
+ =?us-ascii?Q?ogNf1U9VrKJPX+DXmo5e+xK/swtjvEPehf1E5KB2VFnoSVyY545Qt+z4IsXf?=
+ =?us-ascii?Q?0ALpXBmCwycmQctxVbF9D+LOo1r1onQc+G4lUZACGU+VufW6ZcCy21zNxq/U?=
+ =?us-ascii?Q?Hs6C2qKYdp8vx6YS8olj8jc1jCws7K5SDhu5Cf4nWq3CzjdB/ciTC3Uqgafg?=
+ =?us-ascii?Q?RplDqSbK/LO5XdHmNh2hBkXn2X+ZmxMx8XJE+mvIcDgN80zOwnj64Xhn/5pw?=
+ =?us-ascii?Q?YhXeDkVcYwKTd9gZXCCDwiK26Lm1UwiY5TIOB1kGINv5Qj2LdDbzH10ByU5c?=
+ =?us-ascii?Q?Vkqxu6h76YsAsT4VaHLXTCy2iyYr2pDkUmPvMHiHK0wRo08onOM6hUpNFSIa?=
+ =?us-ascii?Q?YMpUkDzAgZegJGftLljaA50N3cHUF2vDewsJUJD9q7y7eSTKqPffc1PYrhDY?=
+ =?us-ascii?Q?TcUS1NfPCM5xfc4UcK8fYr5YzhVNHWzK7+QhIv3B8TQX4qBe0qyY7nH6MwS8?=
+ =?us-ascii?Q?rp7AzC+ktk5YQ8JvgrYel0CxM0jVcbcBepoOZB11HrQwKwso4K3nsUsLqmap?=
+ =?us-ascii?Q?IvnshJHrpWjZbbtMt68k02PCXcBPURCrd8bRoGlpF7567Vk6Ny0WMy0YgrJR?=
+ =?us-ascii?Q?/0ot2cWqaJSScq51e7b+xcD8kElD+5mgMjduRDz3BH8w/FvaggjMXzUHynMV?=
+ =?us-ascii?Q?uZpTUb3HKlN5H121DbxjGrVuBI8b7U9oqsmKQrtN0d5HIlbO4aFfY6lYWHCt?=
+ =?us-ascii?Q?gUxy37m0aSEdUKYeBvGfzvqEmHhug30U86QBMLHlGqCe3F1DI2VxT1UMz3vX?=
+ =?us-ascii?Q?iOHlx9ltBpvWabnVFHd0rmlAkO1jKYAKAmL/JLf1ShIoZp7yMggKiVEGlWVf?=
+ =?us-ascii?Q?2m69UOjDinJabpyvkJ24LHNFQ/wKkGo0kNykUEbQ7QdkMRNy1Uu0jf1HU468?=
+ =?us-ascii?Q?3rFxpiej5lvpsTK5YUp67v4ESZmsy0pGzPJJje14y3+pGWCmLBWdMf5Fj0TP?=
+ =?us-ascii?Q?guK2ytWkinA0NHloMUmEXUucR4JBZASMAi4LEMOMEc4OJdiKm8LkHPXC8E74?=
+ =?us-ascii?Q?7pYvtTSmJpcFrETgQ=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;HK2PR04MB0801;5:xKx6Tz/QvQc0yrWB0ThIyp0EwXLFvaqJnNgKF9q8TouXp4nkS8fiPtucmYwsLodqOMI9E7lZigg5GyNrGUPtHjXJR7048pZd3Zmv4x/Kn2dgi0UK/IS0niZ8o5iEwDC3ezhQsBj/FqVEMbWLi0ww6Q==;24:vWNdkxLgq9cG8lArm5KJK+tGtevtJ+nPQjV032fq/5msi07aJ4YbE2JOhkXNraPBBeAfphTxMU7/AEeV+lWyfQ==;20:MB9dk40WF7lLpennqUlxV2/nlNDMZDQHiVko3D1j87wBDXDxk+YZwhpofL2C786e/yexEbn0FUxULx0+0zbi1g==
+SpamDiagnosticOutput: 1:22
+SpamDiagnosticMetadata: 00000000%2D0000%2D0000%2D0000%2D000000000000
+X-OriginatorOrg: 67578678677.onmicrosoft.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Sep 2015 15:57:22.9665
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HK2PR04MB0801
+X-Authenticated_sender: 
+
+--===============1960257424==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ Dear Sir, I sincerely apologize for intruding into your privacy, especiall=
+y by contacting you through this means for a business transaction of this m=
+agnitude. I contacted you via web SMS because my mobile telephone package d=
+oes not send or receive messages. For this reasons, I want our communicatio=
+n to be basically through email for now. I want you to partner with me in g=
+etting back the money (US$4,800,000.00) left behind in a fixed deposit acco=
+unt in our bank by a citizen of your country, Mr. Rao Prasad Venkateshwara.=
+ If this will endanger your position and reputation, I would not have conta=
+cted you. This is safe and beneficial. I am presently the operations manage=
+r of our bank in Ohio, United States of America and please do not expose th=
+is transaction for any reason, I will give you more information of myself, =
+our bank and the transaction itself once you write again. Late Mr. Rao Pras=
+ad Venkateshwara lived and worked in New York City as an international busi=
+nessman. He deposited in our bank the sum of Four Million, Eight Hundred Th=
+ousand US Dollars (US$4,800,000.00) as fixed deposit. This deposit has long=
+ matured and has gone dormant for about two years. We have tried to reach h=
+im and could not. His telephone number could not be reached, emails sent to=
+ him kept bouncing back as undelivered and we never got any response from t=
+he letters posted to his residential address. This issue prompted me to car=
+ry out an independent investigation about his whereabouts since he did not =
+provide a next of kin or beneficiary at the time he made the deposit with u=
+s. I later realized with shook that he died sometime in November 2010 of he=
+art related illness in a Los Angeles hospital. His death was not reported t=
+o our bank from that time till this moment and nobody in our bank is aware =
+of this. He was a kind hearted man and give money out freely. I pray his so=
+ul rest in peace However, I have on my own made several enquiries at your e=
+mbassy and no information of him was found, which I find weird. My effort t=
+o locate any of his relatives took me to your country and the regional pass=
+port office in New Delhi informed me that the passport number was irrelevan=
+t and not issued anywhere in India. Since this is the issue, I want you to =
+apply as the next of kin of the deceased to claim the deposit from our bank=
+ since it is assumed he was from India. It does not matter whether you knew=
+ him or not, it does not matter if you have any kind of relationship with h=
+im or not. I will guide you all the way to make this claim. This is not a m=
+atter of being greedy or having ugly morals, it is not the best to leave th=
+e money to eventually end up in Government hands while we have the opportun=
+ity to live better with it. This is a risk free transaction, as I am the op=
+erations manager of our bank and the final approval of your application wil=
+l be done by my department. Once it is approved, you will have the right to=
+ claim the money. And when it is transferred to you, I will come to meet wi=
+th you in order to share the money which will be into two equal parts (50:5=
+0) for each of us after deducting all the costs incurred in getting the mon=
+ey. With my influence, our bank will tender the necessary documents to appr=
+opriate authorities, like your country's central bank (RBI) to enable a smo=
+oth transfer of the money into your bank account. Everything will be done l=
+egally, have no fear about this. Right now, I have all the copies of the do=
+cuments relating to the fixed deposit late Mr. Rao Prasad Venkateshwara mad=
+e that you will file to back up this claim. All I require now is your hones=
+t cooperation to enable us make this claim and we have to do this within sh=
+ortest time possible. If you are willing to do this with me, write back and=
+ I shall inform you on what next to do. If nothing is done immediately, the=
+ money will be returned to the government treasury as an abandoned fund and=
+ we will gain nothing from it. I am waiting for your consent in order to mo=
+ve to the next step towards getting the fund. Please Email me on my private=
+ email: (christopher_white7@hotmail.com).Thank you and I am waiting. christ=
+opher_white7@hotmail.com Best regards, Christopher White
+--===============1960257424==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head>
+Dear Sir,
+
+I sincerely apologize for intruding into your privacy, especially by contac=
+ting you through this means for a business transaction of this magnitude. I=
+ contacted you via web SMS because my mobile telephone package does not sen=
+d or receive messages. For this reasons, I want our communication to be bas=
+ically through email for now. I want you to partner with me in getting back=
+ the money (US$4,800,000.00) left behind in a fixed deposit account in our =
+bank by a citizen of your country, Mr. Rao Prasad Venkateshwara. If this wi=
+ll endanger your position and reputation, I would not have contacted you. T=
+his is safe and beneficial. I am presently the operations manager of our ba=
+nk in Ohio, United States of America and please do not expose this transact=
+ion for any reason, I will give you more information of myself, our bank an=
+d the transaction itself once you write again.
+
+Late Mr. Rao Prasad Venkateshwara lived and worked in New York City as an i=
+nternational businessman. He deposited in our bank the sum of Four Million,=
+ Eight Hundred Thousand US Dollars (US$4,800,000.00) as fixed deposit. This=
+ deposit has long matured and has gone dormant for about two years. We have=
+ tried to reach him and could not. His telephone number could not be reache=
+d, emails sent to him kept bouncing back as undelivered and we never got an=
+y response from the letters posted to his residential address. This issue p=
+rompted me to carry out an independent investigation about his whereabouts =
+since he did not provide a next of kin or beneficiary at the time he made t=
+he deposit with us. I later realized with shook that he died sometime in No=
+vember 2010 of heart related illness in a Los Angeles hospital. His death w=
+as not reported to our bank from that time till this moment and nobody in o=
+ur bank is aware of this. He was a kind hearted man and give money out free=
+ly. I pray his soul rest in peace
+
+However, I have on my own made several enquiries at your embassy and no inf=
+ormation of him was found, which I find weird. My effort to locate any of h=
+is relatives took me to your country and the regional passport office in Ne=
+w Delhi informed me that the passport number was irrelevant and not issued =
+anywhere in India. Since this is the issue, I want you to apply as the next=
+ of kin of the deceased to claim the deposit from our bank since it is assu=
+med he was from India. It does not matter whether you knew him or not, it d=
+oes not matter if you have any kind of relationship with him or not. I will=
+ guide you all the way to make this claim. This is not a matter of being gr=
+eedy or having ugly morals, it is not the best to leave the money to eventu=
+ally end up in Government hands while we have the opportunity to live bette=
+r with it. This is a risk free transaction, as I am the operations manager =
+of our bank and the final approval of your application will be done by my d=
+epartment. Once it is approved, you will have the right to claim the money.=
+  And when it is transferred to you, I will come to meet with you in order =
+to share the money which will be into two equal parts (50:50) for each of u=
+s after deducting all the costs incurred in getting the money.
+
+With my influence, our bank will tender the necessary documents to appropri=
+ate authorities, like your country's central bank (RBI) to enable a smooth =
+transfer of the money into your bank account. Everything will be done legal=
+ly, have no fear about this. Right now, I have all the copies of the docume=
+nts relating to the fixed deposit late Mr. Rao Prasad Venkateshwara made th=
+at you will file to back up this claim. All I require now is your honest co=
+operation to enable us make this claim and we have to do this within shorte=
+st time possible. If you are willing to do this with me, write back and I s=
+hall inform you on what next to do. If nothing is done immediately, the mon=
+ey will be returned to the government treasury as an abandoned fund and we =
+will gain nothing from it. I am waiting for your consent in order to move t=
+o the next step towards getting the fund. Please Email me on my private ema=
+il: (christopher_white7@hotmail.com).Thank you and I am waiting.
+
+
+christopher_white7@hotmail.com
+Best regards,
+Christopher White</html>
+--===============1960257424==--

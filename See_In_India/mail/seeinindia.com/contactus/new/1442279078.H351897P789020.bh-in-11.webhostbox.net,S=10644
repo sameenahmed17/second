@@ -1,0 +1,177 @@
+Return-path: <bounce-md_30486343.55f76ea2.v1-a29ff07b30ed4d7f86036ca28b2a3f47@mandrillapp.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Tue, 15 Sep 2015 01:04:38 +0000
+Received: from mail133-4.atl131.mandrillapp.com ([198.2.133.4]:58932)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <bounce-md_30486343.55f76ea2.v1-a29ff07b30ed4d7f86036ca28b2a3f47@mandrillapp.com>)
+	id 1Zbefl-003JDO-Vn
+	for contactus@seeinindia.com; Tue, 15 Sep 2015 01:04:38 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mail133-4.atl131.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:List-Unsubscribe:Date:MIME-Version:Content-Type; i=kalpesh@mail133-4.atl131.mandrillapp.com;
+ bh=4bp6dqXBHIvrJ78HWgcrqxwHLc8=;
+ b=oUTCaCokNHxPzyR3E//VV+pEXk18ZJ03C81vkVu+wzV1CA1oAdyRbFM9n+3KktBtoCiNnDKxTDJT
+   6b7khqEZFdw9DTGH5BwsbcTEif8QRSHHXrFusC4OypBCV0kpC2seWrh7vClZyaXpN0XpyF5bW4s0
+   fPhrGTDdt1YfQTXF4ns=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mail133-4.atl131.mandrillapp.com;
+ b=KRsLQ8lBiEVJcSebzLnW/ko0a9ylSZEaR2dvzOvUv3tHwkAKDDdNE2VqQOW6GRYSaj8jV4ehJ/Bu
+   uTcv05g1TGQiYJDRDCJwUF5+xoMc02jSbyL5A9R1BUht5m6xIrVzLueNJ5trtZcgn9L1t7fVXKU1
+   wL4EHKLdyw9GZ/5CBEU=;
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail133-4.atl131.mandrillapp.com id hutnac1sar87 for <contactus@seeinindia.com>; Tue, 15 Sep 2015 01:04:34 +0000 (envelope-from <bounce-md_30486343.55f76ea2.v1-a29ff07b30ed4d7f86036ca28b2a3f47@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1442279074; h=From : 
+ Sender : Subject : To : Message-Id : List-Unsubscribe : Date : 
+ MIME-Version : Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=qz/F4bWFc+8RqYqo4UuqS8L9rQKeuZt2BP3BylYZF5I=; 
+ b=lfaDA3YMw57HJmBwzMsMkXjR/e14gMGwk7PGfWEEwnndFEd8yHhE2LdNlmANzuYfx9BoIp
+ r75VufDR7qmiOr3DDT84Kyqr+6qdRFpANbklgaR1CNfaoLBQGr9HlywRvkHzdHUtse8R9zuf
+ w3m8zgg+BNs5mPwLJ40T7/pTFI9og=
+From: Tender247 Tender Alert <kalpesh@tender247.com>
+Sender: Tender247 Tender Alert <kalpesh@mail133-4.atl131.mandrillapp.com>
+Subject: View Unlimited Tenders for FREE - Download Tender247 Mobile App
+Received: from [182.74.245.70] by mandrillapp.com id a29ff07b30ed4d7f86036ca28b2a3f47; Tue, 15 Sep 2015 01:04:34 +0000
+To: <contactus@seeinindia.com>
+Message-Id: <277309014.51070.1442279071172.JavaMail.isourcing@isourcing-desktop>
+List-Unsubscribe: <mailto:unsubscribe-md_30486343.55f76ea2.v1-a29ff07b30ed4d7f86036ca28b2a3f47@mailin1.us2.mcsv.net?subject=unsub>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30486343.a29ff07b30ed4d7f86036ca28b2a3f47
+X-Mandrill-User: md_30486343
+Date: Tue, 15 Sep 2015 01:04:34 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-SAv0aCKGNFC6EDW5s6xAjA"
+X-Authenticated_sender: 
+
+--_av-SAv0aCKGNFC6EDW5s6xAjA
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+    Tender 247 Mobile app <http://www.tender247.com/downloadmobileapp>
+<https://goo.gl/d942rv> 
+
+       
+
+        i-Sourcing Technologies Pvt. Ltd., 503, Shikhar Complex, Nr. Adani
+house,Mithakhali 6 Roads, Navrangpura, Ahmedabad - 380009
+
+
+
+
+
+This email was sent to contactus@seeinindia.com (mailto:contactus@seeinindia.com)
+unsubscribe from this list (http://mandrillapp.com/track/unsub.php?u=30486343&id=a29ff07b30ed4d7f86036ca28b2a3f47.YG7Z66oqQCDwXhqpZOBtWKkx4Is%3D&r=https%3A%2F%2Fmandrillapp.com%2Funsub%3Fmd_email%3Dcontactus%2540seeinindia.com)
+--_av-SAv0aCKGNFC6EDW5s6xAjA
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html> <head> <meta name=3D"viewport" content=3D"width=3Ddev=
+ice-width" /> <meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
+et=3DUTF-8" /> <title>Tender 247 Mobile app</title> </head> <body bgcolor=
+=3D"#FFFFFF" topmargin=3D"0" leftmargin=3D"0" marginheight=3D"0" marginwidt=
+h=3D"0" style=3D"-webkit-font-smoothing:antialiased;-webkit-text-size-adjus=
+t:none;width: 100%!important;height: 100%;"> <table width=3D"100%" style=3D=
+"font-family: inherit; border-collapse:collapse; border:none; padding:0px; =
+margin:0px" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td></td=
+> <td style=3D"display:block!important; max-width:600px!important; margin:0=
+ auto!important;clear:both!important; padding:0px;" bgcolor=3D"#FFFFFF"> <d=
+iv style=3D" max-width:600px;margin:0 auto; display:block; line-height: 0px=
+;"> <table width=3D"100%" style=3D"padding:0px;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"> <tr style=3D"padding:0px;"> <td colspan=3D"2" bor=
+der-spacing=3D"0px" ; style=3D"padding:0px;"> <p style=3D"margin:0px; paddi=
+ng:0px;"> <img src=3D"http://mobile.tender247.com:8080/T247WS/banner_app/Pr=
+omotionalMailImages/Sub_step1.jpg" style=3D"max-width: 100%;" alt=3D"" /> <=
+/p> </td> </tr> <tr style=3D"padding:0px;"> <td colspan=3D"2" style=3D"padd=
+ing:0px;"> <p style=3D"margin:0px; padding:0px;"> <img src=3D"http://mobile=
+.tender247.com:8080/T247WS/banner_app/PromotionalMailImages/Ne_step2.jpg" s=
+tyle=3D"max-width: 100%;" alt=3D"" /> </p> </td> </tr> <tr border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" style=3D"font-family: inherit;padding:0px;=
+ border-collapse:collapse; border:none; padding:0px; margin:0px"> <td style=
+=3D"padding:0px;"> <p style=3D"margin:0px; padding:0px;"> <img src=3D"http:=
+//mobile.tender247.com:8080/T247WS/banner_app/PromotionalMailImages/Ne_step=
+3.jpg" style=3D"max-width: 100%;" alt=3D"" /> </p> </td> </tr> <tr border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family: inherit;pa=
+dding:0px; border-collapse:collapse; border:none; padding:0px; margin:0px">=
+ <td style=3D"padding:0px;"> <p style=3D"margin:0px; padding:0px;"> <a href=
+=3D"http://mandrillapp.com/track/click/30486343/www.tender247.com?p=3DeyJzI=
+joiS0NKbTFXMnVUV1BYcHlkVXRsMkotOHBTdG9FIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0=
+MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnRlbmRlcjI0Ny5jb21cXFwvZG9=
+3bmxvYWRtb2JpbGVhcHBcIixcImlkXCI6XCJhMjlmZjA3YjMwZWQ0ZDdmODYwMzZjYTI4YjJhM2=
+Y0N1wiLFwidXJsX2lkc1wiOltcImRiMDllYmUwNDgzZjM5ZjFhMDBkMzRlYzc3MWE5OThjMzYyM=
+DdhNmVcIl19In0" target=3D"_blank"> <img src=3D"http://mobile.tender247.com:=
+8080/T247WS/banner_app/PromotionalMailImages/Sub_step4.jpg" style=3D"max-wi=
+dth: 100%;" alt=3D"" /></a> </p> </td> </tr> <tr border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"font-family: inherit;padding:0px; border-=
+collapse:collapse; border:none; padding:0px; margin:0px"> <td style=3D"padd=
+ing:0px;"> <p style=3D"margin:0px; padding:0px;"> <img src=3D"http://mobile=
+.tender247.com:8080/T247WS/banner_app/PromotionalMailImages/Sub_step5.jpg" =
+style=3D"max-width: 100%;" alt=3D"" /> </p> </td> </tr> <tr border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" style=3D"font-family: inherit;padding:0px=
+; border-collapse:collapse; border:none; padding:0px; margin:0px"> <td styl=
+e=3D"padding:0px;"> <p style=3D"margin:0px; padding:0px;"> <a href=3D"http:=
+//mandrillapp.com/track/click/30486343/goo.gl?p=3DeyJzIjoibjhNeF9OU2V6MGVxd=
+1IwRk5QQm54NW00UERRIiwidiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJs=
+XCI6XCJodHRwczpcXFwvXFxcL2dvby5nbFxcXC9kOTQycnZcIixcImlkXCI6XCJhMjlmZjA3YjM=
+wZWQ0ZDdmODYwMzZjYTI4YjJhM2Y0N1wiLFwidXJsX2lkc1wiOltcIjBjZjYxZTdiOWI4ZmRmNT=
+M0OTQwMjcyYjk0M2VlYTgwNWQ0ZGVhYzVcIl19In0" target=3D"_blank"><img src=3D"ht=
+tp://mobile.tender247.com:8080/T247WS/banner_app/PromotionalMailImages/sub_=
+step6.jpg" style=3D"max-width: 100%;" alt=3D"" /></a> </p> </td> </tr> <tr =
+style=3D"padding:0px;"> <td colspan=3D"2" tyle=3D"padding:0px;"> <p style=
+=3D"margin:0px; padding:0px;"> <img src=3D"http://mobile.tender247.com:8080=
+/T247WS/banner_app/PromotionalMailImages/Sub_step7.jpg" style=3D"max-width:=
+ 100%;" alt=3D"" /> </p> </td> </tr> <tr> <td colspan=3D"2" style=3D"height=
+: 30px; background-color:#CCCCCC; margin: 10px 0px 0px 0px;"> <p style=3D" =
+font-size:12px; color:#333333; margin: 0px 0px 0px 20px; line-height:20px;"=
+> &nbsp; i-Sourcing Technologies Pvt. Ltd., 503, Shikhar Complex, Nr. Adani=
+ house,Mithakhali 6 Roads, Navrangpura, Ahmedabad - 380009</p> </td> </tr> =
+</table> </div> </td> <td></td> </tr> </table> <img src=3D"http://mandrilla=
+pp.com/track/open.php?u=3D30486343&id=3Da29ff07b30ed4d7f86036ca28b2a3f47" h=
+eight=3D"1" width=3D"1"><center>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; border-top:1px =
+solid #E5E5E5;">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding-top:20px; =
+padding-bottom:20px;">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"canspamBar">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"color:=
+#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; line-hei=
+ght:150%; padding-right:20px; padding-bottom:5px; padding-left:20px; text-a=
+lign:center;">
+                            This email was sent to <a href=3D"mailto:contac=
+tus@seeinindia.com" target=3D"_blank" style=3D"color:#404040 !important;">c=
+ontactus@seeinindia.com</a>
+                            &nbsp;&nbsp;
+                            <a href=3D"http://mandrillapp.com/track/click/3=
+0486343/mandrillapp.com?p=3DeyJzIjoiYnhSMjZLLUg0LWFjalprVER3RlVwelk3TEwwIiw=
+idiI6MSwicCI6IntcInVcIjozMDQ4NjM0MyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXF=
+wvbWFuZHJpbGxhcHAuY29tXFxcL3RyYWNrXFxcL3Vuc3ViLnBocD91PTMwNDg2MzQzJmlkPWEyO=
+WZmMDdiMzBlZDRkN2Y4NjAzNmNhMjhiMmEzZjQ3LllHN1o2Nm9xUUNEd1hocXBaT0J0V0treDRJ=
+cyUzRCZyPWh0dHBzJTNBJTJGJTJGbWFuZHJpbGxhcHAuY29tJTJGdW5zdWIlM0ZtZF9lbWFpbCU=
+zRGNvbnRhY3R1cyUyNTQwc2VlaW5pbmRpYS5jb21cIixcImlkXCI6XCJhMjlmZjA3YjMwZWQ0ZD=
+dmODYwMzZjYTI4YjJhM2Y0N1wiLFwidXJsX2lkc1wiOltcIjg3ZjkyM2YxODI4NmZjOTc4MDBhN=
+TcwN2VhMjAyYzNhMDQ1MDBmYTRcIl19In0" style=3D"color:#404040 !important;">uns=
+ubscribe from this list</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <style type=3D"text/css">
+        @media only screen and (max-width: 480px){
+            table[id=3D"canspamBar"] td{font-size:14px !important;}
+            table[id=3D"canspamBar"] td a{display:block !important; margin-=
+top:10px !important;}
+        }
+    </style>
+</center></body></html>
+
+--_av-SAv0aCKGNFC6EDW5s6xAjA--
+

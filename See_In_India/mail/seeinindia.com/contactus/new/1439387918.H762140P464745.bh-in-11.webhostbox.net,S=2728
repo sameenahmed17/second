@@ -1,0 +1,58 @@
+Return-path: <pamelegorge@mail.ru>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Wed, 12 Aug 2015 13:58:38 +0000
+Received: from f142.i.mail.ru ([128.140.171.238]:37970)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <pamelegorge@mail.ru>)
+	id 1ZPWYA-001wpV-79
+	for contactus@seeinindia.com; Wed, 12 Aug 2015 13:58:38 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=bbWHk596t5mDJcC1kLiNgggzNnxGe+E0PmLnKymCdEQ=;
+	b=jy30OgG9XMSRgSeZcByNMiN30pXsgUhJUfSAnvWv/vQ3QIfp6FlnUg4R+Px7A2nx53Cq/IYDZ1pw7pDYCd3pJNPCaooQ+AptcJPTWtudE90vnjo6fo8d76TBJ4kAujMQK6K34UXoLe440N7C1+R+7PlK+Tmnv/Fx8pD5elGENA0=;
+Received: from [41.82.22.38] (ident=mail)
+	by f142.i.mail.ru with local (envelope-from <pamelegorge@mail.ru>)
+	id 1ZPWXx-00007p-4Y; Wed, 12 Aug 2015 16:58:27 +0300
+Received: from [41.82.22.38] by e.mail.ru with HTTP;
+	Wed, 12 Aug 2015 16:58:25 +0300
+From: =?UTF-8?B?UGFtZWxhIGdvcmdl?= <pamelegorge@mail.ru>
+To: =?UTF-8?B?cGFtZWxlZ29yZ2U=?= <pamelegorge@hotmail.com>
+Subject: =?UTF-8?B?R29vZCBkYXk=?=
+MIME-Version: 1.0
+X-Mailer: Mail.Ru Mailer 1.0
+X-Originating-IP: [41.82.22.38]
+Date: Wed, 12 Aug 2015 16:58:25 +0300
+Reply-To: =?UTF-8?B?UGFtZWxhIGdvcmdl?= <pamelegorge@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1439387905.786364866@f142.i.mail.ru>
+Content-Type: multipart/alternative;
+	boundary="--ALT--ezf1SfNj9z7udhB1ApaZKSRf9r64t7fR1439387905"
+X-CL-419-1: 240
+X-Magic: CB8FE21AD4E3EBE499DF7725DB768235456FC2DDEE3BCB337D0844DE1203830E
+X-Mras: PROBABLE_SPAM
+X-Spam: MrasProbableSpam
+X-Spam-Flag: YES
+X-Authenticated_sender: 
+
+
+----ALT--ezf1SfNj9z7udhB1ApaZKSRf9r64t7fR1439387905
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CkhlbGxvLAppIHdyaXRlIHRvIHlvdSBrbm93LGlmIHlvdXIgZW1haWwgaXMgdmFsaWQsYW0gUGFt
+ZWxhIGkgd2FudCB0byB0YWxrIHRvIHlvdSBwcml2YXRlbHksIGNhbiB3ZSB0YWxrIHRocm91Z2gg
+bXkgZW1haWw6cGFtZWxhZ29yZ2VAaG90bWFpbC5jb20gcGxlYXNlIG1haWwgbWUsaSB3aWxsIHRl
+bGwgeW91IG1vcmUgYWJvdXQgbWUgYW5kCnRoZSByZWFzb24gd2h5IGkgY29udGFjdGVkIHlvdQpH
+cmVldGluZwpQYW1lbGE=
+
+----ALT--ezf1SfNj9z7udhB1ApaZKSRf9r64t7fR1439387905
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CjxIVE1MPjxCT0RZPjxicj5IZWxsbyw8YnI+aSB3cml0ZSB0byB5b3Uga25vdyxpZiB5b3VyIGVt
+YWlsIGlzIHZhbGlkLGFtIFBhbWVsYSBpIHdhbnQgdG8gdGFsayB0byB5b3UgcHJpdmF0ZWx5LCBj
+YW4gd2UgdGFsayB0aHJvdWdoIG15IGVtYWlsOnBhbWVsYWdvcmdlQGhvdG1haWwuY29tIHBsZWFz
+ZSBtYWlsIG1lLGkgd2lsbCB0ZWxsIHlvdSBtb3JlIGFib3V0IG1lIGFuZDxicj50aGUgcmVhc29u
+IHdoeSBpIGNvbnRhY3RlZCB5b3U8YnI+R3JlZXRpbmc8YnI+UGFtZWxhPC9CT0RZPjwvSFRNTD4K
+
+----ALT--ezf1SfNj9z7udhB1ApaZKSRf9r64t7fR1439387905--

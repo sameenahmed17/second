@@ -1,0 +1,114 @@
+Return-path: <bounce+245399.ad76-contactus=seeinindia.com@tripcrafters.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Tue, 21 Apr 2015 06:09:44 +0000
+Received: from rs89.mailgun.us ([209.61.151.89]:57849)
+	by bh-in-11.webhostbox.net with esmtp (Exim 4.85)
+	(envelope-from <bounce+245399.ad76-contactus=seeinindia.com@tripcrafters.com>)
+	id 1YkRNQ-003anv-BW
+	for contactus@seeinindia.com; Tue, 21 Apr 2015 06:09:44 +0000
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=tripcrafters.com; q=dns/txt;
+ s=smtp; t=1429596571; h=Sender: Date: Content-Transfer-Encoding:
+ Message-Id: To: From: Subject: Cc: Content-Type: Mime-Version;
+ bh=JZ/qFvXVrCJ1ITCPnXa6x4r4SZdgLawLPR8Ow3R2kaM=; b=lwiYf6ybhUsBtKaBRG+8ebW3lJxTgUyxSVxiyaFWOh/P4jSJGA6MJksTIGNDU+cJ1EJKXKwU
+ 19dpdC9Wc2LYqgL3ryZhG9jqML/S+R5neCSRyNF5c+6mvxOh9LMXl4I39XShGtwFzZhAIm52
+ r9TmnxXN5nBIz6vbHtTG6YhFKDE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=tripcrafters.com; s=smtp;
+ q=dns; h=Mime-Version: Content-Type: Cc: Subject: From: To: Message-Id:
+ Content-Transfer-Encoding: Date: Sender;
+ b=jE9z6ILcrwMLsZreWo1uWP/RctHzywUuP6YU3kL50MgWBfLO8gtW7EFB5D5Q6zR6/4uH2V
+ 3uLELKavTFkFSam0+uYp6CPt/Mv2SJCUN55AArnsFW2cxCvuaojNRvDlOfw2qbLMcXXrAaaF
+ HOTZnPJkjfk9ZQigOKCvbc0rQGQhU=
+Received: by luna.mailgun.net with HTTP; Tue, 21 Apr 2015 06:09:30 +0000
+Mime-Version: 1.0
+Content-Type: text/html; charset="ascii"
+Cc: contactus@seeinindia.com
+Subject: Introducing Flat Price Packages Starting @ Rs. 5000
+From: TripCrafters <mail@tripcrafters.com>
+To: contactus@seeinindia.com
+X-Mailgun-Tag: Introducing Flat Price Packages Starting @ Rs. 5000
+Message-Id: <20150421060930.27900.58140@tripcrafters.com>
+Content-Transfer-Encoding: 7bit
+X-Mailgun-Sid: WyI4MmRhOSIsICJjb250YWN0dXNAc2VlaW5pbmRpYS5jb20iLCAiYWQ3NiJd
+Date: Tue, 21 Apr 2015 06:09:31 +0000
+Sender: mail@tripcrafters.com
+X-Authenticated_sender: 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="margin:0;padding:0;font-family: arial;">
+<head>
+    <!-- If you delete this meta tag, Half Life 3 will never be released. -->
+    <meta name="viewport" content="width=device-width" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Introducing Flat Price Packages Starting @ Rs. 5000</title>
+</head>
+<body style="-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;width:100%!important;height: 100%;margin: 0;padding: 0;font-family:
+arial">
+    <table bgcolor="#ccc" cellpadding="0" cellspacing="0"  style="margin: 0;padding: 0;font-family: arial;width: 100%;padding-top:10px;">
+        <tr>
+            <td bgcolor="#ffffff" style="margin: 0 auto !important;padding: 0;font-family:arial;display:block !important; max-width: 598px !important; clear: both!important;padding-top: 25px;padding-bottom: 20px;border-left:1px solid #aaa;border-right:1px solid #aaa;border-top:1px solid #aaa;">
+                <a href="http://www.tripcrafters.com/" style="padding: 0;margin:0;text-decoration: none;outline: none;display: inline-block;margin-left: 20px;">
+                    <img src="http://e179972f79f7516043ae-53e9ddd31018e7e74260f1cf6690e837.r3.cf1.rackcdn.com/tripcrafters130x23.min.png" alt="TripCrafters.com" style="color: #2074be;font-size: 20px;" />
+                </a>
+            </td>
+        </tr>
+    </table>
+
+    <table bgcolor="#ccc" cellpadding="0" cellspacing="0" style="margin: 0;padding: 0;font-family: arial;width: 100%;">
+        <tr>
+            <td bgcolor="#ffffff" style="margin: 0 auto !important;padding: 0;font-family:arial;display:block !important; max-width: 558px !important; clear: both!important;padding: 20px;border:1px solid #aaa;">
+                <p style="margin: 0;padding: 0;font-family:arial;color: #444;font-size: 16px;padding-bottom:30px;line-height: 1.5;">Dear Sameer,</p>
+                                <p style="margin: 0;padding: 20px;background-color:#eee;font-family:arial;color: #2074be;font-size: 36px;text-align:center;line-height:1.4;">Introducing Flat Price Packages Starting @ Rs. 5000!</p>
+                                <p style="margin: 0;padding: 10px 40px;background-color:#eee;font-family:arial;color: #444;font-size: 17px;">
+                                    <span style="margin: 0;padding: 0;color:green;font-family:arial;font-size: 24px;">&#10003;</span> Flat price for all <strong>Domestic & Outbound</strong> leads
+                                </p>
+                                <p style="margin: 0;padding: 10px 40px;background-color:#eee;font-family:arial;color: #444;font-size: 17px;">
+                                    <span style="margin: 0;padding: 0;color:green;font-family:arial;font-size: 24px;">&#10003;</span> 100% Phone Verified Leads only
+                                </p>
+                                <p style="margin: 0;padding: 10px 40px;background-color:#eee;font-family:arial;color: #444;font-size: 17px;">
+                                    <span style="margin: 0;padding: 0;color:green;font-family:arial;font-size: 24px;">&#10003;</span> Control lead flow with custom lead filters & On/Off switch
+                                </p>
+                                <p style="margin: 0;padding: 10px 40px;background-color:#eee;font-family:arial;color: #444;font-size: 17px;">
+                                    <span style="margin: 0;padding: 0;color:green;font-family:arial;font-size: 24px;">&#10003;</span> Leads purchased & emailed automatically
+                                </p>
+                                <p style="margin: 0;padding: 10px 40px;background-color:#eee;font-family:arial;color: #444;font-size: 17px;">
+                                    <span style="margin: 0;padding: 0;color:green;font-family:arial;font-size: 24px;">&#10003;</span> Get Exclusive Leads at the same flat price
+                                </p>
+                                <p style="margin: 0;padding: 10px 40px;background-color:#eee;font-family:arial;color: #444;font-size: 17px;">
+                                    <span style="margin: 0;padding: 0;color:green;font-family:arial;font-size: 24px;">&#10003;</span> API integration available
+                                </p>
+                                <p style="margin: 0;padding: 10px 40px;background-color:#eee;font-family:arial;color: #444;font-size: 17px;">
+                                    <span style="margin: 0;padding: 0;color:green;font-family:arial;font-size: 24px;">&#10003;</span> Packages starting Rs. 5000; price as low as Rs. 85 per lead
+                                </p>
+                                <p style="margin: 0;padding: 30px;background-color:#eee;text-align:center;padding-bottom:40px;">
+                                    <a href="http://www.tripcrafters.com/agent/credits" style="margin: 0;display: inline-block;background-color: #ff7403;color: white;font-family: arial;font-size: 20px;text-decoration: none;padding:10px 20px;">View Flat Price Packages Now</a>
+                                </p>
+                                <p style="margin: 0;padding: 20px;background-color:#eee;font-family:arial;color: #2074be;font-size: 20px;border-top:1px solid #ccc;">Contact Us To Know More About Flat Price Leads</p>
+                                <p style="margin: 0;padding: 0px 20px;background-color:#eee;font-family:arial;color: #444;font-size: 16px;padding-bottom:30px;line-height:1.5;">Your Account Manager's Contact Details:<br/>
+                                Salim Kazi<br/>
+                                salim@tripcrafters.com<br/>
+                                +917666855521<br/></p>
+
+                <p style="margin: 0;padding: 0;font-family:arial;color: #444;font-size: 16px;padding-bottom:5px;padding-top: 40px;">Cheers,</p>
+                <p style="margin: 0;padding: 0;font-family:arial;padding-bottom:15px;">
+                    <a href="http://www.tripcrafters.com" style="margin: 0;padding: 0;font-family:arial;font-size: 16px;color: #2074be;text-decoration: none;">TripCrafters.com</a>
+                </p>
+                <p style="margin: 0;padding: 0;padding-bottom:15px;">
+                    <a href="http://www.facebook.com/tripcrafters" style="margin: 0;padding: 4px 0px;font-family: arial;color: #FFF;font-size: 18px;text-decoration: none;font-weight: bold;display: inline-block;background-color: #3B5998!important;line-height: 18px;width: 26px;text-align: center;" title="TripCrafters.com on Facebook">f</a>
+
+                    <a href="http://www.twitter.com/tripcrafters" style="margin: 0px 10px;padding: 4px 0px;font-family: arial;color: #FFF;font-size: 18px;text-decoration: none;font-weight: bold;display: inline-block;background-color: #4099FF!important;line-height: 18px;width: 26px;text-align: center;" title="TripCrafters.com on Twitter">t</a>
+
+                    <a href="http://plus.google.com/+Tripcrafters" style="margin: 0;padding: 0px;padding-top: 2px;padding-bottom: 6px;font-family: arial;color: #FFF;font-size: 18px;text-decoration: none;display: inline-block;background-color: #db4a39!important;line-height: 18px;width: 26px;text-align: center;vertical-align: top;" title="TripCrafters.com on Google Plus">g</a>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="margin: 0 auto !important;padding: 0;font-family:arial;display:block !important; max-width: 600px !important; clear: both!important;">
+                
+                <p style="margin: 0;font-family:arial;color: #888;font-size: 12px;padding-bottom:5px;padding-top: 30px;text-align: center;padding-left:10px;padding-right:10px;">Copyright &copy; 2011 TripCrafters Travel Online LLP. All rights reserved.</p>
+                <p style="margin: 0;padding: 0;font-family:arial;color: #888;font-size: 12px;padding-bottom:30px;text-align: center;padding-left:10px;padding-right:10px;">Vasu Bhavan, Ground Floor, 11th Road, Khar (W), Mumbai - 400052. India.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

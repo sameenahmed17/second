@@ -1,0 +1,149 @@
+Return-path: <3b47nVQcKBN4NOREPLYGOOGLE.COMINFOSEEININDIA.COM@phishing.bounces.google.com>
+Envelope-to: info@seeinindia.com
+Delivery-date: Thu, 03 Sep 2015 00:04:03 +0000
+Received: from mail-oi0-f72.google.com ([209.85.218.72]:33203)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <3b47nVQcKBN4NOREPLYGOOGLE.COMINFOSEEININDIA.COM@phishing.bounces.google.com>)
+	id 1ZXI0Z-0049hn-3c
+	for info@seeinindia.com; Thu, 03 Sep 2015 00:04:03 +0000
+Received: by oiww128 with SMTP id w128so45624124oiw.0
+        for <info@seeinindia.com>; Wed, 02 Sep 2015 17:04:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:auto-submitted:message-id:date:subject:from:to
+         :content-type;
+        bh=h1VlZ+hNU+Tfby7mw0UTBRYY/TSJMXguzOwVY6rQGOM=;
+        b=fRpGC3HvEVf2nojfPuXDQFzIboJSbkhxieVyjiYZCAIBZsCJyOlIwsJQMrV2PdIw2A
+         f+yoci9VNfnPQlcfGii3GxhRz3HL45N2tiyAeM46o8GEPo0uZnB0Yby0X8POO3f6c6c9
+         /+KO7Mf+CYveyWqT1GcRCsZ+ds3++fUZwIsM89gWgPXcsR3RuWnynDbtR4xYbVPk9+38
+         gnV/Ua0sRhovX1aH2b89ZSdLxy6WGwgbhUlQKB4OxHASfZyI91Xc7Fmj1lvTYw8AKjQX
+         hE4wK1Tr2gvQmkEwSP7ZvXqW0tErR0HPD9wIG4WqmX/PzlapsMlzO2nDX6Frn8KYYvNU
+         Gbjw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:auto-submitted:message-id:date
+         :subject:from:to:content-type;
+        bh=h1VlZ+hNU+Tfby7mw0UTBRYY/TSJMXguzOwVY6rQGOM=;
+        b=NvRcw4vaA59R4ogdnSHAmj+fKDnCaKYs8AFxyztETuAdxiwmgEDaNTJyDy9ryHKPj7
+         82Xqj+GOFZfaPzWf+xqAyHWnbl+xqEbrN6nopi+t+548IiBXYqBPa0ROIj/4n1R76AvZ
+         byfh9YxnIXmnMw+CQiXBXiZaqpxy268cDI/JFDd21OfTrZit+0gcn/l91+K6uyQWDNsB
+         TBmrsNZnjgsIffd+c4OqCqLaNGSCl80n/wsgWH7okcKNUmIGhGk4ErfTB9qyFQwTdNQE
+         O165UithbpVlrWTq74031WyN4fiDy7u4ezKgLaB1E6VhkLvQ+3YYvpCKOmEsdSUKJ7Cs
+         dpeQ==
+X-Gm-Message-State: ALoCoQlnV8FkcyrnVbT4y78SQu06oNrm5i1SqVZh0JFjvIuZintYs0rMQvg2cpgo01TTtrH5Bs49
+MIME-Version: 1.0
+X-Received: by 10.107.155.147 with SMTP id d141mr23872619ioe.26.1441238639519;
+ Wed, 02 Sep 2015 17:03:59 -0700 (PDT)
+Auto-Submitted: auto-generated
+Message-ID: <001a1140a4b4256609051ecc85f1@google.com>
+Date: Thu, 03 Sep 2015 00:03:59 +0000
+Subject: Phishing notification regarding seeinindia.com
+From: noreply@google.com
+To: abuse@seeinindia.com, admin@seeinindia.com, administrator@seeinindia.com, 
+	contact@seeinindia.com, info@seeinindia.com, postmaster@seeinindia.com, 
+	support@seeinindia.com, webmaster@seeinindia.com
+Content-Type: multipart/alternative; boundary=001a1140a4b42565e2051ecc85ee
+X-Authenticated_sender: 
+
+--001a1140a4b42565e2051ecc85ee
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+
+Dear site owner or webmaster of seeinindia.com,
+
+We recently discovered that some pages on your site look like a possible  
+phishing attack, in which users are encouraged to give up sensitive  
+information such as login credentials or banking information. We have  
+removed the suspicious URLs from Google.com search results and have begun  
+showing a warning page to users who visit these URLs in certain browsers  
+that receive anti-phishing data from Google.
+
+Below are one or more example URLs on your site which may be part of a  
+phishing attack:
+
+http://www.seeinindia .com/awwwwwwwwwww/
+
+Here is a link to a sample warning page:
+http://www.google.com/interstitial?url=http%3A//www.seeinindia.com/awwwwwwwwwww/
+
+We strongly encourage you to investigate this immediately to protect users  
+who are being directed to a suspected phishing attack being hosted on your  
+web site. Although some sites intentionally host such attacks, in many  
+cases the webmaster is unaware because:
+
+1) the site was compromised
+2) the site doesn't monitor for malicious user-contributed content
+
+If your site was compromised, it's important to not only remove the content  
+involved in the phishing attack, but to also identify and fix the  
+vulnerability that enabled such content to be placed on your site. We  
+suggest contacting your hosting provider if you are unsure of how to  
+proceed.
+
+Once you've secured your site, and removed the content involved in the  
+suspected phishing attack, or if you believe we have made an error and this  
+is not actually a phishing attack, you can request that the warning be  
+removed by visiting
+http://www.google.com/safebrowsing/report_error/?tpl=emailer
+and reporting an "incorrect forgery alert." We will review this request and  
+take the appropriate actions.
+
+Sincerely,
+Google Search Quality Team
+
+Note: if you have an account in Google's Webmaster Tools, you can verify  
+the authenticity of this message by logging into  
+https://www.google.com/webmasters/tools/siteoverview and going to the  
+Message Center, where a warning will appear shortly.
+
+--001a1140a4b42565e2051ecc85ee
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>Dear site owner or webmaster of seeinindia.com,<br />
+
+<p>We recently discovered that some pages on your site look like a possible=
+ phishing attack, in which users are encouraged to give up sensitive inform=
+ation such as login credentials or banking information. We have removed the=
+ suspicious URLs from Google.com search results and have begun showing a wa=
+rning page to users who visit these URLs in certain browsers that receive a=
+nti-phishing data from Google.</p>
+
+<p>Below are one or more example URLs on your site which may be part of a p=
+hishing attack:</p>
+
+<p>http://www.seeinindia .com/awwwwwwwwwww/</p>
+
+<p>Here is a link to a sample warning page:<br />
+http://www.google.com/interstitial?url=3Dhttp%3A//www.seeinindia.com/awwwww=
+wwwwww/</p>
+
+<p>We strongly encourage you to investigate this immediately to protect use=
+rs who are being directed to a suspected phishing attack being hosted on yo=
+ur web site. Although some sites intentionally host such attacks, in many c=
+ases the webmaster is unaware because:</p>
+
+<p>1) the site was compromised<br />
+2) the site doesn't monitor for malicious user-contributed content<br />
+
+<p>If your site was compromised, it's important to not only remove the cont=
+ent involved in the phishing attack, but to also identify and fix the vulne=
+rability that enabled such content to be placed on your site. We suggest co=
+ntacting your hosting provider if you are unsure of how to proceed.</p>
+
+<p>Once you've secured your site, and removed the content involved in the s=
+uspected phishing attack, or if you believe we have made an error and this =
+is not actually a phishing attack, you can request that the warning be remo=
+ved by visiting <br />http://www.google.com/safebrowsing/report_error/?tpl=
+=3Demailer<br /> and reporting an "incorrect forgery alert." We will review=
+ this request and take the appropriate actions.</p>
+
+<p>Sincerely,<br />
+Google Search Quality Team</p>
+
+<p>Note: if you have an account in Google's Webmaster Tools, you can verify=
+ the authenticity of this message by logging into https://www.google.com/we=
+bmasters/tools/siteoverview and going to the Message Center, where a warnin=
+g will appear shortly.</p>
+
+--001a1140a4b42565e2051ecc85ee--

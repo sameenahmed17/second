@@ -1,0 +1,183 @@
+Return-path: <bounce1@denebandpollux.in>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Thu, 21 May 2015 17:03:32 +0000
+Received: from [78.142.47.168] (port=34876 helo=server.smsfox.in)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <bounce1@denebandpollux.in>)
+	id 1YvTsa-000Ylu-Bl
+	for contactus@seeinindia.com; Thu, 21 May 2015 17:03:32 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=denebandpollux.in; s=default;
+	h=Message-ID:List-Unsubscribe:Content-Transfer-Encoding:Content-Type:MIME-Version:Date:From:Subject:To; bh=uYwgm/lNoYmO+LF5eWKjVvtnSKC79TncwkHSSBqp3u8=;
+	b=glGUqDuYNWPpV+BKL8IYUwp04eiuLDsVSi5yZtBv8XIVXIVoIqOf2M8z5a5NjXls2Hr5WcDPS/lgB7ZGvjVgX9awbm32brsm0MAvcLKWqr3eiUOTk+hKYdauf2MN/Ae27/iiU1fCYZrsAFWt091WYlSqaQmnhKbT00tZPY7vaD4=;
+Received: from denebandpollux by server.smsfox.in with local (Exim 4.85)
+	(envelope-from <bounce1@denebandpollux.in>)
+	id 1YvTYe-0002cd-Hq
+	for contactus@seeinindia.com; Thu, 21 May 2015 12:42:56 -0400
+To: contactus@seeinindia.com
+Subject: Step mark Collection
+X-PHP-Script: denebandpollux.in/client/admin/process.php for 78.142.47.168
+From: Step Mark  <info@stepmark.co.in>
+Date: Thu, 21 May 2015 16:25:02 +0000
+X-LibVersion: 3.3.2_4
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-721356752555e06df016af2.91933373_=_"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced by SwiftMailer 3.3.2_4
+X-mid: Y29udGFjdHVzQHNlZWluaW5kaWEuY29tICwgYzc2ICwgbTIx
+X-Mailer: ACEM
+User-Agent: ACEM
+X-Sender: <info@stepmark.co.in>
+List-Unsubscribe: <http://denebandpollux.in/client/box.php?nl=51&c=76&m=21&s=199fda85a9797cb6e181d216d4076bb0&funcml=unsub2>
+Message-ID: <20150521164256.8092.168181155.swift@denebandpollux.in>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.smsfox.in
+X-AntiAbuse: Original Domain - seeinindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [502 501] / [47 12]
+X-AntiAbuse: Sender Address Domain - denebandpollux.in
+X-Get-Message-Sender-Via: server.smsfox.in: authenticated_id: denebandpollux/sender_address_domain
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/denebandpollux/public_html/client/admin/process.php 
+X-Source-Dir: denebandpollux.in:/public_html/client/admin
+X-Authenticated_sender: 
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-721356752555e06df016af2.91933373_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>My document title</title>
+</head>
+<body>
+<p><br style="color: #500050; font-family: arial, sans-serif; font-size: 12.8000001907349px;" /><br style="color: #500050; font-family: arial, sans-serif; font-size: 12.8000001907349px;" /></p>
+<div style="color: #500050; font-family: arial, sans-serif; font-size: 12.8000001907349px;"><table style="width: 100%;" border="0" cellspacing="0" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px; padding-bottom: 10px; color: #ffffff; padding-top: 12px;" bgcolor="#c0c0c0"><table style="width: 685px;" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td style="font-family: arial, sans-serif; margin: 0px;" width="600" height="60" align="left" valign="middle"><table style="width: 690px;" border="0" cellspacing="0" cellpadding="0"><tr bgcolor="#d6d7db"><td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" width="180" height="80"><p style="line-height: 27px; margin: 0px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 30px;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img
+style="float: left;" src="http://denebandpollux.in/client/images/stepmark/stepmark-logo-1425014241.jpg" alt="" width="250" height="78" /></a></p>
+</td>
+<td style="font-family: arial, sans-serif; margin: 0px;" width="10"> </td>
+<td style="font-family: arial, sans-serif; margin: 0px; padding: 5px;" align="right" valign="middle"><p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 12px;">Contact: <span style="color: #17365d; font-family: Arial, sans-serif; font-size: 13.3333330154419px;">Mob | +91 9058986291 </span></p>
+<p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 12px;"><span style="color: #17365d; font-family: Arial, sans-serif; font-size: 13.3333330154419px;"><span style="color: #17365d; font-family: Arial, sans-serif; font-size: 13.3333330154419px;">Tel | +91562 3258877</span></span></p>
+</td>
+<td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" width="140" align="right" valign="middle"><p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 12px;">Email: <a style="color: #1155cc; font-family: Calibri, sans-serif; font-size: 14.6666669845581px;" href="mailto:info@stepmark.co.in" target="_blank"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #17365d;">info@stepmark.co.in</span></a></p>
+<p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 12px;"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #17365d;"><br /></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px; padding: 0px; line-height: 0; font-size: 0px;" width="600" height="242" valign="middle" bgcolor="#575757"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img style="cursor: pointer; outline: 0px; line-height: 0; margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/c7ad943bdf2508d82280cf5bd9da8d0a7a0eacff_7B2A0293.JPG" alt="" width="690" height="397" /></a>       </td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px; padding: 0px; line-height: 0; font-size: 0px;" width="600" height="2" bgcolor="#4e5360"> </td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" valign="top" bgcolor="#d6d7db"><p style="margin: 10px 0px 0px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 27px;"><span style="color: #555454; font-family: 'Open Sans', sans-serif; font-size: 16px; text-transform: uppercase; background-color: #ffffff;"><strong>OUR COMPANY</strong></span></p>
+<p style="line-height: 16px; margin: 0px 0px 15px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 12px;"><span style="color: #777777; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 18px;">The footwear range of Step Mark was launched under the brand name Step Mark in 2014 to meet growing demand for branded high quality leather footwear at an affordable price...</span></p>
+<p style="text-align: right; line-height: 16px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #cccccc; font-size: 14px;"><a style="color: #ffffff; border: 5px solid #476396; margin-top: 10px; margin-bottom: 10px; text-decoration: none; background-color: #476396;" href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php">Read More</a></p>
+</td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" height="10"> </td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" valign="top" bgcolor="#ffffff"><table style="width: 600px;" border="0" cellspacing="0" cellpadding="10"><tr bgcolor="#4e5360"><td style="font-family: arial, sans-serif; margin: 0px;" width="178" valign="top"><table style="border: 2px solid #4e5360;" cellspacing="0" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px; line-height: 0; font-size: 0px;" align="center" bgcolor="#cccccc"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=362&l=-https--paytm.com/shop/search/g/men/footwear--Q-q--E-foostep-"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/2_6.JPG" alt="" width="200" height="200" /></a></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" align="center" bgcolor="#4e5360"><br /><h2 class="LH26 x-bold" style="margin: 0px; padding: 0px; line-height: 26px; color: #333333; background-color: #f0f0f0;"><span style="font-size: 8pt;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=362&l=-https--paytm.com/shop/search/g/men/footwear--Q-q--E-foostep-"><span style="color: #c0c0c0;">Step Mark Brown Synthetic Leather Casual Shoes (Size-10)</span></a></span></h2></td>
+</tr>
+</table>
+</td>
+<td style="font-family: arial, sans-serif; margin: 0px;" width="178" valign="top"><table style="border: 2px solid #4e5360;" cellspacing="0" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px; line-height: 0; font-size: 0px;" align="center" bgcolor="#cccccc"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=363&l=-http--www.flipkart.com/search--Q-q--E-step--PL-mark--PL-shoe--A-as--E-off--A-as-show--E-off--A-otracker--E-start"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/48-home_default.jpg" alt="" width="200" height="200" /></a></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" align="center" bgcolor="#4e5360"><br /><h1 class="title" style="margin: 0px 10px 0px 0px; padding: 0px; border: 0px; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-stretch: inherit; line-height: 25px; vertical-align: baseline; color: #333333;"><span style="font-size: 8pt;"><span style="color: #c0c0c0;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=363&l=-http--www.flipkart.com/search--Q-q--E-step--PL-mark--PL-shoe--A-as--E-off--A-as-show--E-off--A-otracker--E-start"><span style="color: #c0c0c0;">Step Mark SMK Corporate Casuals</span></a></span></span></h1></td>
+</tr>
+</table>
+</td>
+<td style="font-family: arial, sans-serif; margin: 0px;" width="178" valign="top"><table style="border: 2px solid #4e5360;" cellspacing="0" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px; line-height: 0; font-size: 0px;" align="center" bgcolor="#cccccc"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=364&l=-http--www.shopclues.com/index.php--Q-dispatch--E-products.search--A-company_id--E-125349--A-search_performed--E-Y"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/64-home_default.jpg" alt="" width="200" height="200" /></a></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" align="center" bgcolor="#4e5360"><br /><h1 style="margin: 0px; padding: 0px; font-stretch: normal; background-color: #f7f7f7;"><span style="font-size: 8pt;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=364&l=-http--www.shopclues.com/index.php--Q-dispatch--E-products.search--A-company_id--E-125349--A-search_performed--E-Y"><span style="color: #999999;">Step Mark+FCS+3304+Casual+Shoe+(Tan)</span></a></span></h1></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" valign="top" bgcolor="#ffffff"><table style="width: 620px;" border="0" cellspacing="0" cellpadding="10"><tr bgcolor="#4e5360"><td style="font-family: arial, sans-serif; margin: 0px;" width="178" valign="top"><table style="border: 2px solid #4e5360;" cellspacing="0" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px; line-height: 0; font-size: 0px;" align="center" bgcolor="#cccccc"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=362&l=-https--paytm.com/shop/search/g/men/footwear--Q-q--E-foostep-"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/2_5.jpg" alt="" width="200" height="200" /></a></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" align="center" bgcolor="#4e5360"><br /><h1 class="title" style="margin: 0px 10px 0px 0px; padding: 0px; border: 0px; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-size: 25px; font-stretch: inherit; line-height: 25px; vertical-align: baseline;"><span style="color: #c0c0c0;"><span style="font-size: 10pt;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=362&l=-https--paytm.com/shop/search/g/men/footwear--Q-q--E-foostep-"><span style="color: #c0c0c0;">Step Mark SMK Casual Shoes</span></a></span></span></h1></td>
+</tr>
+</table>
+</td>
+<td style="font-family: arial, sans-serif; margin: 0px;" width="178" valign="top"><table style="border: 2px solid #4e5360;" cellspacing="0" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px; line-height: 0; font-size: 0px;" align="center" bgcolor="#cccccc"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=363&l=-http--www.flipkart.com/search--Q-q--E-step--PL-mark--PL-shoe--A-as--E-off--A-as-show--E-off--A-otracker--E-start"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/2.jpg" alt="" width="200" height="200" /></a></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" align="center" bgcolor="#4e5360"><br /><h2 class="LH26 x-bold" style="margin: 0px; padding: 0px; line-height: 26px; color: #333333; background-color: #f0f0f0;"><span style="font-size: 8pt;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=363&l=-http--www.flipkart.com/search--Q-q--E-step--PL-mark--PL-shoe--A-as--E-off--A-as-show--E-off--A-otracker--E-start"><span style="color: #999999;">Step Mark White Men Casual Shoes (Size-7)</span></a></span></h2></td>
+</tr>
+</table>
+</td>
+<td style="font-family: arial, sans-serif; margin: 0px;" width="178" valign="top"><table style="border: 2px solid #4e5360;" cellspacing="0" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px; line-height: 0; font-size: 0px;" align="center" bgcolor="#cccccc"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=365&l=-http--www.shopclues.com/index.php--Q-dispatch--E-products.search--A-company_id--E-125349--A-search_performed--E-Y%20%20"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/2_1.JPG" alt="" width="200" height="200" /></a></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" align="center" bgcolor="#4e5360"><br /><h1 style="margin: 0px; padding: 0px; font-stretch: normal; font-size: 19.0739994049072px; font-family: Arial, Helvetica, sans-serif; background-color: #f7f7f7;"><span style="font-size: 8pt;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=365&l=-http--www.shopclues.com/index.php--Q-dispatch--E-products.search--A-company_id--E-125349--A-search_performed--E-Y%20%20"><span style="color: #c0c0c0;">Mark+FFS+2006+Casual+Shoe+(Tan)</span></a></span></h1></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px; line-height: 0; font-size: 0px;" height="10" bgcolor="#ffffff"><img class="CToWUd" src="https://mail.google.com/mail/u/0/?ui=2&ik=fe85311b53&view=fimg&th=14cef24d47f541f5&attid=0.3&disp=emb&realattid=5201ce37bc13d4c1_0.8&attbid=ANGjdJ9WPXHRs1OaZYW82cb8NJpf9zVQ0nm7bH3cyl5f4_HqcoyYStqxE8bPY1uuC04l2kw-37nY2kA70ifCilS2ykhnnVCj4kkamGJ_Z9ZqT1Yrje4a9wqSEhQtD7Y&sz=w1200&ats=1430024300508&rm=14cef24d47f541f5&zw&atsh=1" alt="" width="600" /></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" height="40" bgcolor="#ffffff"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img src="http://denebandpollux.in/client/images/stepmark/4-category_default.jpg" alt="" width="670" height="167" /></a></td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" valign="top" bgcolor="#ffffff"><table style="width: 685px;" border="0" cellspacing="0" cellpadding="0"><tr bgcolor="#ffffff"><td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" width="300" valign="top"><p style="margin: 5px 0px 0px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #323848; font-size: 18px; font-weight: bold;">Service or Promo</p>
+<p style="line-height: 16px; margin-top: 5px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; margin-bottom: 15px; color: #323848; font-size: 12px;"><span style="color: #777777; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 18px;">The company has recorded an inspiring growth through its enthusiastic and highly motivated marketing team and now it has an efficient distribution network covering the whole of India with its Online System. For future growth the company is now all set to explore overseas market. The company follows the concept of concentrating, accumulating....</span></p>
+<span style="border: 5px solid #476396; margin-top: 20px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; margin-bottom: 10px; color: #ffffff; font-size: 14px; background-color: #476396;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><span style="color: #999999;">More Details</span></a></span></td>
+<td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" width="300" valign="top"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/684c2760e3001a6a4c9bb4e25d94f8fe8aba8e1a_cat22.jpg" alt="" width="381" height="219" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px;" valign="top" bgcolor="#ffffff"><table style="width: 680px;" border="0" cellspacing="0" cellpadding="0"><tr bgcolor="#ffffff"><td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" width="300" valign="top"><p><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=362&l=-https--paytm.com/shop/search/g/men/footwear--Q-q--E-foostep-"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/bb.jpg" alt="" width="200" height="194" /></a></p>
+<p> </p>
+<p> </p>
+</td>
+<td style="font-family: arial, sans-serif; margin: 0px; padding: 10px;" width="300" valign="top"><div class="black-text F16" style="margin: 0px; padding: 0px; font-size: 16px; color: #333333; font-family: 'Open Sans', sans-serif; line-height: 20px; background-color: #f0f0f0;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img src="http://denebandpollux.in/client/images/stepmark/da5b754c86aa0eed7ac56cd335228806980f249b_cat1.jpg" alt="" width="383" height="267" /></a></div>
+<span style="border: 5px solid #476396; margin-top: 20px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; margin-bottom: 10px; color: #ffffff; font-size: 14px; background-color: #476396;"> </span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td style="font-family: arial, sans-serif; margin: 0px; padding-bottom: 20px; color: #ffffdf;" valign="top" bgcolor="#4e5360"><table style="width: 100%;" border="0" cellspacing="0" cellpadding="10"><tr bgcolor="#4e5360"><td style="font-family: arial, sans-serif; margin: 5px;" width="200" valign="top"><p style="margin: 0px 0px 10px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #ffffff; font-size: 20px;">Follow us</p>
+<table border="0" cellspacing="6" cellpadding="0"><tr><td style="font-family: arial, sans-serif; margin: 0px;" width="35" align="left"><span style="color: #1155cc;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/download.jpg" alt="" width="32" height="32" /></a></span></td>
+<td style="font-family: arial, sans-serif; margin: 0px;" width="35" align="left"><span style="color: #1155cc;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/download.png" alt="" width="30" height="30" /></a></span></td>
+<td style="font-family: arial, sans-serif; margin: 0px;" width="35" align="left"><span style="color: #1155cc;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><img style="margin-left: 0px; margin-right: 0px;" src="http://denebandpollux.in/client/images/stepmark/download_1.jpg" alt="" width="30" height="30" /></a></span></td>
+</tr>
+</table>
+</td>
+<td style="font-family: arial, sans-serif; margin: 5px;" width="200" valign="top"><p style="margin: 0px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #ffffff; font-size: 20px;">About us</p>
+<p style="line-height: 16px; margin-top: 10px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #cccccc; font-size: 12px;"><span style="font-family: Arial, Helvetica, sans-serif; color: #777777;"><span style="font-size: 13px; line-height: 18px;"><span style="color: #777777; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 18px;">Step Mark is a leading manufacturer and exporter of Genuine Leather Formal Shoes , Casual Shoes, Leather Jacket Wallet and  Leather Belt</span></span></span></p>
+</td>
+<td style="font-family: arial, sans-serif; margin: 5px;" width="200" valign="top"><p style="margin: 0px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #ffffff; font-size: 20px;"><span style="color: #777777; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 18px;"><strong><span style="color: #ffffff;">Our online partners</span></strong></span></p>
+<p style="margin: 10px 0px 0px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #cccccc; font-size: 12px;"><span style="color: #777777; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 18px;"><span style="font-family: Arial, Helvetica, sans-serif;">Our online partners are </span><span style="color: #c0c0c0;"><span style="color: #c0c0c0;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=367&l=-http--www.flipkart.com/search--Q-q--E-step--PL-mark--PL-shoe--A-as--E-off--A-as-show--E-off--A-otracker--E-start%20%20"><span style="color: #c0c0c0;">www.flipkart.com</span></a></span></span></span></p>
+<p style="margin: 10px 0px 0px; font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color: #cccccc; font-size: 12px;"><span style="color: #777777; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 18px;"><span style="color: #c0c0c0;"><span style="color: #c0c0c0;"><span style="color: #c0c0c0;"><span style="color: #777777; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 18px;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=362&l=-https--paytm.com/shop/search/g/men/footwear--Q-q--E-foostep-"><span style="color: #c0c0c0;">www.paytm.com</span></a><span style="font-family: Arial, Helvetica, sans-serif;"> , </span><span style="color: #c0c0c0;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=368&l=-http--www.snapdeal.com/brand/stepmark"><span style="color: #999999;">www.snapdeal.com</span></a>
+</span><span style="font-family: Arial, Helvetica, sans-serif;">, </span><span style="color: #c0c0c0;"><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=364&l=-http--www.shopclues.com/index.php--Q-dispatch--E-products.search--A-company_id--E-125349--A-search_performed--E-Y"><span style="color: #808080;">www.shopclue.com</span></a> </span><a href="http://denebandpollux.in/client/lt.php?c=76&m=21&nl=51&s=199fda85a9797cb6e181d216d4076bb0&lid=361&l=-http--stepmark.co.in/index.php"><span style="color: #999999;">and many others</span><span style="font-family: Arial, Helvetica, sans-serif;">.</span></a></span></span></span></span></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td style="font-family: Arial, Helvetica, sans-serif; margin: 0px; padding: 8px; color: #323848; font-size: 11px;" align="center" valign="top" bgcolor="#d6d7db">You have received this email because you have subscribed to as <a style="color: #1155cc; font-family: Calibri, sans-serif; font-size: 14.6666669845581px;" href="mailto:info@stepmark.co.in" target="_blank"><span style="font-size: 10pt; font-family: Arial, sans-serif; color: #17365d;">info@stepmark.co.in</span></a><br />If you have no more interest in receiving this, please unsubscribe.<br /><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+<div><a href="http://denebandpollux.in/client/box.php?nl=51&c=76&m=21&s=199fda85a9797cb6e181d216d4076bb0&funcml=unsub2">Click here</a> to unsubscribe from future mailings.</div>
+<img src="http://denebandpollux.in/client/lt.php?nl=51&c=76&m=21&s=199fda85a9797cb6e181d216d4076bb0&l=open" border="0" /></body>
+</html>
+--_=_swift-721356752555e06df016af2.91933373_=_--
+

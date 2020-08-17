@@ -1,0 +1,1327 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201411 will be lost/reset.
+# Last config file used to build this data file was /home3/seeinind/tmp/awstats/awstats.seeinindia.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2009                
+POS_TIME 2690                
+POS_VISITOR 25668               
+POS_DAY 45916               
+POS_DOMAIN 3702                
+POS_LOGIN 4488                
+POS_ROBOT 4643                
+POS_WORMS 5204                
+POS_EMAILSENDER 5335                
+POS_EMAILRECEIVER 5478                
+POS_SESSION 46589               
+POS_SIDER 46802               
+POS_FILETYPES 5613                
+POS_DOWNLOADS 5911                
+POS_OS 5984                
+POS_BROWSER 6190                
+POS_SCREENSIZE 7762                
+POS_UNKNOWNREFERER 7836                
+POS_UNKNOWNREFERERBROWSER 10759               
+POS_ORIGIN 12528               
+POS_SEREFERRALS 12678               
+POS_PAGEREFS 12845               
+POS_SEARCHWORDS 14697               
+POS_KEYWORDS 15109               
+POS_MISC 2352                
+POS_ERRORS 15412               
+POS_CLUSTER 4344                
+POS_SIDER_404 15605               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141201001029 93 22769 17800302387494
+FirstTime 20141111131706
+LastTime 20141130210907
+LastUpdate 20141201180346 93 0 92 0 0
+TotalVisits 894                 
+TotalUnique 398                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 543                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 320 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 72 614 22017103 377 580 5027531
+1 56 576 31484299 307 470 3602130
+2 28 62 1317392 286 415 4128735
+3 26 72 2874634 189 337 6129722
+4 6 8 121054 214 255 5508676
+5 0 2 53678 281 328 1928656
+6 12 84 3367927 221 242 1425828
+7 22 241 14119887 234 261 1667875
+8 43 190 6605828 379 491 4452887
+9 714 3387 181469684 420 1039 17462528
+10 1401 5737 249956416 567 3366 41559662
+11 1683 7329 308411804 888 4149 66546403
+12 1277 6625 220693489 817 2780 32775302
+13 702 3398 122517750 701 1984 23072964
+14 634 4718 170302150 615 2012 22654727
+15 1962 6372 254129432 490 2064 24962102
+16 1323 5780 156655096 642 3256 36328212
+17 2272 7355 209174928 941 6041 72533169
+18 2320 7020 269222681 936 5146 59936002
+19 728 3406 80338810 306 2077 23384492
+20 438 3623 144842662 672 1580 17809820
+21 219 1954 99550253 331 1012 18174329
+22 117 528 22789394 272 629 17111956
+23 102 504 37642791 422 784 6763049
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 37
+in 11469 36551 1243352029
+jp 2603 13501 333295829
+gb 1371 1375 27064193
+us 517 16909 941649729
+pk 78 80 644832
+fr 16 75 3419350
+np 15 243 18222889
+nl 11 62 1829399
+se 11 26 216924
+ca 9 251 12557333
+pl 9 9 108952
+ph 6 177 7528964
+au 6 72 4749649
+de 6 6 204617
+eu 4 5 177007
+hk 4 65 5723047
+ie 4 8 1117664
+hu 4 64 3233509
+tw 2 2 36591
+ru 2 2 73182
+it 2 2 146833
+fi 2 2 122203
+kr 1 60 3018055
+no 1 1 36591
+ro 1 1 36591
+my 0 10 268390
+sg 0 7 191677
+id 1 2 63430
+co 1 1 7603
+th 0 8 214712
+cz 0 1 26839
+gr 0 1 178464
+pa 0 2 57482
+ch 0 1 26839
+at 1 1 262
+zz 0 1 26839
+ar 0 1 30643
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 8861 85202330 20141130234554 29
+bot[\s_+:,\.\;\/\\-] 254 7420669 20141130230356 49
+msnbot\-media 109 9003204 20141124034050 44
+no_user_agent 92 2541902 20141130201204 2
+slurp 46 498914 20141129125842 8
+unknown 23 74332 20141130174002 23
+spider 13 207887 20141130225003 1
+ia_archiver 9 168775 20141129124523 3
+msnbot 8 14124 20141130004450 4
+crawl 4 28578 20141121205044 0
+[\s_+:,\.\;\/\\-]bot 2 12428 20141117230329 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 5548 41046755 0 0
+eot 1 2706 0 0
+png 17717 29456536 0 0
+php 15115 233436698 0 0
+html 1008 22194553 0 0
+jpg 19340 2158303967 0 0
+xml 13 124684 0 0
+js 9980 122557787 0 0
+jpeg 4 1044971 0 0
+Unknown 20 176436 0 0
+gif 839 1314049 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 159 0 509411
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 14
+linuxandroid 5017
+winxp 3052
+winlong 89
+winnt 6
+win2000 5
+java 52
+linuxubuntu 3
+winvista 1441
+linux 7815
+win7 41886
+macosx 8109
+winunknown 94
+win2003 11
+Unknown 2005
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 88
+msie6.0 130
+safari7.0.3 3
+firefox28.0 16
+chrome38.0.2125.19 46
+chrome34.0.1847.137 19
+firefox26.0 1
+safari4.0.5 44
+firefox4.0 5
+chrome38.0.2125.111 10246
+firefox34.0 477
+chrome31.0.1650.63 382
+ecatch 2
+safari5.0.2 1
+firefox2.0.0.13 9
+msie8.0 1726
+chrome28.0.1500.72 5
+chrome32.0.1700.99 2
+chrome25.0.1364.160 1
+chrome39.0.2171.65 3120
+safari10.2.1.3442 58
+msie7.0 33
+chrome37.0.2062.120 133
+chrome27.0.1453 7594
+chrome39.0.2159.4 45
+chrome29.0.1547.66 1
+w3c_validator 4
+chrome39.0.2171.71 1400
+chrome39.0.2171.62 205
+chrome37.0.2049.0 4
+chrome28.0.1500.63 1
+chrome34.0.1847.131 30
+firefox21.0 6
+lg\- 96
+firefox29.0 838
+safari6.0 7146
+safari2.0.4 114
+firefox7.0.1 15
+firefox12.0 9774
+chrome35.0.1916.114 2
+firefox33.0 16785
+chrome36.0.1985.143 6
+jigsaw 6
+mozilla 1773
+chrome26.0.1410.64 1
+netscape5.0 121
+firefox14.0.1 19
+safari5.1.9 1
+firefox8.0.1 1
+safari 127
+firefox15.0.1 59
+safari7.0 113
+chrome37.0.2062.124 1
+firefox20.0 1
+microsoft\-webdav\-miniredir 1
+chrome38.0.2125.104 128
+android 357
+firefox24.0 96
+opera9.80 41
+firefox31.0 134
+iphone 2
+chrome33.0.0.0 4
+chrome38.0.2125.122 123
+safari8.0 239
+chrome33.0.1750.146 58
+msie9.0 76
+chrome28.0.1500.52 2
+Unknown 479
+firefox27.0 4
+firefox11.0 41
+chrome30.0.0.0 62
+firefox32.0 313
+chrome18.0.1025.166 4318
+libwww 2
+samsung 45
+chrome27.0.1453.110 2
+chrome28.0.1500.71 10
+chrome20.0.1132.57 1
+chrome39.0.2171.59 134
+chrome13.0.782.215 5
+nokia 35
+chrome35.0.1916.153 5
+firefox22.0 4
+msie10.0 42
+safari5.1 2
+firefox6.0 61
+safari6.0.3 1
+chrome27.0.1453.116 5
+firefox3.6.8 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 41
+Mozilla/5.0_(en-us)_AppleWebKit/537.36_(KHTML,_like_Gecko;_Google_PP_Default)_Chrome/27.0.1453_Safari/537.36 20141123111955
+InAGist_URL_Resolver_(http://inagist.com) 20141121204453
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.2.2;_en-US;_GT-I9082)_U2/1.0.0_UCBrowser/9.4.0.460_U2/1.0.0_Mobile 20141117172240
+WordPress/4.1-beta1-30359;_http://seeinindia.wordpress.com 20141130120417
+Mozilla/5.0_() 20141121204657
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20141118142623
+SEOstats_2.1.0__________https://github.com/eyecatchup/SEOstats 20141116151457
+PHP/5.3.29 20141120165036
+YOURLS_v1.5__http://yourls.org/_(running_on_http://s.do-dance.com) 20141120165026
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.2.2;_en-US;_GT-S7582)_U2/1.0.0_UCBrowser/9.3.0.440_U2/1.0.0_Mobile 20141118153732
+DavClnt 20141113114822
+WordPress/4.1-alpha-30111;_http://seeinindia.wordpress.com 20141123154403
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20141111201200
+Mozilla/5.0_TYPO3-linkvalidator 20141123110225
+[FBAN/PAAA;FBAV/12.0;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FB_FW/2;FBSN/Android;FBCR/40490;FBMF/Karbonn;FBBD/qcom;FBDV/Titanium_S1;FBSV/4.1.2;] 20141119181736
+W3C_Validator/1.3 20141123110226
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141126105415
+YOURLS_v1.6__http://yourls.org/_(running_on_http://fateria.com) 20141120165028
+W3C_Validator/1.3_http://validator.w3.org/services 20141128155016
+MetaURI_API/2.0__metauri.com 20141121204454
+Mozilla/5.0_(compatible;_XML_Sitemaps_Generator;_https://www.xml-sitemaps.com)_Gecko_XML-Sitemaps/1.0 20141117092523
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.2.1.3442_Mobile_Safari/537.35_ 20141125165536
+visionutils/0.2 20141121204408
+\ 20141121125519
+Python-urllib/2.7 20141120163753
+Jigsaw/2.3.0_W3C_CSS_Validator_JFouffa/2.0_(See_<http://validator.w3.org/services>) 20141116150929
+lwp-request/6.03_libwww-perl/6.06 20141120164323
+LongURL_API 20141120164412
+HTTP_Request2/2.2.1_(http://pear.php.net/package/http_request2)_PHP/5.5.19 20141121205839
+Monlien.Org_(http://monlien.org)_) 20141120164325
+YOURLS_v1.6__http://yourls.org/_(running_on_http://djaw.ir) 20141120164125
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20141130084202
+Jakarta_Commons-HttpClient/3.1-rc1 20141118133838
+kraken/0.6.0 20141121205559
+Mozilla/5.0_(compatible;_Embedly/0.2;_snap;__http://support.embed.ly/) 20141130084211
+YOURLS_v1.5__http://yourls.org/_(running_on_http://arseh.at) 20141120164401
+Mozilla/5.0_(Android;_Tablet;_rv:20.0)_Gecko/20.0_Firefox/20.0 20141119032451
+PHP 20141120165041
+YOURLS_v1.7__http://yourls.org/_(running_on_http://www.toys54.ru) 20141120163857
+Mozilla/5.0_(compatible)_Feedfetcher-Google;(_http://www.google.com/feedfetcher.html) 20141122095226
+Mozilla/5.0_(Android;_Mobile;_rv:31.0)_Gecko/31.0_Firefox/31.0 20141126143726
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 30
+visionutils/0.2 20141121204408
+\ 20141121125519
+Java/1.7.0_04 20141121205002
+Python-urllib/2.7 20141120163753
+InAGist_URL_Resolver_(http://inagist.com) 20141121204453
+LongURL_API 20141120164412
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.2.2;_en-US;_GT-I9082)_U2/1.0.0_UCBrowser/9.4.0.460_U2/1.0.0_Mobile 20141117172240
+WordPress/4.1-beta1-30359;_http://seeinindia.wordpress.com 20141130120417
+Microsoft_Office_Mobile/15.0 20141128132258
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20141118142623
+HTTP_Request2/2.2.1_(http://pear.php.net/package/http_request2)_PHP/5.5.19 20141121205839
+YOURLS_v1.6__http://yourls.org/_(running_on_http://djaw.ir) 20141120164125
+PHP/5.3.29 20141120165036
+Monlien.Org_(http://monlien.org)_) 20141120164325
+YOURLS_v1.5__http://yourls.org/_(running_on_http://s.do-dance.com) 20141120165026
+Java/1.7.0_09 20141121235345
+Apache-HttpClient/4.3.5_(java_1.5) 20141128170023
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.2.2;_en-US;_GT-S7582)_U2/1.0.0_UCBrowser/9.3.0.440_U2/1.0.0_Mobile 20141118153732
+DavClnt 20141113114822
+kraken/0.6.0 20141121205559
+Jakarta_Commons-HttpClient/3.1-rc1 20141118133838
+WordPress/4.1-alpha-30111;_http://seeinindia.wordpress.com 20141123154403
+python-requests/2.4.3_CPython/2.7.7_Windows/2008ServerR2 20141127111845
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20141126105415
+YOURLS_v1.5__http://yourls.org/_(running_on_http://arseh.at) 20141120164401
+Google-HTTP-Java-Client/1.17.0-rc_(gzip) 20141130120415
+YOURLS_v1.6__http://yourls.org/_(running_on_http://fateria.com) 20141120165028
+PHP 20141120165041
+YOURLS_v1.7__http://yourls.org/_(running_on_http://www.toys54.ru) 20141120163857
+MetaURI_API/2.0__metauri.com 20141121204454
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3458 4731
+From1 4 119
+From2 42 91
+From3 70 70
+From4 12583 64574
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+toile 1 1
+google 41 90
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 56
+http://www.innovins.com/portfolio_cms.php 5 5
+http://m.unl.edu 2 2
+http://www.feedrollpro.com 2 2
+http://grippinglyauthentic.com 2 2
+http://m.facebook.com/l.php 2 2
+http://www.medinfo.sk 2 2
+http://www.enjoyaurora.com 2 2
+http://www.meblowy.info 2 2
+http://3w.md 2 2
+http://azbuz.healthyhuman.net 2 2
+http://soft.2uha.net 2 2
+http://onip.it 1 1
+http://enhat.ch 1 1
+http://mobile.sfoglialanotizia.net 1 1
+http://valv.im 1 1
+http://home.anpopo.com 1 1
+https://www.facebook.com 1 1
+http://iwebchk.com/reports/view/seeinindia.com 1 1
+http://api.twitter.com/1/statuses/show/534364692593278977.json 1 1
+http://s.haza.fr 1 1
+http://api.twitter.com/1/statuses/show/535813603094704129.json 1 1
+http://ppir.at 1 1
+http://hgld.ru 1 1
+http://view-free.info 1 1
+http://l.facebook.com/l.php 1 1
+http://cmyad.co 1 1
+http://gg.gg 1 1
+http://corta.co 1 1
+http://sportage3.ru 1 1
+http://www.maxonu.com 1 1
+http://ujeb.pl 1 1
+http://www.gazelleclub.ru 1 1
+http://longurl.org 1 1
+http://www.toys54.ru 1 1
+http://wi.id.au 1 1
+http://api.twitter.com/1/statuses/show/534199220907962368.json 1 1
+http://wtc.la 1 1
+http://api.twitter.com/1/statuses/show/535052318367313920.json 1 1
+http://yourls.endinahosting.com 1 1
+http://www.baronsofbullshit.com 1 1
+http://seeinindia.wordpress.com/2014/10/26/say-no-to-expensive-holiday-packages-to-india/ 1 1
+http://t.co/jZ1QQYFibd 1 1
+http://farmer.wego.com 1 1
+http://www.bingsandbox.com/webmaster/diagnostics/seo/Sandbox 1 1
+http://miu.tw 1 1
+http://www.zelist.ro 1 1
+http://kurl.at 1 1
+http://www.margrop.com 1 1
+http://go.farmville2.net 1 1
+http://va.mu 1 1
+http://arseh.at 1 1
+http://tvc.in 1 1
+http://shdh.biz 1 1
+http://t.co/Bmj6p4GbQz 1 1
+http://img.e1.ru 1 1
+http://brofi.st 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 7
+seeinindia 2
+http+//seeinindia.com/tour-info.php?id%3d70 2
+http+//www.seeinindia.com/tour-info.php?id%3d174 1
+sea+walking 1
+http+%2f%2fwww.seeinindia.com%2fadmin%2fredemption.php 1
+http+//seeinindia.com/tour-info.php?id%3d390 1
+http+%2f%2fwww.seeinindia.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 9
+http 6
+//seeinindia.com/tour-info.php?id%3d70 2
+seeinindia 2
+//www.seeinindia.com/tour-info.php?id%3d174 1
+//seeinindia.com/tour-info.php?id%3d390 1
+walking 1
+sea 1
+%2f%2fwww.seeinindia.com 1
+%2f%2fwww.seeinindia.com%2fadmin%2fredemption.php 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 8 136832
+206 466 52815953
+406 2 399
+302 3064 26035399
+405 6 70872
+500 137 1464773
+404 27857 328952388
+301 17 4967
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 139
+/admin/images/cityplace/1394224730_sp1.jpg 4 http://seeinindia.com/index.php
+/apple-touch-icon-57x57.png 1 -
+/admin/images/cityplace/1402589356_walking%20tour%20in%20jaipur%203.jpg 16 http://seeinindia.com/index.php
+/admin/display_ordercity.php 5 http://seeinindia.com/admin/city-tours.php
+/admin/js1/plugins.js 5 http://seeinindia.com/admin/introductions.php
+/images/ie6/borderMiddleRight.png 1 http://www.seeinindia.com/car_rental.php
+/admin/images/cityplace/1399286349_atv%20ride%20in%20mumbai%20pune%20delhi%20chennai%203.jpg 1 http://seeinindia.com/search1.php
+/admin/cgi-sys/images/404bottom.gif 2 http://seeinindia.com/admin/manage-tour.php
+/staging/php/seeinindia/search1.php 1 -
+/images/loading.gif 48 http://www.seeinindia.com/css/colorbox.css
+/admin/images/cityplace/1403545108_slum%20tours%20in%20mumbai%2016.JPG 1 http://seeinindia.com/search1.php
+/admin/images/main_image/1413174248_medium.jpg 7 http://www.seeinindia.com/admin/main_banner.php
+/images/ie6/borderBottomCenter.png 1 http://www.seeinindia.com/car_rental.php
+/404.shtml 1 http://www.seeinindia.com/
+/manager/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/jscripts/general.js 332 -
+/js/lib/fckeditor/editor/dialog/fck_about.html 1 -
+/mycoupan.php 2 -
+/admin/images/cityplace/1395434771_js13.jpg 1 http://seeinindia.com/search1.php
+/img/icons/right-arrow.png 72 http://seeinindia.com/css/flexslider.css
+/test/custom-error-page-test 1 -
+/admin/images/cityplace/1391628351_rsw4.jpg 18 http://www.seeinindia.com/
+/admin/images/cityplace/1390856519_bnjp1.jpg 16 http://seeinindia.com/index.php
+/admin/images/cityplace/1402504495_fly%20over%20mumbai%201.jpg 14 http://seeinindia.com/index.php
+/images/ie6/borderBottomRight.png 1 http://www.seeinindia.com/car_rental.php
+/admin/images/cityplace/1399286349_atv+ride+in+mumbai+pune+delhi+chennai+3.jpg 20 -
+/admin/images/cityplace/1399286349_atvrideinmumbaipunedelhichennai3.jpg 1 -
+/admin/jscripts/tiny_mce/plugins/lists/editor_plugin.js 363 -
+/admin/img/tables/arrow-asc.png 3315 http://seeinindia.com/admin/css1/tables.css
+/checksite/custom-error-page-test 2 -
+/admin/images/cityplace/1394092019_sw9.jpg 17 http://seeinindia.com/
+/admin/indexan.php 1 -
+/admin/js1/mylibs/jquery.dataTables.min.js 5 http://seeinindia.com/admin/introductions.php
+/application/fckeditor/editor/dialog/fck_about.html 1 -
+/scripts/ajax/fckeditor/editor/dialog/fck_about.html 1 -
+/staging/php/seeinindia/search.php 1 -
+/app/common/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/images/cityplace/1392760118_sst1.jpg 24 http://seeinindia.com/index.php
+/images/ie6/borderTopRight.png 1 http://www.seeinindia.com/car_rental.php
+/app/webroot/js/fckeditor/editor/dialog/fck_about.html 1 -
+/One%20Day%20Tours 4 -
+/admin/cgi-sys/images/404top_w.jpg 2 http://seeinindia.com/admin/manage-tour.php
+/LiveSearchSiteAuth.xml 1 -
+/admin/images/cityplace/1402743699_surfing%20in%20chennai%203.jpg 7 http://www.seeinindia.com/
+/admin/cgi-sys/js/simple-expand.min.js 2 http://seeinindia.com/admin/manage-tour.php
+/admin/cancellationplans.php 2 -
+/admin/js/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/images/dp/arun.choudhary_small.jpg 905 http://www.seeinindia.com/
+/admin/images/cityplace/1392760592_crt1.jpg 4 http://seeinindia.com/tour-info.php
+/admin/images/cityplace/1395438582_bb2.jpg 1 http://www.seeinindia.com/tour-info.php
+/BingSiteAuth.xml 1 -
+/news 2 -
+/images/main_image/_modal. 39 http://www.seeinindia.com/indexa.php
+/robots.xml 2 -
+/images/ie6/borderBottomLeft.png 1 http://www.seeinindia.com/car_rental.php
+/admin/img/tables/arrow-desc.png 6 http://seeinindia.com/admin/css1/tables.css
+/images/ie6/borderMiddleLeft.png 1 http://www.seeinindia.com/car_rental.php
+/admin/templates/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/images/cityplace/1391623612_bt4.jpg 4 http://seeinindia.com/index.php
+/admin/images/cityplace/1399308540_helicopter%20ride%20in%20mumbai.jpg 18 http://seeinindia.com/
+/ascreen.jpg 14 -
+/admin/images/submit.jpg 3 http://www.seeinindia.com/admin/create-a-sub-tour.php
+/tour-info.php%3fid%3d170%26tour%3dhelicopter-ride-in-mumbai 1 http://www.seeinindia.com
+/images/ie6/borderTopLeft.png 1 http://www.seeinindia.com/car_rental.php
+/admin/images/cityplace/1403541792_slum%20tours%20in%20mumbai%2017.jpg 1 http://seeinindia.com/search1.php
+/admin/css/style.css 8209 http://seeinindia.com/admin/newpages.php
+/admin/images/cityplace/1399405492_sailing%20in%20mumbai%20colaba%20gateway%20%201.JPG 1 http://seeinindia.com/search1.php
+/img/icons/left-arrow.png 52 http://seeinindia.com/css/flexslider.css
+/admin/js1/mylibs/jquery.validate.min.js 5 http://seeinindia.com/admin/introductions.php
+/admin/images/dp/_large. 2 -
+/admin/images/cityplace/1402743538_paddle-boarding%20chennai%202.jpg 14 http://seeinindia.com/index.php
+/admin/images/cityplace/1401196698_segaway%20tours%20in%20delhi%2011.jpg 16 http://seeinindia.com/index.php
+/js/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/images/cityplace/1395441104_jbi3.jpg 12 http://www.seeinindia.com/index.php
+/admin/img/tables/table-head-bg.png 3318 http://seeinindia.com/admin/css1/tables.css
+/admin/images/cityplace/1410455145_hot_air_ballooning_mumbai_pune_maharashtra.jpg 15 http://seeinindia.com/search1.php
+/robots.txt 10 -
+/lib/fckeditor/editor/dialog/fck_about.html 1 -
+/website/admin/introductions.php 1 -
+/admin/img/tables/arrow-both.png 3314 http://seeinindia.com/admin/css1/tables.css
+/admin/images/cityplace/1402227318_jodhpur%20city%20walk%203.jpg 14 http://seeinindia.com/index.php
+/data/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/index.php 2 -
+/admin/images/cityplace/1399979192_eco%20tourism%20sustainable%20tourism%203.jpg 17 http://seeinindia.com/
+/admin/images/cityplace/1402559262_walking%20tour%20in%20mumbai%20churchgate%205.jpg 12 http://www.seeinindia.com/index.php
+/admin/images/cityplace/1395438582_bb3.jpg 1 http://www.seeinindia.com/tour-info.php
+/admin/images/cityplace/1392760118_sst2.jpg 7 http://seeinindia.com/tour-info.php
+/admin/images/cityplace/1399035909_udaipur-city-tours9.jpg 12 http://www.seeinindia.com/index.php
+/admin/images/cityplace/1402340256_horse%20riding%20in%20udaipur%2015.jpg 13 http://seeinindia.com/index.php
+/admin/images/cityplace/1399294795_zip%20lining%20in%20neemrana%20%20jodhpur%20%20%20rishikesh%20mumbai%20pune%20%20india%20%20%205.jpg 17 http://seeinindia.com/
+/admin/images/cityplace/1402559392_walking%20tour%20in%20mumbai%20bandra%209.jpg 1 http://seeinindia.com/search1.php
+/admin/images/cityplace/1392228585_ge2.jpg 14 http://seeinindia.com/index.php
+/admin/images/cityplace/1399639691_camping%20in%20mumbai%20virar%204.jpg 12 http://www.seeinindia.com/index.php
+/images/loading_background.png 48 http://www.seeinindia.com/css/colorbox.css
+/admin/images/cityplace/1399292740_paragliding%20in%20pune%20kamshet%20mumbai%20virar%20sikkim%208.jpg 4 http://seeinindia.com/index.php
+/demo/seeinindia.com/website/index.php 1 -
+/admin/images/cityplace/1399305021_scuba%20diving%20in%20goa%20netrani%20%207.jpg 5 http://www.seeinindia.com/
+/admin/images/cityplace/1398863443_ed5.jpg 14 http://seeinindia.com/index.php
+/admin/images/cityplace/1396275492_kab1.jpg 1 http://seeinindia.com/search1.php
+/website/admin 1 -
+/admin/images/cityplace/1402078563_jaipur%20temple%204.jpg 12 http://www.seeinindia.com/index.php
+/images/controls.png 48 http://www.seeinindia.com/css/colorbox.css
+/apple-touch-icon.png 686 -
+/admin/css/content.css 67 http://seeinindia.com/admin/redemption.php
+/bingsiteauth.xml 1 -
+/%E2%80%A61402052553_cycling%20tours%20in%20jaipur%201.jpg 1 -
+/admin/images/cityplace/1395438582_bb1.jpg 17 http://www.seeinindia.com/index.php
+/admin/redemption.php 2 -
+/tour-info.php%3fid%3d306%26tour%3dbungee-jumping-in-rishikesh 1 http://www.seeinindia.com
+/admin/jscripts/tiny_mce/plugins/autolink/editor_plugin.js 326 http://seeinindia.com/admin/redemption.php
+/admin/cgi-sys/images/e.png 2 http://seeinindia.com/admin/manage-tour.php
+/js/html5shiv.js 4 http://seeinindia.com/tour-info.php
+/includes/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/js1/mylibs/jquery.visualize.js 5 http://seeinindia.com/admin/introductions.php
+/admin/fckeditor/editor/dialog/fck_about.html 1 -
+/404 1 -
+/images/ie6/borderTopCenter.png 1 http://www.seeinindia.com/car_rental.php
+/apple-touch-icon-precomposed.png 697 -
+/emailpro.php 3 http://www.seeinindia.com/contact.php
+/js/rs-plugin/font/revicons.eot 1 http://www.seeinindia.com/
+/admin/availability/images/main_image/1413174248_modal.jpg 431 http://seeinindia.com/admin/availability/index.php
+/plugins/fckeditor/editor/dialog/fck_about.html 1 -
+/library/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/images/cityplace/1402589356_walkingtourinjaipur3.jpg 1 -
+/admin/images/cityplace/1402589356_walking+tour+in+jaipur+3.jpg 10 -
+/admin/images/main_image/1413174248_modal.jpg 4255 http://seeinindia.com/admin/newpages.php
+/staging/php/seeinindia/index.php 1 -
+/admin/images/cityplace/1396958614_sk2.jpg 1 http://seeinindia.com/search1.php
+/sitemap_index.xml 4 -
+/admin/js1/libs/jquery-1.6.2.min.js 5 http://seeinindia.com/admin/introductions.php
+/admin/images/cityplace/1391693352_h5.jpg 4 http://seeinindia.com/index.php
+/app/js/fckeditor/editor/dialog/fck_about.html 1 -
+/admin/pricing/images/main_image/1413174248_modal.jpg 739 http://seeinindia.com/admin/pricing/index.php
+/http://www.innovins.co.in/demo/seeinindia.com/ 1 http://www.google.com/search
+/admin/images/cityplace/1389875372_ch5.jpg 17 http://seeinindia.com/index.php
+/admin/images/cityplace/1391625486_kab1.jpg 1 http://seeinindia.com/search1.php
+/admin/images/cityplace/1389875969_ch6.jpg 1 http://seeinindia.com/search1.php
+/admin/cgi-sys/images/404mid.gif 2 http://seeinindia.com/admin/manage-tour.php
+/admin/images/cityplace/1392760248_st2.jpg 5 http://seeinindia.com/tour-info.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 543
+103.19.133.98 2085 12025 293831534 20141129175652
+49.248.206.149 1846 3859 169659024 20141122210956
+103.8.150.240 1541 2375 46154355 20141120202337
+114.143.44.100 1503 3657 86529050 20141118032043
+49.248.198.249 1402 4699 38253989 20141115213224
+81.19.188.229 1213 1213 24030163 20141117092523
+49.248.87.189 1206 2370 52168801 20141118185251
+49.248.201.236 489 564 5595645 20141119184733
+114.143.75.169 438 484 6113686 20141126114858
+114.143.73.127 321 395 5393998 20141114123456
+114.143.43.57 251 308 4088948 20141119111937
+49.248.203.189 228 697 37959808 20141125180243
+66.249.82.106 191 11527 681524227 20141119184712
+114.143.46.253 163 393 52268538 20141113185552
+81.19.188.230 154 154 2837268 20141113153654
+49.248.83.138 145 1983 121805810 20141112200203
+106.77.108.236 144 252 6341621 20141119200419
+49.14.27.191 129 302 14151652 20141124210333
+49.14.235.215 122 193 2196311 20141120125652
+114.143.254.101 121 803 37412310 20141113122422
+49.248.84.30 87 1097 18208416 20141116191945
+114.143.47.149 79 1085 54351789 20141113165756
+223.196.220.119 76 193 5997910 20141130124807
+182.185.54.243 75 75 570225 20141120165050
+106.79.194.158 75 141 6991597 20141124214458
+1.187.135.139 20 20 307673 20141119212219
+115.113.126.74 2 59 3140220 20141125192914
+59.89.24.89 2 59 3140220 20141126141919
+59.183.52.149 2 52 3282999 20141124130514
+116.203.200.114 1 58 3132542 20141126185725
+114.143.75.88 18 89 423215 20141127181522
+46.19.21.106 1 1 36591 20141121025111
+85.17.184.42 1 1 0 20141128155021
+1.39.25.158 1 58 3132537 20141125114020
+54.90.119.36 1 1 10532 20141118142609
+49.14.207.146 8 31 383913 20141114213350
+14.98.250.25 1 53 1350365 20141123190950
+173.252.122.121 0 3 103106 
+150.70.173.37 3 3 236727 20141113112742
+86.101.168.2 2 62 3163033 20141125163548
+150.70.97.124 10 26 1193404 20141124180707
+150.70.173.10 8 23 613893 20141121182208
+223.196.193.128 4 4 24150 20141121102310
+81.155.217.158 0 1 26839 
+103.8.149.17 21 124 7072970 20141123154745
+64.233.173.143 0 2 53678 
+14.97.31.114 0 1 56968 
+180.255.248.38 0 1 26839 
+114.143.100.250 1 40 2222785 20141118160655
+104.209.34.120 1 1 7173 20141127111845
+72.14.199.65 7 8 750669 20141122095226
+148.251.189.80 1 1 7603 20141120163753
+173.252.81.118 0 6 1212087 
+150.70.173.45 8 30 842432 20141121170320
+115.113.121.126 16 168 8352516 20141127141100
+150.70.173.8 6 18 428596 20141122125510
+171.5.20.79 0 1 26839 
+173.252.105.112 0 2 260222 
+66.249.83.189 0 1 1102 
+131.253.24.36 1 15 133720 20141119174649
+170.89.13.1 0 1 26839 
+38.100.21.65 8 11 378596 20141117093219
+123.252.240.118 26 79 5984670 20141130092749
+114.143.44.178 31 112 384105 20141128164535
+150.70.97.113 12 31 677307 20141124174723
+173.255.202.150 2 2 54352 20141121204453
+173.252.113.115 0 4 218699 
+14.1.198.6 0 1 26839 
+27.34.92.192 2 86 5282568 20141125154005
+106.78.233.66 5 9 68115 20141123211938
+106.79.118.3 2 7 812618 20141114114104
+106.79.102.132 1 56 2292549 20141116004127
+203.106.158.163 0 1 26839 
+173.252.81.119 0 3 230126 
+114.108.158.23 1 58 2964377 20141120163917
+116.203.181.177 1 52 1656637 20141129114925
+150.70.173.52 11 38 1184442 20141124174507
+49.15.30.247 2 82 908833 20141115214238
+204.101.161.159 1 67 3280007 20141121235336
+208.79.92.226 1 1 36591 20141120164401
+72.14.199.67 1 1 7532 20141116102129
+106.66.16.188 2 2 15308 20141123093641
+60.199.247.250 2 2 36591 20141120164323
+150.70.97.125 13 31 970202 20141124180716
+150.70.173.7 9 29 679267 20141121182119
+66.249.80.227 0 80 3270773 
+66.249.88.202 4 77 5158532 20141125144143
+183.171.167.160 0 1 26839 
+54.215.241.145 1 1 7651 20141121194648
+117.208.70.51 2 64 2154126 20141129115125
+173.252.102.115 0 2 196120 
+173.252.113.119 0 3 1309858 
+12.27.8.130 0 1 26839 
+1.47.5.195 0 1 26839 
+69.30.241.2 6 6 33346 20141130041819
+120.59.39.142 1 52 1656637 20141129092915
+106.79.101.219 1 37 3535952 20141111225912
+91.121.92.177 2 2 77887 20141121185735
+153.120.3.195 1 1 7069 20141121205839
+150.70.173.44 7 27 615681 20141121182214
+5.9.79.104 1 1 7603 20141120163857
+54.172.100.40 1 56 3438972 20141123110224
+49.230.178.118 0 1 26839 
+202.171.59.62 0 1 26839 
+113.21.69.245 10 84 3875961 20141128155227
+150.70.173.48 9 28 806440 20141121172626
+173.252.102.119 0 2 719411 
+23.236.125.209 0 1 26839 
+106.79.204.189 70 70 1031702 20141120000345
+64.235.154.68 2 2 70476 20141119124534
+114.143.253.5 40 946 25998813 20141111223520
+54.196.191.150 1 1 7069 20141121205559
+66.249.82.66 34 1920 80476690 20141115205140
+64.233.173.136 0 9 3036342 
+95.28.185.51 1 1 36591 20141120175728
+114.143.41.189 2 63 52025 20141113123837
+173.252.122.117 0 1 105962 
+66.249.93.170 0 3 557465 
+117.226.84.121 0 2 57482 
+74.112.131.241 1 1 11248 20141117204930
+150.70.173.59 8 21 476326 20141129170035
+150.70.173.51 14 47 1127455 20141128163126
+150.70.173.53 8 29 505195 20141121114820
+122.216.2.10 0 1 26839 
+89.145.108.206 1 1 18617 20141119124649
+115.167.104.228 1 3 61755 20141125164514
+150.70.97.116 9 27 899858 20141121132004
+14.140.234.246 0 1 90177 
+167.114.65.116 1 1 27651 20141121204521
+117.203.227.78 1 58 3132537 20141125143222
+176.195.221.243 1 1 36591 20141120220144
+54.167.97.115 1 1 6865 20141119213243
+107.22.33.0 1 1 37780 20141123110229
+122.163.254.54 7 71 2192964 20141128100344
+1.39.0.196 2 5 877316 20141119221157
+54.198.96.122 1 15 134156 20141120164008
+23.239.23.47 2 2 0 20141119182727
+117.192.248.64 6 82 4154525 20141125132016
+114.143.173.240 42 226 5344600 20141130005424
+188.40.54.199 1 1 79208 20141113093720
+66.155.8.251 2 2 0 20141123154134
+106.66.6.114 1 1 207522 20141113134153
+120.62.188.60 3 65 5297247 20141126232705
+173.252.122.119 0 1 5838 
+173.252.105.118 0 1 263731 
+95.211.168.82 8 59 1670983 20141128155047
+150.70.97.119 11 22 601581 20141128164405
+49.14.9.222 1 1 7654 20141123204326
+49.248.199.70 7 93 1899618 20141127140907
+180.215.189.136 1 58 3132542 20141125223343
+66.249.88.200 0 100 5603633 
+150.70.173.50 15 50 1368225 20141122121204
+64.233.172.232 0 39 1274069 
+54.90.105.6 0 2 1385144 
+66.249.88.198 1 85 4879321 20141117094241
+106.77.237.60 2 2 15206 20141120231722
+216.163.188.230 1 1 31074 20141129105751
+106.77.80.24 1 1 1341 20141128231552
+72.14.199.55 1 1 7532 20141116102249
+89.234.68.100 4 4 149685 20141125093456
+81.7.10.131 2 2 73182 20141120164011
+150.70.97.122 9 20 510865 20141122125205
+115.113.224.226 1 59 2965275 20141119153612
+216.163.188.239 1 1 37720 20141125150756
+122.167.40.151 1 58 3132537 20141125123822
+106.78.200.195 1 1 7700 20141115161053
+128.30.52.103 1 6 202590 20141116150927
+106.51.35.18 2 63 3141067 20141128092033
+101.173.170.151 0 1 26839 
+69.164.201.127 2 2 114876 20141117204727
+49.248.84.19 10 131 10059094 20141112211853
+109.163.234.7 1 1 36591 20141120164536
+64.233.173.140 0 14 2681649 
+192.99.44.145 1 1 37780 20141123110456
+216.38.216.197 3 5 6354 20141111132137
+202.176.219.196 0 1 30643 
+49.248.85.143 2 19 8741 20141128164930
+199.30.25.9 0 38 3300674 
+66.249.80.181 4 256 13200808 20141129003500
+1.187.139.154 14 27 2692140 20141117094341
+64.235.151.199 4 4 140952 20141119124705
+103.247.28.254 37 326 17921743 20141129162732
+208.94.145.109 1 1 0 20141120164412
+64.235.154.194 2 2 70476 20141119124208
+81.161.59.17 2 2 70476 20141119124312
+66.249.83.188 0 2 698410 
+106.77.247.6 2 39 6756806 20141112150213
+117.194.5.23 0 1 30643 
+173.252.113.117 0 1 86198 
+106.79.222.31 0 2 13963 
+49.248.207.82 7 24 52111 20141128181552
+173.252.81.116 0 3 433799 
+69.58.178.57 11 11 327187 20141121073845
+49.14.82.236 19 88 2104154 20141127090552
+150.70.97.96 18 32 926037 20141124174918
+66.102.6.61 8 298 10700134 20141129003441
+65.55.215.255 1 15 134191 20141120013529
+114.143.253.242 3 110 9152711 20141124101927
+192.81.218.176 11 25 190085 20141123212104
+150.70.97.97 12 23 671438 20141129174604
+124.41.240.91 9 85 6792067 20141126100052
+106.79.85.146 1 1 7173 20141127162635
+54.173.81.83 1 15 134207 20141123110224
+1.187.53.253 8 79 2235922 20141113213036
+37.61.237.45 2 2 52172 20141120164615
+173.252.120.117 0 1 263731 
+106.79.171.29 10 45 3730699 20141116112330
+106.78.148.214 4 82 402903 20141114104020
+198.211.102.105 11 25 190078 20141122012906
+168.63.139.43 0 1 661774 
+173.252.102.117 0 4 436936 
+223.196.202.106 24 43 2831900 20141118220848
+64.233.173.144 0 8 933607 
+223.196.180.180 1 5 1569460 20141117010947
+5.39.93.201 1 1 7603 20141120165057
+198.27.82.13 1 1 26701 20141119182011
+74.125.63.33 2 57 2968104 20141117132116
+120.62.224.31 1 58 3132542 20141125214545
+62.168.35.178 0 1 26839 
+173.252.105.117 0 1 5838 
+95.247.213.98 1 1 74383 20141113011355
+79.107.253.216 0 1 178464 
+49.248.205.121 1 8 21701 20141126094307
+114.143.40.89 14 211 9165189 20141123121315
+106.79.195.89 2 9 23042 20141124232451
+192.99.10.170 1 1 84423 20141117204749
+199.30.16.184 0 1 32093 
+15.219.201.70 0 1 26839 
+1.39.23.235 0 2 63421 
+142.4.218.201 1 1 7654 20141123140942
+93.19.136.214 0 1 30643 
+54.241.198.78 6 6 0 20141130120415
+150.70.173.41 5 15 446741 20141121121110
+116.203.21.109 1 58 3132542 20141126194641
+54.176.104.7 2 2 0 20141118153914
+150.70.97.123 17 41 851274 20141124174531
+150.70.173.49 5 22 801047 20141117183627
+223.238.51.8 0 1 26839 
+223.227.109.178 1 44 2402496 20141126035517
+121.203.33.172 0 1 26839 
+106.79.211.27 2 2 15056 20141130134118
+198.199.86.202 11 25 189642 20141130164049
+49.248.86.227 1 18 4872 20141128165147
+1.39.27.64 1 1 7678 20141125175153
+113.210.0.57 0 1 26839 
+117.212.16.124 38 141 4979031 20141126110933
+173.252.122.122 0 1 30898 
+116.203.224.70 1 58 3442203 20141125100958
+117.218.40.217 1 53 3124654 20141125120417
+122.176.130.237 1 58 3132537 20141125141247
+173.252.113.118 0 4 389257 
+106.76.101.249 0 4 5542 
+176.27.134.178 0 1 26839 
+106.221.157.128 1 58 3132542 20141126211954
+108.175.158.82 1 1 36591 20141120165026
+223.196.142.209 3 35 1870316 20141118203753
+117.203.244.181 1 58 3442203 20141124183058
+150.70.173.14 9 27 891812 20141122125411
+122.162.149.255 33 128 7637305 20141125171714
+150.70.97.114 9 31 1037879 20141122125205
+66.249.84.195 2 2 14388 20141116101227
+207.67.29.250 0 2 57482 
+49.15.34.48 7 109 5760676 20141128190308
+173.252.81.117 0 5 331403 
+60.52.123.24 0 1 26839 
+150.70.97.99 10 23 765935 20141124174822
+54.166.179.189 1 1 6865 20141119213242
+119.74.218.93 0 1 26839 
+103.248.87.112 1 58 3132537 20141125155431
+223.196.160.226 1 1 262 20141111141708
+191.237.170.68 1 1 7603 20141121020430
+150.70.173.56 11 31 682429 20141121170429
+66.102.6.66 6 243 11589649 20141119182538
+69.164.111.198 1 1 36591 20141121015924
+106.77.76.153 2 2 8578 20141130210907
+64.233.173.147 0 2 63312 
+106.51.15.80 1 58 3132542 20141126063846
+117.222.116.179 3 3 23034 20141126174827
+66.249.80.232 2 77 4263831 20141123162445
+49.248.197.42 1 60 4667282 20141113182102
+203.89.132.14 22 124 6903855 20141126152048
+65.55.210.37 0 50 2946736 
+117.217.234.186 3 70 3637536 20141126150125
+192.241.138.229 11 25 208546 20141115060530
+66.249.88.155 0 21 1191133 
+173.252.102.112 0 2 141290 
+59.180.162.255 2 59 3139512 20141125113705
+79.49.25.240 1 1 72450 20141114160912
+131.107.0.115 0 1 119416 
+54.81.59.86 1 1 0 20141123110227
+54.197.168.201 1 1 6865 20141119184953
+31.13.102.122 0 1 692572 
+150.70.97.117 5 25 467685 20141124174914
+122.174.217.216 2 65 3453983 20141120153752
+173.252.105.116 0 1 294598 
+74.112.131.242 2 2 18317 20141121204552
+64.236.82.2 1 1 35342 20141118133838
+31.13.109.122 0 1 5838 
+150.70.173.9 13 26 334948 20141122125419
+223.196.192.77 3 20 462929 20141119134815
+106.66.58.33 2 5 86627 20141117160107
+195.154.106.50 1 1 36591 20141120164544
+122.161.125.102 2 70 5096561 20141124152337
+117.217.0.113 1 52 1656637 20141128200415
+27.56.138.177 9 77 4746913 20141127093324
+24.72.12.10 2 112 5922140 20141117073458
+70.39.186.135 6 265 9053010 20141118153730
+23.29.122.222 18 18 408187 20141121204454
+150.70.75.206 1 1 79193 20141111185207
+66.249.93.173 0 1 86198 
+150.70.97.120 9 32 621230 20141124174511
+106.77.75.40 1 52 850313 20141113115950
+202.71.153.107 13 132 7873067 20141127145535
+106.76.104.11 15 32 306204 20141120004149
+122.160.26.20 11 107 4044799 20141127161446
+150.70.173.46 8 31 1007039 20141121174128
+64.233.172.249 2 43 2149735 20141121205323
+54.176.137.163 1 1 0 20141121223648
+115.66.22.230 0 1 26839 
+173.252.81.114 0 4 610256 
+65.55.210.83 0 86 7355471 
+106.210.127.232 4 72 4958898 20141126143926
+173.252.122.120 0 4 360700 
+49.15.58.151 1 1 7700 20141115151445
+54.172.3.213 2 112 6877944 20141123110225
+122.175.21.177 0 1 18742 
+184.169.203.101 6 6 0 20141123154133
+122.177.87.123 3 63 5998182 20141125100716
+182.64.230.195 10 82 8170589 20141124180628
+115.118.145.93 1 52 1656637 20141129111520
+54.204.20.249 1 3 64785 20141130084202
+54.178.202.242 1 1 10532 20141118142623
+66.249.83.183 0 1 26839 
+150.70.173.40 9 37 1054096 20141121124307
+131.253.38.67 10 10 370188 20141130165531
+188.116.9.43 9 9 108952 20141123105813
+182.69.155.126 7 103 6891557 20141125105139
+66.249.88.153 0 19 876426 
+1.46.75.71 0 1 26839 
+106.78.146.199 6 52 160238 20141118202843
+150.70.97.98 15 33 952851 20141124174815
+202.162.25.178 0 1 26839 
+182.250.248.199 0 1 26839 
+66.249.84.194 4 63 5189882 20141128155004
+106.77.204.54 2 93 93016 20141113010003
+122.177.88.213 8 103 7736829 20141125074700
+66.249.93.176 0 4 886102 
+54.81.218.82 1 1 0 20141123110227
+66.249.80.186 5 250 11459025 20141127091133
+158.255.213.165 1 1 262 20141111153253
+192.0.83.64 3 3 7528 20141130120417
+125.17.164.241 0 2 57482 
+120.62.177.9 1 14 499898 20141125224146
+150.70.173.13 9 29 618264 20141129175607
+72.14.199.61 1 1 7532 20141117083743
+183.89.50.129 0 1 26839 
+74.112.131.243 3 3 27929 20141119182151
+42.107.175.147 1 18 228525 20141129125524
+182.185.85.196 2 2 12852 20141123043901
+173.252.102.113 0 3 1141027 
+138.91.173.46 1 56 2961070 20141116150846
+54.225.104.196 0 2 147135 
+106.67.181.123 10 82 3120173 20141124132545
+49.175.190.55 0 1 26839 
+91.234.22.48 1 1 37021 20141121125519
+120.59.105.88 3 61 2152088 20141128180923
+106.77.65.217 8 140 3684260 20141113132054
+91.121.68.71 2 60 2967875 20141120165219
+90.194.21.20 0 1 26839 
+182.64.187.169 13 94 5271533 20141125133952
+14.98.19.58 1 18 2101948 20141126220919
+65.55.213.48 1 15 134204 20141121173821
+173.252.122.123 0 3 179449 
+103.233.122.190 1 52 1656637 20141128215702
+91.121.56.203 4 4 146364 20141120165041
+66.249.84.182 1 41 2088164 20141118141843
+46.229.167.149 2 2 158416 20141113013657
+173.252.102.116 0 3 268649 
+106.51.34.85 0 18 13963 
+150.70.173.12 8 32 738431 20141121182119
+49.205.114.230 0 1 100914 
+54.221.198.105 0 2 112461 
+122.179.178.251 1 52 1656637 20141127144450
+166.137.242.56 0 1 26839 
+103.23.203.99 0 1 26839 
+106.51.12.197 0 2 13963 
+59.99.168.75 2 64 2154925 20141129112741
+150.70.173.47 14 35 785009 20141122130708
+150.70.97.121 10 30 963686 20141124174725
+66.87.98.0 0 1 26839 
+150.70.97.69 2 2 125664 20141113131145
+150.70.173.6 8 24 951825 20141121182212
+64.233.172.155 0 14 74003 
+42.60.246.174 0 1 26839 
+173.252.112.114 0 1 263731 
+72.14.199.71 3 4 131852 20141121204847
+27.4.128.24 0 1 26839 
+150.70.173.57 6 20 380434 20141121170328
+106.77.252.185 21 72 314718 20141115222415
+58.146.104.219 1 59 2965275 20141118152512
+50.116.7.209 1 1 0 20141121205002
+150.70.173.43 9 38 1010041 20141121120426
+173.252.113.112 0 5 1023005 
+173.252.113.116 0 2 296630 
+113.210.11.175 0 1 26839 
+150.70.97.112 13 29 777828 20141124174712
+103.12.134.254 4 64 5696208 20141125131204
+50.57.68.9 1 1 37780 20141123043903
+117.215.216.111 14 101 5844129 20141124102543
+54.166.66.128 1 1 7603 20141120164228
+173.252.81.112 0 4 767732 
+106.78.254.9 1 2 642278 20141122202322
+54.172.69.136 1 1 37780 20141123110225
+74.112.131.244 2 2 13934 20141121204657
+202.131.120.25 4 4 21098 20141115094228
+116.203.111.30 1 58 3442203 20141125102359
+83.233.139.232 0 1 26839 
+202.76.242.48 0 1 26839 
+106.78.205.183 1 1 7651 20141122133302
+173.252.122.116 0 1 140915 
+204.13.200.8 1 1 20163 20141120164008
+173.252.102.114 0 2 7870 
+96.227.124.37 1 1 35238 20141119150522
+150.70.173.54 16 40 1155548 20141128164328
+103.248.87.148 3 65 2626655 20141127120157
+106.79.81.66 4 73 3649520 20141120092042
+223.30.60.190 2 62 2389677 20141129115354
+150.70.97.115 12 26 446976 20141124174816
+66.249.84.183 1 1 7654 20141123110945
+128.30.52.71 2 2 14666 20141123105925
+192.185.82.251 2 2 0 20141116151457
+216.163.188.203 1 1 35238 20141119124507
+150.70.97.126 14 28 504542 20141124174732
+223.227.50.13 0 1 26839 
+59.177.201.142 5 83 5469587 20141126174113
+120.59.34.234 2 53 1663810 20141127132237
+173.252.81.115 0 5 560853 
+54.176.128.153 2 2 0 20141119184351
+1.39.25.237 1 53 3125215 20141125114627
+103.28.148.186 1 1 36591 20141120164125
+116.203.57.46 1 45 2447413 20141116203030
+66.249.80.237 2 65 2774876 20141127134939
+116.202.212.10 1 52 1656637 20141129134649
+65.60.49.250 1 1 36591 20141120165028
+150.70.75.167 2 2 158401 20141111202316
+49.14.24.22 1 1 7654 20141123195453
+180.151.82.106 28 204 10846086 20141128201524
+212.83.160.37 1 1 7603 20141120164325
+72.14.199.59 4 4 29182 20141121204745
+173.252.105.114 0 1 5838 
+106.66.195.125 29 246 9234275 20141118144338
+223.62.229.144 0 1 26839 
+107.21.253.49 0 2 96601 
+54.197.40.118 0 2 214988 
+117.220.242.26 1 58 3132537 20141125140805
+168.63.137.102 0 11 454160 
+1.39.1.211 2 60 2972449 20141119153246
+54.92.33.255 1 1 10532 20141118142623
+183.90.37.151 0 1 26839 
+117.194.68.174 4 86 6880822 20141125120733
+54.204.20.250 0 1 661774 
+59.92.155.48 0 1 26839 
+113.199.170.212 4 72 6148254 20141125124143
+64.233.172.147 0 15 56852 
+123.252.212.157 26 170 3672352 20141113123459
+181.199.144.249 0 2 57482 
+114.143.74.49 16 174 6177807 20141127220216
+54.162.12.36 1 1 7654 20141123110226
+172.56.39.198 0 1 26839 
+150.70.173.11 7 28 577627 20141124180816
+211.30.165.174 6 71 4722810 20141129084204
+66.249.84.188 2 44 2679467 20141121204707
+83.223.122.11 1 1 18617 20141119125222
+150.70.173.42 8 38 827633 20141122125515
+117.248.29.119 1 46 2885237 20141126203454
+203.156.123.3 0 1 26839 
+117.201.117.33 11 75 3724210 20141129113524
+72.4.28.24 0 1 26839 
+209.133.77.164 1 1 18617 20141119125043
+106.66.49.154 1 1 1341 20141130190315
+54.224.143.82 1 1 0 20141123110226
+66.249.80.176 5 275 13476692 20141129003500
+173.252.113.113 0 3 1087622 
+31.13.102.116 0 1 263731 
+182.249.246.162 0 1 26839 
+183.89.82.240 0 2 53678 
+115.185.204.172 1 52 1656637 20141128190833
+54.221.199.147 0 1 5838 
+112.79.37.7 1 58 3132537 20141125165526
+207.102.138.3 1 67 3280007 20141121235132
+103.42.127.0 0 1 105962 
+106.219.16.202 9 91 5760002 20141130164053
+64.69.91.210 2 2 74315 20141126172018
+31.13.109.119 0 1 5838 
+150.70.97.127 7 30 979330 20141121132009
+64.233.172.240 1 45 1812414 20141121205005
+66.249.88.151 1 19 1453099 20141125144143
+120.59.79.154 6 87 5352990 20141126161231
+54.161.106.59 1 1 6865 20141119184952
+123.252.213.224 8 24 172893 20141128175018
+64.233.172.139 1 22 1279715 20141123111953
+65.55.215.241 1 15 133731 20141118074716
+58.27.115.84 0 1 26839 
+185.13.124.5 0 1 30643 
+150.70.173.55 9 27 749549 20141122121819
+120.59.24.200 4 83 5442490 20141126143811
+14.96.223.156 4 58 5793809 20141125130927
+183.171.169.65 0 1 26839 
+150.70.173.58 12 33 970193 20141121182208
+150.70.173.5 6 15 419253 20141121173610
+173.252.105.113 0 1 86198 
+192.0.81.137 1 1 0 20141123154403
+150.70.75.212 1 1 62338 20141113115255
+209.133.77.163 1 1 18617 20141119124239
+106.79.202.83 4 4 27288 20141121130018
+182.67.196.146 4 24 280974 20141128132558
+64.233.173.160 0 1 692572 
+150.70.173.60 1 1 78341 20141113113221
+64.235.151.198 2 2 70476 20141119124533
+106.78.172.68 8 152 1675979 20141114013515
+64.235.154.144 15 15 442529 20141128170023
+188.165.244.215 4 4 137181 20141130082459
+49.248.206.252 2 7 26545 20141111131712
+77.59.248.2 0 1 26839 
+216.163.188.235 1 1 18617 20141119124818
+91.121.83.118 1 1 7603 20141120165055
+122.174.193.222 2 59 3140210 20141125112009
+128.30.52.73 1 1 7173 20141128155016
+117.192.251.159 3 60 2119049 20141127121124
+90.197.152.253 0 1 26839 
+173.252.113.114 0 3 400080 
+23.29.122.195 2 2 30453 20141117094955
+117.212.94.229 4 74 5494846 20141117155951
+181.168.47.83 0 1 30643 
+1.39.18.113 0 2 57741 
+54.80.107.182 1 1 8289 20141117095008
+150.70.97.118 17 34 766266 20141129174707
+114.143.72.205 58 315 5138094 20141129133248
+49.14.47.27 6 18 141874 20141125103718
+66.249.84.189 4 5 179167 20141130175330
+96.125.189.6 4 4 67525 20141116151009
+50.18.102.132 4 4 0 20141119181950
+185.32.188.18 4 4 146364 20141120165036
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20141111 216 3116 135272393 45
+20141112 162 2447 163496272 7
+20141113 1677 8203 464860181 70
+20141114 841 9879 362470779 66
+20141115 1886 8527 145974644 54
+20141116 125 1965 55599393 16
+20141117 2253 5740 160136407 105
+20141118 1497 4909 122637228 48
+20141119 1188 2639 78451054 62
+20141120 1817 3164 71465128 43
+20141121 1741 4006 134284962 127
+20141122 773 2825 143663131 27
+20141123 92 1087 54156354 34
+20141124 352 1402 78595395 31
+20141125 356 2843 170875804 43
+20141126 581 2019 99878248 24
+20141127 112 1293 44246899 19
+20141128 202 1511 51743305 28
+20141129 138 1578 51359683 28
+20141130 148 432 20491882 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 53
+5mn-15mn 50
+30s-2mn 34
+0s-30s 640
+2mn-5mn 34
+15mn-30mn 34
+30mn-1h 49
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 86
+/admin/introductions.php 3395 74407994 3 20
+/admin/manage-tour.php 2594 48878500 4 1
+/tour-info.php 1512 32703204 160 179
+/admin/pricing/index.php 1025 3479814 0 0
+/ 983 20192388 361 269
+/searchtourajax.php 827 353896 49 42
+/index.php 716 10742550 58 76
+/admin/availability/index.php 635 2260770 1 1
+/admin/subtours.php 611 1160858 0 0
+/indexa.php 576 4058631 6 10
+/login.php 306 2116256 36 40
+/search.php 283 2768329 4 3
+/admin/users.php 268 34560745 0 2
+/admin/login.php 222 450900 63 36
+/admin/manage-main.php 175 675411 1 0
+/admin/cities.php 165 619215 2 7
+/admin/city-images.php 154 608162 0 2
+/edit-profile.php 120 751558 5 6
+/search-main.php 110 969176 11 16
+/contact.php 106 964936 13 20
+/car_rental.php 79 595424 7 12
+/need-more.php 72 1044839 7 14
+/admin/banner-images.php 71 1122521 0 2
+/admin/newpages.php 69 215772 0 0
+/search1.php 66 635455 2 1
+/admin/showhometours.php 25 203051 0 0
+/sitemap.xml 13 124684 2 6
+/admin/config.php 1 0 0 0
+/admin/reports.php 2 10342 0 0
+/logout.php 33 3393 6 6
+/admin/create-a-sub-tour.php 2 4861 0 0
+/activity.php 63 784156 4 11
+/admin/newsletter.php 1 9356 0 0
+/admin/delete_review.php 8 398 1 0
+/travelsearchuserajax.php 4 96 0 0
+/searchuserajaxsession.php 5 104 0 0
+/admin/updatereviews.php 3 138 0 0
+/admin/reviews.php 25 249438 0 0
+/searchuserajax.php 4 96 0 0
+/admin/control.php 5 646 0 0
+/register.php 44 454974 4 8
+/admin/main_banner.php 5 16526 0 0
+/admin/pages.php 39 139329 0 0
+/admin/removetour.php 4 373 0 0
+/about.php 53 503749 7 11
+/admin/reviewpage.php 6 60734 0 0
+/privacy_statement.php 9 436791 1 2
+/admin/traveldetails.php 17 58504 0 0
+/admin/indexan.php 1 726 0 0
+/admin/ads.php 3 9125 1 0
+/cpanel 20 176436 9 8
+/admin/index1.php 1 795 0 0
+/travelsearchuserajax1.php 20 481 0 0
+/searchuserajaxsession1.php 7 132 0 0
+/admin/editpage.php 13 36952 4 4
+/admin/changepwd.php 7 14970 1 1
+/admin/upload-image.php 28 72550 0 1
+/admin/ 15 71511 6 5
+/pay.php 10 20762 1 1
+/admin/display_order.php 38 400 0 0
+/admin/banner-images1.php 16 442087 0 0
+/website_terms.php 18 830738 3 5
+/admin/supplier.php 32 153588 3 6
+/booking.php 6 29244 0 1
+/admin/hometours.php 14 60135 2 1
+/admin/cancellationplans.php 25 99797 6 6
+/admin/redemption.php 47 162169 7 8
+/css/fonts/flexslider-icon.eot 1 2706 0 1
+/admin/create-a-new-tour.php 12 63039 2 2
+/my-cart.php 34 1077543 4 5
+/searchuserajax1.php 42 310 0 0
+/admin/corporate-team%20.php 1 4359 0 0
+/review.php 4 55736 0 0
+/mycoupon.php 32 331956 9 8
+/admin/exclusion.php 39 128428 5 7
+/admin/updatecity.php 8 11885 3 3
+/admin/images/ 2 27486 1 1
+/admin/updatetravels.php 2 136 0 0
+/admin/availability/eventform.php 3 4114 0 0
+/admin/pricing/eventform.php 2 2224 0 0
+/admin/add_supplier.php 16 58855 0 1
+/travel-login.php 43 302515 2 7
+/admin/images/cityplace/ 8 1903168 3 4
+/admin/tour-type.php 25 118352 4 5
+/admin/addtour.php 37 222408 0 0
+/admin/city-tours.php 14 38216 0 0
+END_SIDER

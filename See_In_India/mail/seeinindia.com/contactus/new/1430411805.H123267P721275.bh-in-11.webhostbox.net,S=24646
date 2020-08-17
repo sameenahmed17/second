@@ -1,0 +1,355 @@
+Return-path: <info@skylineholiday.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Thu, 30 Apr 2015 16:36:45 +0000
+Received: from mail-ie0-f171.google.com ([209.85.223.171]:34382)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.85)
+	(envelope-from <info@skylineholiday.com>)
+	id 1YnrS8-0031Z2-FK
+	for contactus@seeinindia.com; Thu, 30 Apr 2015 16:36:45 +0000
+Received: by iedfl3 with SMTP id fl3so80533793ied.1
+        for <contactus@seeinindia.com>; Thu, 30 Apr 2015 09:36:40 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=oLfNPcA1UEyrFPuY+nsTJUU2TpGQ6uwfzn3lqUvElJc=;
+        b=eYPnXpPRo2mgq9eg52ndTnmrGRJakjDVp/jm1silXY8zd2skPTNVnCGXjs2n5haXv4
+         /svJNoIB4XGrJydv0xTy5K9mL3EpWKef3436Th+zGGij/AD54Fho7Dce0Sk47BJoasW2
+         KUI5Kc5KxcO21bZsfMj42VL64G4c5k9zg1EU1uLAI3wxWEwLjQCjDMFWawQW1vfGjwVG
+         w7YoLvpXi+zll6fR/zTckcAVMWObv3GwO3sX8822tMOaiFFvEJjAnbyAAXujyCG1HuV7
+         MLUgoCxV6J4TKl0WnYlUPnikTyLvL0Nn1b83xn+b9kH3lLEXEPxsu9VV0frB0F+AbFHd
+         6Ezw==
+X-Gm-Message-State: ALoCoQltmKXRcRDZu/eOp9PDzScv7UjSdA2U+PEBiGjycZ3g7dtO8MjW7azJiS+TcU0CSaHBnQcR
+MIME-Version: 1.0
+X-Received: by 10.107.35.203 with SMTP id j194mr6739980ioj.45.1430411800124;
+ Thu, 30 Apr 2015 09:36:40 -0700 (PDT)
+Received: by 10.107.14.19 with HTTP; Thu, 30 Apr 2015 09:36:40 -0700 (PDT)
+X-Originating-IP: [117.200.169.180]
+In-Reply-To: <CAOwaW0QG_b6_e8=WmvQVFLxKA50S=zoAczGwxwL=47Madr6dXg@mail.gmail.com>
+References: <CAOwaW0QG_b6_e8=WmvQVFLxKA50S=zoAczGwxwL=47Madr6dXg@mail.gmail.com>
+Date: Thu, 30 Apr 2015 22:06:40 +0530
+Message-ID: <CAPO-ukiBNysX0OiqSchEV2MpPrGki0-0nJ0A_7vZXSGqC4jx5w@mail.gmail.com>
+Subject: Re: Advertise
+From: Skyline Holiday <info@skylineholiday.com>
+To: Suresh Babar <sureshbabar1@gmail.com>
+Cc: info@nilnidhienterprises.com, samyakinfoservices@gmail.com, 
+	aurobindointernational@gmail.com, webmanager@weddingcardmanufacturer.com, 
+	webmanager@handmadesgifts.com, aksharbharticcom@gmail.com, 
+	kaminis487@gmail.com, markpatins@gmail.com, sales@nihalfashions.com, 
+	naaptolbs@gmail.com, webmaster@bharadiatextiles.com, webmaster@birlaudyog.com, 
+	webmanager@melforklift.com, nanbiradar@gmail.com, irp2info2051@gmail.com, 
+	geshrayc5007@yahoo.com, sales@blossomtravels.com, vilas.gokhale27@yahoo.com, 
+	cst@panoramicworld.biz, bvctours123@gmail.com, tadobatigerresort01@gmail.com, 
+	reservations@hotelkohinoorelite.com, hi.hp@lemontreehotels.com, 
+	reservations@hotelkohinoorcontinental.com, info@moryaholidays.com, 
+	reservations@expressinnindia.com, travelauto13@gmail.com, 
+	info@parcestique.com, admin@tadobatigerkingresort.com, 
+	contactus@seeinindia.com, yatraindia2015@gmail.com, info@raghukulholidays.com
+Content-Type: multipart/alternative; boundary=001a114044403ab90b0514f3b3e3
+X-Authenticated_sender: 
+
+--001a114044403ab90b0514f3b3e3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+RGVhciBTaXIvTWFkYW0sDQpHcmVldGluZ3MgZnJvbSBTa3lsaW5lIEhvbGlkYXkgQXVyYW5nYWJh
+ZCAuLi4uLi4uISEhDQoNCldlIGFyZSBvbmUgb2YgdGhlIGxlYWRpbmcgVG91ciBPcGVyYXRvcnMg
+JiBDYXIgaGlyZSBUcmF2ZWwgYWdlbmN5IGluDQpBdXJhbmdhYmFkLA0KYmVhdXRpZnVsIHN0YXRl
+IG9mIE1BSEFSQVNIVFJBLA0KDQoqT3VyIFNlcnZpY2VzIDoqDQoNCiAgIC0gQWxsIFR5cGVzIENh
+ciAvIENvYWNoIFJlbnRhbA0KICAgLSBIb3RlbCBSZXNlcnZhdGlvbiBhbGwgb3ZlciBJbmRpYQ0K
+ICAgLSBJbmJvdW5kL091dCBCb3VuZCBQYWNrYWdlIHRvdXIgb3BlcmF0b3INCiAgIC0gR3VpZGUg
+U2VydmljZXMgWyBMb2NhbCBhbmQgYWxsIGZvcmVpZ24gbGFuZ3VhZ2VzIF0NCg0KT3VyIG93biBG
+bGVldCA6DQoNCiBJbm5vdmEgfCBJbmRpZ28gfCBTd2lmdCBEJ1ppcmUgfCBUZW1wbyBUcmF2ZWxs
+ZXIgfE1pbmkgYW5kIExhcmdlIGNvYWNoZXMgfA0KDQoqT3VyIERlc3RpbmF0aW9uICoqOioNCg0K
+QWphbnRhIGNhdmVzIHwgRWxsb3JhIENhdmVzIHwgU2hpcmRpIFNhaWJhYmEgfCBOYXNoaWt8VHJp
+bWJha2VzaHdhciB8DQpCaGltc2hhbmthciB8IFB1bmUgfCBNdW1iYWkgfEVsZXBoYW50YSBDYXZl
+cyB8TG9uYXIgQ3JhdG9yIHwgTmFuZGVkIHwNCkFzaHRhdmluYXlhayBUb3VyIHwgSnlvdGlybGlu
+Z2EgVG91cnwgR29hIFRvdXJ8IEhhbXBpIHwgQmFkYW1pIHwNCk9ta2FyZXNod2FyIHwgTWFoZXNo
+d2FyIHwgTWFuZHUgfCBhbmQgbWFueSBtb3JlLi4uLi4uLi4uLi4uLi4uLi4uLg0KDQpGb3IgTW9y
+ZSBkZXRhaWwgdmlzaXQgIHd3dy5za3lsaW5laG9saWRheS5jb20NCg0KTm90ZSA6IEFqYW50YSBD
+YXZlcyBjbG9zZWQgb24gZXZlcnkqIE1vbmRheSogYW5kIEVsbG9yYSBjYXZlcyBjbG9zZWQgb24N
+CmV2ZXJ5ICpUdWVzZGF5Ki4NCg0KVGhhbmtzDQoqX19fX19fX19fX19fX19fX19fX19fX19fX19f
+XyoNCg0KKkFOSUwgS0FIQUxFKg0KU0tZTElORSBIT0xJREFZDQrigIsNCipDQUIgUkVOVEFMIHwg
+VE9VUiBPUEVSQVRPUiB8IEhPVEVMIEJPT0tJTkcNCjxodHRwOi8vd3d3LnNreWxpbmVob2xpZGF5
+LmNvbT4qDQoqQ2VsbCBOTy46ICAwOTgyMzg4MzM2NiB8IDA5NDIyMjkxNTI3IHwgKipGYXggTm8u
+OiArOTEgMjQwIDIzNzE1MjcgKg0KKkVtYWlsICAgIDogIGluZm9Ac2t5bGluZWhvbGlkYXkuY29t
+DQo8aW5mb0Bza3lsaW5laG9saWRheS5jb20+IHwgc2t5bGluZWhvbGlkYXkyMDEwQGdtYWlsLmNv
+bQ0KPHNreWxpbmVob2xpZGF5MjAxMEBnbWFpbC5jb20+IHwgKipXZWJzaXRlIDogIHd3dy5za3ls
+aW5laG9saWRheS5jb20NCjxodHRwOi8vd3d3LnNreWxpbmVob2xpZGF5LmNvbS8+Kg0KICBQbGVh
+c2UgY29uc2lkZXIgdGhlIGVudmlyb25tZW50IGJlZm9yZSBwcmludGluZyB0aGlzIGVtYWlsKi4u
+LiohDQoNCjIwMTUtMDQtMzAgMTk6NDUgR01UKzA1OjMwIFN1cmVzaCBCYWJhciA8c3VyZXNoYmFi
+YXIxQGdtYWlsLmNvbT46DQoNCj4g4KSq4KWN4KSw4KSl4KSu4KSaIOCkruCkueCkvuCksOCkvuCk
+t+CljeCkn+CljeCksOCkvuCkpOClgOCksiAxMjg4NCDgpJfgpL7gpLXgpL7gpILgpJrgpYAgIG1h
+aGFjb250YWN0IGRpcmVjdG9yeQ0KPg0KPiDgpLjgpLAgLOCkj+CklSDgpKjgpLXgpYAg4KS14KWH
+4KSs4KS44KS+4KSI4KSfIHd3dy5tYWhhY29udGFjdC5jb20gIOCkueClgCDgpLjgpYHgpLDgpYEg
+4KSd4KS+4KSy4KWH4KSy4KWAIOCkhuCkueClhy4g4KS54KWADQo+IOCkruCkueCkvuCksOCkvuCk
+t+CljeCkn+CljeCksOCkvuCkpOClgOCksiDgpLjgpLDgpY3gpLUg4KSc4KS/4KSy4KWN4KS54KWN
+4KSv4KS+4KSa4KWAIGNvbnRhY3QgZGlyZWN0b3J5ICDgpIbgpLngpYcgLiDgpK/gpL7gpK7gpKfg
+pY3gpK/gpYcNCj4g4KSw4KS+4KS34KWN4KSf4KWN4KSwLOCksOCkvuCknOCljeCkryDgpKrgpL7g
+pKTgpLPgpYDgpJrgpYAg4KS44KSw4KWN4KS1IOCkk+Ckq+Ckv+CkuOClh+CkuCwg4KSu4KS54KS+
+4KSw4KS+4KS34KWN4KSf4KWN4KSw4KS+4KSk4KWA4KSyIOCkuOCksOCljeCktSAg4KSc4KS/4KSy
+4KWN4KS54KS+4KSa4KWHIOCknOCkv+CksuCljeCkueCkvg0KPiDgpIbgpKPgpL8g4KSk4KS+4KSy
+4KWB4KSV4KS+IOCksuClh+CkteCksiDgpLjgpLDgpY3gpLUg4KST4KSr4KS/4KS44KWH4KS44KSa
+4KS+IOCkuOCkruCkvuCkteClh+CktiDgpIbgpLngpYcu4KSk4KS44KWH4KSaIOCktuCkvuCks+Ck
+vizgpJXgpYngpLLgpYfgpJws4KSs4KSB4KSVLOCkueClieCkuOCljeCkquClgOCkn+CksizgpLjg
+pLDgpY3gpLUNCj4g4KS44KSC4KS44KWN4KSl4KS+IOCkhuCko+CkvyDgpLXgpY3gpK/gpJXgpY3g
+pKTgpYDgpJrgpYAg4KSo4KS+4KSC4KS14KWHIOCkuOCkruCkvuCkteCkv+Ckt+CljeCknyDgpJXg
+pLDgpKPgpY3gpK/gpL7gpJrgpYcg4KSG4KS14KS+4KS54KSoIOCkleClh+CksuClhyDgpIbgpLng
+pYcuDQo+DQo+IOCkuOCksOCljeCktSDgpK7gpLngpL7gpLDgpL7gpLfgpY3gpJ/gpY3gpLDgpL7g
+pKTgpYLgpKgg4KSt4KSw4KSY4KWL4KS4IOCkquCljeCksOCkpOCkv+CkuOCkvuCkpiDgpK7gpL/g
+pLPgpKQg4KSG4KS54KWHLiDgpajgpawg4KSc4KS+4KSo4KWH4KS14KS+4KSw4KWA4KSy4KS+IOCk
+uOClgeCksOClgSDgpJXgpYfgpLLgpYfgpLLgpY3gpK/gpL4NCj4g4KSv4KS+IOCkteClh+CkrOCk
+uOCkvuCkiOCkn+CkteCksCDgpIbgpJwg4KSt4KWH4KSfIOCkpuClh+Cko+CkvuCkseCljeCkr+Ck
+vuCkguCkmuClgCDgpLjgpILgpJbgpY3gpK/gpL4g4KS14KS+4KSi4KSkIOCkmuCkvuCksuCksuCl
+gCDgpIbgpLngpYcg4KSV4KSw4KS/4KSk4KS+IOCkquCkueCkvg0KPiB3d3cubWFoYWNvbnRhY3Qu
+Y29tL3BsZXNrLXN0YXQvd2Vic3RhdC8NCj4NCj4g4KSG4KSq4KSjIHd3dy5tYWhhY29udGFjdC5j
+b20g4KSv4KS+IOCkteClh+CkrOCkuOCkvuCkiOCkn+CksuCkviDgpJzgpLDgpYLgpLAg4KSt4KWH
+4KSfIOCkpuClh+CkteClguCkqCDgpIbgpKrgpKMg4KSG4KSq4KSy4KWHIOCkq+CksOCljeCkruCk
+muClgCAvDQo+IOCkleCkguCkquCkqOClgOCkmuClgCDgpJzgpL7gpLngpL/gpLDgpL7gpKQg4KSm
+4KWN4KSv4KS+4KS14KWAIOCkueClgCDgpLXgpL/gpKjgpILgpKTgpYANCj4NCj4g4KSc4KS+4KS5
+4KS/4KSw4KS+4KSkIOCknOCkv+CksuCljeCkueCljeCkr+CkvuCkleCksOCkv+CkpOCkviDgpLXg
+pL7gpLDgpY3gpLfgpL/gpJUgIOCksOClgeCkquCkr+ClhyDgpajgpabgpabgpaYvLSDgpKTgpLAg
+4KS54KWL4KSuIOCkquClh+CknCDgpJXgpLDgpL/gpKTgpL4g4KS14KS+4KSw4KWN4KS34KS/4KSV
+DQo+IOCksOClgeCkquCkr+ClhyDgpargpabgpabgpaYvLeCkhuCkueClhy4NCj4g4KSF4KSn4KS/
+4KSVIOCkruCkvuCkueCkv+CkpOClgOCkuOCkvuCkoOClgCDigJNQaG9uZSBObyAgOTk2MDUwMzY3
+NiAgICAgRW1haWw6IHN1cmVzaGJhYmFyMUBnbWFpbC5jb20NCj4NCj4NCg==
+--001a114044403ab90b0514f3b3e3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_extra"><div><div class=3D"gmail_signat=
+ure"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div=
+ dir=3D"ltr"><div dir=3D"ltr"><div><div><div><font face=3D"garamond, serif"=
+ size=3D"4" color=3D"#274e13">Dear Sir/Madam,<br>Greetings from Skyline Hol=
+iday Aurangabad .......!!! </font><p style=3D"margin-bottom:0.0001pt"><font=
+ color=3D"#274e13" size=3D"4" face=3D"garamond, serif"><span style=3D"backg=
+round-image:initial;background-repeat:initial">We are one of the leading To=
+ur Operators &amp; Car hire Travel agency in=C2=A0</span>Aurangabad, beauti=
+ful state of MAHARASHTRA,</font></p><p style=3D"margin-bottom:0.0001pt"><fo=
+nt size=3D"4" face=3D"garamond, serif"><b style=3D"color:rgb(0,0,255)"><i><=
+u><span style=3D"background-image:initial;background-repeat:initial">Our Se=
+rvices :</span></u></i></b><b style=3D"color:rgb(0,0,255)"><span style=3D"b=
+ackground-image:initial;background-repeat:initial">=C2=A0</span></b><br></f=
+ont></p><ul type=3D"disc"><li style=3D"margin-left:15px"><font color=3D"#27=
+4e13" size=3D"4" face=3D"garamond, serif">All Types Car / Coach Rental<br><=
+/font></li><li style=3D"margin-left:15px"><font color=3D"#274e13" size=3D"4=
+" face=3D"garamond, serif">Hotel Reservation all over India=C2=A0</font></l=
+i><li style=3D"margin-left:15px"><font color=3D"#274e13" size=3D"4" face=3D=
+"garamond, serif">Inbound/Out Bound Package tour operator</font></li><li st=
+yle=3D"margin-left:15px"><font color=3D"#274e13" size=3D"4" face=3D"garamon=
+d, serif">Guide Services [ Local and all foreign languages ]</font></li></u=
+l><font color=3D"#0000ff" size=3D"4" face=3D"garamond, serif">Our own Fleet=
+ :</font><p style=3D"margin-bottom:0.0001pt"><font color=3D"#274e13" size=
+=3D"4" face=3D"garamond, serif"><span style=3D"background-image:initial;bac=
+kground-repeat:initial">=C2=A0</span><span style=3D"background-image:initia=
+l;background-repeat:initial">Innova | Indigo | Swift D&#39;Zire | Tempo Tra=
+veller |Mini and Large=C2=A0</span>coaches |</font></p></div><div><div dir=
+=3D"ltr"><div><p style=3D"font-weight:normal;color:rgb(34,34,34);margin-bot=
+tom:0.0001pt"><font size=3D"4" face=3D"garamond, serif"><b style=3D"color:r=
+gb(0,0,255)"><i><u><span style=3D"background-image:initial;background-repea=
+t:initial">Our Destination=C2=A0</span></u></i></b><b style=3D"color:rgb(0,=
+0,255)"><u><span style=3D"background-image:initial;background-repeat:initia=
+l">:</span></u></b><br></font></p><p style=3D"font-weight:normal;color:rgb(=
+34,34,34);margin-bottom:0.0001pt"><font color=3D"#274e13" size=3D"4" face=
+=3D"garamond, serif">Ajanta caves | Ellora Caves | Shirdi Saibaba | Nashik|=
+Trimbakeshwar | Bhimshankar | Pune | Mumbai |Elephanta Caves |Lonar Crator =
+| Nanded | Ashtavinayak Tour | Jyotirlinga Tour| Goa Tour| Hampi | Badami |=
+ Omkareshwar | Maheshwar | Mandu | and many more...................</font><=
+/p><p style=3D"font-weight:normal;margin-bottom:0.0001pt"><font color=3D"#2=
+74e13" face=3D"garamond, serif" size=3D"4">For More detail visit =C2=A0</fo=
+nt><font face=3D"garamond, serif" size=3D"6" color=3D"#0000ff"><a href=3D"h=
+ttp://www.skylineholiday.com" target=3D"_blank">www.skylineholiday.com</a> =
+=C2=A0</font><font color=3D"#274e13" face=3D"garamond, serif" size=3D"4">=
+=C2=A0</font></p><p style=3D"text-align:center;margin-bottom:0.0001pt"><fon=
+t size=3D"4" face=3D"arial narrow, sans-serif" style=3D"background-color:rg=
+b(0,0,255)"><font color=3D"#ffffff">Note : Ajanta Caves closed on every</fo=
+nt><b><u> <i><font color=3D"#00ff00">Monday</font></i></u></b><font color=
+=3D"#ffffff"> and Ellora caves closed on every </font><b><u><i><font color=
+=3D"#00ff00">Tuesday</font></i></u></b><font color=3D"#ffffff">.</font></fo=
+nt></p><p style=3D"font-weight:normal;color:rgb(34,34,34);margin-bottom:0.0=
+001pt"><span style=3D"color:rgb(39,78,19)"><font size=3D"4" face=3D"garamon=
+d, serif">Thanks</font></span><br></p></div></div></div></div><div style=3D=
+"font-family:&#39;arial narrow&#39;,sans-serif"><b style=3D"font-family:ari=
+al,sans-serif"><font color=3D"#993300"><div style=3D"display:inline!importa=
+nt"><b style=3D"color:rgb(34,34,34);font-size:small"><div style=3D"display:=
+inline!important"><b style=3D"font-size:13px"><font face=3D"georgia, serif"=
+><font color=3D"#660000"><font size=3D"2">____________________________</fon=
+t></font></font></b></div></b></div></font></b><br></div></div><div style=
+=3D"font-weight:bold;color:rgb(153,51,0)"><b style=3D"color:rgb(34,34,34)">=
+<div style=3D"font-size:small"><b style=3D"font-size:13px"><div style=3D"fo=
+nt-size:small;display:inline!important"><b style=3D"font-size:13px"><div st=
+yle=3D"display:inline!important"><font face=3D"arial narrow, sans-serif" si=
+ze=3D"4"><b><font color=3D"#993300">ANIL KAHALE</font></b></font></div></b>=
+</div></b><br></div></b></div><div><span style=3D"color:rgb(51,51,255);font=
+-weight:800"><font face=3D"georgia, serif" size=3D"4">SKYLINE HOLIDAY</font=
+></span><br></div><div><div style=3D"font-size:x-small;font-family:garamond=
+,serif;font-weight:800;color:rgb(53,28,117);display:inline;background-color=
+:rgb(255,0,255)">=E2=80=8B</div><div style=3D"font-weight:800;display:inlin=
+e"><i><a href=3D"http://www.skylineholiday.com" target=3D"_blank"><font siz=
+e=3D"2" face=3D"arial narrow, sans-serif"><span style=3D"background-color:r=
+gb(255,0,255)"><font color=3D"#ffff00">CAB RENTAL</font><span style=3D"colo=
+r:rgb(255,255,0)"> </span><span style=3D"color:rgb(255,255,0)">|</span></sp=
+an><span style=3D"color:rgb(255,255,0);background-color:rgb(153,0,255)"> TO=
+UR OPERATOR </span><span style=3D"color:rgb(255,255,0);background-color:rgb=
+(0,0,0)">|</span></font><span style=3D"color:rgb(255,255,0);background-colo=
+r:rgb(0,0,255)"><font size=3D"2" face=3D"arial narrow, sans-serif"> HOTEL B=
+OOKING</font><font size=3D"1" style=3D"font-family:georgia,serif">=C2=A0</f=
+ont></span></a></i></div></div><div><b><font color=3D"#ff00ff" face=3D"aria=
+l narrow, sans-serif">Cell NO.</font><font color=3D"#009900" style=3D"font-=
+family:arial">:</font><font face=3D"arial">=C2=A0 <font color=3D"#0000ff">0=
+</font></font><font color=3D"#0000ff" style=3D"font-family:arial">982388336=
+6 | 09422291527 |=C2=A0</font></b><b style=3D"font-size:small;font-family:a=
+rial"><span style=3D"color:rgb(255,0,255);font-family:&#39;arial narrow&#39=
+;,sans-serif">Fax No.</span><span style=3D"font-family:&#39;arial narrow&#3=
+9;,sans-serif"><font color=3D"#009900">:=C2=A0</font></span><font color=3D"=
+#0000ff"><span style=3D"font-family:&#39;arial narrow&#39;,sans-serif">+</s=
+pan><font style=3D"font-family:&#39;arial narrow&#39;,sans-serif">91 240 23=
+71527=C2=A0</font></font></b><br></div><div><div><font size=3D"2"><b><span =
+style=3D"color:rgb(255,0,255);font-family:&#39;arial narrow&#39;,sans-serif=
+">Email =C2=A0 =C2=A0</span><font color=3D"#009900" style=3D"font-family:ar=
+ial">:=C2=A0</font><font face=3D"arial">=C2=A0</font><a href=3D"mailto:info=
+@skylineholiday.com" style=3D"font-family:arial;color:rgb(17,85,204)" targe=
+t=3D"_blank">info@skylineholiday.com</a>=C2=A0|<font face=3D"arial">=C2=A0<=
+/font><a href=3D"mailto:skylineholiday2010@gmail.com" style=3D"font-family:=
+arial;color:rgb(17,85,204)" target=3D"_blank">skylineholiday2010@gmail.com<=
+/a><font face=3D"arial">=C2=A0|=C2=A0</font></b></font><b style=3D"font-siz=
+e:small;font-family:arial"><span style=3D"font-family:&#39;arial narrow&#39=
+;,sans-serif;color:rgb(255,0,255)">Website=C2=A0</span><span style=3D"font-=
+family:&#39;arial narrow&#39;,sans-serif"><font color=3D"#009900">:=C2=A0</=
+font></span><span style=3D"font-family:&#39;arial narrow&#39;,sans-serif">=
+=C2=A0</span><a href=3D"http://www.skylineholiday.com/" style=3D"color:rgb(=
+17,85,204);font-family:&#39;arial narrow&#39;,sans-serif" target=3D"_blank"=
+>www.skylineholiday.com</a></b></div></div><div><span style=3D"font-size:18=
+pt;font-family:Arial,sans-serif">=C2=A0</span><span style=3D"font-size:12pt=
+;font-family:Arial,sans-serif"></span><img src=3D"http://infomancie.files.w=
+ordpress.com/2008/06/dont-print-email-small-green.jpg?w=3D480">=C2=A0<font =
+color=3D"#009900"><font style=3D"font-weight:bold" face=3D"&#39;courier new=
+&#39;, monospace">Please consider the environment before printing this emai=
+l</font><i><font face=3D"&#39;courier new&#39;, monospace">...</font></i><f=
+ont size=3D"4" style=3D"font-family:&#39;arial narrow&#39;,sans-serif">!</f=
+ont></font><br></div></div></div></div></div></div></div></div></div></div>=
+</div>
+<br><div class=3D"gmail_quote">2015-04-30 19:45 GMT+05:30 Suresh Babar <spa=
+n dir=3D"ltr">&lt;<a href=3D"mailto:sureshbabar1@gmail.com" target=3D"_blan=
+k">sureshbabar1@gmail.com</a>&gt;</span>:<br><blockquote class=3D"gmail_quo=
+te" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"=
+><div dir=3D"ltr">
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Mangal&quot;,&quot;=
+serif&quot;" lang=3D"MR">=E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=A5=E0=A4=AE=E0=
+=A4=9A =E0=A4=AE=E0=A4=B9=E0=A4=BE=E0=A4=B0=E0=A4=BE=E0=A4=B7=E0=A5=8D=E0=
+=A4=9F=E0=A5=8D=E0=A4=B0=E0=A4=BE=E0=A4=A4=E0=A5=80=E0=A4=B2 </span><span>1=
+2884 </span><span style=3D"font-family:&quot;Mangal&quot;,&quot;serif&quot;=
+" lang=3D"MR">=E0=A4=97=E0=A4=BE=E0=A4=B5=E0=A4=BE=E0=A4=82=E0=A4=9A=E0=A5=
+=80</span><span><span>=C2=A0
+</span>mahacontact directory </span><span style=3D"font-family:&quot;Mangal=
+&quot;,&quot;serif&quot;" lang=3D"MR"><span>=C2=A0</span></span><span></spa=
+n></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Mangal&quot;,&quot;=
+serif&quot;" lang=3D"MR">=E0=A4=B8=E0=A4=B0 ,=E0=A4=8F=E0=A4=95 =E0=A4=A8=
+=E0=A4=B5=E0=A5=80 =E0=A4=B5=E0=A5=87=E0=A4=AC=E0=A4=B8=E0=A4=BE=E0=A4=88=
+=E0=A4=9F </span><a href=3D"http://www.mahacontact.com" target=3D"_blank"><=
+span>www.mahacontact.com</span></a><span> </span><span style=3D"font-family=
+:&quot;Mangal&quot;,&quot;serif&quot;" lang=3D"MR"><span>=C2=A0</span>=E0=
+=A4=B9=E0=A5=80 =E0=A4=B8=E0=A5=81=E0=A4=B0=E0=A5=81 =E0=A4=9D=E0=A4=BE=E0=
+=A4=B2=E0=A5=87=E0=A4=B2=E0=A5=80 =E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A4=B9=E0=
+=A5=80 =E0=A4=AE=E0=A4=B9=E0=A4=BE=E0=A4=B0=E0=A4=BE=E0=A4=B7=E0=A5=8D=E0=
+=A4=9F=E0=A5=8D=E0=A4=B0=E0=A4=BE=E0=A4=A4=E0=A5=80=E0=A4=B2 =E0=A4=B8=E0=
+=A4=B0=E0=A5=8D=E0=A4=B5
+=E0=A4=9C=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B9=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=
+=A4=9A=E0=A5=80 </span><span>contact directory </span><span style=3D"font-f=
+amily:&quot;Mangal&quot;,&quot;serif&quot;" lang=3D"MR"><span>=C2=A0</span>=
+=E0=A4=86=E0=A4=B9=E0=A5=87 . =E0=A4=AF=E0=A4=BE=E0=A4=AE=E0=A4=A7=E0=A5=8D=
+=E0=A4=AF=E0=A5=87
+=E0=A4=B0=E0=A4=BE=E0=A4=B7=E0=A5=8D=E0=A4=9F=E0=A5=8D=E0=A4=B0,=E0=A4=B0=
+=E0=A4=BE=E0=A4=9C=E0=A5=8D=E0=A4=AF =E0=A4=AA=E0=A4=BE=E0=A4=A4=E0=A4=B3=
+=E0=A5=80=E0=A4=9A=E0=A5=80 =E0=A4=B8=E0=A4=B0=E0=A5=8D=E0=A4=B5 =E0=A4=93=
+=E0=A4=AB=E0=A4=BF=E0=A4=B8=E0=A5=87=E0=A4=B8, =E0=A4=AE=E0=A4=B9=E0=A4=BE=
+=E0=A4=B0=E0=A4=BE=E0=A4=B7=E0=A5=8D=E0=A4=9F=E0=A5=8D=E0=A4=B0=E0=A4=BE=E0=
+=A4=A4=E0=A5=80=E0=A4=B2 =E0=A4=B8=E0=A4=B0=E0=A5=8D=E0=A4=B5<span>=C2=A0 <=
+/span>=E0=A4=9C=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B9=E0=A4=BE=E0=A4=9A=E0=A5=
+=87 =E0=A4=9C=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B9=E0=A4=BE =E0=A4=86=E0=A4=
+=A3=E0=A4=BF =E0=A4=A4=E0=A4=BE=E0=A4=B2=E0=A5=81=E0=A4=95=E0=A4=BE =E0=A4=
+=B2=E0=A5=87=E0=A4=B5=E0=A4=B2 =E0=A4=B8=E0=A4=B0=E0=A5=8D=E0=A4=B5 =E0=A4=
+=93=E0=A4=AB=E0=A4=BF=E0=A4=B8=E0=A5=87=E0=A4=B8=E0=A4=9A=E0=A4=BE
+=E0=A4=B8=E0=A4=AE=E0=A4=BE=E0=A4=B5=E0=A5=87=E0=A4=B6 =E0=A4=86=E0=A4=B9=
+=E0=A5=87.=E0=A4=A4=E0=A4=B8=E0=A5=87=E0=A4=9A =E0=A4=B6=E0=A4=BE=E0=A4=B3=
+=E0=A4=BE,=E0=A4=95=E0=A5=89=E0=A4=B2=E0=A5=87=E0=A4=9C,=E0=A4=AC=E0=A4=81=
+=E0=A4=95,=E0=A4=B9=E0=A5=89=E0=A4=B8=E0=A5=8D=E0=A4=AA=E0=A5=80=E0=A4=9F=
+=E0=A4=B2,=E0=A4=B8=E0=A4=B0=E0=A5=8D=E0=A4=B5 =E0=A4=B8=E0=A4=82=E0=A4=B8=
+=E0=A5=8D=E0=A4=A5=E0=A4=BE =E0=A4=86=E0=A4=A3=E0=A4=BF =E0=A4=B5=E0=A5=8D=
+=E0=A4=AF=E0=A4=95=E0=A5=8D=E0=A4=A4=E0=A5=80=E0=A4=9A=E0=A5=80 =E0=A4=A8=
+=E0=A4=BE=E0=A4=82=E0=A4=B5=E0=A5=87
+=E0=A4=B8=E0=A4=AE=E0=A4=BE=E0=A4=B5=E0=A4=BF=E0=A4=B7=E0=A5=8D=E0=A4=9F =
+=E0=A4=95=E0=A4=B0=E0=A4=A3=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=9A=E0=A5=87 =
+=E0=A4=86=E0=A4=B5=E0=A4=BE=E0=A4=B9=E0=A4=A8 =E0=A4=95=E0=A5=87=E0=A4=B2=
+=E0=A5=87 =E0=A4=86=E0=A4=B9=E0=A5=87.</span><span></span></p>
+
+<p class=3D"MsoNormal"><span><span style=3D"font-family:&quot;Mangal&quot;,=
+&quot;serif&quot;" lang=3D"MR">=E0=A4=B8=E0=A4=B0=E0=A5=8D=E0=A4=B5 =E0=A4=
+=AE=E0=A4=B9=E0=A4=BE=E0=A4=B0=E0=A4=BE=E0=A4=B7=E0=A5=8D=E0=A4=9F=E0=A5=8D=
+=E0=A4=B0=E0=A4=BE=E0=A4=A4=E0=A5=82=E0=A4=A8 =E0=A4=AD=E0=A4=B0=E0=A4=98=
+=E0=A5=8B=E0=A4=B8 =E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=A4=E0=A4=BF=E0=A4=B8=
+=E0=A4=BE=E0=A4=A6 =E0=A4=AE=E0=A4=BF=E0=A4=B3=E0=A4=A4
+=E0=A4=86=E0=A4=B9=E0=A5=87. =E0=A5=A8=E0=A5=AC =E0=A4=9C=E0=A4=BE=E0=A4=A8=
+=E0=A5=87=E0=A4=B5=E0=A4=BE=E0=A4=B0=E0=A5=80=E0=A4=B2=E0=A4=BE =E0=A4=B8=
+=E0=A5=81=E0=A4=B0=E0=A5=81 =E0=A4=95=E0=A5=87=E0=A4=B2=E0=A5=87=E0=A4=B2=
+=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=AF=E0=A4=BE =E0=A4=B5=E0=A5=87=E0=A4=AC=
+=E0=A4=B8=E0=A4=BE=E0=A4=88=E0=A4=9F=E0=A4=B5=E0=A4=B0 =E0=A4=86=E0=A4=9C =
+=E0=A4=AD=E0=A5=87=E0=A4=9F =E0=A4=A6=E0=A5=87=E0=A4=A3=E0=A4=BE=E0=A4=B1=
+=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=82=E0=A4=9A=E0=A5=80 =E0=A4=B8=E0=A4=82=
+=E0=A4=96=E0=A5=8D=E0=A4=AF=E0=A4=BE =E0=A4=B5=E0=A4=BE=E0=A4=A2=E0=A4=A4
+=E0=A4=9A=E0=A4=BE=E0=A4=B2=E0=A4=B2=E0=A5=80 =E0=A4=86=E0=A4=B9=E0=A5=87 =
+=E0=A4=95=E0=A4=B0=E0=A4=BF=E0=A4=A4=E0=A4=BE =E0=A4=AA=E0=A4=B9=E0=A4=BE <=
+/span></span><a href=3D"http://www.mahacontact.com/plesk-stat/webstat/" tar=
+get=3D"_blank"><span style=3D"font-family:&quot;Mangal&quot;,&quot;serif&qu=
+ot;">www.mahacontact.com/plesk-stat/webstat/</span></a><span><span style=3D=
+"font-family:&quot;Mangal&quot;,&quot;serif&quot;"></span></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Mangal&quot;,&quot;=
+serif&quot;" lang=3D"MR">=E0=A4=86=E0=A4=AA=E0=A4=A3 </span><a href=3D"http=
+://www.mahacontact.com" target=3D"_blank"><span>www.mahacontact.com</span><=
+/a><span style=3D"font-family:&quot;Mangal&quot;,&quot;serif&quot;" lang=3D=
+"MR"> =E0=A4=AF=E0=A4=BE =E0=A4=B5=E0=A5=87=E0=A4=AC=E0=A4=B8=E0=A4=BE=E0=
+=A4=88=E0=A4=9F=E0=A4=B2=E0=A4=BE =E0=A4=9C=E0=A4=B0=E0=A5=82=E0=A4=B0 =E0=
+=A4=AD=E0=A5=87=E0=A4=9F =E0=A4=A6=E0=A5=87=E0=A4=B5=E0=A5=82=E0=A4=A8 =E0=
+=A4=86=E0=A4=AA=E0=A4=A3 =E0=A4=86=E0=A4=AA=E0=A4=B2=E0=A5=87 =E0=A4=AB=E0=
+=A4=B0=E0=A5=8D=E0=A4=AE=E0=A4=9A=E0=A5=80 / =E0=A4=95=E0=A4=82=E0=A4=AA=E0=
+=A4=A8=E0=A5=80=E0=A4=9A=E0=A5=80
+=E0=A4=9C=E0=A4=BE=E0=A4=B9=E0=A4=BF=E0=A4=B0=E0=A4=BE=E0=A4=A4 =E0=A4=A6=
+=E0=A5=8D=E0=A4=AF=E0=A4=BE=E0=A4=B5=E0=A5=80 =E0=A4=B9=E0=A5=80 =E0=A4=B5=
+=E0=A4=BF=E0=A4=A8=E0=A4=82=E0=A4=A4=E0=A5=80 </span><span style=3D"font-fa=
+mily:&quot;Mangal&quot;,&quot;serif&quot;"></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Mangal&quot;,&quot;=
+serif&quot;" lang=3D"MR">=E0=A4=9C=E0=A4=BE=E0=A4=B9=E0=A4=BF=E0=A4=B0=E0=
+=A4=BE=E0=A4=A4 =E0=A4=9C=E0=A4=BF=E0=A4=B2=E0=A5=8D=E0=A4=B9=E0=A5=8D=E0=
+=A4=AF=E0=A4=BE=E0=A4=95=E0=A4=B0=E0=A4=BF=E0=A4=A4=E0=A4=BE
+=E0=A4=B5=E0=A4=BE=E0=A4=B0=E0=A5=8D=E0=A4=B7=E0=A4=BF=E0=A4=95<span>=C2=A0=
+ </span>=E0=A4=B0=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 =E0=A5=A8=E0=A5=A6=E0=
+=A5=A6=E0=A5=A6/- =E0=A4=A4=E0=A4=B0 =E0=A4=B9=E0=A5=8B=E0=A4=AE =E0=A4=AA=
+=E0=A5=87=E0=A4=9C =E0=A4=95=E0=A4=B0=E0=A4=BF=E0=A4=A4=E0=A4=BE
+=E0=A4=B5=E0=A4=BE=E0=A4=B0=E0=A5=8D=E0=A4=B7=E0=A4=BF=E0=A4=95 =E0=A4=B0=
+=E0=A5=81=E0=A4=AA=E0=A4=AF=E0=A5=87 =E0=A5=AA=E0=A5=A6=E0=A5=A6=E0=A5=A6/-=
+=E0=A4=86=E0=A4=B9=E0=A5=87</span><span>.</span></p>
+
+<span style=3D"font-size:11pt;line-height:115%;font-family:&quot;Mangal&quo=
+t;,&quot;serif&quot;" lang=3D"MR">=E0=A4=85=E0=A4=A7=E0=A4=BF=E0=A4=95 =E0=
+=A4=AE=E0=A4=BE=E0=A4=B9=E0=A4=BF=E0=A4=A4=E0=A5=80=E0=A4=B8=E0=A4=BE=E0=A4=
+=A0=E0=A5=80 =E2=80=93</span><span style=3D"font-size:11pt;line-height:115%=
+;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Phone No <span>=C2=
+=A0</span>9960503676<span>=C2=A0=C2=A0
+</span></span><span style=3D"font-size:11pt;line-height:115%;font-family:&q=
+uot;Mangal&quot;,&quot;serif&quot;" lang=3D"MR"><span>=C2=A0=C2=A0</span>Em=
+ail:</span><span style=3D"font-size:11pt;line-height:115%;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;" lang=3D"MR"> </span><span style=3D"f=
+ont-size:11pt;line-height:115%;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;"><a href=3D"mailto:sureshbabar1@gmail.com" target=3D"_blank">sur=
+eshbabar1@gmail.com</a></span><span style=3D"font-size:11pt;line-height:115=
+%;font-family:&quot;Mangal&quot;,&quot;serif&quot;" lang=3D"MR"><span>=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0 </span><span><br></span></span></div>
+</blockquote></div><br></div></div>
+
+--001a114044403ab90b0514f3b3e3--

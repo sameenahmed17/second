@@ -1,0 +1,55 @@
+Return-path: <0000014d7191d460-7aad04b7-e8c8-4ca9-a027-17ca7a288988-000000@us-west-2.amazonses.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Wed, 20 May 2015 13:44:57 +0000
+Received: from a27-146.smtp-out.us-west-2.amazonses.com ([54.240.27.146]:53102)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.85)
+	(envelope-from <0000014d7191d460-7aad04b7-e8c8-4ca9-a027-17ca7a288988-000000@us-west-2.amazonses.com>)
+	id 1Yv4Ir-000gSb-59
+	for contactus@seeinindia.com; Wed, 20 May 2015 13:44:57 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7v7vs6w47njt4pimodk5mmttbegzsi6n; d=amazonses.com; t=1432129492;
+	h=From:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID:Feedback-ID;
+	bh=d/g0n6dpdm3B3XoNkCC96LB9V9RqdRB2dYTfGi5wlms=;
+	b=UpzS6QeCJ9ILT+GGKmFZLAnSUzINl/Oij7sW6tXY7MqWBODULvTCIpOLYmYkVHsD
+	Hm32OVLhUH7+UzT++50SlH39Aj13P0tAR5TjV7k/BDjFpOIY0IRjE+9bqWFBcuD2Uyi
+	uO9e+4SauVE7dmZgFcpkQ/estnfLg28ceG0fzeF0=
+From: promotions@secondsonsale.com
+Subject: We Invite All Indians
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 20 May 2015 13:44:52 +0000
+Message-ID: <0000014d7191d460-7aad04b7-e8c8-4ca9-a027-17ca7a288988-000000@us-west-2.amazonses.com>
+X-SES-Outgoing: 2015.05.20-54.240.27.146
+Feedback-ID: 1.us-west-2.UXAdQUlYo7WvT/cJP0qBJ2ywZzMrddk5fBU2RUYKXn0=:AmazonSES
+X-Authenticated_sender: 
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Seconds On Sale - India&#8217;s Authentic Buy/Sell platform</title>
+<div style="background:#de000f; height:30px; margin:0 auto; max-width:600px"></div>
+<div style="background:#fff; width:100%; margin:0 auto; padding:60px; padding-top:20px; padding-right:0; padding-left:0; font-family:Century Gothic, sans-serif;max-width:600px">
+<div style="padding:20px 0;clear:both">
+<h1 style="text-align:center">India&#8217;s Authentic Buy/Sell&nbsp;Platform</h1>
+<br />
+<img src="http://secondsonsale.com/newsletter/04/img1.jpg" alt="" width="600" height="751" /><br />
+<br />
+<div style="padding:0 30px">
+<p>Secondsonsale.com been launched as India;s newest free classifieds and social web portal provides its users with an extensive and completely free classifieds section, property for sale and property for rent sections, jobs pages, matrimonial pages which is dedicated for the second life for widowers and an array of other useful and fun pages.
+</p>
+<p>Our team cordially invites you to experience this latest portal to display your products to reach a young, trendsetting group of individuals who have money to spend on living the modern lifestyle. The site has a strong hold with netizen&#8217;s in Indian sub- continent Region. The site is used to sell absolutely everything from furniture to expensive cars, to buy anything from household appliances to some of the India's top real estate and to find anything from website.</p>
+<p>Experience the utmost.</p>
+</div>
+</div>
+<div style="text-align:center; "><a href="http://secondsonsale.com/?utm_source=We Invite All Indians&amp;utm_medium=email&amp;utm_campaign=We Invite All Indians" style="padding: 15px 30px; color: #ffffff; text-decoration: none; background: #de000f;">Register Now</a><a href="http://secondsonsale.com/?utm_source=We Invite All Indians&amp;utm_medium=email&amp;utm_campaign=We Invite All Indians" style="color: #ffffff; text-decoration: none; padding: 15px 30px; margin: 5px; background: #de000f;">Post Free Ads</a></div>
+<div style="clear:both; margin:40px 0 0;text-align:center;"></div>
+<div style="clear: both; text-align: center; padding: 15px 30px; margin-top: 50px; background: #f39c11;"><a href="http://secondsonsale.com/?utm_source=We Invite All Indians&amp;utm_medium=email&amp;utm_campaign=We Invite All Indians" style="padding: 15px 30px; color: #ffffff; text-decoration: none; background: #f39c11;">www.secondsonsale.com</a></div>
+<div style="margin-top:30px; padding:0 40px"><a href="http://secondsonsale.com/?utm_source=We Invite All Indians&amp;utm_medium=email&amp;utm_campaign=We Invite All Indians"><img src="http://secondsonsale.com/newsletter/04/secondsonsale.png" style="vertical-align:middle" alt="" /></a>
+<div style="float:right">
+<p style="margin:3px 0 0 0">&#169; Secondsonsale 2015 <a href="http://secondsonsale.com/Subscription.aspx">Unsubscribe</a></p>
+<p style="margin:3px 0 0 0">Drop us an email at <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#115;&#101;&#99;&#111;&#110;&#100;&#115;&#111;&#110;&#115;&#97;&#108;&#101;&#46;&#99;&#111;&#109;">info@secondsonsale.com</a></p>
+<p style="margin:3px 0 0 0">for any questions or suggestions.</p>
+</div>
+</div>
+</div>

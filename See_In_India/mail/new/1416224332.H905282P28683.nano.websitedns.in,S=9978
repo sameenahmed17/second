@@ -1,0 +1,241 @@
+Return-path: <>
+Envelope-to: seeinind@nano.websitedns.in
+Delivery-date: Mon, 17 Nov 2014 17:08:52 +0530
+Received: from gateway30.websitewelcome.com ([192.185.197.25]:59572)
+	by nano.websitedns.in with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	id 1XqKdw-0007Os-Ef
+	for seeinind@nano.websitedns.in; Mon, 17 Nov 2014 17:08:52 +0530
+Received: by gateway30.websitewelcome.com (Postfix)
+	id 7E3B9491C92C9; Mon, 17 Nov 2014 05:38:50 -0600 (CST)
+Date: Mon, 17 Nov 2014 05:38:50 -0600 (CST)
+From: MAILER-DAEMON@gateway30.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: seeinind@nano.websitedns.in
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0EB61491C91CE.1416224330/gateway30.websitewelcome.com"
+Message-Id: <20141117113850.7E3B9491C92C9@gateway30.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--0EB61491C91CE.1416224330/gateway30.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway30.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<anju@gmail.com>: host gmail-smtp-in.l.google.com[64.233.160.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    http://support.google.com/mail/bin/answer.py?answer=6596 h10si1232458oex.38
+    - gsmtp (in reply to RCPT TO command)
+
+--0EB61491C91CE.1416224330/gateway30.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway30.websitewelcome.com
+X-Postfix-Queue-ID: 0EB61491C91CE
+X-Postfix-Sender: rfc822; seeinind@nano.websitedns.in
+Arrival-Date: Mon, 17 Nov 2014 05:38:50 -0600 (CST)
+
+Final-Recipient: rfc822; anju@gmail.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    http://support.google.com/mail/bin/answer.py?answer=6596 h10si1232458oex.38
+    - gsmtp
+
+--0EB61491C91CE.1416224330/gateway30.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <seeinind@nano.websitedns.in>
+Received: by gateway30.websitewelcome.com (Postfix, from userid 500)
+	id 0EB61491C91CE; Mon, 17 Nov 2014 05:38:50 -0600 (CST)
+Received: from ham07.websitewelcome.com (ham07.websitewelcome.com [192.185.0.198])
+	by gateway30.websitewelcome.com (Postfix) with ESMTP id 02F0F491C9190
+	for <anju@gmail.com>; Mon, 17 Nov 2014 05:38:50 -0600 (CST)
+Received: by ham07.websitewelcome.com (Postfix, from userid 500)
+	id F1F79660005; Mon, 17 Nov 2014 05:38:49 -0600 (CST)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	ham07.websitewelcome.com
+X-Spam-Flag2999: NO
+X-Spam-Level2999: &
+X-Spam-Status2999: "No, score=1.9 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,T_RP_MATCHES_RCVD autolearn=no
+	version=3.3.1
+Received: from nano.websitedns.in (nano.websitedns.in [216.12.194.37])
+	by ham07.websitewelcome.com (Postfix) with ESMTP id 7526E660008
+	for <anju@gmail.com>; Mon, 17 Nov 2014 05:38:49 -0600 (CST)
+Received: from seeinind by nano.websitedns.in with local (Exim 4.82)
+	(envelope-from <seeinind@nano.websitedns.in>)
+	id 1XqKds-0007IW-4D
+	for anju@gmail.com; Mon, 17 Nov 2014 17:08:48 +0530
+To: anju@gmail.com
+Subject: See In India - Voucher for booking ID 1416224327
+X-PHP-Script: www.seeinindia.com/mycoupon.php for 103.19.133.98
+MIME-Version: 1.0
+Content-type: text/html;charset=iso-8859-1
+From: info@seeinindia.com
+Message-Id: <E1XqKds-0007IW-4D@nano.websitedns.in>
+Date: Mon, 17 Nov 2014 17:08:48 +0530
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - nano.websitedns.in
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [38801 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - nano.websitedns.in
+X-BWhitelist: no
+X-Source-IP: 
+X-Exim-ID: 1XqKds-0007IW-4D
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home3/seeinind/public_html/mycoupon.php 
+X-Source-Dir: seeinindia.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: seeinind
+X-Email-Count: 33
+X-Source-Cap: c2VlaW5pbmQ7aW5vdmluc247bmFuby53ZWJzaXRlZG5zLmlu
+
+<body><div class="main" style="float:left; background-color:#e6e6e7;"><table width="70%" border="0" cellspacing="5" cellpadding="5" align="center"><div style="width:80%; height:30%; padding:10px; background:#050104; margin:0 auto; border-radius:8px; border:2px dashed #FFF;
+	font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#FFF;">
+                	<table width="100%" border="0" cellspacing="5" cellpadding="0">
+                      <tr>
+                        <td><img src="http://seeinindia.com/images/logo123.png" width="250" height="112" /></td>
+                        <td><table width="50%" border="0" cellspacing="5" cellpadding="0" style="float:right;">
+                              <tr>
+                                <td style="float:right; color:#FFF; font-size:12px;"><img src="http://seeinindia.com/images/barcode.png" width="123" height="55" /></td>
+                              </tr>
+                              <tr>
+                                <td style="color:#FFF; font-size:14px; float:right; padding-right:15px;">1412891523</td>
+                              </tr>
+                            </table>
+                        </td>
+                      </tr>
+                    </table>
+                    </div><tr>
+			  <td>
+			  <div class="first" style="width:80%; height:30%; padding:10px; background:#ffff01; margin:0 auto; border-radius:8px; border:2px dashed #000;
+	font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#000000;" >
+			  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+			  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+		     <tr>
+			 <td width="46%">Name of the Traveller</td>
+			 <td width="3%">:</td>
+			 <td width="51%"> </td>
+		     </tr><tr>
+		   <td>Name of the tour</td>
+		   <td>:</td>
+		   <td>ATV rental at Mumbai : Experience Monster rides</td>
+	       </tr><tr>
+		  <td>No of Traveler</td>
+		  <td>:</td>
+		  <td>2</td>
+	     </tr><tr>
+		 <td>Date Selected</td>
+		 <td>:</td>
+	     <td>29-04-2014</td>
+         </tr><tr>
+		<td>Reference No</td>
+		<td>:</td>
+		<td>1416224327</td>
+	    </tr><tr>
+		<td>Event Location</td>
+		<td>:</td>
+		<td>Mandwa</td>
+	    </tr><tr>
+		<td>Supplier Name</td>
+		<td>:</td>
+		<td>http://alibagwatersports.com/contact_us.htm</td>
+	   </tr>
+	   <tr>
+		<td>Supplier contact no.</td>
+		<td>:</td>
+		<td>08605003007</td>
+	   </tr><tr>
+		<td>Amount</td>
+		<td> 	:</td>
+		<td>1671.59/- Only</td>
+	  </tr><tr>
+		<td>Tour Type</td>
+		<td>:</td>
+		<td>.Per Person</td>
+		</tr>
+		</table>
+
+		</td>
+		<!--<td><table width="30%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+		<td><img src="http://seeinindia.com/images/logo123.png" width="123" height="55" /></td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td>
+		</tr>
+		<tr>
+		<td><img src="http://seeinindia.com/images/barcode.png" width="123" height="55" /></td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td>
+		</tr><tr>
+		<td align="center" valign="middle">1416224327</td>
+		</tr>
+		</table>
+		</td> -->
+		</tr>
+		</table>
+		</div>
+		</td>
+		</tr>
+		<tr>
+		<td><div class="second" style="width:80%;height:auto;padding:8px;background:#FFF;margin:0 auto;border-radius:8px;border:2px dashed #000;
+      font-family:Verdana, Geneva, sans-serif;font-size:10px;color:#000;">
+                    	<h4>Passenger Details</h4>
+                        <ul><li>1. 11 11</li><li>2. 12 12</li></ul>
+					<h4>Description</h4>
+					<p><img src="http://seeinindia.com/admin/images/cityplace/1399286349_atv%20ride%20in%20mumbai%20pune%20delhi%20chennai%203.jpg" width="204" height="134" /><br><strong>Voucher Information : </strong>You can present either a paper or an electronic voucher for this activity. <br /><br />
+					<strong>Additional Info:</strong>This is a weather based activity and can be cancelled or postponed.The duration of the ride might be altered depending on the weather conditions.This right solely remains with the Adventure Provider only.
+
+You are advised to wear adventure attire and avoid traditional outfits and loose clothing. T-shirts,Track pants,shorts are preferable.
+
+All of the rides start with a safety instructional course from our professional guides .It is our priority to keep safety first. You will feel completely comfortable hopping on our  ATV's and racing up at your pace.
+
+If it’s your first time on ATV then our experienced guides will accompany you for the ride.  <br />
+					<br />
+					<strong>Signature:<br />
+					X</strong> <div class="middle">This voucher is not valid until signed by the Lead Traveler listed above, and presented at the start of the tour, attraction or activity along with valid photo identification bearing the name of the Lead Traveler.</div>
+
+					<p><strong>Inclusions:</strong><br />
+					Our experts are well equipped and fully trained who will take care of your requirements thoroughly.
+
+- Guide Instructions
+- ATV Joy Ride.
+					</p>
+					</div>
+					</td>
+					</tr>
+					<tr>
+					<td>&nbsp;</td>
+					</tr>
+					<tr>
+					<td>&nbsp;</td>
+					</tr>
+					</table>
+					</div></body> <br>
+
+--0EB61491C91CE.1416224330/gateway30.websitewelcome.com--

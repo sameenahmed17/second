@@ -1,0 +1,96 @@
+Return-path: <ftsteam@paypal.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Wed, 02 Sep 2015 20:23:11 +0000
+Received: from den-ipout-02-data1.paypalcorp.com ([173.224.160.155]:42693)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1:DHE-RSA-CAMELLIA256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <ftsteam@paypal.com>)
+	id 1ZXEYo-001qr6-L2
+	for contactus@seeinindia.com; Wed, 02 Sep 2015 20:23:11 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=paypal.com; i=@paypal.com; q=dns/txt; s=pp-dkim1;
+  t=1441225391; x=1472761391;
+  h=to:subject:from:date:reply-to:message-id;
+  bh=u7rROdOW5rfRLWdoHL7p9X+1loFxjqzdhhfDV+72FXA=;
+  b=YbIO4dYBG3ZCJ4VaNunPydQC09hXuy85HcKnRDIATgnn//Hl1cWGy27j
+   qqeJ7+2yB8jLnogsUQaXjbnRWoB70aGwD01THmDnZFmyvxxpTLNUw/Yz2
+   fza/UD6jiivVYN5pRm/JWrVy6ECLdwp0VEquBixQkT30LzGb6WzAkhg5p
+   3//9EtScOGo7Oy/aWxh7U6za94bIQhuwM6QPEZ79zrLu8y7EvgrRAdaFe
+   wjPb30d5ioY1ragWb4E+ETZvUhgFZMEk83t3KoYDcBx/3IBwvisypCM4e
+   YeKX/NCfubiokalwg25l9FG9VQivoxtHF6N/qAUOpkHPeQyHFhX96ud0k
+   A==;
+X-IronPort-AV: E=Sophos;i="5.17,456,1437458400"; 
+   d="scan'208";a="2577551"
+Received: from unknown (HELO den-iprelay-02-data1.paypalcorp.com) ([10.184.246.165])
+  by den-ipout-02-data1.paypalcorp.com with ESMTP; 02 Sep 2015 14:23:08 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=paypal.com; i=@paypal.com; q=dns/txt; s=pp-dkim1;
+  t=1441225388; x=1472761388;
+  h=to:subject:from:date:reply-to:message-id;
+  bh=u7rROdOW5rfRLWdoHL7p9X+1loFxjqzdhhfDV+72FXA=;
+  b=1kWxWkgHyUM5Om1pamA/um+BmDKSTo3YzRZErM28aqKovxrThBz1FXRL
+   EFYb7oVcRfDZW1gvE2HtUdo78BR0lP4JV1UpNpd5sUYLzRoLN5XEV1F5s
+   5Z6RLj6EeDXI3AaY/zG6YLStD9PvM9AOHOaG7nT/Oz2BCJU88/s0vEzsv
+   85Fi8xnTTmtJ1WpkUnGq+QI17S/1okKHSomFAD6Ip/Tf+7cHtduekKu0k
+   qPJ/QCEM3i8vPAstqAnBue9jQq7AuR1nZiq55xbqsS9OUzQ1SMfbNu84v
+   HyM/MmgcXLXLVbGiFOjGLlbONZBufc3Zxkv4uXoCDYaFXYmFvkQrcK1qK
+   g==;
+Authentication-Results: den-iprelay-02-data1.paypalcorp.com; dkim=neutral (message not signed) header.i=none
+X-IronPort-AV: E=Sophos;i="5.17,456,1437458400"; 
+   d="scan'208";a="15333896"
+X-MS-Exchange-CrossPremises-AuthAs: Internal
+Received: from ftsapp01.paypalcorp.com ([10.249.62.118])
+  by den-iprelay-02-data1.paypalcorp.com with ESMTP; 02 Sep 2015 14:23:07 -0600
+Received: by ftsapp01.paypalcorp.com (Postfix, from userid 48)
+	id 80A73901902D; Wed,  2 Sep 2015 20:23:07 +0000 (UTC)
+To: contactus@seeinindia.com
+Subject: [eBay:2YCEE15PF336] Please Read: Your website [seeinindia.com] has been Compromised/Hacked
+X-PHP-Originating-Script: 0:Email.php
+From: PayPal Abuse Reports <ftsteam@paypal.com>
+Date: Wed, 02 Sep 2015 13:23:07 -0700
+X-Mailer: eBay-FTS
+X-Sender: PayPal Abuse Reports <ftsteam@paypal.com>
+Reply-To: PayPal Abuse Reports <ftsteam@paypal.com>
+Message-Id: <20150902202307.80A73901902D@ftsapp01.paypalcorp.com>
+X-CFilter: Scanned den1
+X-Authenticated_sender: 
+
+Dear [seeinindia.com] Webmaster,
+
+
+
+It has come to our attention that a PayPal spoof / phishing site has been set up at 
+
+
+
+http://www.seeinindia.com/awwwwwwwwwww/
+
+
+
+  
+
+We believe that your website has been Compromised/Hacked.
+
+
+
+We recommend that you change your password for your web hosting accounts as soon as possible, and then remove the offending material and initiate a virus scan. We also recommend you contact your hosting provider to make sure your web hosting accounts remain secure.
+
+
+
+If you have any logs or data files that could help us track down the perpetrator of this crime, we would appreciate it if you could forward that on to us.
+
+
+
+If you have any questions or need further assistance, please do not hesitate to ask.
+
+
+
+Thank you,
+
+
+
+PayPal Inc. 
+
+Trust & Safety
+
+ftsteam@paypal.com

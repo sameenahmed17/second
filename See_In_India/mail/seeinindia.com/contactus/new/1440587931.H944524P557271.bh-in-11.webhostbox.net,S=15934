@@ -1,0 +1,459 @@
+Return-path: <bounce-md_30464353.55dda097.v1-48cfed6c8afc4a8c86286a3b6f0673bb@mandrillapp.com>
+Envelope-to: contactus@seeinindia.com
+Delivery-date: Wed, 26 Aug 2015 11:18:51 +0000
+Received: from mail136-9.atl41.mandrillapp.com ([198.2.136.9]:7886)
+	by bh-in-11.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.85)
+	(envelope-from <bounce-md_30464353.55dda097.v1-48cfed6c8afc4a8c86286a3b6f0673bb@mandrillapp.com>)
+	id 1ZUYjD-002Kwa-Aa
+	for contactus@seeinindia.com; Wed, 26 Aug 2015 11:18:51 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=mycylex.com;
+ h=From:Subject:To:List-Unsubscribe:Message-Id:Date:MIME-Version:Content-Type; i=info@mycylex.com;
+ bh=+3lZ9TolzbtP1c0C7IrfihVJ9aE=;
+ b=HANHCL3GajohccJzN8jhJ9uIV970s+Uj7Tbj54K7RruAOjqlhiUtF/JHS0ILhrvlgVKxOS47MGv/
+   mHVOEEBPl1WfQd9HgrATkqpxO/37u0C+yOt1T6GygeBegZc0kajqAeP2rmqQpW4VXX9uksQ21FXd
+   xhpRtU5GWJU67i92zEc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=mycylex.com;
+ b=M5LiBbks++Ret7xTOamuRf+qxJ+PUnM9gOAdBnaRHpUd7ylJLvdUgbO0aGcOfKUf4c/0cwGKNQSE
+   gzxsEJxJVnJw5+Zwpe6PUqNd5He4W3jvqN5yNnaM6pZROQTpcMSvnz+8RA1QHdmC5N4HA7XOojlO
+   RTg3vlrDPyhF6wpTs/U=;
+Received: from pmta04.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail136-9.atl41.mandrillapp.com id hrmg9m1sb1kg for <contactus@seeinindia.com>; Wed, 26 Aug 2015 11:18:47 +0000 (envelope-from <bounce-md_30464353.55dda097.v1-48cfed6c8afc4a8c86286a3b6f0673bb@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1440587927; h=From : 
+ Subject : To : List-Unsubscribe : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=PrQlzf2U1PWNsuJLiOF57fK3yEv2TcdRBsBUbB6kR+g=; 
+ b=Ky3qtUYoC1X1qs+ZS3mCCCrTAgB6hKObVrYx/+lQKiX7ZrUGtaPqCmJ6gnyjwID81dUwq8
+ Y5dWcPFNkW2D29ZYpKhwegMeZH4u2ShIKLQQpTdTBQvGAvAXcHolUARfRUa/ZyjSLYhWhIXI
+ 5e9FrRSb1146Rp3n47RkoeAm1eG0Q=
+From: MyCylex Sitebuilder <info@mycylex.com>
+Subject: Summer Sale! Com. Domains Just $9
+Received: from [82.208.160.181] by mandrillapp.com id 48cfed6c8afc4a8c86286a3b6f0673bb; Wed, 26 Aug 2015 11:18:47 +0000
+X-Mid: Y29udGFjdHVzQHNlZWluaW5kaWEuY29tICwgYzE5NiAsIG0xOTU
+X-Mailer: AEM
+X-Sender: <info@mycylex.com>
+To: seeinindia pvt ltd <contactus@seeinindia.com>
+List-Unsubscribe: <http://cylex.email/main/surround.php?nl=73&c=196&m=195&s=326f5249017cfd72f589153f3a525bc4&funcml=unsub2&luha=1>
+Message-Id: <20150826111438.2722.1723840343.swift@cylex.email>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30464353.48cfed6c8afc4a8c86286a3b6f0673bb
+X-Mandrill-User: md_30464353
+Date: Wed, 26 Aug 2015 11:18:47 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-sIzqTsv4JE3rijMJSZMUBA"
+X-Authenticated_sender: 
+
+--_av-sIzqTsv4JE3rijMJSZMUBA
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+* 
+
+If this email does not display correctly, click here (http://cylex.email/ma=
+in/lt.php?c=3D196&m=3D195&nl=3D73&s=3D326f5249017cfd72f589153f3a525bc4&lid=
+=3D1592&l=3D-http--cylex.email/main/forward3.php--Q-l--E-73--A-c--E-196--A-=
+m--E-195--A-s--E-326f5249017cfd72f589153f3a525bc4).
+
+Your domain name is your unique online identity. It's what makes it easy
+for your customers to remember the address of your website and it shows
+you take your business seriously.
+
+Register your own domain name for any of your MyCylex websites for only
+$9.
+
+Stay tuned!
+
+Follow us!
+
+Get this offer before it's gone! Valid until=C2=A015th September.
+
+Promotion valid for 1st year only.
+
+Please do not reply to this email. If you wish to contact us click here
+(mailto:info@mycylex.com).
+Don't want to receive more exciting news from us? You can unsubscribe
+(http://cylex.email/main/surround.php?nl=3D73&c=3D196&m=3D195&s=3D326f52490=
+17cfd72f589153f3a525bc4&funcml=3Dunsub2)=C2=A0at any moment. Copyright 2015=
+ Cylex =E2=80=A2 Cylex
+International, Palota 119A, 417516, Romania
+
+
+--_av-sIzqTsv4JE3rijMJSZMUBA
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<body>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"><meta name=3D"view=
+port" content=3D"width=3Ddevice-width, initial-scale=3D1.0, target-densityd=
+pi=3Ddevice-dpi">
+<p><link href=3D"http://fonts.googleapis.com/css?family=3DOpen+Sans:400,600=
+,700" rel=3D"stylesheet" type=3D"text/css"></p>
+
+<!--[if !mso]><!--><!--<![endif]--><!--[if gte mso 9]>
+    <style>
+    body,table tr,table td,a, span,div,p { Arial, Helvetica, sans-serif !im=
+portant;}
+    table[class=3D"module-color"] {width:970px !important;}
+    </style>
+
+    <![endif]-->
+<table modules=3D"header" class=3D"module-color" style=3D"width: 100%; back=
+ground-color: #e4e8e9;" align=3D"center" bgcolor=3D"#e4e8e9" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"100%"><!-- TABLE MODULE START =
+// -->
+<table modules=3D"onlyfulltext" style=3D"width: 600px; background-color: #e=
+4e8e9;" class=3D"flexibleFull" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+
+<tr>
+<td class=3D"spaceHeight" height=3D"20" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"100%"><!-- MODULE ROW // -->
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+
+<tr>
+<td class=3D"flexibleContentHeader" valign=3D"top">
+<table class=3D"flexibleHeaderLeft" style=3D"width: 600px;" align=3D"left" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td style=3D"padding-bottom: 20px; padding-top: 20px;" align=3D"left" valig=
+n=3D"middle">
+<p style=3D"font-weight: normal; font-family: Arial, sans-serif, 'Open Sans=
+'; font-size: 13px; line-height: 16px; color: #525252;">If this email does =
+not display correctly, <a href=3D"http://cylex.email/main/lt.php?c=3D196&m=
+=3D195&nl=3D73&s=3D326f5249017cfd72f589153f3a525bc4&lid=3D1592&l=3D-http--c=
+ylex.email/main/forward3.php--Q-l--E-73--A-c--E-196--A-m--E-195--A-s--E-326=
+f5249017cfd72f589153f3a525bc4" target=3D"_blank" style=3D"color: #0088cc;">=
+click here</a>.</p>
+
+</td>
+
+</tr>
+
+
+</table>
+
+</td>
+
+</tr>
+
+
+</table>
+
+<!-- // MODULE ROW --></td>
+
+</tr>
+
+
+</table>
+
+<!-- // TABLE MODULE END -->
+<table modules=3D"content" class=3D"flexibleFull" style=3D"border: 1px soli=
+d #cecece; width: 603px;" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">
+
+<tr>
+<td align=3D"center" valign=3D"top"><!-- TABLE MODULE START // -->
+<table modules=3D"onlyfulltext" class=3D"flexibleFull" style=3D"width: 100%=
+; background-color: #e9e9e9;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"100%"><!-- MODULE ROW // -->
+<table class=3D"flexibleFull" style=3D"width: 100%; background-color: #ffff=
+ff;" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td class=3D"flexibleContentHeader" valign=3D"top">
+<table class=3D"flexibleHeaderLeft" style=3D"width: 100%;" align=3D"left" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td style=3D"padding: 25px;" align=3D"left" valign=3D"middle"><a style=3D"t=
+ext-decoration: none; color: #000;" href=3D"http://cylex.email/main/lt.php?=
+c=3D196&m=3D195&nl=3D73&s=3D326f5249017cfd72f589153f3a525bc4&lid=3D1593&l=
+=3D-https--www.mycylex.com/" target=3D"_blank"><img class=3D"no-trans " src=
+=3D"http://cylex.email/main/images/admin/mycylex_logo.png" style=3D"color: =
+#000000;" alt=3D"MyCylex" height=3D"35" width=3D"156"></a></td>
+
+</tr>
+
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 18px; li=
+ne-height: 15pt; color: #646464; font-weight: bold;"><a tabindex=3D"-1" hre=
+f=3D"http://cylex.email/main/lt.php?c=3D196&m=3D195&nl=3D73&s=3D326f5249017=
+cfd72f589153f3a525bc4&lid=3D1594&l=3D-https--www.mycylex.com/l/jgbPy7w0YCYV=
+/--Q-destination--E-dashboard" width=3D"100%" style=3D"color: #000; text-al=
+ign: center;" target=3D"_blank"><img class=3D"no-trans img-res" style=3D"co=
+lor: #000000;" src=3D"http://cylex.email/main/images/admin/2F7E349F0856F9FD=
+0FD797BAB525BE8C568D686928CB1777D6pimgpsh_fullsize_distr.jpg" alt=3D"Buy do=
+main" height=3D"283" width=3D"600"></a></td>
+
+</tr>
+
+
+</table>
+
+</td>
+
+</tr>
+
+
+</table>
+
+<!-- // MODULE ROW --></td>
+
+</tr>
+
+
+</table>
+
+<!-- // TABLE MODULE END --> <!-- TABLE MODULE START // -->
+<table modules=3D"content" style=3D"width: 100%; background-color: #ffffff;=
+" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px; li=
+ne-height: 15pt; color: #646464; padding-bottom: 25px; padding-left: 25px; =
+padding-right: 25px;">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+
+<tr>
+<td class=3D"spaceHeight" height=3D"40" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 15px; li=
+ne-height: 20pt; color: #525252; text-align: left;">Your domain name is you=
+r unique online identity. It's what makes it easy for your customers to rem=
+ember the address of your website and it shows you take your business serio=
+usly.</td>
+
+</tr>
+
+<tr>
+<td class=3D"spaceHeight" height=3D"25" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 15px; li=
+ne-height: 20pt; color: #525252; text-align: left;">Register your own domai=
+n name for any of your MyCylex websites for only <span id=3D"docs-internal-=
+guid-a8feb069-5f92-26b7-5e5e-7461f5a1a4d5"><span>$9</span></span>.</td>
+
+</tr>
+
+<tr>
+<td class=3D"spaceHeight" height=3D"35" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td style=3D"font-family: Arial, sans-serif, 'Open Sans'; font-size: 20px; =
+font-weight: 800; text-align: center; padding-left: 15px; padding-right: 15=
+px;" valign=3D"top"><a href=3D"http://cylex.email/main/lt.php?c=3D196&m=3D1=
+95&nl=3D73&s=3D326f5249017cfd72f589153f3a525bc4&lid=3D1594&l=3D-https--www.=
+mycylex.com/l/jgbPy7w0YCYV/--Q-destination--E-dashboard" target=3D"_blank">=
+<img src=3D"http://cylex.email/main/images/admin/button-dom.png" alt=3D"Buy=
+ Domain" class=3D"null" style=3D"color: #000;" height=3D"42" width=3D"180">=
+</a>
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+
+<tr></tr>
+
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+<td class=3D"spaceHeight" height=3D"40" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td class=3D"spaceHeight" style=3D"border-top: 1px solid #cecece;" height=
+=3D"29" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td align=3D"left" valign=3D"top"><!-- CONTENT TABLE // -->
+<table class=3D"flexible2FooterLeft" style=3D"border-collapse: collapse; wi=
+dth: 33%;" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td class=3D"text-left" style=3D"font-family: Arial, sans-serif, 'Open Sans=
+'; font-size: 14px; line-height: 15pt; color: #525252; text-align: right; p=
+adding-top: 10px; padding-right: 20px;">Stay tuned!</td>
+
+</tr>
+
+
+</table>
+
+<!-- // CONTENT TABLE -->
+<table class=3D"flexible2FooterLeft" style=3D"width: 33%;" align=3D"left" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 11px; li=
+ne-height: 15pt; color: #777777; text-align: center;"><span> <a style=3D"te=
+xt-decoration: none; color: #000;" href=3D"http://cylex.email/main/lt.php?c=
+=3D196&m=3D195&nl=3D73&s=3D326f5249017cfd72f589153f3a525bc4&lid=3D1595&l=3D=
+-https--facebook.com/MyCylex" target=3D"_blank"><img src=3D"http://newslett=
+ers.cylex.de/images_upl/ic-fb635652.png" alt=3D"Facebook" style=3D"padding-=
+right: 5px; color: #000;" border=3D"0"></a> </span> <span> <a style=3D"text=
+-decoration: none; color: #000;" href=3D"http://cylex.email/main/lt.php?c=
+=3D196&m=3D195&nl=3D73&s=3D326f5249017cfd72f589153f3a525bc4&lid=3D1596&l=3D=
+-https--plus.google.com/--PL-MycylexCom/posts" target=3D"_blank"><img src=
+=3D"http://newsletters.cylex.de/images_upl/ic-gplus635652.png" alt=3D"Googl=
+e plus" style=3D"padding-right: 5px; color: #000;" border=3D"0"></a> </span=
+> <span> <a style=3D"text-decoration: none; color: #000;"
+href=3D"http://cylex.email/main/lt.php?c=3D196&m=3D195&nl=3D73&s=3D326f5249=
+017cfd72f589153f3a525bc4&lid=3D1597&l=3D-https--twitter.com/MyCylex" target=
+=3D"_blank"><img src=3D"http://newsletters.cylex.de/images_upl/ic-tw635652.=
+png" alt=3D"Twitter" style=3D"padding-right: 5px; color: #000;" border=3D"0=
+"></a> </span> <span> <a style=3D"text-decoration: none; color: #000;" href=
+=3D"http://cylex.email/main/lt.php?c=3D196&m=3D195&nl=3D73&s=3D326f5249017c=
+fd72f589153f3a525bc4&lid=3D1598&l=3D-https--www.youtube.com/user/MyCylex" t=
+arget=3D"_blank"><img src=3D"http://newsletters.cylex.de/images_upl/ic-yt63=
+5652.png" alt=3D"Youtube" style=3D"padding-right: 5px; color: #000;" border=
+=3D"0"></a> </span></td>
+
+</tr>
+
+
+</table>
+
+<!-- // CONTENT TABLE -->
+<table class=3D"flexible2FooterRight" style=3D"width: 33%;" align=3D"right"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td class=3D"text-left" style=3D"font-family: Arial, sans-serif, 'Open Sans=
+'; font-size: 14px; line-height: 15pt; color: #525252; text-align: left; pa=
+dding-top: 10px; padding-left: 5px;">Follow us!</td>
+
+</tr>
+
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+<td class=3D"spaceHeight" height=3D"29" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td class=3D"spaceHeight" style=3D"border-top: 1px solid #cecece;" height=
+=3D"25" width=3D"100%"></td>
+
+</tr>
+
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px; li=
+ne-height: 15pt; color: #525252;">
+<table style=3D"border-collapse: collapse; width: 100%;" align=3D"left" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td style=3D"font-family: Arial, sans-serif, 'Open Sans'; font-size: 14px; =
+line-height: 15pt; color: #525252;">
+<div style=3D"text-align: center; font-weight: 600; color: #525252;">Get th=
+is offer before it's gone! Valid until=C2=A0<span id=3D"docs-internal-guid-=
+54712689-de9e-69e8-07d4-195c920faf9d"><span>15th September.</span></span></=
+div>
+
+<div style=3D"text-align: center; padding-top: 7px;">Promotion valid for 1s=
+t year only.</div>
+
+</td>
+
+</tr>
+
+
+</table>
+
+</td>
+
+</tr>
+
+
+<tr>
+<td class=3D"spaceHeight" height=3D"10" width=3D"100%"></td>
+
+</tr>
+
+
+</table>
+
+</td>
+
+</tr>
+
+
+</table>
+
+<!-- // TABLE MODULE END --></td>
+
+</tr>
+
+
+</table>
+
+<!-- TABLE MODULE START // -->
+<table modules=3D"footer" class=3D"flexibleFull" style=3D"width: 600px;" al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr>
+<td style=3D"padding-top: 20px; padding-left: 30px; padding-right: 30px; pa=
+dding-bottom: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 1=
+3px; line-height: 15pt; color: #525252; border-top: 1px #dddddd dotted; tex=
+t-align: center;" colspan=3D"2">Please do not reply to this email. If you w=
+ish to contact us <a href=3D"mailto:info@mycylex.com" rel=3D"nofollow" styl=
+e=3D"color: #0088cc;" target=3D"_blank">click here</a>.<br> Don't want to r=
+eceive more exciting news from us? You can <a href=3D"http://cylex.email/ma=
+in/surround.php?nl=3D73&c=3D196&m=3D195&s=3D326f5249017cfd72f589153f3a525bc=
+4&funcml=3Dunsub2" style=3D"color: #0088cc;">unsubscribe</a>=C2=A0at any mo=
+ment. Copyright<img style=3D"vertical-align: -1px; width: 11px; height: 12p=
+x;" src=3D"http://newsletters.cylex.de/images_upl/copyright-48635514.png" a=
+lt=3D"=C2=A9"> 2015 Cylex =E2=80=A2 Cylex International, Palota 119A, 41751=
+6, Romania</td>
+
+</tr>
+
+
+</table>
+
+<!-- // TABLE MODULE END --></td>
+
+</tr>
+
+
+</table>
+<img src=3D"http://cylex.email/main/lt.php?nl=3D73&c=3D196&m=3D195&s=3D326f=
+5249017cfd72f589153f3a525bc4&l=3Dopen" border=3D"0" /></body>
+
+
+--_av-sIzqTsv4JE3rijMJSZMUBA--
+
